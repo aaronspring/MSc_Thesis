@@ -1,0 +1,156 @@
+%\documentclass[abstract=on,ngerman]{scrreprt}
+\documentclass{article}
+\usepackage[ngerman,english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{epstopdf}
+\usepackage{indentfirst}
+\usepackage{braket}
+%\usepackage{wrapfig}
+%\epstopdfsetup{update}
+%\usepackage{epsfig}
+\usepackage{subfigure}
+\usepackage[colorlinks=true,citecolor=black,filecolor=black,urlcolor=black,linkcolor=black]{hyperref}
+%\usepackage{sansmathaccent}
+%\pdfmapfile{+sansmathaccent.map}
+\usepackage{chngcntr}
+\counterwithin{figure}{section}
+\counterwithin{table}{section}
+%\selectlanguage{ngerman}
+\begin{document}
+\begin{titlepage}
+\begin{center}
+%\pagenumbering{Roman}
+ 
+\Large\textbf{Fakultät für Physik und Astronomie\\
+Ruprecht-Karls-Universität Heidelberg}
+
+\vspace{14cm}
+
+\normalsize
+Bachelorarbeit im Studiengang Physik\\
+vorgelegt von \\
+\vspace{0.5cm}
+\Large\textbf{Aaron Spring}\\
+\normalsize
+\vspace{0.5cm}
+aus Frankfurt/Main\\
+\vspace{0.5cm}
+\Large\textbf{Februar 2014}
+\normalsize
+\pagenumbering{Roman}
+\newpage
+\section*{}
+\newpage
+
+\Large\textbf{Bestimmung der Lebensdauer $\tau_{B_s^0}$ \\ mit $B_s^0 \rightarrow \phi \phi$ Zerfällen}
+
+\vspace{16.5cm}
+
+\normalsize
+Diese Bachelorarbeit wurde verfasst von Aaron Spring am \\
+Physikalischen Institut in Heidelberg\\
+unter der Aufsicht von \\
+Prof. Dr. Ulrich Uwer
+
+%\vfill
+
+%\setcounter{page}{3}
+\selectlanguage{ngerman}
+%\renewcaptionname{ngerman}{\abstractname}{Kurzfassung}
+
+%\AtBeginDocument{\addto\captionsenglish{\def\abstractname{Executive Summary}}
+\end{center}
+%\let\raggedsection\centering
+\section*{\small{\centerline{Kurzfassung}}}
+%\begin{abstract}
+
+
+In dieser Arbeit wird die Lebensdauer $\tau_{B_s^0}$ des $B_s^0$-Mesons mit $B_s^0 \rightarrow \phi \phi$ Zerfällen mittels eines Maximum-Likelihood-Fits der rekonstruierten Zerfalls-zeitverteilung bestimmt. Zeitauflösungs- und Zeitakzeptanzeffekte werden dabei berücksichtigt. Die verwendeten $B_s^0 \rightarrow \phi \phi$ Kandidaten wurden mit dem LHCb-Experiment in den Jahren 2011 und 2012 am LHC bei  Schwerpunktsenergien von jeweils $\sqrt{s}_{2011}=7$ TeV und $\sqrt{s}_{2012}=8$ TeV aufgezeichnet. Die Daten entsprechen integrierten Luminositäten von $\mathcal{L}_{2011}= 1.1\;\text{fb}^{-1}$ und $\mathcal{L}_{2012}=2.0\;\text{fb}^{-1}$. Dabei werden insgesamt 1139$\pm$38 bzw. 2668$\pm$62  $B_s^0 \rightarrow \phi \phi$ Signal-kandidaten gefunden, mit denen die Lebensdauer $\tau_{B_s^0}$ bestimmt wird: %$\tau_{B_s^0}$ 
+\[(2011)\;\tau_{B_s^0}=1.624\pm0.050\;(stat)\;^{+0.020}_{-0.007}\;(syst)\;\text{ps }\]
+\[(2012)\;\tau_{B_s^0}=1.508\pm0.030\;(stat)\;^{+0.013}_{-0.008}\;(syst)\;\text{ps}.\]
+%Der Wert von 2012 stimmt mit dem bisherigen weltweitem Durchschnitt $\tau_{B_s^0}^{}=1.516\pm0.011\;\text{ps}$ überein \cite{lifetime} Der Wert von 2011 weicht signifikant davon ab.
+%\end{abstract}
+
+\vspace{6.5cm}
+
+\section*{\small{\centerline{Abstract}}}
+%\begin{abstract}
+In this thesis, the lifetime $\tau_{B_s^0}$ of the $B_s^0$-meson in $B_s^0 \rightarrow \phi \phi$ decays is determined by using a maximum likelihood fit of the reconstructed decay time destribution. Time resolution and time acceptance effects are accounted for. The data sample was collected by the LHCb experiment in 2011 and 2012 at center-of-mass energies of $\sqrt{s}_{2011}=7$ TeV and $\sqrt{s}_{2012}=8$ TeV, corresponding to integrated luminosities of $\mathcal{L}_{2011}= 1.1\;\text{fb}^{-1}$ and $\mathcal{L}_{2012}=2.0\;\text{fb}^{-1}$. The fit yields 1139$\pm$38 respectively 2668$\pm$62 $B_s^0 \rightarrow \phi \phi$ signal candidates and the lifetime $\tau_{B_s^0}$ is determined as: 
+\[(2011)\;\tau_{B_s^0}=1.624\pm0.050\;(stat)\;^{+0.021}_{-0.008}\;(syst)\;\text{ps }\]
+\[(2012)\;\tau_{B_s^0}=1.508\pm0.030\;(stat)\;^{+0.013}_{-0.009}\;(syst)\;\text{ps}.\]
+%The result of events from 2012 is compatible with the current world average $\tau_{B_s^0}^{}=1.516\pm0.011\;\text{ps}$ which the result of 2011 deviates significantly from \cite{lifetime}
+%\end{abstract}
+
+
+\end{titlepage}
+\selectlanguage{ngerman}
+\pagenumbering{Roman}
+\setcounter{page}{5}
+\tableofcontents{}
+\newpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\section{Einleitung}
+Das Standardmodell der Teilchenphysik beschreibt erfolgreich die Physik der Elementarteilchen und ihrer Wechselwirkungen. Um die Theorie bei hohen Energieskalen zu testen, wurde der weltweit leistungsstärkste Ringbeschleuniger, der Large Hadron Collider (LHC), in Genf gebaut. Von diesen neuen Experimenten versprechen sich Teilchenphysiker Antworten auf offene Fragen der Elementarteilchenphysik und Kosmologie.
+
+Das LHCb-Experiment ist eines der vier großen Experimente am LHC. Es untersucht unter anderem unterschiedliches Verhalten von Teilchen und Anti-Teilchen in Zerfällen von B- und D-Mesonen. Präzise Analysen von CP-verletzen-den Prozessen können Hinweise auf neue Phänomene jenseits der Beschreibung des Standardmodells, sogenannte Neue Physik, geben. %Die wichtigesten Forschungsziele von LHCb, die sechs große Messungen abdecken, sind in einem Fahrplan  \cite{Collaboration2010a,Collaboration2010} zusammengefasst. Zur Erreichung dieser Ziele 
+Im Rahmen dieser Analysen sind Präzisionsmessungen nötig, die die genaue Kenntnis wichtiger Parameter der B-Zerfälle erfordern.
+
+
+
+%
+%\begin{figure}[h!]
+%    \subfigure{\includegraphics[width=0.51\textwidth]{eps/tres_thetaweighted_data_2011.eps}}
+%    \subfigure{\includegraphics[width=0.51\textwidth]{eps/tres_thetaweighted_data_2012.eps}}
+%\caption{Verteilung der Zeitauflösung der auf $\phi$-Öffnungswinkel $\theta$-gewichteten Ereignissen (dunkelgrün) mit der unnormierten Verteilung (rot) von prompten $\phi$ aus Daten von 2011 (links) und 2012 (rechts)}
+%\label{fig:trestheta}
+%\end{figure} 
+%
+%\begin{table}[h!]
+%\noindent \begin{centering}
+%\begin{tabular}{c|c|c}
+%Parameter&Wert 2011&Wert 2012\tabularnewline
+%\hline 
+%%N & 55230 $\pm$ 234  & 0.0577 $\pm$ 0.0012\tabularnewline
+%%$\mu$ & 1.285$\cdot 10^{-5} \pm$ 2.346$\cdot 10^{-4}$ \tabularnewline
+%$\sigma_1$ [ps] & 0.2330 $\pm$ 0.0051 & 0.2471 $\pm$ 0.0065 \tabularnewline
+%$\sigma_2$ [ps]& 0.0418$\pm$ 0.0010  & 0.1029 $\pm$ 0.0031 \tabularnewline
+%$\sigma_3$ [ps]& 0.0915 $\pm$ 0.0030 & 0.0430 $\pm$ 0.0008 \tabularnewline
+%$f_1$ & 0.1193 $\pm$ 0.0071 & 0.1151 $\pm$ 0.0086   \tabularnewline
+%$f_2$ & 0.5424 $\pm$ 0.0258 & 0.4520 $\pm$ 0.0161 \tabularnewline
+%\hline
+%$\chi^2/nDoF$ & 117.7/44 & 226.92/44\tabularnewline
+%\hline
+%$\sigma_{gesamt}$ [ps]&0.1033 $\pm$ 0.0031&0.1103 $\pm$ 0.0024 \tabularnewline
+%\end{tabular}
+%\par \end{centering}
+%\caption{Übersicht der Ergebnisse der Parameter des Fits der Zeitauflösungsverteilung auf Öffnungswinkel $\theta(\phi)$ umgewichtete Ereignisse aus Daten}
+%\label{table:fitpromptdatare}
+%\end{table}
+
+
+\newpage
+\pagenumbering{Roman}
+\setcounter{page}{7}
+\selectlanguage{ngerman}
+\bibliographystyle{ieeetr}
+\bibliography{BA_LHCb_Aaron_Spring}
+
+\newpage
+\section*{Erkl\"{a}rung}
+
+Ich versichere, dass ich diese Arbeit selbstst\"{a}ndig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt habe.
+\vspace{2cm}
+\\
+Heidelberg, den 27. Februar 2014,  $\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;$..............................................
+
+%Unterschrift
+
+
+\end{document}
+
+
+
