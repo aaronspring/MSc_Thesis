@@ -31,7 +31,7 @@ the preindustrial value, reduced the atmosphere-ocean CO2 flux by 1 GtC yr21.
 Overall, the model shows consistent results in different configurations, being suitable
 for the type of simulations required within the CMIP5 experimental design.},
   file          = {:Ilyina_etal2013a_JAMES_hamocc_cmip5.pdf:PDF},
-  keywords      = {rank3},
+  keywords      = {rank3, CarbonSink},
 }
 
 @Article{Mikaloff-Fletcher2015,
@@ -43,11 +43,12 @@ for the type of simulations required within the CMIP5 experimental design.},
   number        = {6253},
   pages         = {1165--1165},
   __markedentry = {[m300524:5]},
+  abstract      = {Southern Ocean carbon uptake may have strengthened between 2002 and 2012, slowing climate change},
   doi           = {10.1126/science.aad0912},
   eprint        = {http://science.sciencemag.org/content/349/6253/1165.full.pdf},
   file          = {:Mikaloff-flechter_2015_Science_increasing-sink.pdf:PDF},
   issn          = {0036-8075},
-  keywords      = {rank1},
+  keywords      = {rank1, CarbonSink, SouternOcean},
   publisher     = {American Association for the Advancement of Science},
   url           = {http://science.sciencemag.org/content/349/6253/1165},
 }
@@ -72,7 +73,8 @@ zonally more asymmetric atmospheric circulation. The large decadal variations in
 Southern Ocean carbon sink suggest a rather dynamic ocean carbon cycle that varies more
 in time than previously recognized.},
   file          = {:Landschuetzer_etal2015_Science_reinvigoration_SOSC.pdf:PDF},
-  keywords      = {rank4,observations},
+  groups        = {observations},
+  keywords      = {rank4,observations, CarbonSink, SouternOcean},
 }
 
 @Article{Froelicher2015,
@@ -84,7 +86,7 @@ in time than previously recognized.},
   number        = {2},
   pages         = {862--886},
   month         = {jan},
-  __markedentry = {[m300524:2]},
+  __markedentry = {[m300524:4]},
   abstract      = {The authors assess the uptake, transport, and storage of oceanic anthropogenic carbon and heat over the
 period 1861–2005 in a new set of coupled carbon–climate Earth system models conducted for the fifth phase of
 the Coupled Model Intercomparison Project (CMIP5), with a particular focus on the Southern Ocean.
@@ -101,7 +103,7 @@ nificance of the Southern Ocean for the global climate and as the region where m
 representation of anthropogenic CO2 and, in particular, heat uptake.},
   doi           = {10.1175/jcli-d-14-00117.1},
   file          = {:Froelicher_etal2015_JoC_Dominance_SO.pdf:PDF},
-  keywords      = {rank4},
+  keywords      = {rank4, SouternOcean},
   publisher     = {American Meteorological Society},
   url           = {http://dx.doi.org/10.1175/JCLI-D-14-00117.1},
 }
@@ -136,7 +138,7 @@ ferent circulation regimes for the atmospheric data base. The residuals between 
 CO2 content. The model responsesw ere com- cally modeled and observed carbon cycle trac- 
 pared to deep-sea sediment core records and ice ers( 5•3C,C aCO3s aturation)s houldt hen reveal},
   file     = {:Heinze_etal1991_Paleo_hamocc.pdf:PDF},
-  keywords = {fundamentals},
+  keywords = {fundamentals, rank1, fundamental},
 }
 
 @Proceedings{wcrp2015,
@@ -183,18 +185,18 @@ are poorly represented in ocean models and are a key
 challenge for improving climate predictions.},
   doi       = {10.1002/grl.50287},
   file      = {:Heuze_etal2013_GRL_SO_bottom_water_cmip5.pdf:PDF},
+  keywords  = {SouternOcean, rank3},
   publisher = {Wiley-Blackwell},
   url       = {http://dx.doi.org/10.1002/grl.50287},
 }
 
-@Article{Nevison2016,
-  author    = {C. D. Nevison and M. Manizza and R. F. Keeling and B. B. Stephens and J. D. Bent and J. Dunne and T. Ilyina and M. Long and L. Resplandy and J. Tjiputra and S. Yukimoto},
+@Book{Nevison2016,
   title     = {Evaluating {CMIP}5 ocean biogeochemistry and Southern Ocean carbon uptake using atmospheric potential oxygen: Present-day performance and future projection},
-  journal   = {Geophys. Res. Lett.},
+  publisher = {Wiley-Blackwell},
   year      = {2016},
+  author    = {C. D. Nevison and M. Manizza and R. F. Keeling and B. B. Stephens and J. D. Bent and J. Dunne and T. Ilyina and M. Long and L. Resplandy and J. Tjiputra and S. Yukimoto},
   volume    = {43},
   number    = {5},
-  pages     = {2077--2085},
   month     = {mar},
   abstract  = {Observed seasonal cycles in atmospheric potential oxygen (APO ~ O2 + 1.1 CO2) were used to
 evaluate eight ocean biogeochemistry models from the Coupled Model Intercomparison Project (CMIP5).
@@ -207,7 +209,9 @@ of the CO2 component associated with ocean acidification. The models with poorer
 APO tended to project larger net carbon uptake in the Southern Ocean, both today and in 2100.},
   doi       = {10.1002/2015gl067584},
   file      = {:Nevison_etal2016_GRL_CMIP5_SOuthern_Ocean.pdf:PDF},
-  publisher = {Wiley-Blackwell},
+  journal   = {Geophys. Res. Lett.},
+  keywords  = {SouternOcean, rank2},
+  pages     = {2077--2085},
   url       = {http://dx.doi.org/10.1002/2015GL067584},
 }
 
@@ -242,6 +246,7 @@ century, which highlights the urgent need for a sustained and comprehensive biog
 in the Southern Ocean to better constrain key processes represented in current model systems.},
   doi       = {10.5194/esd-7-295-2016},
   file      = {:Kessler_etal2016_EarthSystDynam_SO_constraint_reduce_unvertainty_CS.pdf:PDF},
+  keywords  = {CarbonSink, SouternOcean, rank2},
   publisher = {Copernicus {GmbH}},
   url       = {http://dx.doi.org/10.5194/esd-7-295-2016},
 }
@@ -273,6 +278,7 @@ because of the choice of the variables under examination and also can be sensiti
 data. In addition, it was found that the model performances show significant regional variations.},
   doi       = {10.1175/jcli-d-12-00417.1},
   file      = {:Anav_etal2013_AMS_Evaluation land and ocean in GCC JoC.pdf:PDF},
+  keywords  = {rank2},
   publisher = {American Meteorological Society},
   url       = {http://dx.doi.org/10.1175/JCLI-D-12-00417.1},
 }
@@ -283,6 +289,7 @@ data. In addition, it was found that the model performances show significant reg
   booktitle = {NCAR},
   year      = {2015},
   file      = {:long.pdf:PDF},
+  keywords  = {SouternOcean},
 }
 
 @Article{Ito2015,
@@ -308,7 +315,7 @@ sustained growth of the carbon storage in the Southern Ocean, even under the war
 global ocean carbon uptake.},
   doi           = {10.1002/2015gl064320},
   file          = {:Ito_etal2015_GRL_SOCS.pdf:PDF},
-  keywords      = {rank4},
+  keywords      = {rank4, SouternOcean},
   publisher     = {Wiley-Blackwell},
   url           = {http://dx.doi.org/10.1002/2015GL064320},
 }
@@ -322,7 +329,7 @@ global ocean carbon uptake.},
   number        = {5832},
   pages         = {1735--1738},
   month         = {jun},
-  __markedentry = {[m300524:1]},
+  __markedentry = {[m300524:5]},
   abstract      = {Based on observed atmospheric carbon dioxide (CO2) concentration and an inverse method, we
 estimate that the Southern Ocean sink of CO2 has weakened between 1981 and 2004 by 0.08
 petagrams of carbon per year per decade relative to the trend expected from the large increase in
@@ -332,7 +339,7 @@ a reduction of the efficiency of the Southern Ocean sink of CO2 in the short ter
 and possibly a higher level of stabilization of atmospheric CO2 on a multicentury time scale.},
   doi           = {10.1126/science.1137004},
   file          = {:LeQuere_etal2007_Science_saturationSOCS.pdf:PDF},
-  keywords      = {rank4},
+  keywords      = {rank4, CarbonSink, SouternOcean},
   publisher     = {American Association for the Advancement of Science ({AAAS})},
   url           = {http://dx.doi.org/10.1126/science.1137004},
 }
@@ -355,7 +362,7 @@ bilities of other gases.},
   booktitle = {Marine Chemistry 2},
   doi       = {doi:10.1016/0304-4203(74)90015-2},
   file      = {:Weiss_1974_MarineChemistry_solubilityco2.pdf:PDF},
-  keywords  = {fundamentals},
+  keywords  = {fundamentals, rank1, fundamental},
   publisher = {Elsevier Scientific Publishing Company, Amsterdam},
   url       = {http://www.sciencedirect.com/science/article/pii/0304420374900152},
 }
@@ -435,7 +442,7 @@ inter-model spread in projected climate trends during
   pages    = {1957--1971},
   abstract = {An optimal linear filter (fingerprint) is derived for the detection of a given time-dependent, multivariate climate change signal in the presence of natural climate variability noise. Application of the fingerprint to the observed (or model simulated) climate data yields a climate change detection variable with maximal signal-to-noise ratio. The optimal fingerprint is given by the product of the assumed signal pattern and the inverse of the climate variability covariance matrix. The data can consist of any climate dataset for which estimates of the natural variability covariance matrix exist. The single-pattern analysis is readily generalized to the multipattern case of a climate change signal lying in a prescribed signal pattern space. Multipattern detection methods can be applied either to test the statistical significance of individual components of a predicted multicomponent climate change response, using separate single-pattern detection tests, or to determine the statistical significance of the complete signal, using a multivariate test. The difference in direction of the assumed signal pattern and computed optimal fingerprint vector allows alternative interpretations of the estimated signal associated with the set of optimal detectors. The present analysis yields an estimated signal lying in the assumed signal space, whereas an earlier analysis of the time-independent detection problem by Hasselman yielded an estimated signal in the computed fingerprint space. The different interpretations can be explained by different choices of the metric used to relate the signal space to the fingerprint space (inverse covariance matrix versus standard Euclidean metric, respectively). Two simple natural variability models are considered: a space-time separability model, and an expansion in terms of POPs (principal oscillation patterns). For each model the application of the optimal fingerprint method is illustrated by an example.},
   file     = {:Hasselmann_1993_AMS_fingerprints_detecting_CC.pdf:PDF},
-  keywords = {fundamentals},
+  keywords = {fundamentals, rank1, fundamental},
 }
 
 @Article{Kay2015,
@@ -448,6 +455,10 @@ inter-model spread in projected climate trends during
   pages         = {1333--1349},
   month         = {aug},
   __markedentry = {[m300524:5]},
+  abstract      = {By simulating climate trajectories over the period 1920–2100 multiple times with small atmo-
+spheric initialization differences, but using the same model and external forcing, this commu-
+nity project provides a comprehensive resource for studying climate change in the presence
+of internal climate variability.},
   doi           = {10.1175/bams-d-13-00255.1},
   file          = {:Kay_etal2015_AMS_CESM_large_ensemble_project.pdf:PDF},
   keywords      = {rank3},
@@ -483,7 +494,8 @@ APF is caused by stronger light limitation as a consequence
 of deeper mixed layers.},
   doi           = {10.1029/2005GL022727},
   file          = {:Lovenduski_etal2005_GRL_ImpactSAMonSOBGC_grl19747.pdf:PDF},
-  keywords      = {rank4,observations},
+  groups        = {observations, bio},
+  keywords      = {rank4,observations, SouternOcean},
   url           = {http://onlinelibrary.wiley.com/doi/10.1029/2005GL022727/pdf},
 }
 
@@ -506,7 +518,7 @@ importance of Southern Ocean upwelling for our understanding of climate rivals t
 controls the rate at which ocean reservoirs of heat and carbon communicate with the surface.},
   doi           = {10.1038/ngeo1391},
   file          = {:MarshallSpeer_2012_NGeo_SOupwelling_ngeo1391.pdf:PDF},
-  keywords      = {rank2},
+  keywords      = {rank2, CarbonSink, SouternOcean},
   publisher     = {Nature Publishing Group},
   url           = {http://dx.doi.org/10.1038/NGEO1391},
 }
@@ -538,7 +550,7 @@ most oceanic regions at present, but that this may become possible
 between 2020 and 2050 in some regions.},
   doi           = {10.1038/nature16958},
   file          = {:McKinley_etal2016_nature16958.pdf:PDF},
-  keywords      = {rank3},
+  keywords      = {rank3, CarbonSink},
   publisher     = {Nature Publishing Group},
   url           = {http://dx.doi.org/10.1038/nature16958},
 }
@@ -552,7 +564,7 @@ climate variations, but will be evident in the near future},
   author    = {Tatiana Ilyina},
   booktitle = {Nature},
   file      = {:Ilyina_2016_OCS_Hidden_trends_letter_530426a.pdf:PDF},
-  keywords  = {rank3},
+  keywords  = {rank3, CarbonSink},
   url       = {http://www.nature.com/nature/journal/v530/n7591/pdf/530426a.pdf},
 }
 
@@ -565,8 +577,26 @@ climate variations, but will be evident in the near future},
   number    = {4},
   pages     = {1845--1862},
   month     = {apr},
+  abstract  = {The development of the deep Southern Ocean winter mixed layer in the climate
+models participating in the fifth Coupled Models Intercomparison Project (CMIP5) is
+assessed. The deep winter convection regions are key to the ventilation of the ocean
+interior, and changes in their properties have been related to climate change in numerous
+studies. Their simulation in climate models is consistently too shallow, too light and
+shifted equatorward compared to observations. The shallow bias is mostly associated
+with an excess annual-mean freshwater input at the sea surface that over-stratifies the
+surface layer and prevents deep convection from developing in winter. In contrast,
+modeled future changes are mostly associated with a reduced heat loss in winter that
+leads to even shallower winter mixed layers. The mixed layers shallow most strongly in
+the Pacific basin under future scenarios, and this is associated with a reduction of the
+ventilated water volume in the interior. We find a strong state dependency for the future
+change of mixed-layer depth, with larger future shallowing being simulated by models
+with larger historical mixed-layer depths. Given that most models are biased shallow, we
+expect that most CMIP5 climate models might underestimate the future winter
+mixed-layer shallowing, with important implications for the sequestration of heat, and
+gases such as carbon dioxide, and therefore for climate.},
   doi       = {10.1002/jgrc.20157},
   file      = {:Sallee_etal2013_JGR_CMIP5_ML.pdf:PDF},
+  keywords  = {SouternOcean, rank3},
   publisher = {Wiley-Blackwell},
   url       = {http://dx.doi.org/10.1002/jgrc.20157},
 }
@@ -591,6 +621,11 @@ Quirin Schiermeier reports on how two environmental problems complicate each oth
   number    = {11},
   pages     = {775--779},
   month     = {oct},
+  abstract  = {As climate models improve, decision-makers’ expectations for accurate climate predictions are growing. Natural climate
+variability, however, poses inherent limits to climate predictability and the related goal of adaptation guidance in many places, as
+illustrated here for North America. Other locations with low natural variability show a more predictable future in which anthro-
+pogenic forcing can be more readily identified, even on small scales. We call for a more focused dialogue between scientists, poli-
+cymakers and the public to improve communication and avoid raising expectations for accurate regional predictions everywhere.},
   doi       = {10.1038/nclimate1562},
   file      = {:Deser_etal2012_NCC_communication.pdf:PDF},
   keywords  = {rank2},
@@ -625,11 +660,11 @@ RCP2.6 and RCP8.5 experiments are almost absent in the RCP4.5 experiment, which 
 be explained by reforestation in the RCP4.5 scenario.},
   doi      = {doi:10.1002/jame.20038, 2013},
   file     = {:Gioretta_etal2013_JAMES.pdf:PDF},
-  keywords = {rank3},
+  keywords = {rank3, CarbonSink},
 }
 
 @Article{Swanson,
-  author   = {Kyle L. Swanson, George Sugihara, and Anastasios A. Tsonis},
+  author   = {Kyle L. Swanson and George Sugihara and Anastasios A. Tsonis},
   title    = {Long-term natural variability and 20th century climate change},
   journal  = {PNAS},
   year     = {2009},
@@ -662,9 +697,19 @@ which is monotonic, accelerating warming during the 20th century.},
   number    = {24},
   pages     = {9050--9057},
   month     = {dec},
+  abstract  = {We assess the roles of long-lived greenhouse gases and ozone depletion in driving
+meridional surface pressure gradients in the southern extratropics; these gradients are a defining feature
+of the Southern Annular Mode. Stratospheric ozone depletion is thought to have caused a strengthening
+of this mode during summer, with increasing long-lived greenhouse gases playing a secondary role. Using
+a coupled atmosphere-ocean chemistry-climate model, we show that there is cancelation between the
+direct, radiative effect of increasing greenhouse gases by the also substantial indirect—chemical and
+dynamical—feedbacks that greenhouse gases have via their impact on ozone. This sensitivity of the mode
+to greenhouse gas-induced ozone changes suggests that a consistent implementation of ozone changes
+due to long-lived greenhouse gases in climate models benefits the simulation of this important aspect of
+Southern Hemisphere climate.},
   doi       = {10.1002/2014gl062140},
   file      = {:morgenstern_etal2014_AGU_O3SAM.pdf:PDF},
-  keywords  = {rank1},
+  keywords  = {rank1, SouternOcean},
   publisher = {Wiley-Blackwell},
   url       = {http://dx.doi.org/10.1002/2014GL062140},
 }
@@ -678,27 +723,62 @@ which is monotonic, accelerating warming during the 20th century.},
   number    = {11},
   pages     = {741--749},
   month     = {oct},
+  abstract  = {Anthropogenic emissions of carbon dioxide and other greenhouse gases have driven and will continue to drive widespread climate
+change at the Earth’s surface. But surface climate change is not limited to the effects of increasing atmospheric greenhouse gas
+concentrations. Anthropogenic emissions of ozone-depleting gases also lead to marked changes in surface climate, through the
+radiative and dynamical effects of the Antarctic ozone hole. The influence of the Antarctic ozone hole on surface climate is most
+pronounced during the austral summer season and strongly resembles the most prominent pattern of large-scale Southern
+Hemisphere climate variability, the Southern Annular Mode. The influence of the ozone hole on the Southern Annular Mode has
+led to a range of significant summertime surface climate changes not only over Antarctica and the Southern Ocean, but also
+over New Zealand, Patagonia and southern regions of Australia. Surface climate change as far equatorward as the subtropical
+Southern Hemisphere may have also been affected by the ozone hole. Over the next few decades, recovery of the ozone hole
+and increases in greenhouse gases are expected to have significant but opposing effects on the Southern Annular Mode and its
+attendant climate impacts during summer.},
   doi       = {10.1038/ngeo1296},
   file      = {:Thompson_etal_ngeo_2011_1296.pdf:PDF},
-  keywords  = {rank1},
+  keywords  = {rank1, SouternOcean},
   publisher = {Nature Publishing Group},
   url       = {http://dx.doi.org/10.1038/NGEO1296},
 }
 
 @Article{Roedenbeck2013,
-  author    = {C. Rödenbeck and R. F. Keeling and D. C. E. Bakker and N. Metzl and A. Olsen and C. Sabine and M. Heimann},
-  title     = {Global surface-ocean CO2 and sea-air CO2 flux variability from an observation-driven ocean mixed-layer scheme},
-  journal   = {Ocean Sci.},
-  year      = {2013},
-  volume    = {9},
-  number    = {2},
-  pages     = {193--216},
-  month     = {mar},
-  doi       = {10.5194/os-9-193-2013},
-  file      = {:Roedenbecket al2013_OceanScience_zmld.pdf:PDF},
-  keywords  = {rank3},
-  publisher = {Copernicus {GmbH}},
-  url       = {http://dx.doi.org/10.5194/os-9-193-2013},
+  author        = {C. Rödenbeck and R. F. Keeling and D. C. E. Bakker and N. Metzl and A. Olsen and C. Sabine and M. Heimann},
+  title         = {Global surface-ocean CO2 and sea-air CO2 flux variability from an observation-driven ocean mixed-layer scheme},
+  journal       = {Ocean Sci.},
+  year          = {2013},
+  volume        = {9},
+  number        = {2},
+  pages         = {193--216},
+  month         = {mar},
+  __markedentry = {[m300524:1]},
+  abstract      = {A temporally and spatially resolved estimate of
+the global surface-ocean CO2 partial pressure field and the
+sea–air CO2 flux is presented, obtained by fitting a simple
+data-driven diagnostic model of ocean mixed-layer biogeo-
+chemistry to surface-ocean CO2 partial pressure data from
+the SOCAT v1.5 database. Results include seasonal, interan-
+nual, and short-term (daily) variations. In most regions, es-
+timated seasonality is well constrained from the data, and
+compares well to the widely used monthly climatology by
+Takahashi et al. (2009). Comparison to independent data ten-
+tatively supports the slightly higher seasonal variations in our
+estimates in some areas. We also fitted the diagnostic model
+to atmospheric CO2 data. The results of this are less robust,
+but in those areas where atmospheric signals are not strongly
+influenced by land flux variability, their seasonality is nev-
+ertheless consistent with the results based on surface-ocean
+data. From a comparison with an independent seasonal cli-
+matology of surface-ocean nutrient concentration, the diag-
+nostic model is shown to capture relevant surface-ocean bio-
+geochemical processes reasonably well. Estimated interan-
+nual variations will be presented and discussed in a compan-
+ion paper.},
+  doi           = {10.5194/os-9-193-2013},
+  file          = {:Roedenbecket_al2013_OceanScience_zmld.pdf:PDF},
+  groups        = {observations},
+  keywords      = {rank3},
+  publisher     = {Copernicus {GmbH}},
+  url           = {http://dx.doi.org/10.5194/os-9-193-2013},
 }
 
 @Article{Ito2010,
@@ -710,10 +790,36 @@ which is monotonic, accelerating warming during the 20th century.},
   number        = {7277},
   pages         = {80--83},
   month         = {jan},
-  __markedentry = {[m300524:1]},
+  __markedentry = {[m300524:5]},
+  abstract      = {The Southern Ocean, with its large surface area and vigorous over-
+turning circulation, is potentially a substantial sink of anthro-
+pogenic CO2 (refs 1–4). Despite its importance, the mechanism
+and pathways of anthropogenic CO2 uptake and transport are
+poorly understood. Regulation of the Southern Ocean carbon sink
+by the wind-driven Ekman flow, mesoscale eddies and their inter-
+action is under debate5–8. Here we use a high-resolution ocean
+circulation and carbon cycle model to address the mechanisms
+controlling the Southern Ocean sink of anthropogenic CO2. The
+focus of our study is on the intra-annual variability in anthro-
+pogenic CO2 over a two-year time period. We show that the pattern
+of carbon uptake is correlated with the oceanic vertical exchange.
+Zonally integrated carbon uptake peaks at the Antarctic polar front.
+The carbon is then advected away from the uptake regions by the
+circulation of the Southern Ocean, which is controlled by the inter-
+play among Ekman flow, ocean eddies and subduction of water
+masses. Although lateral carbon fluxes are locally dominated by
+the imprint of mesoscale eddies, the Ekman transport is the
+primary mechanism for the zonally integrated, cross-frontal trans-
+port of anthropogenic CO2. Intra-annual variability of the cross-
+frontal transport is dominated by the Ekman flow with little com-
+pensation from eddies. A budget analysis in the density coordinate
+highlights the importance of wind-driven transport across the polar
+front and subduction at the subtropical front. Our results suggest
+intimate connections between oceanic carbon uptake and climate
+variability through the temporal variability of Ekman transport.},
   doi           = {10.1038/nature08687},
   file          = {:Ito_etal2010_nature_ekmantransport08687.pdf:PDF},
-  keywords      = {rank4},
+  keywords      = {rank4, CarbonSink, SouternOcean},
   publisher     = {Nature Publishing Group},
   url           = {http://dx.doi.org/10.1038/nature08687},
 }
@@ -726,7 +832,7 @@ which is monotonic, accelerating warming during the 20th century.},
   volume   = {24},
   pages    = {429--42},
   file     = {:Doeoes_etal1993_JPO_deacon_cell.pdf:PDF},
-  keywords = {fundamentals},
+  keywords = {fundamentals, rank1, fundamental, SouternOcean},
 }
 
 @Article{Caldeira2000,
@@ -750,6 +856,7 @@ may become isolated from the atmosphere, tending to diminish Southern
 Ocean carbon uptake.},
   doi           = {10.1126/science.287.5453.620},
   file          = {:Caldeira_etal2000_Science_SO_CO2uptake_storage.pdf:PDF},
+  keywords      = {rank4, SouternOcean},
 }
 
 @Article{Pollard2002,
@@ -781,6 +888,729 @@ and scalar properties of the salinity and temperature fields. Evidence of summer
 covering large areas (say 400 km across) in the PFZ and AAZ are found in the vicinity of submarine plateaux, which
 suggest benthic iron fertilization. r 2002 Elsevier Science Ltd. All rights reserved.},
   file     = {:Pollard_etal2001_DeepSeaResearch.pdf:PDF},
+  groups   = {bio},
+  keywords = {rank2, SouternOcean},
+}
+
+@Article{Bronselaer2016,
+  author    = {Ben Bronselaer and Laure Zanna and David R. Munday and Jason Lowe},
+  title     = {The influence of Southern Ocean winds on the North Atlantic carbon sink},
+  journal   = {Global Biogeochem. Cycles},
+  year      = {2016},
+  volume    = {30},
+  number    = {6},
+  pages     = {844--858},
+  month     = {jun},
+  abstract  = {Observed and predicted increases in Southern Ocean winds are thought to upwell deep ocean
+carbon and increase atmospheric CO2 . However, Southern Ocean dynamics affect biogeochemistry and
+circulation pathways on a global scale. Using idealized Massachusetts Institute of Technology General
+Circulation Model (MITgcm) simulations, we demonstrate that an increase in Southern Ocean winds reduces
+the carbon sink in the North Atlantic subpolar gyre. The increase in atmospheric CO2 due to the reduction
+of the North Atlantic carbon sink is shown to be of the same magnitude as the increase in atmospheric CO2
+due to Southern Ocean outgassing. The mechanism can be described as follows: The increase in Southern
+Ocean winds leads to an increase in upper ocean northward nutrient transport. Biological productivity
+is therefore enhanced in the tropics, which alters the chemistry of the subthermocline waters that are
+ultimately upwelled in the subpolar gyre. The results demonstrate the influence of Southern Ocean winds
+on the North Atlantic carbon sink and show that the effect of Southern Ocean winds on atmospheric CO2
+is likely twice as large as previously thought in past, present, and future climates.},
+  doi       = {10.1002/2015gb005364},
+  file      = {:/home/zmaw/m300524/MSc_Thesis/Paper/Bronselaer_etal2016_GBC.pdf:PDF},
+  keywords  = {CarbonSink, SouternOcean, rank1},
+  publisher = {Wiley-Blackwell},
+  url       = {http://dx.doi.org/10.1002/2015GB005364},
+}
+
+@Article{Delille2014,
+  author    = {Bruno Delille and Martin Vancoppenolle and Nicolas-Xavier Geilfus and Bronte Tilbrook and Delphine Lannuzel and V{\'{e}}ronique Schoemann and Sylvie Becquevort and Gauthier Carnat and Daniel Delille and Christiane Lancelot and Lei Chou and Gerhard S. Dieckmann and Jean-Louis Tison},
+  title     = {Southern Ocean {CO}2 sink: The contribution of the sea ice},
+  journal   = {J. Geophys. Res. Oceans},
+  year      = {2014},
+  volume    = {119},
+  number    = {9},
+  pages     = {6340--6355},
+  month     = {sep},
+  abstract  = {We report first direct measurements of the partial pressure of CO2 (pCO2) within Antarctic pack
+sea ice brines and related CO2 fluxes across the air-ice interface. From late winter to summer, brines encased
+in the ice change from a CO2 large oversaturation, relative to the atmosphere, to a marked undersaturation
+while the underlying oceanic waters remains slightly oversaturated. The decrease from winter to summer of
+pCO2 in the brines is driven by dilution with melting ice, dissolution of carbonate crystals, and net primary
+production. As the ice warms, its permeability increases, allowing CO2 transfer at the air-sea ice interface.
+The sea ice changes from a transient source to a sink for atmospheric CO2. We upscale these observations
+to the whole Antarctic sea ice cover using the NEMO-LIM3 large-scale sea ice-ocean and provide first esti-
+mates of spring and summer CO2 uptake from the atmosphere by Antarctic sea ice. Over the spring-
+summer period, the Antarctic sea ice cover is a net sink of atmospheric CO2 of 0.029 Pg C, about 58% of the
+estimated annual uptake from the Southern Ocean. Sea ice then contributes significantly to the sink of CO2
+of the Southern Ocean.},
+  doi       = {10.1002/2014jc009941},
+  file      = {:/home/zmaw/m300524/MSc_Thesis/Paper/Delille_etal2014_JGR_Sea_Ice.pdf:PDF},
+  groups    = {observations},
+  keywords  = {CarbonSink, SouternOcean, rank3},
+  publisher = {Wiley-Blackwell},
+  url       = {http://dx.doi.org/10.1002/2014JC009941},
+}
+
+@Article{Hauck2015,
+  author    = {J. Hauck and C. Völker and D. A. Wolf-Gladrow and C. Laufkötter and M. Vogt and O. Aumont and L. Bopp and E. T. Buitenhuis and S. C. Doney and J. Dunne and N. Gruber and T. Hashioka and J. John and C. Le Qu{\'{e}}r{\'{e}} and I. D. Lima and H. Nakano and R. S{\'{e}}f{\'{e}}rian and I. Totterdell},
+  title     = {On the Southern Ocean {CO}2 uptake and the role of the biological carbon pump in the 21{s}t century},
+  journal   = {Global Biogeochem. Cycles},
+  year      = {2015},
+  volume    = {29},
+  number    = {9},
+  pages     = {1451--1470},
+  month     = {sep},
+  abstract  = {We use a suite of eight ocean biogeochemical/ecological general circulation models from the
+Marine Ecosystem Model Intercomparison Project and Coupled Model Intercomparison Project Phase 5
+archives to explore the relative roles of changes in winds (positive trend of Southern Annular Mode, SAM)
+and in warming- and freshening-driven trends of upper ocean stratification in altering export production
+and CO2 uptake in the Southern Ocean at the end of the 21st century. The investigated models simulate a
+broad range of responses to climate change, with no agreement on a dominance of either the SAM or the
+warming signal south of 44∘ S. In the southernmost zone, i.e., south of 58∘ S, they concur on an increase of
+biological export production, while between 44 and 58∘ S the models lack consensus on the sign of change
+in export. Yet in both regions, the models show an enhanced CO2 uptake during spring and summer. This
+is due to a larger CO2 (aq) drawdown by the same amount of summer export production at a higher Revelle
+factor at the end of the 21st century. This strongly increases the importance of the biological carbon
+pump in the entire Southern Ocean. In the temperate zone, between 30 and 44∘ S, all models show
+a predominance of the warming signal and a nutrient-driven reduction of export production. As a
+consequence, the share of the regions south of 44∘ S to the total uptake of the Southern Ocean south of
+30∘ S is projected to increase at the end of the 21st century from 47 to 66% with a commensurable decrease
+to the north. Despite this major reorganization of the meridional distribution of the major regions of
+uptake, the total uptake increases largely in line with the rising atmospheric CO2 . Simulations with the
+MITgcm-REcoM2 model show that this is mostly driven by the strong increase of atmospheric CO2 , with
+the climate-driven changes of natural CO2 exchange offsetting that trend only to a limited degree (∼10%)
+and with negligible impact of climate effects on anthropogenic CO2 uptake when integrated over a full
+annual cycle south of 30∘ S.},
+  doi       = {10.1002/2015gb005140},
+  file      = {:/home/zmaw/m300524/MSc_Thesis/Paper/Hauck_et_al-2015-GBC.pdf:PDF},
+  groups    = {bio},
+  keywords  = {SouternOcean, rank3},
+  publisher = {Wiley-Blackwell},
+  url       = {http://dx.doi.org/10.1002/2015GB005140},
+}
+
+@Article{Lauderdale2016,
+  author    = {Jonathan M. Lauderdale and Richard G. Williams and David R. Munday and David P. Marshall},
+  title     = {The impact of Southern Ocean residual upwelling on atmospheric {CO}2 on centennial and millennial timescales},
+  journal   = {Clim Dyn},
+  year      = {2016},
+  month     = {may},
+  abstract  = {The Southern Ocean plays a pivotal role in cli-
+mate change by exchanging heat and carbon, and provides
+the primary window for the global deep ocean to commu-
+nicate with the atmosphere. There has been a widespread
+focus on explaining atmospheric CO2 changes in terms
+of changes in wind forcing in the Southern Ocean. Here,
+we develop a dynamically-motivated metric, the residual
+upwelling, that measures the primary effect of Southern
+Ocean dynamics on atmospheric CO2 on centennial to
+millennial timescales by determining the communication
+with the deep ocean. The metric encapsulates the com-
+bined, net effect of winds and air–sea buoyancy forcing
+on both the upper and lower overturning cells, which have
+been invoked as explaining atmospheric CO2 changes for
+the present day and glacial-interglacial changes. The skill
+of the metric is assessed by employing suites of idealized
+ocean model experiments, including parameterized and
+explicitly simulated eddies, with online biogeochemistry
+and integrated for 10,000 years to equilibrium. Increased
+residual upwelling drives elevated atmospheric CO2 a
+a rate of typically 1–1.5 parts per million/106 m3 s−1 by
+enhancing the communication between the atmosphere and
+deep ocean. This metric can be used to interpret the long-
+term effect of Southern Ocean dynamics on the natural car-
+bon cycle and atmospheric CO2, alongside other metrics,
+such as involving the proportion of preformed nutrients and
+the extent of sea ice cover.},
+  doi       = {10.1007/s00382-016-3163-y},
+  file      = {:/home/zmaw/m300524/MSc_Thesis/Paper/Lauderdale_et_al-2016-ClimDyn.pdf:PDF},
+  keywords  = {SouternOcean, rank3},
+  publisher = {Springer Science $\mathplus$ Business Media},
+  url       = {http://dx.doi.org/10.1007/s00382-016-3163-y},
+}
+
+@Article{Lauderdale2016a,
+  author        = {Jonathan M. Lauderdale and Stephanie Dutkiewicz and Richard G. Williams and Michael J. Follows},
+  title         = {Quantifying the drivers of ocean-atmosphere {CO}2 fluxes},
+  journal       = {Global Biogeochem. Cycles},
+  year          = {2016},
+  __markedentry = {[m300524:1]},
+  abstract      = {A mechanistic framework for quantitatively mapping the regional drivers of air-sea CO2
+fluxes at a global scale is developed. The framework evaluates the interplay between (1) surface heat and
+freshwater fluxes that influence the potential saturated carbon concentration, which depends on changes
+in sea surface temperature, salinity and alkalinity, (2) a residual, disequilibrium flux influenced by upwelling
+and entrainment of remineralized carbon- and nutrient-rich waters from the ocean interior, as well as
+rapid subduction of surface waters, (3) carbon uptake and export by biological activity as both soft tissue
+and carbonate, and (4) the effect on surface carbon concentrations due to freshwater precipitation or
+evaporation. In a steady state simulation of a coarse-resolution ocean circulation and biogeochemistry
+model, the sum of the individually determined components is close to the known total flux of the
+simulation. The leading order balance, identified in different dynamical regimes, is between the CO2
+fluxes driven by surface heat fluxes and a combination of biologically driven carbon uptake and
+disequilibrium-driven carbon outgassing. The framework is still able to reconstruct simulated fluxes when
+evaluated using monthly averaged data and takes a form that can be applied consistently in models of
+different complexity and observations of the ocean. In this way, the framework may reveal differences in
+the balance of drivers acting across an ensemble of climate model simulations or be applied to an analysis
+and interpretation of the observed, real-world air-sea flux of CO2 .},
+  doi           = {10.1002/2016gb005400},
+  file          = {:/home/zmaw/m300524/MSc_Thesis/Paper/Lauderdale_et_al-2016-GBC.pdf:PDF},
+  keywords      = {rank4},
+  publisher     = {Wiley-Blackwell},
+  url           = {http://dx.doi.org/10.1002/2016GB005400},
+}
+
+@Article{Quere2016,
+  author    = {Corinne Le Qu{\'{e}}r{\'{e}} and Erik T. Buitenhuis and R{\'{o}}is{\'{\i}}n Moriarty and S{\'{e}}verine Alvain and Olivier Aumont and Laurent Bopp and Sophie Chollet and Clare Enright and Daniel J. Franklin and Richard J. Geider and Sandy P. Harrison and Andrew G. Hirst and Stuart Larsen and Louis Legendre and Trevor Platt and I. Colin Prentice and Richard B. Rivkin and S{\'{e}}vrine Sailley and Shubha Sathyendranath and Nick Stephens and Meike Vogt and Sergio M. Vallina},
+  title     = {Role of zooplankton dynamics for Southern Ocean phytoplankton biomass and global biogeochemical cycles},
+  journal   = {Biogeosciences},
+  year      = {2016},
+  volume    = {13},
+  number    = {14},
+  pages     = {4111--4133},
+  month     = {jul},
+  abstract  = {Global ocean biogeochemistry models currently
+employed in climate change projections use highly simpli-
+fied representations of pelagic food webs. These food webs
+do not necessarily include critical pathways by which ecosys-
+tems interact with ocean biogeochemistry and climate. Here
+we present a global biogeochemical model which incorpo-
+rates ecosystem dynamics based on the representation of
+ten plankton functional types (PFTs): six types of phyto-
+plankton, three types of zooplankton, and heterotrophic pro-
+caryotes. We improved the representation of zooplankton
+dynamics in our model through (a) the explicit inclusion
+of large, slow-growing macrozooplankton (e.g. krill), and
+(b) the introduction of trophic cascades among the three zoo-
+plankton types. We use the model to quantitatively assess
+the relative roles of iron vs. grazing in determining phyto-
+plankton biomass in the Southern Ocean high-nutrient low-
+chlorophyll (HNLC) region during summer. When model
+simulations do not include macrozooplankton grazing ex-
+plicitly, they systematically overestimate Southern Ocean
+chlorophyll biomass during the summer, even when there
+is no iron deposition from dust. When model simulations
+include a slow-growing macrozooplankton and trophic cas-
+cades among three zooplankton types, the high-chlorophyll
+summer bias in the Southern Ocean HNLC region largely
+disappears. Our model results suggest that the observed low
+phytoplankton biomass in the Southern Ocean during sum-
+mer is primarily explained by the dynamics of the South-
+ern Ocean zooplankton community, despite iron limitation
+of phytoplankton community growth rates. This result has
+implications for the representation of global biogeochemical
+cycles in models as zooplankton faecal pellets sink rapidly
+and partly control the carbon export to the intermediate and
+deep ocean.},
+  doi       = {10.5194/bg-13-4111-2016},
+  file      = {:/home/zmaw/m300524/MSc_Thesis/Paper/LeQuere_etal2016_BG.pdf:PDF},
+  groups    = {bio},
+  keywords  = {CarbonSink, SouternOcean, rank3},
+  publisher = {Copernicus {GmbH}},
+  url       = {http://dx.doi.org/10.5194/bg-13-4111-2016},
+}
+
+@Article{Southern2009,
+  author   = {Nicole S. Lovenduski and Takamitsu Ito},
+  title    = {The future evolution of the Southern Ocean CO2 sink},
+  journal  = {Journal of Marine Research},
+  year     = {2009},
+  volume   = {67},
+  pages    = {597-617},
+  abstract = {We investigate the impact of century-scale climate changes on the Southern Ocean CO2 sink using
+an idealized ocean general circulation and biogeochemical model. The simulations are executed
+under both constant and changing wind stress, freshwater fluxes, and atmospheric pCO2 , so as to
+separately analyze changes in natural and anthropogenic CO2 fluxes under increasing wind stress
+and stratification. We find that the Southern Ocean sink for total contemporary CO2 is weaker under
+increased wind stress and stratification by 2100, relative to a control run with no change in physical
+forcing, although the results are sensitive to the magnitude of the imposed physical changes and
+the rate of increase of atmospheric pCO2 . The air-sea fluxes of both natural and anthropogenic
+CO2 are sensitive to the surface concentration of dissolved inorganic carbon (DIC) which responds
+to perturbations in wind stress and stratification differently. Spatially averaged surface DIC scales
+linearly with wind stress, primarily driven by changes in the Ekman transport. In contrast, changes
+in the stratification cause non-linear and more complex responses in spatially averaged surface DIC,
+involving shifts in the location of isopycnal outcrop for deep and thermocline waters. Thus, it is likely
+that both wind stress and stratification changes will influence the strength of the Southern Ocean CO2
+sink in the coming century.},
+  file     = {:/home/zmaw/m300524/MSc_Thesis/Paper/Lovenduski_and_Ito2009_JMR.pdf:PDF},
+  keywords = {CarbonSink, SouternOcean, rank3},
+}
+
+@Article{Lovenduski2007,
+  author        = {Nicole S. Lovenduski, Nicolas Gruber, Scott C. Doney, and Ivan D. Lima},
+  title         = {Enhanced CO2 outgassing in the Southern Ocean from a positive phase of the Southern Annular Mode},
+  journal       = {Glo},
+  year          = {2007},
+  volume        = {21},
+  __markedentry = {[m300524:1]},
+  abstract      = {We investigate the interannual variability in the flux of CO2 between the atmosphere
+and the Southern Ocean on the basis of hindcast simulations with a coupled
+physical-biogeochemical-ecological model with particular emphasis on the role of the
+Southern Annular Mode (SAM). The simulations are run under either pre-industrial or
+historical CO2 concentrations, permitting us to separately investigate natural,
+anthropogenic, and contemporary CO2 flux variability. We find large interannual
+variability (±0.19 PgC yrÀ1) in the contemporary air-sea CO2 flux from the Southern
+Ocean (<35°S). Forty-three percent of the contemporary air-sea CO2 flux variance is
+coherent with SAM, mostly driven by variations in the flux of natural CO2, for which
+SAM explains 48%. Positive phases of the SAM are associated with anomalous
+outgassing of natural CO2 at a rate of 0.1 PgC yrÀ1 per standard deviation of the SAM. In
+contrast, we find an anomalous uptake of anthropogenic CO2 at a rate of 0.01 PgC yrÀ1
+during positive phases of the SAM. This uptake of anthropogenic CO2 only slightly
+mitigates the outgassing of natural CO2, so that a positive SAM is associated with
+anomalous outgassing in contemporaneous times. The primary cause of the natural CO2
+outgassing is anomalously high oceanic partial pressures of CO2 caused by elevated
+dissolved inorganic carbon (DIC) concentrations. These anomalies in DIC are primarily a
+result of the circulation changes associated with the southward shift and strengthening of
+the zonal winds during positive phases of the SAM. The secular, positive trend in the
+SAM has led to a reduction in the rate of increase of the uptake of CO2 by the Southern
+Ocean over the past 50 years.},
+  doi           = {10.1029/2006GB002900},
+  file          = {:/home/zmaw/m300524/MSc_Thesis/Paper/Lovenduski_et_al2007_GBC.pdf:PDF},
+  keywords      = {SouternOcean, rank3},
+}
+
+@Article{Lovenduski2008,
+  author        = {Nicole S. Lovenduski, Nicolas Gruber, and Scott C. Doney},
+  title         = {Toward a mechanistic understanding of the decadal trends in the Southern Ocean carbon sink},
+  journal       = {Global Biogeochem. Cycles},
+  year          = {2008},
+  volume        = {22},
+  __markedentry = {[m300524:1]},
+  abstract      = {[1] We investigate the multidecadal and decadal trends in the flux of CO2 between the
+atmosphere and the Southern Ocean using output from hindcast simulations of an
+ocean circulation model with embedded biogeochemistry. The simulations are run with
+NCEP-1 forcing under both preindustrial and historical atmospheric CO2
+concentrations so that we can separately analyze trends in the natural and anthropogenic
+CO2 fluxes. We find that the Southern Ocean (<35°S) CO2 sink has weakened by
+0.1 Pg C aÀ1 from 1979–2004, relative to the expected sink from rising atmospheric
+CO2 and fixed physical climate. Although the magnitude of this trend is in
+agreement with prior studies (Le Quere et al., 2007), its size may not be entirely robust
+because of uncertainties associated with the trend in the NCEP-1 atmospheric forcing.
+We attribute the weakening sink to an outgassing trend of natural CO2, driven by
+enhanced upwelling and equatorward transport of carbon-rich water, which are caused
+by a trend toward stronger and southward shifted winds over the Southern Ocean
+(associated with the positive trend in the Southern Annular Mode (SAM)). In contrast,
+the trend in the anthropogenic CO2 uptake is largely unaffected by the trend in the
+wind and ocean circulation. We regard this attribution of the trend as robust, and show
+that surface and interior ocean observations may help to solidify our findings. As
+coupled climate models consistently show a positive trend in the SAM in the coming
+century [e.g., Meehl et al., 2007], these mechanistic results are useful for projecting the
+future behavior of the Southern Ocean carbon sink.},
+  doi           = {10.1029/2007GB003139},
+  file          = {:/home/zmaw/m300524/MSc_Thesis/Paper/Lovenduski_etal-2008-GBC.pdf:PDF},
+  keywords      = {CarbonSink, SouternOcean, rank3},
+}
+
+@Article{Lovenduski2015,
+  author    = {Nicole S. Lovenduski and Amanda R. Fay and Galen A. McKinley},
+  title     = {Observing multidecadal trends in Southern Ocean {CO}2 uptake: What can we learn from an ocean model?},
+  journal   = {Global Biogeochem. Cycles},
+  year      = {2015},
+  volume    = {29},
+  number    = {4},
+  pages     = {416--426},
+  month     = {apr},
+  abstract  = {We use output from a hindcast simulation (1958–2007) of an ocean biogeochemical and
+ecological model to inform an observational strategy for detection of a weakening Southern Ocean CO2 sink
+from surface ocean pCO2 data. Particular emphasis is placed on resolving disparate conclusions about the
+Southern Ocean CO2 sink that have been drawn from surface ocean pCO2 observation studies in the past.
+We find that long-term trends in ΔpCO2 (pCOoc − pCOatm ) can be used as a proxy for changes in the strength
+of the CO2 sink but must be interpreted with caution, as they are calculated from small differences in the
+oceanic and atmospheric pCO2 trends. Large interannual, decadal, and multidecadal variability in ΔpCO2
+persists throughout the simulation, suggesting that one must consider a range of start and end years for
+trend analysis before drawing conclusions about changes in the CO2 sink. Winter-mean CO2 flux trends are
+statistically indistinguishable from annual-mean trends, arguing for inclusion of all available pCOoc data
+in future analyses of the CO2 sink. The weakening of the CO2 sink emerges during the observed period
+of our simulation (1981–2007) in the subpolar seasonally stratified biome (4◦ C < average climatological
+temperature < 9◦ C); the weakening is most evident during periods with positive trends in the Southern
+Annular Mode. With perfect temporal and spatial coverage, 13 years of pCOoc data would be required to
+detect a weakening CO2 sink in this biome. Given available data, it is not yet possible to detect a weakening
+of the Southern Ocean CO2 sink with much certainty, due to imperfect data coverage and high variability in
+Southern Ocean surface pCO2 .},
+  doi       = {10.1002/2014gb004933},
+  file      = {:/home/zmaw/m300524/MSc_Thesis/Paper/Lovenduski_etal-2015-GBC.pdf:PDF},
+  groups    = {observations},
+  keywords  = {SouternOcean, rank3},
+  publisher = {Wiley-Blackwell},
+  url       = {http://dx.doi.org/10.1002/2014GB004933},
+}
+
+@Article{Meredith2016,
+  author    = {Michael P. Meredith},
+  title     = {Understanding the structure of changes in the Southern Ocean eddy field},
+  journal   = {Geophys. Res. Lett.},
+  year      = {2016},
+  volume    = {43},
+  number    = {11},
+  pages     = {5829--5832},
+  month     = {jun},
+  abstract  = {The Southern Ocean is riddled with mesoscale eddies. Although just a few kilometers in size,
+these loops and vortices are key parts of the climate system and are important in controlling how ocean
+circulation responds to changes in forcing. Observations reveal that changes in the intensity of these eddies
+vary significantly around the Southern Ocean. This contrasts with the nature of the atmospheric forcing,
+which is more zonally symmetric. Recent progress using high-resolution modeling has pinpointed where
+intrinsic variability dominates over wind-driven variability; and hence, the areas where future responses to
+climatic changes in forcing are likely to be clearest.},
+  doi       = {10.1002/2016gl069677},
+  file      = {:/home/zmaw/m300524/MSc_Thesis/Paper/Meredith_etal2016_GRL.pdf:PDF},
+  keywords  = {SouternOcean, rank2},
+  publisher = {Wiley-Blackwell},
+  url       = {http://dx.doi.org/10.1002/2016GL069677},
+}
+
+@Article{Nevison2015,
+  author    = {C. D. Nevison and M. Manizza and R. F. Keeling and M. Kahru and L. Bopp and J. Dunne and J. Tiputra and T. Ilyina and B. G. Mitchell},
+  title     = {Evaluating the ocean biogeochemical components of Earth system models using atmospheric potential oxygen and ocean color data},
+  journal   = {Biogeosciences},
+  year      = {2015},
+  volume    = {12},
+  number    = {1},
+  pages     = {193--208},
+  month     = {jan},
+  abstract  = {The observed seasonal cycles in atmospheric po-
+tential oxygen (APO) at a range of mid- to high-latitude sur-
+face monitoring sites are compared to those inferred from
+the output of six Earth system models (ESMs) participat-
+ing in the fifth phase of the Coupled Model Intercompar-
+ison Project phase 5 (CMIP5). The simulated air–sea O2
+fluxes are translated into APO seasonal cycles using a matrix
+method that takes into account atmospheric transport model
+(ATM) uncertainty among 13 different ATMs. Three of the
+ocean biogeochemistry models tested are able to reproduce
+the observed APO cycles at most sites, to within the large
+TransCom3-era ATM uncertainty used here, while the other
+three generally are not. Net primary production (NPP) and
+net community production (NCP), as estimated from satellite
+ocean color data, provide additional constraints, albeit more
+with respect to the seasonal phasing of ocean model produc-
+tivity than overall magnitude. The present analysis suggests
+that, of the tested ocean biogeochemistry models, the com-
+munity ecosystem model (CESM) and the Geophysical Fluid
+Dynamics Laboratory (GFDL) ESM2M are best able to cap-
+ture the observed APO seasonal cycle at both northern and
+southern hemispheric sites. In most models, discrepancies
+with observed APO can be attributed to the underestimation
+of NPP, deep ventilation or both in the northern oceans.},
+  doi       = {10.5194/bg-12-193-2015},
+  file      = {:/home/zmaw/m300524/MSc_Thesis/Paper/Nevison_etal2015_BG.pdf:PDF},
+  keywords  = {SouternOcean, rank2},
+  publisher = {Copernicus {GmbH}},
+  url       = {http://dx.doi.org/10.5194/bg-12-193-2015},
+}
+
+@Article{Schine2016,
+  author    = {Casey M. S. Schine and Gert van Dijken and Kevin R. Arrigo},
+  title     = {Spatial analysis of trends in primary production and relationship with large-scale climate variability in the Ross Sea, {Antarctica} (1997-2013)},
+  journal   = {J. Geophys. Res. Oceans},
+  year      = {2016},
+  volume    = {121},
+  number    = {1},
+  pages     = {368--386},
+  month     = {jan},
+  abstract  = {Recent studies have documented an increase in sea ice extent and the duration of the ice sea-
+son in the Ross Sea, Antarctica. We conducted a satellite-based study to quantify changes in net primary
+production (NPP) and chlorophyll a (Chl a) in response to the observed changes in ice dynamics in the Ross
+Sea south of 608S. Our study covers a 16 year time period (1997–2013) and incorporates both the shelf and
+off-shelf regions of the Ross Sea. We observed significant secular changes in NPP from 1997 to 2013 in the
+off-shelf region, with NPP increasing on the eastern side and decreasing on the western side of our study
+area. The changes we observed in NPP are consistent with the changes we observed in sea surface tempera-
+ture (SST) and open water days (OWDs), decreasing (increasing) on the western (eastern) side of our study
+area. Finally, we examined the influence of the Southern Annular Mode (SAM) and the El Nino Southern
+Oscillation (ENSO), on SST, OWDs, Chl a, and NPP in the Ross Sea and observed a significant relationship
+between the state of the SAM and ENSO and SST, OWDs, and NPP across the study region. The response of
+OWDs, SST, and NPP to atmospheric forcing by SAM and ENSO was opposite for the shelf and off-shelf
+regions, such that during a positive phase of SAM or negative phase of ENSO (La Nina), SST, OWDs, and NPP
+increased on the shelf and decreased in the off-shelf region.},
+  doi       = {10.1002/2015jc011014},
+  file      = {:/home/zmaw/m300524/MSc_Thesis/Paper/Schine_etal-2016-JGR-O.pdf:PDF},
+  keywords  = {SouternOcean, rank3},
+  publisher = {Wiley-Blackwell},
+  url       = {http://dx.doi.org/10.1002/2015JC011014},
+}
+
+@Booklet{CLIVAR2015,
+  title     = {US CLIVAR Newsletter},
+  author    = {Dunne, J. P.; Romanou, A.; DiNezio, P.; Marinov, I.; Ito, T.},
+  year      = {2015},
+  booktitle = {OCB Newsletter},
+  file      = {:/home/zmaw/m300524/MSc_Thesis/Paper/Variations2015Spring_0.pdf:PDF},
+}
+
+@InProceedings{Tally2015,
+  author    = {L. Talley},
+  title     = {SIO 210: Southern Ocean circulation. Dynamics X: Southern Ocean},
+  booktitle = {Southern Ocean Lecture},
+  year      = {2015},
+  file      = {:/home/zmaw/m300524/MSc_Thesis/Paper/Talley2015_lecture_southern_ocean.pdf:PDF},
+  keywords  = {SouternOcean},
+}
+
+@Article{Sabine2004,
+  author        = {Christopher L. Sabine,1* Richard A. Feely,1 Nicolas Gruber,2 Robert M. Key,3 Kitack Lee,4 John L. Bullister,1 Rik Wanninkhof,5 C. S. Wong,6 Douglas W. R. Wallace,7 Bronte Tilbrook,8 Frank J. Millero,9 Tsung-Hung Peng,5 Alexander Kozyr,10 Tsueno Ono,11 Aida F. Rios12},
+  title         = {The Oceanic Sink for Anthropogenic CO2},
+  journal       = {Science},
+  year          = {2004},
+  volume        = {305},
+  __markedentry = {[m300524:5]},
+  abstract      = {Using inorganic carbon measurements from an international survey effort in the
+1990s and a tracer-based separation technique, we estimate a global oceanic
+anthropogenic carbon dioxide (CO2) sink for the period from 1800 to 1994 of 118 Ϯ
+19 petagrams of carbon. The oceanic sink accounts for ϳ48% of the total fossil-fuel
+and cement-manufacturing emissions, implying that the terrestrial biosphere was
+a net source of CO2 to the atmosphere of about 39 Ϯ 28 petagrams of carbon for
+this period. The current fraction of total anthropogenic CO2 emissions stored in the
+ocean appears to be about one-third of the long-term potential.},
+  file          = {:/home/zmaw/m300524/MSc_Thesis/Paper/Sabine_etal2014_Science_oceanic_co2_sink_367.pdf:PDF},
+  groups        = {observations},
+  keywords      = {rank3, CarbonSink},
+}
+
+@Article{Russell2006,
+  author   = {Joellen L. Russell, Keith W. Dixon, Anand Gnanadesikan, Ronald J. Stouffer, J. R. Toggweiler},
+  title    = {The Southern Hemisphere Westerlies in a Warming World: Propping Open the Door to the Deep Ocean},
+  journal  = {Journal of Climate},
+  year     = {2006},
+  doi      = {10.1175/JCLI3984.1},
+  file     = {:Russell_etal2006_JoC3984_SHWesterlies.pdf:PDF},
+  keywords = {SouternOcean, CarbonSink, rank3},
+}
+
+@Article{Jungclaus2013,
+  author   = {J. H. Jungclaus, N. Fischer, H. Haak,1 K. Lohmann, J. Marotzke, D. Matei, U. Mikolajewicz,1 D. Notz,1 and J. S. von Storch},
+  title    = {Characteristics of the ocean simulations in the Max Planck Institute Ocean Model (MPIOM) the ocean component of the MPI-Earth system model},
+  journal  = {Journal of Advances in Modeling Earth Systems},
+  year     = {2013},
+  volume   = {5},
+  pages    = {422-466},
+  abstract = {MPI-ESM is a new version of the global Earth system model developed at the Max
+Planck Institute for Meteorology. This paper describes the ocean state and circulation
+as well as basic aspects of variability in simulations contributing to the fifth phase of
+the Coupled Model Intercomparison Project (CMIP5). The performance of the ocean/
+sea-ice model MPIOM, coupled to a new version of the atmosphere model ECHAM6
+and modules for land surface and ocean biogeochemistry, is assessed for two model
+versions with different grid resolution in the ocean. The low-resolution configuration
+has a nominal resolution of 1.5, whereas the higher resolution version features a qua-
+siuniform, eddy-permitting global resolution of 0.4. The paper focuses on important
+oceanic features, such as surface temperature and salinity, water mass distribution,
+large-scale circulation, and heat and freshwater transports. In general, these integral
+quantities are simulated well in comparison with observational estimates, and
+improvements in comparison with the predecessor system are documented; for exam-
+ple, for tropical variability and sea ice representation. Introducing an eddy-permitting
+grid configuration in the ocean leads to improvements, in particular, in the representa-
+tion of interior water mass properties in the Atlantic and in the representation of impor-
+tant ocean currents, such as the Agulhas and Equatorial current systems. In general,
+however, there are more similarities than differences between the two grid configurations,
+and several shortcomings, known from earlier versions of the coupled model, prevail.},
+  doi      = {doi:10.1002/jame.20023},
+  file     = {:Jungclaus_etal2013_JAMES_MPIOM.pdf:PDF},
+  keywords = {fundamental, rank1},
+}
+
+@Article{Marsland2003,
+  author   = {S. J. Marsland, H. Haak, J. H. Jungclaus, M. Latif and F. Röske},
+  title    = {The Max-Planck-Institute global ocean/sea ice model with orthogonal curvilinear coordinates},
+  journal  = {Ocean Model},
+  year     = {2003},
+  abstract = {The Hamburg Ocean Primitive Equation (HOPE) model has undergone
+signi cant development in recent years. Most notable is the treatment of
+horizontal discretisation which has undergone transition from a staggered E-
+grid to an orthogonal curvilinear C-grid. The treatment of subgridscale mixing
+has been improved by the inclusion of a new formulation of bottom boundary
+layer (BBL) slope convection, an isopycnal di usion scheme, and a Gent and
+McWilliams style eddy-induced mixing parameterisation. The model setup
+described here has a north pole over Greenland and a south pole on the
+coast of the Weddell Sea. This gives relatively high resolution in the sinking
+regions associated with the thermohaline circulation. Results are presented
+from a 450 year climatologically forced integration. The forcing is a product
+of the German Ocean Model Intercomparison Project and is derived from the
+ECMWF re-analysis. The main emphasis is on the model's representation of
+key quantities that are easily associated with the ocean's role in the global
+climate system. The global and Atlantic northward poleward heat transports
+have peaks of 1.43 and 0.84 PW, at 18 and 21 N respectively. The Atlantic
+meridional overturning streamfunction has a peak of 15.7 Sv in the North
+Atlantic and an out ow of 11.9 Sv at 30 S. Comparison with a simulation
+excluding BBL shows that the scheme is responsible for up to a 25% increase
+in North Atlantic heat transport, with signi cant improvement of the depths
+of convection in the Greenland, Labrador and Irminger Seas. Despite the
+improvements, comparison with observations shows the heat transport still to
+be too weak. Other outstanding problems include an incorrect Gulf Stream
+pathway, a too strong Antarctic Circumpolar Current, and a too weak renewal
+of Antarctic Intermediate Water. Nevertheless, the model has been coupled
+to the atmospheric GCM ECHAM5 and run successfully for over 250 years
+without any surface ux corrections.},
+  file     = {:Marsland_etal2003_OceanModel_MPIOM.pdf:PDF},
+  keywords = {GENERAL CIRCULATION OCEAN SEA ICE, rank1, fundamental},
+}
+
+@Article{Gruber1996,
+  author   = {Nicolas Gruber, Jorge L. Sarmiento, Thomas F. Stocker},
+  title    = {An improved method for detecting anthropogenic CO2 in the oceans},
+  journal  = {Global Biogeochem. Cycles},
+  year     = {1996},
+  volume   = {10},
+  number   = {4},
+  pages    = {809-837},
+  file     = {:Gruber_etal1996_GBC_C*_method_373.pdf:PDF},
+  keywords = {rank2},
+}
+
+@Article{Marinov2006,
+  author        = {I. Marinov and A. Gnanadesikan and J. R. Toggweiler and J. L. Sarmiento},
+  title         = {The Southern Ocean biogeochemical divide},
+  journal       = {Nature},
+  year          = {2006},
+  volume        = {441},
+  number        = {7096},
+  pages         = {964--967},
+  month         = {jun},
+  __markedentry = {[m300524:1]},
+  abstract      = {Modelling  studies  have  demonstrated  that  the  nutrient  and
+carbon cycles in the Southern Ocean play a central role in setting
+the  air–sea  balance  of  CO2 and  global  biological  production. 
+Box model studies first pointed out that an increase in nutrient
+utilization in the high latitudes results in a strong decrease in the
+atmospheric  carbon  dioxide  partial  pressure  (pCO2).  This  early
+research  led  to  two  important  ideas:  high  latitude  regions  are
+more  important  in  determining   atmospheric pCO2than  low
+latitudes,  despite  their  much  smaller  area,  and  nutrient  utiliz-
+ation and atmospheric pCO2 are tightly linked. Subsequent general
+circulation  model  simulations  show  that  the  Southern  Ocean  is
+the  most  important  high  latitude  region  in  controlling   pre-
+industrial  atmospheric  CO2 because  it  serves  as  a  lid  to  a  larger
+volume  of  the  deep  ocean.  Other  studies  point  out  the  crucial
+role of  the Southern Ocean in the uptake and storage of anthro-
+pogenic  carbon  dioxide and  in  controlling  global  biological
+production.  Here  we  probe  the  system  to  determine  whether
+certain  regions  of  the  Southern  Ocean  are  more  critical  than
+others  for  air–sea  CO2 balance  and  the  biological  export  pro-
+duction,  by  increasing  surface  nutrient  drawdown  in  an  ocean
+general  circulation  model.  We  demonstrate  that  atmospheric
+CO2 and  global  biological  export  production  are  controlled  by
+different  regions  of  the  Southern  Ocean.  The  air–sea  balance  of
+carbon dioxide  is  controlled  mainly by  the  biological pump  and
+circulation   in   the   Antarctic   deep-water   formation   region,
+whereas  global  export  production  is  controlled  mainly  by  the
+biological pump and circulation in the Subantarctic intermediate
+and  mode water  formation  region. The  existence of  this  biogeo-
+chemical  divide  separating  the  Antarctic  from  the  Subantarctic
+suggests  that  it  may  be  possible  for  climate  change  or  human
+intervention  to  modify one  of  these  without  greatly  altering  the
+other.},
+  doi           = {10.1038/nature04883},
+  file          = {:Marinov_etal2006_Nature_SOBGCdivide.pdf:PDF},
+  keywords      = {rank4},
+  publisher     = {Nature Publishing Group},
+  url           = {http://dx.doi.org/10.1038/nature04883},
+}
+
+@Article{Murphy2007,
+  author    = {E. J Murphy and P. N Trathan and J. L Watkins and K. Reid and M. P Meredith and J. Forcada and S. E Thorpe and N. M Johnston and P. Rothery},
+  title     = {Climatically driven fluctuations in Southern Ocean ecosystems},
+  journal   = {Proceedings of the Royal Society B: Biological Sciences},
+  year      = {2007},
+  volume    = {274},
+  number    = {1629},
+  pages     = {3057--3067},
+  month     = {dec},
+  doi       = {10.1098/rspb.2007.1180},
+  file      = {:Murphy_etal2007_ProcRSoc_SO_ecosystem_3057.pdf:PDF},
+  groups    = {bio},
+  keywords  = {rank2},
+  publisher = {The Royal Society},
+  url       = {http://dx.doi.org/10.1098/rspb.2007.1180},
+}
+
+@Book{Gruber2009,
+  title     = {Ocean Biogeochemistry and Ecology, Modeling of},
+  publisher = {Elsevier {BV}},
+  year      = {2009},
+  author    = {N. Gruber and S.C. Doney},
+  booktitle = {Encyclopedia of Ocean Sciences},
+  doi       = {10.1016/b978-012374473-9.00741-4},
+  file      = {:Gruber_and_Doney_2009_Ocean_Biogeochemistry_and_Ecology_Modeling.pdf:PDF},
+  groups    = {bio},
+  keywords  = {rank1},
+  pages     = {89--104},
+  url       = {http://dx.doi.org/10.1016/B978-012374473-9.00741-4},
+}
+
+@Article{Gruber_2009,
+  author    = {Nicolas Gruber and Manuel Gloor and Sara E. Mikaloff Fletcher and Scott C. Doney and Stephanie Dutkiewicz and Michael J. Follows and Markus Gerber and Andrew R. Jacobson and Fortunat Joos and Keith Lindsay and Dimitris Menemenlis and Anne Mouchet and Simon A. Müller and Jorge L. Sarmiento and Taro Takahashi},
+  title     = {Oceanic sources, sinks, and transport of atmospheric {CO} 2},
+  journal   = {Global Biogeochem. Cycles},
+  year      = {2009},
+  volume    = {23},
+  number    = {1},
+  pages     = {n/a--n/a},
+  month     = {feb},
+  abstract  = {We synthesize estimates of the contemporary net air-sea CO2 flux on the basis of
+an inversion of interior ocean carbon observations using a suite of 10 ocean general
+circulation models (Mikaloff Fletcher et al., 2006, 2007) and compare them to estimates
+based on a new climatology of the air-sea difference of the partial pressure of CO2
+(pCO2) (Takahashi et al., 2008). These two independent flux estimates reveal a
+consistent description of the regional distribution of annual mean sources and sinks of
+atmospheric CO2 for the decade of the 1990s and the early 2000s with differences at the
+regional level of generally less than 0.1 Pg C aÀ1. This distribution is characterized
+by outgassing in the tropics, uptake in midlatitudes, and comparatively small fluxes in
+the high latitudes. Both estimates point toward a small ($ À0.3 Pg C aÀ1) contemporary
+CO2 sink in the Southern Ocean (south of 44°S), a result of the near cancellation between
+a substantial outgassing of natural CO2 and a strong uptake of anthropogenic CO2. A
+notable exception in the generally good agreement between the two estimates exists within
+the Southern Ocean: the ocean inversion suggests a relatively uniform uptake, while the
+pCO2-based estimate suggests strong uptake in the region between 58°S and 44°S, and a
+source in the region south of 58°S. Globally and for a nominal period between 1995
+and 2000, the contemporary net air-sea flux of CO2 is estimated to be À1.7 ± 0.4 Pg C aÀ1
+(inversion) and À1.4 ± 0.7 Pg C aÀ1 (pCO2-climatology), respectively, consisting of
+an outgassing flux of river-derived carbon of $+0.5 Pg C aÀ1, and an uptake flux
+of anthropogenic carbon of À2.2 ± 0.3 Pg C aÀ1 (inversion) and À1.9 ± 0.7 Pg C aÀ1
+(pCO2-climatology). The two flux estimates also imply a consistent description of the
+contemporary meridional transport of carbon with southward ocean transport throughout
+most of the Atlantic basin, and strong equatorward convergence in the Indo-Pacific basins.
+Both transport estimates suggest a small hemispheric asymmetry with a southward
+transport of between À0.2 and À0.3 Pg C aÀ1 across the equator. While the convergence of
+these two independent estimates is encouraging and suggests that it is now possible to
+provide relatively tight constraints for the net air-sea CO2 fluxes at the regional basis,
+both studies are limited by their lack of consideration of long-term changes in the
+ocean carbon cycle, such as the recent possible stalling in the expected growth of the
+Southern Ocean carbon sink.},
+  doi       = {10.1029/2008GB003349},
+  file      = {:Gruber_etal2009_GBC_3349.pdf:PDF},
+  groups    = {bio},
+  keywords  = {rank4},
+  publisher = {Wiley-Blackwell},
+  url       = {http://dx.doi.org/10.1029/2008GB003349},
+}
+
+@Article{Takahashi2012,
+  author   = {Takahashi, T., C. Sweeney, B. Hales, D.W. Chipman, T. Newberger, J.G. Goddard, R.A. Iannuzzi, and S.C. Sutherland},
+  title    = {The changing Carbon Cycle in the Southern Ocean},
+  journal  = {Oceanography},
+  year     = {2012},
+  volume   = {25},
+  number   = {3},
+  pages    = {26-37},
+  abstract = {Various human activities, including
+fossil fuel combustion and forest clearing, emit
+about eight petagrams (or billion tons) of carbon
+in the form of CO2 into the atmosphere annually.
+The global ocean absorbs about two petagrams of
+CO2, and about a half of that amount is absorbed by
+the Southern Ocean south of 30°S, thus slowing the rapid
+accumulation of CO2 in the atmosphere. Partial pressure of
+CO2 (pCO2) is a measure of the chemical driving force for the CO2
+exchange between the ocean and the atmosphere. This paper discusses
+its space and time distribution over the Southern Ocean. The major sink zone
+for atmospheric CO2 is located in a latitude belt between 30°S and 50°S, where
+the biological utilization of CO2 and cooling of warm subtropical waters flowing
+southward produce low seawater pCO2. Strong winds in this zone also enhance the
+ocean’s uptake. Although the source-sink conditions vary over a wide range through
+the seasons in the areas south of 50°S, this zone is a small sink on an annual average.
+Winter observations show that surface water pCO2 values in the source region for
+Antarctic Intermediate Water have increased at a rate faster than the atmospheric
+increase rate, suggesting that the ocean CO2 sink intensity has been weakening for
+several decades and has changed from a net sink to a net source since 2005. The
+results of ocean general circulation-biogeochemistry model studies are found to be
+consistent with the observations.},
+  doi      = {10.5670/oceanog.2012.71},
+  file     = {:Takahashi_etal2012_Changing_CC_SO.pdf:PDF},
+  groups   = {bio},
+  keywords = {rank4},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
@@ -791,4 +1621,5 @@ suggest benthic iron fertilization. r 2002 Elsevier Science Ltd. All rights rese
 1 KeywordGroup:CarbonSink\;0\;keywords\;CarbonSink\;0\;0\;;
 1 KeywordGroup:SouthernOcean\;0\;keywords\;SouternOcean\;0\;0\;;
 1 ExplicitGroup:observations\;0\;;
+1 ExplicitGroup:bio\;0\;;
 }
