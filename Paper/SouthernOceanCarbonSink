@@ -7,7 +7,7 @@
   year          = {2013},
   volume        = {5},
   pages         = {287-315},
-  __markedentry = {[m300524:4]},
+  __markedentry = {[m300524:5]},
   abstract      = {Ocean biogeochemistry is a novel standard component of fifth phase of the
 Coupled Model Intercomparison Project (CMIP5) experiments which project future
 climate change caused by anthropogenic emissions of greenhouse gases. Of particular
@@ -48,7 +48,7 @@ for the type of simulations required within the CMIP5 experimental design.},
   eprint        = {http://science.sciencemag.org/content/349/6253/1165.full.pdf},
   file          = {:Mikaloff-flechter_2015_Science_increasing-sink.pdf:PDF},
   issn          = {0036-8075},
-  keywords      = {rank1, CarbonSink, SouternOcean},
+  keywords      = {rank3, CarbonSink, SouternOcean},
   publisher     = {American Association for the Advancement of Science},
   url           = {http://science.sciencemag.org/content/349/6253/1165},
 }
@@ -1032,7 +1032,7 @@ the extent of sea ice cover.},
   title         = {Quantifying the drivers of ocean-atmosphere {CO}2 fluxes},
   journal       = {Global Biogeochem. Cycles},
   year          = {2016},
-  __markedentry = {[m300524:1]},
+  __markedentry = {[m300524:5]},
   abstract      = {A mechanistic framework for quantitatively mapping the regional drivers of air-sea CO2
 fluxes at a global scale is developed. The framework evaluates the interplay between (1) surface heat and
 freshwater fluxes that influence the potential saturated carbon concentration, which depends on changes
@@ -1135,7 +1135,7 @@ sink in the coming century.},
 @Article{Lovenduski2007,
   author        = {Nicole S. Lovenduski, Nicolas Gruber, Scott C. Doney, and Ivan D. Lima},
   title         = {Enhanced CO2 outgassing in the Southern Ocean from a positive phase of the Southern Annular Mode},
-  journal       = {Glo},
+  journal       = {Global Biogeochem. Cycles},
   year          = {2007},
   volume        = {21},
   __markedentry = {[m300524:1]},
@@ -1171,7 +1171,7 @@ Ocean over the past 50 years.},
   journal       = {Global Biogeochem. Cycles},
   year          = {2008},
   volume        = {22},
-  __markedentry = {[m300524:1]},
+  __markedentry = {[m300524:4]},
   abstract      = {[1] We investigate the multidecadal and decadal trends in the flux of CO2 between the
 atmosphere and the Southern Ocean using output from hindcast simulations of an
 ocean circulation model with embedded biogeochemistry. The simulations are run with
@@ -1459,7 +1459,7 @@ without any surface ux corrections.},
   number        = {7096},
   pages         = {964--967},
   month         = {jun},
-  __markedentry = {[m300524:1]},
+  __markedentry = {[m300524:5]},
   abstract      = {Modelling  studies  have  demonstrated  that  the  nutrient  and
 carbon cycles in the Southern Ocean play a central role in setting
 the  air–sea  balance  of  CO2 and  global  biological  production. 
@@ -1531,15 +1531,16 @@ other.},
 }
 
 @Article{Gruber_2009,
-  author    = {Nicolas Gruber and Manuel Gloor and Sara E. Mikaloff Fletcher and Scott C. Doney and Stephanie Dutkiewicz and Michael J. Follows and Markus Gerber and Andrew R. Jacobson and Fortunat Joos and Keith Lindsay and Dimitris Menemenlis and Anne Mouchet and Simon A. Müller and Jorge L. Sarmiento and Taro Takahashi},
-  title     = {Oceanic sources, sinks, and transport of atmospheric {CO} 2},
-  journal   = {Global Biogeochem. Cycles},
-  year      = {2009},
-  volume    = {23},
-  number    = {1},
-  pages     = {n/a--n/a},
-  month     = {feb},
-  abstract  = {We synthesize estimates of the contemporary net air-sea CO2 flux on the basis of
+  author        = {Nicolas Gruber and Manuel Gloor and Sara E. Mikaloff Fletcher and Scott C. Doney and Stephanie Dutkiewicz and Michael J. Follows and Markus Gerber and Andrew R. Jacobson and Fortunat Joos and Keith Lindsay and Dimitris Menemenlis and Anne Mouchet and Simon A. Müller and Jorge L. Sarmiento and Taro Takahashi},
+  title         = {Oceanic sources, sinks, and transport of atmospheric {CO} 2},
+  journal       = {Global Biogeochem. Cycles},
+  year          = {2009},
+  volume        = {23},
+  number        = {1},
+  pages         = {n/a--n/a},
+  month         = {feb},
+  __markedentry = {[m300524:4]},
+  abstract      = {We synthesize estimates of the contemporary net air-sea CO2 flux on the basis of
 an inversion of interior ocean carbon observations using a suite of 10 ocean general
 circulation models (Mikaloff Fletcher et al., 2006, 2007) and compare them to estimates
 based on a new climatology of the air-sea difference of the partial pressure of CO2
@@ -1569,23 +1570,24 @@ provide relatively tight constraints for the net air-sea CO2 fluxes at the regio
 both studies are limited by their lack of consideration of long-term changes in the
 ocean carbon cycle, such as the recent possible stalling in the expected growth of the
 Southern Ocean carbon sink.},
-  doi       = {10.1029/2008GB003349},
-  file      = {:Gruber_etal2009_GBC_3349.pdf:PDF},
-  groups    = {bio},
-  keywords  = {rank4},
-  publisher = {Wiley-Blackwell},
-  url       = {http://dx.doi.org/10.1029/2008GB003349},
+  doi           = {10.1029/2008GB003349},
+  file          = {:Gruber_etal2009_GBC_3349.pdf:PDF},
+  groups        = {bio},
+  keywords      = {rank4},
+  publisher     = {Wiley-Blackwell},
+  url           = {http://dx.doi.org/10.1029/2008GB003349},
 }
 
 @Article{Takahashi2012,
-  author   = {Takahashi, T., C. Sweeney, B. Hales, D.W. Chipman, T. Newberger, J.G. Goddard, R.A. Iannuzzi, and S.C. Sutherland},
-  title    = {The changing Carbon Cycle in the Southern Ocean},
-  journal  = {Oceanography},
-  year     = {2012},
-  volume   = {25},
-  number   = {3},
-  pages    = {26-37},
-  abstract = {Various human activities, including
+  author        = {Takahashi, T., C. Sweeney, B. Hales, D.W. Chipman, T. Newberger, J.G. Goddard, R.A. Iannuzzi, and S.C. Sutherland},
+  title         = {The changing Carbon Cycle in the Southern Ocean},
+  journal       = {Oceanography},
+  year          = {2012},
+  volume        = {25},
+  number        = {3},
+  pages         = {26-37},
+  __markedentry = {[m300524:5]},
+  abstract      = {Various human activities, including
 fossil fuel combustion and forest clearing, emit
 about eight petagrams (or billion tons) of carbon
 in the form of CO2 into the atmosphere annually.
@@ -1607,10 +1609,257 @@ increase rate, suggesting that the ocean CO2 sink intensity has been weakening f
 several decades and has changed from a net sink to a net source since 2005. The
 results of ocean general circulation-biogeochemistry model studies are found to be
 consistent with the observations.},
-  doi      = {10.5670/oceanog.2012.71},
-  file     = {:Takahashi_etal2012_Changing_CC_SO.pdf:PDF},
-  groups   = {bio},
-  keywords = {rank4},
+  doi           = {10.5670/oceanog.2012.71},
+  file          = {:Takahashi_etal2012_Changing_CC_SO.pdf:PDF},
+  groups        = {bio},
+  keywords      = {rank4},
+}
+
+@Article{Marotzke2015,
+  author        = {Jochem Marotzke and Piers M. Forster},
+  title         = {Forcing, feedback and internal variability in global temperature trends},
+  journal       = {Nature},
+  year          = {2015},
+  volume        = {517},
+  number        = {7536},
+  pages         = {565--570},
+  month         = {jan},
+  __markedentry = {[m300524:3]},
+  abstract      = {Most present-generation climate models simulate an increase in global-mean surface temperature (GMST) since 1998,
+whereas observations suggest a warming hiatus. It is unclear to what extent this mismatch is caused by incorrect model
+forcing, by incorrect model response to forcing or by random factors. Here we analyse simulations and observations of
+GMST from 1900 to 2012, and show that the distribution of simulated 15-year trends shows no systematic bias against the
+observations. Using a multiple regression approach that is physically motivated by surface energy balance, we isolate the
+impact of radiative forcing, climate feedback and ocean heat uptake on GMST—with the regression residual interpreted
+as internal variability—and assess all possible 15- and 62-year trends. The differences between simulated and observed
+trends are dominated by random internal variability over the shorter timescale and by variations in the radiative forcings
+used to drive models over the longer timescale. For either trend length, spread in simulated climate feedback leaves no
+traceable imprint on GMST trends or, consequently, on the difference between simulations and observations. The claim
+that climate models systematically overestimate the response to radiative forcing from increasing greenhouse gas
+concentrations therefore seems to be unfounded.},
+  doi           = {10.1038/nature14117},
+  file          = {:Marotzke_Forster_2015_nature14117.pdf:PDF},
+  keywords      = {rank2},
+  publisher     = {Nature Publishing Group},
+  url           = {http://dx.doi.org/10.1038/nature14117},
+}
+
+@Article{Morrison2015,
+  author        = {Adele K. Morrison and Thomas L. Frölicher and Jorge L. Sarmiento},
+  title         = {Upwelling in the Southern Ocean},
+  journal       = {Physics To},
+  year          = {2015},
+  __markedentry = {[m300524:5]},
+  abstract      = {Because deep water in the Southern Ocean is cold, centuries old, and rich
+in nutrients, its circulation exerts an outsized influence on Earth’s heat balance,
+the carbon cycle, and much of ocean biology.},
+  file          = {:Morrison_etal2015_PhysicsToday.pdf:PDF},
+  keywords      = {rank3},
+}
+
+@Article{Sarmiento2006,
+  author        = {J. L. Sarmiento, N. Gruber, M. A. Brzezinski \& J. P. Dunne},
+  title         = {High-latitude controls of thermocline nutrients and low latitude biological productivity},
+  journal       = {Nature},
+  year          = {2006},
+  __markedentry = {[m300524:5]},
+  abstract      = {The ocean’s biological pump strips nutrients out of the surface
+waters and exports them into the thermocline and deep waters. If
+there were no return path of nutrients from deep waters, the
+biological pump would eventually deplete the surface waters and
+thermocline of nutrients; surface biological productivity would
+plummet. Here we make use of the combined distributions of
+silicic acid and nitrate to trace the main nutrient return path
+from deep waters by upwelling in the Southern Ocean1 and
+subsequent entrainment into subantarctic mode water. We
+show that the subantarctic mode water, which spreads through-
+out the entire Southern Hemisphere2,3 and North Atlantic
+Ocean3, is the main source of nutrients for the thermocline. We
+also find that an additional return path exists in the northwest
+corner of the Pacific Ocean, where enhanced vertical mixing,
+perhaps driven by tides4, brings abyssal nutrients to the surface
+and supplies them to the thermocline of the North Pacific. Our
+analysis has important implications for our understanding of
+large-scale controls on the nature and magnitude of low-latitude
+biological productivity and its sensitivity to climate change.},
+  file          = {:Sarmiento_etal2006_nature.pdf:PDF},
+  keywords      = {rank3},
+}
+
+@Article{Stoessel2015,
+  author    = {Achim Stössel and Dirk Notz and F. Alexander Haumann and Helmuth Haak and Johann Jungclaus and Uwe Mikolajewicz},
+  title     = {Controlling high-latitude Southern Ocean convection in climate models},
+  journal   = {Ocean Modelling},
+  year      = {2015},
+  volume    = {86},
+  pages     = {58--75},
+  month     = {feb},
+  abstract  = {Earth System Models (ESMs) generally suffer from a poor simulation of the High-Latitude Southern Ocean
+(HLSO). Here we aim at a better understanding of the shortcomings by investigating the sensitivity of the
+HLSO to the external freshwater flux and the horizontal resolution in forced and coupled simulations
+with the Max-Planck-Institute Ocean Model (MPIOM). Forced experiments reveal an immediate reduc-
+tion of open-ocean convection with additional freshwater input. The latter leads to a remarkably realistic
+simulation of the distinct water-mass structure in the central Weddell Sea featuring a temperature max-
+imum of +0.5 °C at 250 m depth. Similar, but more modest improvements occur over a time span of
+40 years after switching from a forced to a coupled simulation with an eddy-resolving version of MPIOM.
+The switch is accompanied with pronounced changes of the external freshwater flux and the wind field,
+as well as a more realistic heat flux due to coupling. Similar to the forced freshwater-flux experiments, a
+heat reservoir develops at depth, which in turn decreases the vertically integrated density of the HLSO
+and reduces the Antarctic Circumpolar Current to rather realistic values. Coupling with a higher resolu-
+tion version of the atmosphere model (ECHAM6) yields distinct improvements of the HLSO water-mass
+structure and sea-ice cover. While the coupled simulations reveal a realistic amount of Antarctic runoff,
+its distribution appears too concentrated along the coast. Spreading the runoff over a wider region, as
+suggested in earlier studies to mimic the effect of freshwater transport through icebergs, also leads to
+noticeable improvements of the HLSO water-mass properties, predominantly along the coast. This sug-
+gests that the spread of the runoff improves the representation of Antarctic Bottom Water formation
+through enhanced near-boundary convection rather than weakened open-ocean convection.},
+  doi       = {10.1016/j.ocemod.2014.11.008},
+  file      = {:Stoessel_etal2015_OM_SO_ventilation_ice.pdf:PDF},
+  keywords  = {rank3},
+  publisher = {Elsevier {BV}},
+  url       = {http://dx.doi.org/10.1016/j.ocemod.2014.11.008},
+}
+
+@Article{Sloyan2007,
+  author    = {Bernadette M. Sloyan and Igor V. Kamenkovich},
+  title     = {Simulation of Subantarctic Mode and Antarctic Intermediate Waters in Climate Models},
+  journal   = {Journal of Climate},
+  year      = {2007},
+  volume    = {20},
+  number    = {20},
+  pages     = {5061--5080},
+  month     = {oct},
+  doi       = {10.1175/jcli4295.1},
+  file      = {:Sloyan_etal2007_JoC_SAMW_AAIW_simulations.pdf:PDF},
+  keywords  = {rank2},
+  publisher = {American Meteorological Society},
+  url       = {http://dx.doi.org/10.1175/JCLI4295.1},
+}
+
+@Article{Abernathey2011,
+  author    = {Ryan Abernathey and John Marshall and David Ferreira},
+  title     = {The Dependence of Southern Ocean Meridional Overturning on Wind Stress},
+  journal   = {J. Phys. Oceanogr.},
+  year      = {2011},
+  volume    = {41},
+  number    = {12},
+  pages     = {2261--2278},
+  month     = {dec},
+  abstract  = {An eddy-resolving numerical model of a zonal flow, meant to resemble the Antarctic Circumpolar Current,
+is described and analyzed using the framework of J. Marshall and T. Radko. In addition to wind and buoyancy
+forcing at the surface, the model contains a sponge layer at the northern boundary that permits a residual
+meridional overturning circulation (MOC) to exist at depth. The strength of the residual MOC is diagnosed
+for different strengths of surface wind stress. It is found that the eddy circulation largely compensates for
+the changes in Ekman circulation. The extent of the compensation and thus the sensitivity of the MOC to the
+winds depend on the surface boundary condition. A fixed-heat-flux surface boundary severely limits the
+ability of the MOC to change. An interactive heat flux leads to greater sensitivity. To explain the MOC
+sensitivity to the wind strength under the interactive heat flux, transformed Eulerian-mean theory is applied,
+in which the eddy diffusivity plays a central role in determining the eddy response. A scaling theory for the
+eddy diffusivity, based on the mechanical energy balance, is developed and tested; the average magnitude of
+the diffusivity is found to be proportional to the square root of the wind stress. The MOC sensitivity to the
+winds based on this scaling is compared with the true sensitivity diagnosed from the experiments.},
+  doi       = {10.1175/jpo-d-11-023.1},
+  file      = {:Abernathey_etal_2011_SO_meridional_overturning.pdf:PDF},
+  publisher = {American Meteorological Society},
+  url       = {http://dx.doi.org/10.1175/JPO-D-11-023.1},
+}
+
+@Book{Emery2003,
+  title     = {Water Types and Water Masses},
+  publisher = {Elsevier Scientific Publishing Company, Amsterdam},
+  year      = {2003},
+  author    = {W. J. Emery},
+  file      = {:Emery_etal2003_Elsevier_Water_Types_Masses.pdf:PDF},
+}
+
+@Article{Speer2001,
+  author   = {Kevin Speer, Stephen R. Rintoul and Bernadette M. Sloyan},
+  title    = {The Diabatic Deacon Cell},
+  journal  = {Journal of Physical Oceanography},
+  year     = {2011},
+  abstract = {Southern Ocean air–sea fluxes from the COADS dataset are examined for compatibility between buoyancy
+gain and northward Ekman transport. An analysis in density classes points to an upwelling of Upper Circumpolar
+Deep Water and subsequent buoyancy gain from air–sea exchange as water flows northward in the Ekman layer.
+The Upper Circumpolar Deep Water layer is too shallow to admit southward geostrophic flow along topography,
+and an eddy mass flux mechanism for southward transport in this layer to replenish the upwelling is advanced,
+based on observed large-scale potential vorticity gradients. Estimates of the strength and vertical structure of
+the meridional flow are given using repeated hydrographic sections and a new climatology.},
+  file     = {:Speer_ etal2001_JPO_diabatic_deacon_cell.pdf:PDF},
+}
+
+@Article{Wetzel2005,
+  author   = {P. Wetzel, A. Winguth, E. Maier-Reimer},
+  title    = {Sea-to-air CO2 flux from 1948 to 2003: A model study},
+  journal  = {Glo},
+  year     = {2005},
+  abstract = {Trends and variability in the ocean-atmosphere CO2 flux and the uptake of
+anthropogenic CO2 are simulated for the period 1948–2003, using a biogeochemical
+carbon cycle model (HAMOCC5) coupled online to a global ocean general circulation
+model (MPI-OM). The model is forced by daily National Centers for Environmental
+Prediction/National Center for Atmospheric Research (NCEP/NCAR) reanalysis data
+from 1948 to 2003. We find a global interannual variability of ±0.50 PgC yrÀ1 (2s) which
+is largely dominated by ocean dynamics in the equatorial Pacific. On decadal scale, two
+patterns are of global importance. First, the regime shift that occurs in 1975–1977 when the
+modeled interannual variability of the equatorial Pacific changes from ±0.32 PgC yrÀ1
+to ±0.23 PgC yrÀ1 and the mean outgasing of CO2 decreases from 0.70 PgC yrÀ1 to
+0.58 PgC yrÀ1. Second, the trend that occurs in the Southern Ocean, where we find an
+increase of the CO2 fluxes over the full 56-year simulation period. The flux results from
+stronger upwelling and deeper mixed layers which are caused by increasing wind
+velocities. We estimate an average CO2 flux into the ocean of 1.49 PgC yrÀ1 for 1980–
+ ̃1989 and 1.74 PgC yrÀ1 for 1990–1999, with extremes of 1.20 PgC yrÀ1 at the La Nina
+ ̃event in 1996 and 2.10 PgC yrÀ1 during the El Nino events in 1993 and 1998.
+Because of the rising buffer factor, the uptake of anthropogenic CO2 is slowing down in
+regions of shallow mixing toward the end of the simulation. Overall, about 124 Pg of
+anthropogenic carbon has accumulated in the model ocean until the end of 2003.},
+  file     = {:Wetzel_etal2005_GBC_C02_flux_model.pdf:PDF},
+}
+
+@Article{Wanninkhof1992,
+  author   = {Rik Wanninkhof},
+  title    = {Relationship Between and Wind Speed and Gas Exchange and Over the Ocean},
+  journal  = {Journal of Geop},
+  year     = {1992},
+  abstract = {Relationships between wind speed and gas transfer, combined with knowledge of the partial
+pressuredifferenceof CO2 acrossthe air-seainterfaceare frequently used to determinethe CO2 flux
+between the ocean and the atmosphere. Little attention has been paid to the influence of variability in
+wind speed on the calculated gas transfer velocities and the possibility of chemical enhancement of
+CO2 exchangeat low wind speedsover the ocean. The effect of these parameters is illustrated using
+a quadratic dependenceof gas exchange on wind speed which is fit through gas transfer velocities over
+the ocean determined the natural-14C by disequilibrium thebomb-14C and inventory methods. Some
+of the variability between different data sets can be accounted for by the suggestedmechanisms, but
+much of the variation appears due to other causes.Possiblecausesfor the large difference between two
+frequently used relationships between gas transfer and wind speed are discussed. To determine fluxes
+of gasesother than CO2 acrossthe air-water interface, the relevant expressionsfor gas transfer, and
+the temperature and salinity dependence of the Schmidt number and solubility of several gases of
+environmental interest are included in an appendix.},
+  file     = {:Wanninkhof_1992_GRL_Relationship_windspped_gasexchange.pdf:PDF},
+}
+
+@Article{Wanninkhof1999,
+  author  = {Rik Wanninkhof and Wade R. McGillis},
+  title   = {A cubic relationship between air-sea CO2 exchangeand wind speed},
+  journal = {Geophys},
+  year    = {1999},
+  volume  = {26},
+  number  = {13},
+  pages   = {1889-1892},
+  month   = {July},
+  file    = {:Wanninkhof_and_McGills_1999_GRL_Relationship_windspeed_gasexchange.pdf:PDF},
+}
+
+@Article{Sloyan2001,
+  author    = {Bernadette M. Sloyan and Stephen R. Rintoul},
+  title     = {Circulation, Renewal, and Modification of Antarctic Mode and Intermediate Water{\ast}},
+  journal   = {J. Phys. Oceanogr.},
+  year      = {2001},
+  volume    = {31},
+  number    = {4},
+  pages     = {1005--1030},
+  month     = {apr},
+  doi       = {10.1175/1520-0485(2001)031<1005:cramoa>2.0.co;2},
+  file      = {:Sloyan_etal2001_JPO_AAIW.pdf:PDF},
+  publisher = {American Meteorological Society},
+  url       = {http://dx.doi.org/10.1175/1520-0485(2001)031<1005:CRAMOA>2.0.CO;2},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
