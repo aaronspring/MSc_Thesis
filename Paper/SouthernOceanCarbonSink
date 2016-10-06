@@ -157,15 +157,16 @@ uncertain.},
 }
 
 @Article{Heuze2013,
-  author    = {C{\'{e}}line Heuz{\'{e}} and Karen J. Heywood and David P. Stevens and Jeff K. Ridley},
-  title     = {Southern Ocean bottom water characteristics in {CMIP}5~{m}odels},
-  journal   = {Geophys. Res. Lett.},
-  year      = {2013},
-  volume    = {40},
-  number    = {7},
-  pages     = {1409--1414},
-  month     = {apr},
-  abstract  = {Southern Ocean deep water properties and formation
+  author        = {C{\'{e}}line Heuz{\'{e}} and Karen J. Heywood and David P. Stevens and Jeff K. Ridley},
+  title         = {Southern Ocean bottom water characteristics in {CMIP}5~{m}odels},
+  journal       = {Geophys. Res. Lett.},
+  year          = {2013},
+  volume        = {40},
+  number        = {7},
+  pages         = {1409--1414},
+  month         = {apr},
+  __markedentry = {[m300524:5]},
+  abstract      = {Southern Ocean deep water properties and formation
 processes in climate models are indicative of their capability
 to simulate future climate, heat and carbon uptake, and
 sea level rise. Southern Ocean temperature and density
@@ -183,11 +184,11 @@ properties occur in models with deep convection in the
 Weddell and Ross Gyres. Bottom Water formation processes
 are poorly represented in ocean models and are a key
 challenge for improving climate predictions.},
-  doi       = {10.1002/grl.50287},
-  file      = {:Heuze_etal2013_GRL_SO_bottom_water_cmip5.pdf:PDF},
-  keywords  = {SouternOcean, rank3},
-  publisher = {Wiley-Blackwell},
-  url       = {http://dx.doi.org/10.1002/grl.50287},
+  doi           = {10.1002/grl.50287},
+  file          = {:Heuze_etal2013_GRL_SO_bottom_water_cmip5.pdf:PDF},
+  keywords      = {SouternOcean, rank3},
+  publisher     = {Wiley-Blackwell},
+  url           = {http://dx.doi.org/10.1002/grl.50287},
 }
 
 @Book{Nevison2016,
@@ -517,7 +518,7 @@ upwelling in the Southern Ocean. This return path is largely driven by winds. It
 importance of Southern Ocean upwelling for our understanding of climate rivals that of North Atlantic downwelling, because it
 controls the rate at which ocean reservoirs of heat and carbon communicate with the surface.},
   doi           = {10.1038/ngeo1391},
-  file          = {:MarshallSpeer_2012_NGeo_SOupwelling_ngeo1391.pdf:PDF},
+  file          = {:MarshallSpeer_2012_NGeo_SOupwelling_ngeo1391.pdf:PDF;:Li_Ilyina_variability_OCU_13Jun2016.docx:Word 2007+},
   keywords      = {rank2, CarbonSink, SouternOcean},
   publisher     = {Nature Publishing Group},
   url           = {http://dx.doi.org/10.1038/NGEO1391},
@@ -556,28 +557,30 @@ between 2020 and 2050 in some regions.},
 }
 
 @Proceedings{ilyinaletter2016,
-  title     = {Hidden trends in the ocean carbon sink},
-  year      = {2016},
-  abstract  = {Simulations of the flux of atmospheric carbon dioxide into the ocean show that 
+  title         = {Hidden trends in the ocean carbon sink},
+  year          = {2016},
+  __markedentry = {[m300524:5]},
+  abstract      = {Simulations of the flux of atmospheric carbon dioxide into the ocean show that 
 changes in flux associated with human activities are currently masked by natural 
 climate variations, but will be evident in the near future},
-  author    = {Tatiana Ilyina},
-  booktitle = {Nature},
-  file      = {:Ilyina_2016_OCS_Hidden_trends_letter_530426a.pdf:PDF},
-  keywords  = {rank3, CarbonSink},
-  url       = {http://www.nature.com/nature/journal/v530/n7591/pdf/530426a.pdf},
+  author        = {Tatiana Ilyina},
+  booktitle     = {Nature},
+  file          = {:Ilyina_2016_OCS_Hidden_trends_letter_530426a.pdf:PDF},
+  keywords      = {rank4, CarbonSink},
+  url           = {http://www.nature.com/nature/journal/v530/n7591/pdf/530426a.pdf},
 }
 
 @Article{Sallee2013,
-  author    = {J.-B. Sall{\'{e}}e and E. Shuckburgh and N. Bruneau and A. J. S. Meijers and T. J. Bracegirdle and Z. Wang},
-  title     = {Assessment of Southern Ocean mixed-layer depths in {CMIP}5~{m}odels: Historical bias and forcing response},
-  journal   = {J. Geophys. Res. Oceans},
-  year      = {2013},
-  volume    = {118},
-  number    = {4},
-  pages     = {1845--1862},
-  month     = {apr},
-  abstract  = {The development of the deep Southern Ocean winter mixed layer in the climate
+  author        = {J.-B. Sall{\'{e}}e and E. Shuckburgh and N. Bruneau and A. J. S. Meijers and T. J. Bracegirdle and Z. Wang},
+  title         = {Assessment of Southern Ocean mixed-layer depths in {CMIP}5~{m}odels: Historical bias and forcing response},
+  journal       = {J. Geophys. Res. Oceans},
+  year          = {2013},
+  volume        = {118},
+  number        = {4},
+  pages         = {1845--1862},
+  month         = {apr},
+  __markedentry = {[m300524:4]},
+  abstract      = {The development of the deep Southern Ocean winter mixed layer in the climate
 models participating in the fifth Coupled Models Intercomparison Project (CMIP5) is
 assessed. The deep winter convection regions are key to the ventilation of the ocean
 interior, and changes in their properties have been related to climate change in numerous
@@ -594,11 +597,11 @@ with larger historical mixed-layer depths. Given that most models are biased sha
 expect that most CMIP5 climate models might underestimate the future winter
 mixed-layer shallowing, with important implications for the sequestration of heat, and
 gases such as carbon dioxide, and therefore for climate.},
-  doi       = {10.1002/jgrc.20157},
-  file      = {:Sallee_etal2013_JGR_CMIP5_ML.pdf:PDF},
-  keywords  = {SouternOcean, rank3},
-  publisher = {Wiley-Blackwell},
-  url       = {http://dx.doi.org/10.1002/jgrc.20157},
+  doi           = {10.1002/jgrc.20157},
+  file          = {:Sallee_etal2013_JGR_CMIP5_ML.pdf:PDF},
+  keywords      = {SouternOcean, rank3},
+  publisher     = {Wiley-Blackwell},
+  url           = {http://dx.doi.org/10.1002/jgrc.20157},
 }
 
 @Article{Schiermeier2009,
@@ -613,33 +616,35 @@ Quirin Schiermeier reports on how two environmental problems complicate each oth
 }
 
 @Article{Deser2012a,
-  author    = {Clara Deser and Reto Knutti and Susan Solomon and Adam S. Phillips},
-  title     = {Communication of the role of natural variability in future North American climate},
-  journal   = {Nature Climate Change},
-  year      = {2012},
-  volume    = {2},
-  number    = {11},
-  pages     = {775--779},
-  month     = {oct},
-  abstract  = {As climate models improve, decision-makers’ expectations for accurate climate predictions are growing. Natural climate
+  author        = {Clara Deser and Reto Knutti and Susan Solomon and Adam S. Phillips},
+  title         = {Communication of the role of natural variability in future North American climate},
+  journal       = {Nature Climate Change},
+  year          = {2012},
+  volume        = {2},
+  number        = {11},
+  pages         = {775--779},
+  month         = {oct},
+  __markedentry = {[m300524:]},
+  abstract      = {As climate models improve, decision-makers’ expectations for accurate climate predictions are growing. Natural climate
 variability, however, poses inherent limits to climate predictability and the related goal of adaptation guidance in many places, as
 illustrated here for North America. Other locations with low natural variability show a more predictable future in which anthro-
 pogenic forcing can be more readily identified, even on small scales. We call for a more focused dialogue between scientists, poli-
 cymakers and the public to improve communication and avoid raising expectations for accurate regional predictions everywhere.},
-  doi       = {10.1038/nclimate1562},
-  file      = {:Deser_etal2012_NCC_communication.pdf:PDF},
-  keywords  = {rank2},
-  publisher = {Nature Publishing Group},
-  url       = {http://dx.doi.org/10.1038/NCLIMATE1562},
+  doi           = {10.1038/nclimate1562},
+  file          = {:Deser_etal2012_NCC_communication.pdf:PDF},
+  keywords      = {rank2},
+  publisher     = {Nature Publishing Group},
+  url           = {http://dx.doi.org/10.1038/NCLIMATE1562},
 }
 
 @Article{Gioretta2013,
-  author   = {Marco A. Giorgetta},
-  title    = {Climate and carbon cycle changes from 1850 to 2100 in MPI-ESM simulations for the Coupled Model Intercomparison Project phase 5},
-  journal  = {JOURNAL OF ADVANCES IN MODELING EARTH SYSTEMS},
-  year     = {2013},
-  volume   = {5},
-  abstract = {The new Max-Planck-Institute Earth System Model (MPI-ESM) is used in the
+  author        = {Marco A. Giorgetta},
+  title         = {Climate and carbon cycle changes from 1850 to 2100 in MPI-ESM simulations for the Coupled Model Intercomparison Project phase 5},
+  journal       = {JOURNAL OF ADVANCES IN MODELING EARTH SYSTEMS},
+  year          = {2013},
+  volume        = {5},
+  __markedentry = {[m300524:5]},
+  abstract      = {The new Max-Planck-Institute Earth System Model (MPI-ESM) is used in the
 Coupled Model Intercomparison Project phase 5 (CMIP5) in a series of climate change
 experiments for either idealized CO2-only forcing or forcings based on observations and
 the Representative Concentration Pathway (RCP) scenarios. The paper gives an overview
@@ -658,9 +663,9 @@ RCP2.6 and largest in that for RCP8.5. The land also serves as a net carbon sink
 narios, predominantly in boreal regions. The strong tropical carbon sources found in the
 RCP2.6 and RCP8.5 experiments are almost absent in the RCP4.5 experiment, which can
 be explained by reforestation in the RCP4.5 scenario.},
-  doi      = {doi:10.1002/jame.20038, 2013},
-  file     = {:Gioretta_etal2013_JAMES.pdf:PDF},
-  keywords = {rank3, CarbonSink},
+  doi           = {doi:10.1002/jame.20038, 2013},
+  file          = {:Gioretta_etal2013_JAMES.pdf:PDF},
+  keywords      = {rank3, CarbonSink},
 }
 
 @Article{Swanson,
@@ -921,15 +926,16 @@ is likely twice as large as previously thought in past, present, and future clim
 }
 
 @Article{Delille2014,
-  author    = {Bruno Delille and Martin Vancoppenolle and Nicolas-Xavier Geilfus and Bronte Tilbrook and Delphine Lannuzel and V{\'{e}}ronique Schoemann and Sylvie Becquevort and Gauthier Carnat and Daniel Delille and Christiane Lancelot and Lei Chou and Gerhard S. Dieckmann and Jean-Louis Tison},
-  title     = {Southern Ocean {CO}2 sink: The contribution of the sea ice},
-  journal   = {J. Geophys. Res. Oceans},
-  year      = {2014},
-  volume    = {119},
-  number    = {9},
-  pages     = {6340--6355},
-  month     = {sep},
-  abstract  = {We report first direct measurements of the partial pressure of CO2 (pCO2) within Antarctic pack
+  author        = {Bruno Delille and Martin Vancoppenolle and Nicolas-Xavier Geilfus and Bronte Tilbrook and Delphine Lannuzel and V{\'{e}}ronique Schoemann and Sylvie Becquevort and Gauthier Carnat and Daniel Delille and Christiane Lancelot and Lei Chou and Gerhard S. Dieckmann and Jean-Louis Tison},
+  title         = {Southern Ocean {CO}2 sink: The contribution of the sea ice},
+  journal       = {J. Geophys. Res. Oceans},
+  year          = {2014},
+  volume        = {119},
+  number        = {9},
+  pages         = {6340--6355},
+  month         = {sep},
+  __markedentry = {[m300524:5]},
+  abstract      = {We report first direct measurements of the partial pressure of CO2 (pCO2) within Antarctic pack
 sea ice brines and related CO2 fluxes across the air-ice interface. From late winter to summer, brines encased
 in the ice change from a CO2 large oversaturation, relative to the atmosphere, to a marked undersaturation
 while the underlying oceanic waters remains slightly oversaturated. The decrease from winter to summer of
@@ -941,12 +947,12 @@ mates of spring and summer CO2 uptake from the atmosphere by Antarctic sea ice. 
 summer period, the Antarctic sea ice cover is a net sink of atmospheric CO2 of 0.029 Pg C, about 58% of the
 estimated annual uptake from the Southern Ocean. Sea ice then contributes significantly to the sink of CO2
 of the Southern Ocean.},
-  doi       = {10.1002/2014jc009941},
-  file      = {:/home/zmaw/m300524/MSc_Thesis/Paper/Delille_etal2014_JGR_Sea_Ice.pdf:PDF},
-  groups    = {observations},
-  keywords  = {CarbonSink, SouternOcean, rank3},
-  publisher = {Wiley-Blackwell},
-  url       = {http://dx.doi.org/10.1002/2014JC009941},
+  doi           = {10.1002/2014jc009941},
+  file          = {:/home/zmaw/m300524/MSc_Thesis/Paper/Delille_etal2014_JGR_Sea_Ice.pdf:PDF},
+  groups        = {observations},
+  keywords      = {CarbonSink, SouternOcean, rank3},
+  publisher     = {Wiley-Blackwell},
+  url           = {http://dx.doi.org/10.1002/2014JC009941},
 }
 
 @Article{Hauck2015,
@@ -1138,7 +1144,7 @@ sink in the coming century.},
   journal       = {Global Biogeochem. Cycles},
   year          = {2007},
   volume        = {21},
-  __markedentry = {[m300524:1]},
+  __markedentry = {[m300524:4]},
   abstract      = {We investigate the interannual variability in the flux of CO2 between the atmosphere
 and the Southern Ocean on the basis of hindcast simulations with a coupled
 physical-biogeochemical-ecological model with particular emphasis on the role of the
@@ -1525,7 +1531,7 @@ other.},
   doi       = {10.1016/b978-012374473-9.00741-4},
   file      = {:Gruber_and_Doney_2009_Ocean_Biogeochemistry_and_Ecology_Modeling.pdf:PDF},
   groups    = {bio},
-  keywords  = {rank1},
+  keywords  = {rank2},
   pages     = {89--104},
   url       = {http://dx.doi.org/10.1016/B978-012374473-9.00741-4},
 }
@@ -1760,6 +1766,7 @@ the diffusivity is found to be proportional to the square root of the wind stres
 winds based on this scaling is compared with the true sensitivity diagnosed from the experiments.},
   doi       = {10.1175/jpo-d-11-023.1},
   file      = {:Abernathey_etal_2011_SO_meridional_overturning.pdf:PDF},
+  keywords  = {rank2},
   publisher = {American Meteorological Society},
   url       = {http://dx.doi.org/10.1175/JPO-D-11-023.1},
 }
@@ -1770,13 +1777,14 @@ winds based on this scaling is compared with the true sensitivity diagnosed from
   year      = {2003},
   author    = {W. J. Emery},
   file      = {:Emery_etal2003_Elsevier_Water_Types_Masses.pdf:PDF},
+  keywords  = {rank2},
 }
 
 @Article{Speer2001,
   author   = {Kevin Speer, Stephen R. Rintoul and Bernadette M. Sloyan},
   title    = {The Diabatic Deacon Cell},
   journal  = {Journal of Physical Oceanography},
-  year     = {2011},
+  year     = {2001},
   abstract = {Southern Ocean air–sea fluxes from the COADS dataset are examined for compatibility between buoyancy
 gain and northward Ekman transport. An analysis in density classes points to an upwelling of Upper Circumpolar
 Deep Water and subsequent buoyancy gain from air–sea exchange as water flows northward in the Ekman layer.
@@ -1785,14 +1793,16 @@ and an eddy mass flux mechanism for southward transport in this layer to repleni
 based on observed large-scale potential vorticity gradients. Estimates of the strength and vertical structure of
 the meridional flow are given using repeated hydrographic sections and a new climatology.},
   file     = {:Speer_ etal2001_JPO_diabatic_deacon_cell.pdf:PDF},
+  keywords = {rank2},
 }
 
 @Article{Wetzel2005,
-  author   = {P. Wetzel, A. Winguth, E. Maier-Reimer},
-  title    = {Sea-to-air CO2 flux from 1948 to 2003: A model study},
-  journal  = {Glo},
-  year     = {2005},
-  abstract = {Trends and variability in the ocean-atmosphere CO2 flux and the uptake of
+  author        = {P. Wetzel, A. Winguth, E. Maier-Reimer},
+  title         = {Sea-to-air CO2 flux from 1948 to 2003: A model study},
+  journal       = {Glo},
+  year          = {2005},
+  __markedentry = {[m300524:4]},
+  abstract      = {Trends and variability in the ocean-atmosphere CO2 flux and the uptake of
 anthropogenic CO2 are simulated for the period 1948–2003, using a biogeochemical
 carbon cycle model (HAMOCC5) coupled online to a global ocean general circulation
 model (MPI-OM). The model is forced by daily National Centers for Environmental
@@ -1811,7 +1821,8 @@ velocities. We estimate an average CO2 flux into the ocean of 1.49 PgC yrÀ1 for
 Because of the rising buffer factor, the uptake of anthropogenic CO2 is slowing down in
 regions of shallow mixing toward the end of the simulation. Overall, about 124 Pg of
 anthropogenic carbon has accumulated in the model ocean until the end of 2003.},
-  file     = {:Wetzel_etal2005_GBC_C02_flux_model.pdf:PDF},
+  file          = {:Wetzel_etal2005_GBC_C02_flux_model.pdf:PDF},
+  keywords      = {rank4},
 }
 
 @Article{Wanninkhof1992,
@@ -1833,18 +1844,20 @@ of gasesother than CO2 acrossthe air-water interface, the relevant expressionsfo
 the temperature and salinity dependence of the Schmidt number and solubility of several gases of
 environmental interest are included in an appendix.},
   file     = {:Wanninkhof_1992_GRL_Relationship_windspped_gasexchange.pdf:PDF},
+  keywords = {rank1},
 }
 
 @Article{Wanninkhof1999,
-  author  = {Rik Wanninkhof and Wade R. McGillis},
-  title   = {A cubic relationship between air-sea CO2 exchangeand wind speed},
-  journal = {Geophys},
-  year    = {1999},
-  volume  = {26},
-  number  = {13},
-  pages   = {1889-1892},
-  month   = {July},
-  file    = {:Wanninkhof_and_McGills_1999_GRL_Relationship_windspeed_gasexchange.pdf:PDF},
+  author   = {Rik Wanninkhof and Wade R. McGillis},
+  title    = {A cubic relationship between air-sea CO2 exchangeand wind speed},
+  journal  = {Geophys},
+  year     = {1999},
+  volume   = {26},
+  number   = {13},
+  pages    = {1889-1892},
+  month    = {July},
+  file     = {:Wanninkhof_and_McGills_1999_GRL_Relationship_windspeed_gasexchange.pdf:PDF},
+  keywords = {rank1},
 }
 
 @Article{Sloyan2001,
@@ -1856,10 +1869,95 @@ environmental interest are included in an appendix.},
   number    = {4},
   pages     = {1005--1030},
   month     = {apr},
+  abstract  = {Nine hydrographic sections are combined in an inverse box model of the Southern Ocean south of ϳ12ЊS.
+The inverse model has two novel features: the inclusion of independent diapycnal flux unknowns for each
+property and the explicit inclusion of air–sea fluxes (heat, freshwater, and momentum) and the water mass
+transformation they drive. Transformation of 34 ϫ 10 6 m 3 sϪ1 of Antarctic Surface Water by air–sea buoyancy
+fluxes, and cooling and freshening where Subantarctic Mode Water outcrops, renews cold, fresh Antarctic
+Intermediate Water of the southeast Pacific and southwest Atlantic. Relatively cold, fresh mode and intermediate
+water enter the subtropical gyres, are modified by air–sea fluxes and interior mixing, and return poleward as
+warmer, saltier mode and intermediate water. While the zonally integrated meridional transport in these layers
+is small, the gross exchange is approximately 80 ϫ 10 6 m 3 sϪ1 .
+The air–sea transformation of Antarctic surface water to intermediate water is compensated in the Southern
+Ocean by an interior diapycnal flux of 32 ϫ 10 6 m 3 sϪ1 of intermediate water to upper deep water. The small
+property differences between slightly warmer, saltier intermediate water and cold, fresh Antarctic Surface Water
+results in a poleward transfer of heat and salt across the Polar Front zone.
+Mode and intermediate water are crucial participants in the North Atlantic Deep Water overturning and
+Indonesian Throughflow circulation cells. The North Atlantic Deep Water overturning is closed by cold, fresh
+intermediate water that is modified to warm, salty varieties by air–sea fluxes and interior mixing in the Atlantic
+and southwest Indian Oceans. The Indonesian Throughflow is part of a circum-Australia circulation. In the
+Indian Ocean, surface water is converted to denser thermocline and mode water by air–sea fluxes and interior
+mixing, excess mode water flows eastward south of Australia, and air–sea fluxes convert mode water to ther-
+mocline water in the Pacific.},
   doi       = {10.1175/1520-0485(2001)031<1005:cramoa>2.0.co;2},
   file      = {:Sloyan_etal2001_JPO_AAIW.pdf:PDF},
+  keywords  = {rank1},
   publisher = {American Meteorological Society},
   url       = {http://dx.doi.org/10.1175/1520-0485(2001)031<1005:CRAMOA>2.0.CO;2},
+}
+
+@Article{Sallee2013_wm,
+  author        = {J.-B. Sallée, E. Shuckburgh, N. Bruneau, A. J. S. Meijers,T. J. Bracegirdle, Z. Wang, and T. Roy},
+  title         = {Assessment of Southern Ocean water mass circulation and characteristics in CMIP5 models: Historical bias and forcing response},
+  journal       = {Journal of Geophysi},
+  year          = {2013},
+  __markedentry = {[m300524:3]},
+  abstract      = {The ability of the models contributing to the fifth Coupled Models Intercomparison
+Project (CMIP5) to represent the Southern Ocean hydrological properties and its
+overturning is investigated in a water mass framework. Models have a consistent warm
+and light bias spread over the entire water column. The greatest bias occurs in the
+ventilated layers, which are volumetrically dominated by mode and intermediate layers.
+The ventilated layers have been observed to have a strong fingerprint of climate change
+and to impact climate by sequestrating a significant amount of heat and carbon dioxide.
+The mode water layer is poorly represented in the models and both mode and
+intermediate water have a significant fresh bias. Under increased radiative forcing,
+models simulate a warming and lightening of the entire water column, which is again
+greatest in the ventilated layers, highlighting the importance of these layers for
+propagating the climate signal into the deep ocean. While the intensity of the water mass
+overturning is relatively consistent between models, when compared to
+observation-based reconstructions, they exhibit a slightly larger rate of overturning at
+shallow to intermediate depths, and a slower rate of overturning deeper in the water
+column. Under increased radiative forcing, atmospheric fluxes increase the rate of
+simulated upper cell overturning, but this increase is counterbalanced by diapycnal
+fluxes, including mixed-layer horizontal mixing, and mostly vanishes.},
+  file          = {:Sallee_etal2013_JGR_CMIP5_water_maxx_circulation.pdf:PDF},
+  keywords      = {rank4},
+}
+
+@Misc{Wanninkhof2013,
+  author   = {Rik Wanninkhof and Atlantic Oceanographic and Meteorological Laboratory and (AOML) of},
+  title    = {Relationship Between Wind Speed and Gas Exchange Over the Ocean, Revisited},
+  year     = {2013},
+  file     = {:Wanninkhof_AirSeaGaz-Brest2013.pdf:PDF;:Li_Ilyina_variability_OCU_13Jun2016.docx:Word 2007+},
+  keywords = {rank1},
+}
+
+@Article{Deser_2014,
+  author        = {Clara Deser and Adam S. Phillips and Michael A. Alexander and Brian V. Smoliak},
+  title         = {Projecting North American Climate over the Next 50 Years: Uncertainty due to Internal Variability},
+  journal       = {Journal of Climate},
+  year          = {2014},
+  volume        = {27},
+  number        = {6},
+  pages         = {2271--2296},
+  month         = {mar},
+  __markedentry = {[m300524:4]},
+  doi           = {10.1175/JCLI-D-13-00451.1},
+  file          = {:Deser_etal2014_JoC_Int_Var.pdf:PDF},
+  keywords      = {rank2},
+  publisher     = {American Meteorological Society},
+  url           = {http://dx.doi.org/10.1175/JCLI-D-13-00451.1},
+}
+
+@Article{Hongmei_Draft2016,
+  author        = {Hongmei Li, Tatiana Ilyina},
+  title         = {Variability of the ocean carbon sink in MPI-ESM and large ensemble simulations},
+  journal       = {OCU},
+  year          = {2016},
+  __markedentry = {[m300524:4]},
+  booktitle     = {OCU},
+  file          = {:Li_Ilyina_variability_OCU_13Jun2016.pdf:PDF},
+  keywords      = {rank4},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
