@@ -1,0 +1,84 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{ilyina2013}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Ilyina}{I.}%
+     {K.~D. Six H.~Li}{K.~D. S. H.~L.}%
+     {}{}%
+     {T.}{T.}}%
+    {{}%
+     {Nunez-Riboni}{N.-R.}%
+     {I.}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{rank3, CarbonSink}
+  \strng{namehash}{ITKDSHLNRI1}
+  \strng{fullhash}{ITKDSHLNRI1}
+  \field{labelyear}{2013}
+  \field{sortinit}{I}
+  \field{abstract}{%
+  Ocean biogeochemistry is a novel standard compoons required within the CMIP5
+  experimental design.%
+  }
+  \field{pages}{287\bibrangedash 315}
+  \field{title}{Global ocean biogeochemistry model HAMOCC: Model architecture
+  and performance as component of the MPI-Earth system model in different CMIP5
+  experimental realizations}
+  \field{volume}{5}
+  \verb{file}
+  \verb :Ilyina_etal2013a_JAMES_hamocc_cmip5.pdf:PDF
+  \endverb
+  \field{journaltitle}{J. Adv. Model. Earth Syst.}
+  \field{year}{2013}
+\endentry
+
+\entry{landschuetzer2016}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Landschützer}{L.}%
+     {C.~Rödenbeck D. C. E.~Bakker}{C.~R. D. C. E.~B.}%
+     {}{}%
+     {P.}{P.}}%
+  }
+  \keyw{rank4,observations, CarbonSink, SouternOcean}
+  \strng{namehash}{LPCRDCEB1}
+  \strng{fullhash}{LPCRDCEB1}
+  \field{labelyear}{2016}
+  \field{sortinit}{L}
+  \field{abstract}{%
+  Several studies have suggested that the carbon sink in the Southern
+  Ocean—the ocean’s in time than previously recognized.%
+  }
+  \field{number}{6253}
+  \field{pages}{1221\bibrangedash 1226}
+  \field{title}{The reinvigoration of the Southern Ocean carbon sink}
+  \field{volume}{349}
+  \verb{file}
+  \verb :Landschuetzer_etal2015_Science_reinvigoration_SOSC.pdf:PDF
+  \endverb
+  \field{journaltitle}{Science}
+  \field{year}{2016}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

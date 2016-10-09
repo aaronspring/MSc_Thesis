@@ -1,0 +1,61 @@
+%*******************************************************
+% List of Figures and of the Tables
+%*******************************************************
+\clearpage
+\begingroup 
+    \let\clearpage\relax
+    \let\cleardoublepage\relax
+    \let\cleardoublepage\relax
+    %*******************************************************
+    % List of Figures
+    %*******************************************************    
+	\section{\listfigurename}     
+    %\phantomsection 
+    \refstepcounter{dummy}
+    %\addcontentsline{toc}{section}{\listfigurename}
+ %   \pdfbookmark[1]{\listfigurename}{lof}
+    \listoffigures
+
+    \vspace{8ex}
+
+    %*******************************************************
+    % List of Tables
+    %*******************************************************
+	\section{\listtablename}     
+    %\phantomsection 
+    \refstepcounter{dummy}
+    %\addcontentsline{toc}{section}{\listtablename}
+    \pdfbookmark[1]{\listtablename}{lot}
+    \listoftables
+        
+    \vspace{8ex}
+%   \newpage
+    
+    %*******************************************************
+    % List of Listings
+    %*******************************************************      
+	\section{\lstlistlistingname}     
+      %\phantomsection 
+    \refstepcounter{dummy}
+    %\addcontentsline{toc}{section}{\lstlistlistingname}
+    %\addcontentsline{toc}{chapter}{\lstlistlistingname}
+    \pdfbookmark[1]{\lstlistlistingname}{lol}
+    %\lstlistoflistings 
+
+    \vspace{8ex}
+       
+    %*******************************************************
+    % Acronyms
+    %*******************************************************
+    %\phantomsection 
+    \refstepcounter{dummy}
+    \pdfbookmark[1]{Acronyms}{acronyms}
+    \markboth{\spacedlowsmallcaps{Acronyms}}{\spacedlowsmallcaps{Acronyms}}
+    \chapter*{Acronyms}
+    \begin{acronym}[UMLX]
+        \acro{DRY}{Don't Repeat Yourself}
+        \acro{API}{Application Programming Interface}
+        \acro{UML}{Unified Modeling Language}
+    \end{acronym}                     
+\endgroup
+
