@@ -1,0 +1,616 @@
+/* PID 383, FID 2011 */
+/* CSS Project Application Addon */
+/* Expecting: */
+/* - #page_content in page */
+
+
+/* ===================================== */
+/*	vertical submenu */
+/* ===================================== */
+
+.apl_addon_vertical_submenu,
+.apl_addon_vertical_submenu ul
+{
+	margin: 0 !important;
+	padding: 0 !important;
+	list-style-type: none !important;
+}
+.apl_addon_vertical_submenu a
+{
+	text-decoration: none !important;
+}
+a.apl_addon_vertical_submenu_active
+{
+	text-decoration: underline !important;
+}
+.apl_addon_vertical_submenu li
+{
+	font-weight: bold;
+}
+.apl_addon_vertical_submenu ul li
+{
+	font-weight: normal;
+	font-size: .9em;
+	padding: 0;
+	margin: 0;
+}
+.apl_addon_vertical_submenu ul li a
+{
+	padding-left: 15px;
+	background-image: url(http://contentmanager.copernicus.org/1695/598);
+	background-repeat: no-repeat;
+	text-decoration: none;
+}
+.apl_addon_vertical_submenu ul a.noprefix
+{
+	background-image: none;
+	padding-left: 0;
+}
+
+
+
+/* ===================================== */
+/*	formfield error */
+/* ===================================== */
+.erroneous_form_field
+{
+	background-color: #fbb;
+}
+
+/* ===================================== */
+/*	standard action link */
+/* ===================================== */
+.apl_addon_standard_action_link_list
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.apl_addon_standard_action_link_list li
+{
+	line-height: 1.4em;
+}
+.apl_addon_standard_action_link_list li a,
+.apl_addon_standard_action_link
+{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: 0 .5em;
+	padding-left: 12px!important;
+
+	background-image: url(http://contentmanager.copernicus.org/3931/598);
+}
+.apl_addon_standard_action_link_no_underline li a,
+.apl_addon_standard_action_link_no_underline
+{
+	text-decoration: none;
+}
+
+/* ===================================== */
+/*	sergeys green action link */
+/* ===================================== */
+
+a.green_action:hover
+{
+	background-color:#00AA00 !important;
+	color:#FFFFFF !important;
+	text-decoration:none !important;
+}
+a.green_action
+{
+	color:#00AA00 !important;
+	font-weight:bold !important;
+	text-decoration:none !important;
+}
+
+
+/* ===================================== */
+/*	FormchangeWatchdog */
+/* ===================================== */
+#formchangewatchdog_notYetSave
+{
+	position: absolute;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	right: 0;
+
+	width: 100%;
+	height: 100%;
+	margin: 0;
+
+	background-color: #eee;
+	display: none;
+	filter: alpha(opacity=95);
+	opacity:.95;
+}
+#formchangewatchdog_notYetSave img
+{
+	border: none;
+}
+#formchangewatchdog_notYetSave_container
+{
+	width: 370px;
+	height: 130px;
+	display: block;
+	position: absolute;
+	padding: 0;
+	color: #6a6a6a;
+	text-align: center;
+}
+#formchangewatchdog_notYetSave div p
+{
+	text-align: left;
+	padding-left: 19px;
+	background-image: url(http://contentmanager.copernicus.org/355/598);
+	background-position: left 1px;
+	background-repeat: no-repeat;
+}
+#notYetSave_action_dismiss,
+#notYetSave_action_check,
+#notYetSave_action_save
+{
+	float: right;
+	margin-left: 3px;
+}
+
+
+/* ===================================== */
+/*	Administrator Userinfo (top left) */
+/* ===================================== */
+.co_administrator_menu_userinfo,
+.co_administrator_menu_userinfo a
+{
+/*	background-color: #fff; */
+	color: #00275B; /*#000;*/
+	font-size: .9em;
+}
+.co_administrator_menu_userinfo a
+{
+	text-decoration: none;
+	background-image: url(http://contentmanager.copernicus.org/3931/598);
+	background-repeat: no-repeat;
+	background-position: 0 4px;
+	margin: 0;
+	padding: 0;
+	padding-left: 12px;
+	margin-left: 6px;
+
+	height: auto;
+	line-height: 1.5em;
+}
+.co_administrator_menu_userinfo a:hover
+{
+	text-decoration: underline;
+}
+
+#co-l-office-wrapper .co_administrator_menu_userinfo
+{
+	margin:0 0 0 5px;
+}
+.co_administrator_menu_userinfo
+{
+	-webkit-border-radius: 3px; /* Safari 3-4, iOS 1-3.2, Android 1.6- */
+	-moz-border-radius: 3px; /* Firefox 1-3.6 */
+	border-radius:3px;
+	margin: 0;
+	padding-bottom: 2px;
+
+	width: 175px;
+	font-size: 11px;
+
+	display: block;
+
+	background-color: #F5F5F5;
+	border: 1px solid rgba(106, 106, 106, 0.15);
+}
+.co_administrator_menu_userinfo p
+{
+	margin-bottom: .4em;
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 5px;
+	font-weight:bold;
+}
+.co_administrator_menu_userinfo #co_administrator_menu_userinfo_logout
+{
+	background-image: url(http://contentmanager.copernicus.org/2226/598) !important;
+	font-weight: bold;
+	color: #7D250B;
+}
+
+/* ===================================== */
+/* submenu on top of page */
+/* ===================================== */
+#page_content div.top_menu
+{
+	text-align: left;
+	border-bottom: 1px solid #6a6a6a; /*#c3c3c3;*/
+	padding: 1px;
+	margin-bottom: 14px;
+	height: 59px;
+	/* 207 = width of application logo */
+	margin-right: 207px;
+}
+#page_content .top_menu a,
+#page_content a.top_menu
+{
+	color: #6a6a6a!important;
+	text-decoration: none !important;
+	font-weight: bold;
+	padding: 1px;
+	font-size: 0.8em;
+}
+#page_content .top_menu a:hover,
+#page_content a.top_menu:hover
+{
+	color: #ffffff !important;
+	background-color: #c3c3c3;
+	text-decoration: none;
+}
+#page_content div.top_menu table
+{
+	height: 100%;
+	border: none;
+}
+#page_content div.top_menu table a
+{
+	color: #6a6a6a !important;
+	text-decoration: none !important;
+	font-weight: bold;
+	padding: 1px;
+	font-size: 0.8em;
+}
+#page_content div.top_menu table a:hover
+{
+	color: #ffffff !important;
+	background-color: #c3c3c3;/*#6a6a6a;*/
+	text-decoration: none;
+}
+
+
+/* ===================================== */
+/* h2 on a box within content */
+/* ===================================== */
+#page_content h2.onabox
+{
+	margin-bottom: 0;
+	border-bottom: none;
+}
+/*
+#page_content h2
+{
+	margin: 0;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #6a6a6a;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-size: 1.5em;
+}
+*/
+
+/* h3 within content, h2 without border */
+/*
+#page_content h3
+{
+	margin: 0;
+	border: none;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-size: 1.4em;
+	font-weight: normal;
+}
+*/
+
+/* h3 within content and within contentbox */
+#page_content .contentbox h3
+{
+	border-bottom: 1px solid #aaa;
+	margin-bottom: 5px;
+}
+/* ===================================== */
+/*	mandatory form text */
+/* ===================================== */
+.form_mandatory
+{
+	font-size: .8em;
+	vertical-align: top;
+	font-weight: bold;
+	color: #e6a904 !important;
+}
+
+/* ===================================== */
+/* standard content box */
+/* ===================================== */
+.contentbox
+{
+	margin: 0;
+	background-color:#f5f5f5;
+	border:1px solid #6a6a6a;
+	padding: 1em;
+}
+
+/* ===================================== */
+/*	Application Logo (top right) */
+/* ===================================== */
+#page_content .copernicus_office_application_logo_link
+{
+	border: 0;
+	float: right;
+	background-color: #fff;
+}
+#page_content .copernicus_office_application_logo_link img
+{
+	padding: 1em;
+	padding-top: 0;
+}
+
+/* ===================================== */
+/*	Save Button for Forms */
+/* ===================================== */
+.form_save_area,
+.form_save_area_bottom
+{
+	border: 1px solid #6a6a6a;
+	border-top: 0;
+	background-color:#f5f5f5;
+	background-image: url(http://contentmanager.copernicus.org/4042/598);
+	background-repeat: repeat-x;
+	padding: 0.3em;
+	text-align: right;
+	overflow: hidden;
+}
+.form_save_area_top
+{
+	border: 1px solid #6a6a6a;
+	border-bottom: 0;
+	background-color:#f5f5f5;
+	background-image: url(http://contentmanager.copernicus.org/4612/598);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	padding: 0.3em;
+	text-align: right;
+}
+/* ===================================== */
+/*	2-colored Table with mouseover */
+/* ===================================== */
+.co_table_bordered
+{
+	border-collapse: collapse;
+}
+.co_table_bordered td,
+.co_table_bordered th
+{
+	border: 1px solid #6a6a6a;
+	padding: 1px;
+}
+
+.co_table_bordered td td
+{
+	border: none;
+}
+
+.co_table_bordered .tablerow_0,
+.co_table .tablerow_0,
+#page_content table .tablerow_0
+{
+	background-color: #fff;
+}
+.co_table_bordered .tablerow_1,
+.co_table .tablerow_1,
+#page_content table .tablerow_1
+{
+	background-color: transparent;
+}
+.co_table_bordered tr:hover,
+.co_table tr:hover,
+#page_content table .tablerow_hover
+{
+	background-color: #E5DDB7;
+}
+.co_table_bordered thead tr,
+.co_table_bordered tr:hover,
+.co_table_bordered_hover,
+.co_table thead tr,
+.co_table tr:hover,
+.co_table_hover
+{
+	background-color: #dfdfdf;
+}
+.co_table_bordered thead td,
+.co_table_bordered thead th,
+.co_table thead td,
+.co_table thead th
+{
+	text-align: left;
+	color: #000000;
+	font-weight: bold;
+}
+
+/* ===================================== */
+/*	?  */
+/* ===================================== */
+#copernicus_office_contenthead
+{
+	height: 72px;
+	display: inline;
+	float: right;
+}
+
+/* ===================================== */
+/* CO Project Tree */
+/* ===================================== */
+.cotree
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	font-size: 10px;
+}
+.cotreeexpander
+{
+	display: block;
+	background-color: #eaa;
+	text-decoration: underline;
+	color: #6a6a6a;
+	text-align: center;
+	padding: .3em;
+}
+.cotree div
+{
+	padding: 0;
+	margin: 0;
+}
+.cotree a
+{
+	text-decoration: none !important;
+	float: left;
+	color: #6a6a6a !important;
+	font-weight: normal;
+}
+.cotree a:hover
+{
+	text-decoration: underline;
+}
+.cotree li
+{
+	display: block;
+	margin: 0;
+	padding: 0;
+	/* for ie - no clue why... otherwise IE starts do extends rows do double size */
+	padding-top: 1px;
+	background-image: none!important;
+}
+
+.cotreenodeContent
+{
+	border: 0 solid red;
+}
+
+.cotreenodeisInCurrentPath a
+{
+	font-weight: bold;
+	color: #6a6a6a !important;
+}
+.cotreenodeisNotInCurrentPath a
+{
+	font-weight: normal;
+}
+
+.cotreeimage
+{
+	width: 9px;
+	height: 20px;
+	float: left;
+	background-image: url(http://contentmanager.copernicus.org/2147/598);
+	margin: 0;
+	padding: 0;
+
+}
+.cotreenodehasChilds .cotreeimage
+{
+}
+.cotreepreimage
+{
+}
+.cotreepostimage
+{
+	float: left;
+}
+.cotreeopenclose
+{
+	width: 16px;
+	height: 16px;
+	margin-left: .5em;
+	display: block;
+	display: none;
+}
+.cotreelinefillerhasFollower
+{
+	width: 22px;
+	height: 20px;
+	float: left;
+	background-image: url(http://contentmanager.copernicus.org/2144/598);
+	background-repeat: no-repeat;
+}
+.cotreelinefillerhasNoFollower
+{
+	width: 22px;
+	height: 20px;
+	float: left;
+}
+.cotreelinefillerLvl2__XY
+{
+	width: 22px;
+	height: 20px;
+	float: left;
+	background-image: none;
+}
+
+.cotreenodehasChilds
+{
+	margin-left: 2em;
+}
+.cotreenodehasNoChilds
+{
+}
+.cotreenodeOpen a
+{
+}
+
+.cotreenodehasChildshasNoFollowerisOpen .cotreeimage
+{
+	background-image: url(http://contentmanager.copernicus.org/2142/598);
+	width: 21px;
+	height: 20px;
+}
+
+.cotreenodehasNoChildshasFollowerisNotOpen .cotreeimage,
+.cotreenodehasNoChildshasFollowerisOpen .cotreeimage
+{
+	background-image: url(http://contentmanager.copernicus.org/2146/598) !important;
+	width: 21px;
+	height: 20px;
+}
+
+.cotreenodehasChildshasFollowerisOpen .cotreeimage
+{
+	background-image: url(http://contentmanager.copernicus.org/2143/598);
+	width: 21px;
+	height: 20px;
+}
+
+.cotreenodehasNoChildshasNoFollowerisNotOpen .cotreeimage,
+.cotreenodehasNoChildshasNoFollowerisOpen .cotreeimage
+{
+	background-image: url(http://contentmanager.copernicus.org/2145/598);
+	width: 21px;
+	height: 20px;
+}
+
+.cotreenodehasChildshasNoFollowerisNotOpen .cotreeimage
+{
+	width: 21px;
+	height: 20px;
+	background-image: url(http://contentmanager.copernicus.org/2148/598);
+}
+.cotreenodehasChildshasFollowerisNotOpen .cotreeimage
+{
+	width: 21px;
+	height: 20px;
+	background-image: url(http://contentmanager.copernicus.org/2149/598);
+}
+
+.cotreeFolderTemplates a,
+.cotreeFolderFiles a,
+.cotreeFolderPermissions a,
+.cotreeFolderPages a,
+.cotreeFolderVariables a
+{
+	font-size: 7px;
+}
+.cotreeFolderPage_MenuHidden a
+{
+	font-style: italic;
+}

@@ -1,0 +1,1132 @@
+/* =============================================== sessionprogramme & meetingprogramme & programme */
+/**
+
+H1: leave as is
+H2: use specs from H1 of EGU2016 template
+H3: use specs from H2 of EGU2016 template
+H4: use specs from H3 of EGU2016 template
+
+*/
+#co_mto_globalContentContainer h1
+{
+    font-size: 18px!important;
+    font-weight: bold!important;
+    margin: 0 0 10px!important;
+    padding: 0 0 2px!important;
+	border: none!important;
+}
+
+#co_mto_globalContentContainer h2
+{
+    border-bottom: 1px dotted #a6afb8!important;
+    color: rgb(0, 114, 188)!important;
+    display: block!important;
+    font-size: 16px!important;
+    font-weight: 700!important;
+    margin: 0 0 10px!important;
+    padding: 0 0 2px!important;
+}
+
+#co_mto_globalContentContainer #license {
+    margin-top: 1em !important;
+}
+
+#co_mto_globalContentContainer h3
+{
+    color: rgb(0, 114, 188)!important;
+    display: block!important;
+    font-size: 14px!important;
+    font-weight: 700!important;
+    margin: 17px 0 0 0!important;
+    padding: 0!important;
+}
+
+#co_mto_globalContentContainer h4
+{
+   margin: 0!important;
+   padding: 0!important;
+   font-size: 1em!important;
+   font-weight: 700!important;
+   color: #000000!important;
+   display: block!important;
+}
+
+#sessionprogramme h3,
+#meetingprogramme h3,
+#specialinterestsprogramme h3,
+#provisionalprogramme h3,
+#programme h3 {
+    margin-bottom: .8em;
+}
+
+#sessionprogramme h1,
+#meetingprogramme h1,
+#specialinterestsprogramme h1,
+#provisionalprogramme h1,
+#programme h1 {
+}
+
+#sessionprogramme .pc_login,
+#meetingprogramme .pc_login,
+#specialinterestsprogramme .pc_login,
+#provisionalprogramme .pc_login,
+#programme .pc_login
+{
+    margin-bottom: 2em;
+    display: block;
+    float: none!important;
+}
+
+#sessionprogramme .s2simulator .pclogin,
+#meetingprogramme .s2simulator .pc_login,
+#specialinterestsprogramme .s2simulator .pc_login,
+#provisionalprogramme .s2simulator .pc_login,
+#programme .s2simulator .pc_login
+{
+    margin-top: -10px!important;
+    font-size: 1em;
+    font-weight: normal;
+}
+
+#sessionprogramme .programme_session,
+#meetingprogramme .programme_session,
+#specialinterestsprogramme .programme_session,
+#provisionalprogramme .programme_session,
+#programme .programme_session
+{
+	margin-bottom: 0;
+}
+#provisionalprogramme .programme_session
+{
+	margin-top: -1.5em;
+}
+
+#sessionprogramme .programme_session .sessiontitle,
+#meetingprogramme .programme_session .sessiontitle,
+#specialinterestsprogramme .programme_session .sessiontitle,
+#provisionalprogramme .programme_session .sessiontitle,
+#programme .programme_session .sessiontitle
+{
+    font-weight: bold;
+}
+
+#sessionprogramme #pglist,
+#meetingprogramme #pglist,
+#specialinterestsprogramme #pglist,
+#provisionalprogramme #pglist,
+#programme #pglist
+{
+    float: left;
+    width: 200px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#sessionprogramme #pglist li,
+#meetingprogramme #pglist li,
+#specialinterestsprogramme #pglist li,
+#provisionalprogramme #pglist li,
+#programme #pglist li
+{
+    padding-right: 1em;
+    padding-left: 12px;
+    background-image: url(http://egu2017.eu/file.3931.gif);
+    background-position: left .6em;
+    background-repeat: no-repeat;
+    line-height: 1.5em;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+#sessionprogramme #pglist li a,
+#meetingprogramme #pglist li a,
+#specialinterestsprogramme #pglist li a,
+#provisionalprogramme #pglist li a,
+#programme #pglist li a
+{
+    text-decoration: none;
+    font-weight: normal!important;
+}
+
+#sessionprogramme #pglist .divider,
+#meetingprogramme #pglist .divider,
+#specialinterestsprogramme #pglist .divider,
+#provisionalprogramme #pglist .divider,
+#programme #pglist .divider
+{
+    margin: 0;
+    padding: 0;
+    margin-right: 1em;
+    margin-left: 1em;
+    border-bottom: 1px solid #ccc;
+    height: 1px;
+    line-height: 1px;
+    overflow: hidden;
+    background-image: none;
+    font-size: 1px;
+}
+
+#sessionprogramme #pgcontent,
+#meetingprogramme #pgcontent,
+#specialinterestsprogramme #pgcontent,
+#provisionalprogramme #pgcontent,
+#programme #pgcontent
+{
+    vertical-align: top;
+    width: 580px;
+    padding-left: 1em;
+    border-left: 1px solid #aaa;
+}
+
+#sessionprogramme .s2simulator,
+#meetingprogramme .s2simulator,
+#specialinterestsprogramme .s2simulator,
+#provisionalprogramme .s2simulator,
+#programme .s2simulator
+{
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 1em;
+    padding-top: .7em;
+    border-top: 1px solid #ccc;
+    width: 100%;
+}
+
+#sessionprogramme .s2simulator td,
+#meetingprogramme .s2simulator td,
+#specialinterestsprogramme .s2simulator td,
+#provisionalprogramme .s2simulator td,
+#programme .s2simulator td
+{
+    vertical-align: top;
+}
+
+#sessionprogramme .s2simulator .top,
+#meetingprogramme .s2simulator .top,
+#specialinterestsprogramme .s2simulator .top,
+#provisionalprogramme .s2simulator .top,
+#programme .s2simulator .top
+{
+    float: right;
+    position: relative;
+    bottom: 29px;
+}
+
+#sessionprogramme .firsts2sim,
+#meetingprogramme .firsts2sim,
+#specialinterestsprogramme .firsts2sim,
+#provisionalprogramme .firsts2sim,
+#programme .firsts2sim
+{
+    border-top: none!important;
+}
+
+#sessionprogramme #search,
+#meetingprogramme #search,
+#specialinterestsprogramme #search,
+#provisionalprogramme #search,
+#programme #search
+{
+    margin-bottom: 1em;
+    margin-right: 3px;
+}
+
+#sessionprogramme #search .form_q,
+#meetingprogramme #search .form_q,
+#specialinterestsprogramme #search .form_q,
+#provisionalprogramme #search .form_q,
+#programme #search .form_q
+{
+    font-size: .9em;
+    color: #999;
+    border: 1px solid #aaa;
+    width: 173px;
+}
+
+#sessionprogramme #suggestions,
+#meetingprogramme #suggestions,
+#specialinterestsprogramme #suggestions,
+#provisionalprogramme #suggestions,
+#programme #suggestions
+{
+    list-style-type: none;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    margin-left: 2em;
+    padding: 0;
+}
+
+#sessionprogramme #pgprogrammprefix_eg,
+#sessionprogramme #pgprogrammprefix_gc,
+#sessionprogramme #pgprogrammprefix_is,
+#sessionprogramme #pgprogrammprefix_gdg,
+#sessionprogramme #pgprogrammprefix_dbm,
+#sessionprogramme #pgprogrammprefix_sc,
+#sessionprogramme #pgprogrammprefix_gdb,
+#sessionprogramme #pgprogrammprefix_egu,
+#sessionprogramme #pgprogrammprefix_dm,
+#sessionprogramme #pgprogrammprefix_um
+{
+    background-image: none!important;
+    padding-left: 0!important;
+}
+
+/* =============================================== sessionprogramme & meetingprogramme & programme/ */
+
+
+#programme #daycolumn li {
+    background-image: none;
+    padding-left: 0;
+}
+
+#programme #daycolumn li table {
+    margin: 0;
+    padding: 0;
+    border-collapse: collapse;
+}
+
+#programme #daycolumn li table td {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+}
+
+#programme #pglist li {
+    font-weight: normal;
+}
+
+#programme #daycolumn #search {
+    margin-bottom: 2em;
+}
+
+#programme #co_days_and_timeblocks {
+    float: left;
+    border-collapse: collapse;
+    margin-bottom: 2em;
+}
+
+#programme #co_days_and_timeblocks td {
+    vertical-align: middle;
+}
+
+#programme .co_programme_timeselector {
+    font-size: smaller;
+}
+
+#programme #pglist li {
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+
+#programme h2 {
+    margin-bottom: .5em;
+}
+
+.session_userinfo {
+    padding: .5em;
+    font-size: .9em;
+    border: 1px solid #aaa;
+    background-color: #eee;
+    display: none;
+    width: 450px;
+}
+
+.mo_scheduling_block {
+    margin-top: .2em;
+}
+
+.mo_scheduling_strings {
+    margin: 0;
+    padding: 0;
+    margin-top: 1em;
+}
+
+.mo_scheduling_strings .mo_scheduling_string {
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+}
+
+.mo_scheduling_string td {
+    padding: 0!important;
+}
+
+#sessiondetails .mo_scheduling_string_time {
+    font-weight: bold;
+}
+
+#sessiondetails .mo_scheduling_string_place {
+    font-weight: bold;
+}
+
+#sessiondetails .mo_scheduling_string_displaytime {
+    font-weight: bold;
+}
+
+.programme_session_info img {
+    margin-left: .5em;
+    position: relative;
+    top: 2px;
+}
+
+#search {
+    padding-top: 4px;
+}
+
+.co_administrator_menu_userinfo {
+    margin-bottom: 27px!important;
+    margin-left: 14px!important;
+    padding-bottom: 5px!important;
+    width: 171px!important;
+}
+
+#contentTable {
+    width: 100%!important;
+}
+
+.paymentMethod ul li {
+    background-image: none!important;
+}
+
+#page_content #search div.search input {
+    border: 1px solid #C3C3C3!important;
+}
+
+#page_content .clear {
+    clear: none!important;
+}
+
+#page_content #contentTable {
+    clear: none!important;
+    float: none !important;
+}
+
+.co_table_bordered .tablerow_0 td,
+.co_table_bordered .tablerow_1 td,
+.co_table_bordered .tablerow_hover td {
+    padding: 5px!important;
+}
+
+.mo_pc2_schedulings th {
+    padding: 6px;
+}
+
+.mo_pc2_schedulings td {
+    padding: 6px !important;
+}
+
+.mo_pc2_schedulings_legend {
+    width: 100%;
+}
+
+.mo_pc2_schedulings_legend th {
+    padding: 6px;
+}
+
+.mo_pc2_schedulings_legend td {
+    padding: 6px !important;
+}
+
+.mo_pc2_schedulings_legend_left {
+    width: 60px;
+}
+
+.contentbox {
+    border-color: #C3C3C3!important;
+}
+
+.co_table_bordered td, .co_table_bordered th {
+    border-color: #C3C3C3!important;
+}
+
+.co_table_bordered thead tr,
+.co_table_bordered tr:hover,
+.co_table_bordered_hover,
+.co_table thead tr,
+.co_table tr:hover,
+.co_table_hover {
+    background-color: #E0E0E0!important;
+}
+
+#co_pc_pg_statistics {
+    margin-bottom: 10px;
+}
+
+.form_save_area,
+.form_save_area_bottom {
+    border-color: -moz-use-text-color #C3C3C3 #C3C3C3!important;
+    border-right: 1px solid #C3C3C3!important;
+}
+
+/* This is for the new meeting programme which replaces the "programme". To avoid conflicts with the old meetinprogramme most items are still named "programme". But this will replace a lot of old stuff and some this from the old programme became obsolet. A cleanup has to be done! */
+
+#programme h1 {
+    _margin-bottom: 1em;
+}
+
+#programme #pgcontent {
+    width: auto;
+    border: none;
+    padding: 0;
+}
+
+#sessionprogramme_spg_list {
+    margin-bottom: 30px;
+}
+
+#sessionprogramme_navigationbar.fixed,
+#meetingprogramme_navigationbar.fixed,
+#specialinterestsprogramme_navigationbar.fixed,
+#provisionalprogramme_navigationbar.fixed
+{
+    top: 0!important;
+    position: fixed!important;
+    z-index: 2;
+}
+
+#programme .programme_session td {
+    padding: 0!important;
+}
+
+#sessionprogramme_navigationbar,
+#meetingprogramme_navigationbar,
+#specialinterestsprogramme_navigationbar,
+#provisionalprogramme_navigationbar
+{
+    border: 1px solid #A4ADB6;
+    display: block;
+    padding: 5px;
+    margin-bottom: 1.5em;
+    background-color: #E0E0E0;
+    width: 785px!important;
+    min-height: 2.5em;
+}
+#sessionprogramme_navigationbar
+{
+    height: 33px;
+}
+#meetingprogramme_navigationbar,
+#specialinterestsprogramme_navigationbar
+{
+    height: 54px; /*64*/
+}
+
+#sessionprogramme_navigationbar_close,
+#meetingprogramme_navigationbar_close,
+#specialinterestsprogramme_navigationbar_close,
+#provisionalprogramme_navigationbar_close
+{
+    float: right;
+    font-weight: bold;
+    color: red;
+    margin: 0;
+}
+
+#sessionprogramme_navigationbar>ul,
+#meetingprogramme_navigationbar>ul,
+#specialinterestsprogramme_navigationbar>ul,
+#provisionalprogramme_navigationbar>ul
+{
+    height: 1.5em;
+}
+
+#sessionprogramme_navigationbar>ul li,
+#meetingprogramme_navigationbar>ul li,
+#specialinterestsprogramme_navigationbar>ul li,
+#provisionalprogramme_navigationbar>ul li
+{
+    float: left;
+    list-style-type: none;
+    background-image: none;
+    padding: .5em;
+}
+
+.sessionprogramme_navigationbar_title,
+.meetingprogramme_navigationbar_title,
+.specialinterestsprogramme_navigationbar_title,
+.provisionalprogramme_navigationbar_title
+{
+    font-weight: bold;
+}
+
+#sessionprogramme_navigationbar_pg_view,
+#sessionprogramme_navigationbar_day_view,
+#sessionprogramme_navigationbar_tb_view,
+#meetingprogramme_navigationbar_pg_view,
+#meetingprogramme_navigationbar_day_view,
+#meetingprogramme_navigationbar_tb_view,
+#specialinterestsprogramme_navigationbar_pg_view,
+#specialinterestsprogramme_navigationbar_day_view,
+#specialinterestsprogramme_navigationbar_tb_view,
+#provisionalprogramme_navigationbar_pg_view,
+#provisionalprogramme_navigationbar_day_view,
+#provisionalprogramme_navigationbar_tb_view
+{
+    background-color: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    padding: 4px;
+    text-decoration: none;
+    display: none;
+}
+
+.sessionprogramme_navigationbar_submenu,
+.meetingprogramme_navigationbar_submenu,
+.specialinterestsprogramme_navigationbar_submenu,
+.provisionalprogramme_navigationbar_submenu
+{
+    background-color: #E0E0E0;
+    position: absolute;
+    display: none;
+    padding: .5em;
+    box-shadow: 3px 3px 6px #000;
+}
+
+#sessionprogramme_navigationbar li#sessionprogramme_navigationbar_search,
+#meetingprogramme_navigationbar li#meetingprogramme_navigationbar_search,
+#specialinterestsprogramme_navigationbar li#specialinterestsprogramme_navigationbar_search,
+#provisionalprogramme_navigationbar li#provisionalprogramme_navigationbar_search
+{
+    float: right;
+}
+
+#sessionprogramme_navigationbar_search_title,
+#meetingprogramme_navigationbar_search_title,
+#specialinterestsprogramme_navigationbar_search_title,
+#provisionalprogramme_navigationbar_search_title
+{
+    float: left;
+    padding-right: 2px;
+    margin-left: 3em;
+}
+
+#sessionprogramme_navigationbar_searchbox,
+#meetingprogramme_navigationbar_searchbox,
+#specialinterestsprogramme_navigationbar_searchbox,
+#provisionalprogramme_navigationbar_searchbox
+{
+    display: block;
+    float: left;
+    margin-top: -3px;
+    width: 6em;
+    margin-left: 2px;
+}
+
+#sessionprogramme_navigationbar_button,
+#meetingprogramme_navigationbar_button,
+#specialinterestsprogramme_navigationbar_button,
+#provisionalprogramme_navigationbar_button
+{
+    display: block;
+    float: left;
+    margin-top: -4px;
+    margin-left: 2px;
+}
+
+.sessionprogramme_navigationbar_pg_layer_separator
+{
+ padding-bottom: 10px;
+ border-bottom: 1px solid #000000;
+}
+
+#sessionprogramme_navigationbar_pg_layer,
+#meetingprogramme_navigationbar_pg_layer,
+#specialinterestsprogramme_navigationbar_pg_layer,
+#provisionalprogramme_navigationbar_pg_layer
+{
+    border: 1px solid #ccc;
+    position: fixed;
+    z-index: 101;
+    overflow: auto;
+    background-color: #fff;
+    box-shadow: 5px 5px 10px #000;
+    width: 1040px;
+    height: 380px;
+    display: none;
+    padding: 1em;
+}
+
+#sessionprogramme_navigationbar_pg_layer_intro,
+#meetingprogramme_navigationbar_pg_layer_intro,
+#specialinterestsprogramme_navigationbar_pg_layer_intro,
+#provisionalprogramme_navigationbar_pg_layer_intro
+{
+    font-weight: bold;
+}
+
+.specialinterestsprogramme_navigationbar_intro,
+.meetingprogramme_navigationbar_intro
+{
+    margin-bottom: 5px!important;
+}
+
+#sessionprogramme_navigationbar_pg_layer a,
+#meetingprogramme_navigationbar_pg_layer a,
+#specialinterestsprogramme_navigationbar_pg_layer a,
+#provisionalprogramme_navigationbar_pg_layer a
+{
+    display: block;
+    padding-bottom: 3px;
+    text-decoration: none!important;
+}
+#sessionprogramme_navigationbar_pg_layer .h2,
+#meetingprogramme_navigationbar_pg_layer .h2,
+#specialinterestsprogramme_navigationbar_pg_layer .h2,
+#provisionalprogramme_navigationbar_pg_layer .h2
+{
+	margin-top: 0;
+}
+
+#sessionprogramme_navigationbar_pg_layer ul,
+#meetingprogramme_navigationbar_pg_layer ul,
+#specialinterestsprogramme_navigationbar_pg_layer ul,
+#provisionalprogramme_navigationbar_pg_layer ul
+{
+    margin-right: 0.5em;
+	margin-bottom: 0;
+}
+
+#sessionprogramme_navigationbar_pg_layer ul li,
+#sessionprogramme_navigationbar_pg_layer ul ul li,
+#meetingprogramme_navigationbar_pg_layer ul li,
+#meetingprogramme_navigationbar_pg_layer ul ul li,
+#specialinterestsprogramme_navigationbar_pg_layer ul li,
+#specialinterestsprogramme_navigationbar_pg_layer ul ul li,
+#provisionalprogramme_navigationbar_pg_layer ul li,
+#provisionalprogramme_navigationbar_pg_layer ul ul li
+{
+    list-style-type: none;
+    background-image: none;
+    padding: 0;
+    /*width: 350px;*/
+}
+
+#sessionprogramme_navigationbar_pg_layer ul #cat_unionwide,
+#meetingprogramme_navigationbar_pg_layer ul #cat_unionwide,
+#specialinterestsprogramme_navigationbar_pg_layer ul #cat_unionwide,
+#provisionalprogramme_navigationbar_pg_layer ul #cat_unionwide
+{
+    width: 266px;
+}
+
+#sessionprogramme_navigationbar_pg_layer ul ul,
+#meetingprogramme_navigationbar_pg_layer ul ul,
+#specialinterestsprogramme_navigationbar_pg_layer ul ul,
+#provisionalprogramme_navigationbar_pg_layer ul ul
+{
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+#cat_interdiciplinarysessions_col1
+{
+    float: none!important;
+    margin-bottom: 17px!important;
+}
+
+#sessionprogramme_navigationbar_pg_layer #cat_disciplinarysessions,
+#meetingprogramme_navigationbar_pg_layer #cat_disciplinarysessions,
+#specialinterestsprogramme_navigationbar_pg_layer #cat_disciplinarysessions,
+#provisionalprogramme_navigationbar_pg_layer #cat_disciplinarysessions
+{
+    width: 710px;
+}
+
+#sessionprogramme_navigationbar_pg_layer #cat_disciplinarysessions_col1,
+#meetingprogramme_navigationbar_pg_layer #cat_disciplinarysessions_col1,
+#specialinterestsprogramme_navigationbar_pg_layer #cat_disciplinarysessions_col1,
+#provisionalprogramme_navigationbar_pg_layer #cat_disciplinarysessions_col1,
+#sessionprogramme_navigationbar_pg_layer #cat_administrativemeetings_col1,
+#meetingprogramme_navigationbar_pg_layer #cat_administrativemeetings_col1,
+#specialinterestsprogramme_navigationbar_pg_layer#cat_administrativemeetings_col1,
+#provisionalprogramme_navigationbar_pg_layer #cat_administrativemeetings_col1
+{
+    width: 325px;
+}
+#sessionprogramme_navigationbar_pg_layer #cat_disciplinarysessions_col1 li,
+#meetingprogramme_navigationbar_pg_layer #cat_disciplinarysessions_col1 li,
+#specialinterestsprogramme_navigationbar_pg_layer #cat_disciplinarysessions_col1 li,
+#provisionalprogramme_navigationbar_pg_layer #cat_disciplinarysessions_col1 li,
+#sessionprogramme_navigationbar_pg_layer #cat_administrativemeetings_col1 li,
+#meetingprogramme_navigationbar_pg_layer #cat_administrativemeetings_col1 li,
+#specialinterestsprogramme_navigationbar_pg_layer #cat_administrativemeetings_col1 li,
+#provisionalprogramme_navigationbar_pg_layer #cat_administrativemeetings_col1 li
+{
+    width: 325px;
+}
+
+#sessionprogramme_navigationbar_pg_layer #cat_disciplinarysessions_col2,
+#meetingprogramme_navigationbar_pg_layer #cat_disciplinarysessions_col2,
+#specialinterestsprogramme_navigationbar_pg_layer #cat_disciplinarysessions_col2,
+#provisionalprogramme_navigationbar_pg_layer #cat_disciplinarysessions_col2
+{
+    width: 385px;
+}
+#sessionprogramme_navigationbar_pg_layer #cat_disciplinarysessions_col2 li,
+#meetingprogramme_navigationbar_pg_layer #cat_disciplinarysessions_col2 li,
+#specialinterestsprogramme_navigationbar_pg_layer #cat_disciplinarysessions_col2 li,
+#provisionalprogramme_navigationbar_pg_layer #cat_disciplinarysessions_col2 li
+{
+	width: 385px;
+}
+
+#sessionprogramme_navigationbar_pg_layer #cat_administrativemeetings li,
+#meetingprogramme_navigationbar_pg_layer #cat_administrativemeetings li,
+#specialinterestsprogramme_navigationbar_pg_layer #cat_administrativemeetings li,
+#provisionalprogramme_navigationbar_pg_layer #cat_administrativemeetings li
+{
+    width: 225px;
+    padding-right: 0;
+}
+
+#sessionprogramme_navigationbar_pg_layer #cat_administrativemeetings li li,
+#meetingprogramme_navigationbar_pg_layer #cat_administrativemeetings li li,
+#specialinterestsprogramme_navigationbar_pg_layer #cat_administrativemeetings li li,
+#provisionalprogramme_navigationbar_pg_layer #cat_administrativemeetings li li
+{
+    width: 220px;
+}
+
+.sessionprogramme_navigationbar_pg_checkbox_selected,
+.meetingprogramme_navigationbar_pg_checkbox_selected,
+.specialinterestsprogramme_navigationbar_pg_checkbox_selected,
+.provisionalprogramme_navigationbar_pg_checkbox_selected
+{
+    color: #0072BC;
+}
+
+.sessionprogramme_navigationbar_pg_checkbox_deselected,
+.meetingprogramme_navigationbar_pg_checkbox_deselected,
+.specialinterestsprogramme_navigationbar_pg_checkbox_deselected,
+.provisionalprogramme_navigationbar_pg_checkbox_deselected
+{
+    color: #000000;
+}
+
+.sessionprogramme_ajax_loading_animation,
+.meetingprogramme_ajax_loading_animation,
+.specialinterestsprogramme_ajax_loading_animation,
+.provisionalprogramme_ajax_loading_animation
+{
+    position: absolute;
+    left: 58%;
+    z-index: 1;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 12em;
+}
+
+#specialinterestsprogramme_navigationbar_submenu_tc,
+#meetingprogramme_navigationbar_submenu_tc
+{
+    margin-left: 2em;
+}
+
+.specialinterestsprogramme_navigationbar_submenu,
+.meetingprogramme_navigationbar_submenu
+{
+    z-index: 1;
+}
+
+#specialinterestsprogramme_navigationbar_special_interests_view {
+    background-color: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    display: none;
+    padding: 4px;
+    text-decoration: none;
+}
+
+.programme_abstract_title {
+    font-weight: bold;
+}
+
+#programme .programme_si_abstract td {
+    padding: 0!important;
+}
+
+.sessionprogramme_lightboxes,
+.meetingprogramme_lightboxes,
+.specialinterestsprogramme_lightboxes,
+.provisionalprogramme_lightboxes
+{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #ccc;
+    z-index: 100;
+    top: 0;
+    left: 0;
+}
+
+#page_content_container strong
+{
+    color: #000000;
+}
+
+#page_content_container .presenting_author
+{
+    font-style: italic;
+    font-weight: normal;
+}
+
+.oralprogramme_schedulings .oralprogramme_schedulings_subtitle {
+    vertical-align: top;
+}
+
+.displayprogramme_schedulings_scheduling,
+.oralprogramme_schedulings_scheduling {
+    text-align: center;
+}
+
+.mo_scheduling_string_programme {
+    float: left;
+}
+
+div.mo_scheduling_string {
+    clear: left;
+}
+
+.mo_scheduling_string_schedule {
+    float: left;
+}
+
+.mo_scheduling_related_string {
+    border-collapse: collapse;
+    clear: left;
+}
+
+.oralprogramme_schedulings_scheduling,
+.mo_scheduling_string_abstract {
+    text-align: center;
+    vertical-align: top;
+    width: 7em;
+}
+
+.mo_scheduling_block {
+    float: left;
+    width: 100%;
+}
+
+#cat_unionwide li label,
+#cat_unionwide_col1 li label {
+    display: block;
+    margin-top: -20px;
+    padding-left: 21px;
+}
+
+#cat_disciplinarysessions li label {
+    display: block;
+    margin-top: -20px;
+    padding-left: 21px;
+}
+
+#cat_administrativemeetings li label {
+    display: block;
+    margin-top: -20px;
+    padding-left: 21px;
+}
+
+.co-mo-magnifying-glass-hide .co-mo-magnifying-glass {
+    display: none;
+}
+
+.co-mo-magnifying-glass {
+    display: inline;
+    padding-left: 2px;
+}
+
+#sessionprogramme_navigationbar_pg_layer ul#cat_sessionprogramme_col1,
+#sessionprogramme_navigationbar_pg_layer ul#cat_sessionprogramme_col2,
+#provisionalprogramme_navigationbar_pg_layer ul#cat_provisionalprogramme_col1,
+#provisionalprogramme_navigationbar_pg_layer ul#cat_provisionalprogramme_col2
+{
+    width: 350px;
+    display: block;
+    margin-right: 10px;
+}
+
+#sessionprogramme_navigationbar_pg_layer ul#cat_sessionprogramme_col2,
+#provisionalprogramme_navigationbar_pg_layer ul#cat_provisionalprogramme_col2
+{
+    width: 420px;
+}
+
+#sessionprogramme_navigationbar_pg_layer ul#cat_sessionprogramme_col1 li,
+#sessionprogramme_navigationbar_pg_layer ul#cat_sessionprogramme_col2 li,
+#provisionalprogramme_navigationbar_pg_layer ul#cat_provisionalprogramme_col1 li,
+#provisionalprogramme_navigationbar_pg_layer ul#cat_provisionalprogramme_col2 li
+{
+    padding-bottom: 5px;
+}
+
+#sessionprogramme_navigationbar_pg_layer,
+#meetingprogramme_navigationbar_pg_layer,
+#specialinterestsprogramme_navigationbar_pg_layer,
+#provisionalprogramme_navigationbar_pg_layer
+{
+    height: 325px;
+}
+
+#cat_sessionprogramme_col1 li label,
+#cat_sessionprogramme_col2 li label,
+#cat_provisionalprogramme_col1 li label,
+#cat_provisionalprogramme_col2 li label
+{
+    display: block;
+    margin-top: -20px;
+    padding-left: 21px;
+}
+
+#sessionprogramme_navigationbar_pg_layer li,
+#meetingprogramme_navigationbar_pg_layer li,
+#specialinterestsprogramme_navigationbar_pg_layer li,
+#provisionalprogramme_navigationbar_pg_layer li
+{
+    display: block;
+/*    margin-right: 5px;*/
+}
+
+#sessionprogramme_navigationbar_pg_layer .checkbox,
+#provisionalprogramme_navigationbar_pg_layer .checkbox
+{
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    position: relative;
+}
+#sessionprogramme_navigationbar_pg_layer .checkbox label,
+#provisionalprogramme_navigationbar_pg_layer .checkbox label
+{
+    cursor: pointer;
+    margin-bottom: 0;
+    min-height: 20px;
+    padding-left: 20px;
+	display: inline-block;
+}
+
+#sessionprogramme_navigationbar_pg_layer .checkbox input[type="checkbox"],
+#sessionprogramme_navigationbar_pg_layer .checkbox-inline input[type="checkbox"],
+#provisionalprogramme_navigationbar_pg_layer .checkbox input[type="checkbox"],
+#provisionalprogramme_navigationbar_pg_layer .checkbox-inline input[type="checkbox"]
+{
+    margin-left: -20px;
+    position: absolute;
+}
+
+/* PICO session title extensions */
+.co_sessiontitles_extension_pico {
+    color: #666666;
+    font-weight: bold;
+    padding-left: 0.5em;
+}
+
+/*
+* BOX / LEGEND - to be retrieved from copernicus.css later on
+*/
+[class*=' box--'],
+[class^='box--']
+{
+        position: relative;
+        display: block;
+        padding: .5em;
+}
+.box--border
+{
+        border: 1px solid #0072BC;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+}
+.box__legend
+{
+        position: absolute;
+        top: -.75em;
+        display: block;
+        padding: 0 .25em;
+        font-weight: bold;
+        background-color: #fff;
+}
+.box__content
+{
+        display: block;
+        padding-top: .5em;
+}
+/** avoid accumulating of parent padding and child margin **/
+.box__content *:last-child
+{
+        margin-bottom: 0;
+}
+/*
+* BOX / LEGEND /
+*/
+
+
+/*
+* PG selection Layer
+*/
+@media (max-width: 1100px)
+{
+	#sessionprogramme_navigationbar_pg_layer,
+	#meetingprogramme_navigationbar_pg_layer,
+	#specialinterestsprogramme_navigationbar_pg_layer,
+	#provisionalprogramme_navigationbar_pg_layer
+	{
+		width: 710px;
+		height: auto;
+		overflow: hidden;
+	}
+	#sessionprogramme_navigationbar_pg_layer #cat_disciplinarysessions,
+	#meetingprogramme_navigationbar_pg_layer #cat_disciplinarysessions,
+	#specialinterestsprogramme_navigationbar_pg_layer #cat_disciplinarysessions,
+	#provisionalprogramme_navigationbar_pg_layer #cat_disciplinarysessions
+	{
+		width: 390px;
+	}
+	#cat_disciplinarysessions_col1,
+	#cat_disciplinarysessions_col2
+	{
+		width: 100% !important;
+	}
+}
+@media (max-width: 800px)
+{
+	#sessionprogramme_navigationbar_pg_layer,
+	#meetingprogramme_navigationbar_pg_layer,
+	#specialinterestsprogramme_navigationbar_pg_layer,
+	#provisionalprogramme_navigationbar_pg_layer
+	{
+		width: 400px;
+		height: auto;
+	}
+	#sessionprogramme_navigationbar_pg_layer #cat_disciplinarysessions,
+	#meetingprogramme_navigationbar_pg_layer #cat_disciplinarysessions,
+	#specialinterestsprogramme_navigationbar_pg_layer #cat_disciplinarysessions,
+	#provisionalprogramme_navigationbar_pg_layer #cat_disciplinarysessions
+	{
+		margin-top: 5px;
+	}
+}
+@media (max-width: 800px) and (max-height: 700px)
+{
+	#sessionprogramme_navigationbar_pg_layer,
+	#meetingprogramme_navigationbar_pg_layer,
+	#specialinterestsprogramme_navigationbar_pg_layer,
+	#provisionalprogramme_navigationbar_pg_layer
+	{
+		height: 400px;
+		overflow-y: scroll;
+	}
+}
+@media (max-width: 1100px) and (max-height: 580px)
+{
+	#sessionprogramme_navigationbar_pg_layer,
+	#meetingprogramme_navigationbar_pg_layer,
+	#specialinterestsprogramme_navigationbar_pg_layer,
+	#provisionalprogramme_navigationbar_pg_layer
+	{
+		height: 400px;
+		overflow-y: scroll;
+	}
+}

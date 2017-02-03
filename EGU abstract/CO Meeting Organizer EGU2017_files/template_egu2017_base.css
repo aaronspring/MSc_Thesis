@@ -1,0 +1,1111 @@
+/** 18255 */
+html, body
+{
+	padding:0;
+	margin:0;
+	font-family: "Open Sans", Verdana, Sans-Serif;
+	font-size: 13px;
+	background: rgb(164, 173, 182) url(http://egu2017.eu/template_egu_bg_gradient.jpg) repeat-x scroll top;
+	height:100%;
+}
+
+a {
+	text-decoration: underline;
+	color: rgb(0, 0, 0);
+}
+
+a:hover {
+	text-decoration: underline;
+	color: rgb(0, 114, 188);
+}
+
+hr {
+	border: 0;
+	border-bottom: 1px dotted #A6AFB8;
+	background-color: #FFFFFF;
+	height: 1px;
+	margin-bottom: 16px;
+	margin-top: 16px;
+}
+
+h1 img, h2 img, h3 img, h4 img, h5 img {
+    vertical-align: middle;
+}
+
+img
+{
+	border: 0 none;
+}
+
+/* LOGO */
+#logo {
+	display: block;
+	float: left;
+	margin-top: 20px;
+	margin-left: 43px;
+	width: 120px;
+	height: 96px;
+}
+
+/* Header */
+
+#header {
+
+	background: #348eca;
+	height: 195px;
+	background-image: url(http://egu2017.eu/template_egu2017_graphic_moodboard_bg_1024x195.png);
+	text-align: left;
+}
+
+#header .m-customer-name,
+#header .m-customer-title
+{
+	padding: 0 0 0 213px;
+	margin: 0;
+	font-size: 28px;/*27*/
+	font-weight: 700;
+	color: rgb(255, 222, 0);
+	display: block;
+	line-height: 32px;/**/
+}
+
+#header .m-customer-name
+{
+	padding-top: 32px;/*28*/
+}
+
+#header .m-location-and-time
+{
+	padding: 2px 0 0 213px;
+	margin: 0;
+	font-size: 13px;
+	font-weight: normal;
+	line-height: 18px;
+	color: rgb(255, 255, 255);
+	display: block;
+}
+
+
+#header h3 {
+	padding: 5px 0 0 213px;
+	margin: 0;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 18px;
+	color: rgb(255, 255, 255);
+}
+
+#header img {
+	border: 0 none;
+	margin: 21px 0 0 52px;
+	position: absolute;
+}
+
+/* Content */
+
+#container {
+	width: 1024px;
+	margin: 0 auto;
+	background: rgb(255, 255, 255) url(http://egu2017.eu/template_egu_content_bg_gradient.gif) 0 0 repeat-y;
+	min-height: 100%;
+	position: relative;
+}
+
+#content {
+	margin: 0 0 0 200px;
+}
+
+div#content { 
+	width: 797px;
+	padding: 0 13px 70px 13px;
+}
+
+
+p
+{
+	padding: 0;
+	margin:0 0 1em 0;
+	color: 	rgb(0, 0, 0);
+	font-size: 13px;
+	line-height: 18px;
+}
+
+#content table p {
+	padding: 0;
+	margin: 0;
+}
+
+#table tbody {
+	margin: 0;
+	padding: 0;
+}
+
+#content table td {
+	padding: 0 0 6px 0;
+	margin: 0;
+}
+
+strong, b {
+	color: #000;
+}
+
+/* Content UL OL*/
+
+#content ul
+{
+	font-size: 13px;
+	list-style-type: none;
+	padding: 0;
+	margin: 0 0 13px 0;
+}
+
+#content ul li
+{
+	background-image: url(http://egu2017.eu/template_egu_list_item_graphic.gif);
+	background-position: 5px 7px;
+	background-repeat: no-repeat;
+	line-height: 18px;
+	padding-left: 17px;
+}
+
+#content ul ul {
+	font-size: 13px;
+	padding: 0 0 0 20px;
+	margin: 0;
+}
+
+#content ul ul li{
+	line-height: 18px;
+	padding-left: 17px;
+	padding-bottom: 6px;
+}
+
+#content table ul {
+	font-size: 13px;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+#content ol
+{
+	font-size: 13px;
+	padding: 0 0 0 17px;
+	margin: 0 0 13px 0;
+}
+
+#content ol li
+{
+	line-height: 18px;
+}
+
+#content table
+{
+	margin: 0 0 13px 0;
+}
+
+/* Content H1-H3 */
+#content h1,
+#content .h1
+{
+	margin: 0 0 10px 0;
+	padding: 0 0 2px;
+	font-size: 16px;
+	font-weight: 700;
+	color: rgb(0, 114, 188);
+	border-bottom: 1px dotted #A6AFB8;
+	display: block;
+}
+#content .h1
+{
+	/*
+	Doubled the margin to emulate the CMS-box space, until each h1 is in a new CMS-box with a extra space.
+	So we avoid using of a extra <br> before the .h1 mimicry
+	*/
+	margin-top: 26px;
+}
+
+#content h2,
+#content .h2
+{
+	margin: 17px 0 0 0;
+	padding: 0;
+	font-size: 14px;
+	font-weight: 700;
+	color: rgb(0, 114, 188);
+	display: block;
+}
+
+#content h3,
+#content .h3
+{
+	margin: 0;
+	padding: 0;
+	font-size: 13px;
+	font-weight: 700;
+	color: #000000;
+	display: block;
+}
+
+
+/* Left */
+
+#left {
+	float: left;
+	width: 200px;
+	background-color: rgb(235, 235, 235);
+	padding-bottom: 50px;
+}
+
+#left h3{
+	color: #333;
+	font-size: 13px;
+	font-weight:bold;
+	line-height:16px;
+	margin: 0 13px;
+	padding: 0 0 3px;
+}
+
+
+/* Left UL */
+
+#left ul {
+	list-style-image: none;
+	list-style-type:none;
+	margin: 0 0 30px 0;
+	padding: 0;
+}
+
+#left ul li {
+	color:#000000;
+	font-size:13px;
+	margin: 0 13px 2px 13px;
+	padding: 0 0 0 1px;
+}
+
+#left ul li a {
+	background-color: #E0E0E0;
+	display: block;
+	margin-left: 0;
+	padding: 4px 0 4px 4px;
+	text-decoration :none;
+	color: #626D73;
+	border:1px solid #C3C3C3;
+	font-weight: bold;
+}
+
+#left ul li a:hover {
+	color: rgb(0, 114, 188);
+	text-decoration: none;
+}
+
+#left ul li .active_menuitem {
+/*	color: rgb(0, 114, 188);*/
+	text-decoration: none;
+}
+
+#left ul ul{
+	list-style-image: none;
+	list-style-type:none;
+	margin: 0 0 0 -7px;
+	padding: 0;
+}
+
+#left ul ul li {
+	background-image: url(http://egu2017.eu/template_egu_list_item2_graphic.gif);
+	background-position: 0 9px;
+	background-repeat: no-repeat;
+	border-bottom: medium none;
+	color: #000000;
+	font-size: 12px;
+	margin: 0 0 0 8px;
+	padding: 0 0 0 4px;
+}
+
+#left ul ul li a {
+	color: rgb(98, 109, 115);
+	text-decoration: none;
+	line-height: 13px;
+	background-color: #ebebeb;
+	border: medium none; 
+	font-weight: normal;
+}
+
+#left ul ul li a:hover {
+	color: rgb(0, 114, 188);
+	text-decoration: none;
+}
+
+#left ul ul li .active_menuitem {
+	color: rgb(0, 114, 188);
+	text-decoration: none;
+	border: medium none;
+}
+
+
+/* Form data */
+
+fieldset {
+	border: 0 none;
+	margin:0;
+	padding:0;
+}
+
+.form_content td {
+	padding: 0 0 0 13px;
+	margin:0 0 1em 0;
+	line-height:18px;
+}
+
+.form_email {
+	width: 200px;
+}
+
+.submit {
+	padding: 0;
+	margin: 0;
+}
+
+
+.inputerror {
+	color: red;
+        font-weight: bold;
+}
+
+
+.info_required {
+        color: red!important;
+}
+
+.info_required_legend {
+	color: #999;
+}  
+
+
+.form_Messagebody {
+	width: 400px;
+	height: 150px;
+}
+
+.form_Subject {
+	width: 400px;
+}
+
+.form_Sender {
+	width: 400px;
+}
+
+.form_Attachment {
+	width: 400px;
+}
+
+
+/* Ergebnislisten */ 
+
+.searchlistline1
+{
+   background-color:	#F5F5F5;
+}
+
+.searchlistline0
+{
+   background-color:	#FFFFFF;
+}
+
+.selecter
+{
+   
+}
+
+.userlist_table {
+   margin-top: 6px;
+   background-color:	#DDDDDD;
+   width: 734px;
+}
+
+.userlist_table td {
+   padding: 6px !important;
+}
+
+.userlist_headline th {
+   padding: 4px;
+}
+
+.useritem
+{
+   display:		inline-block;
+   margin-left:		5px;
+}
+
+.projectlist1
+{
+   background-color:	#F5F5F5;
+}
+
+.projectlist0
+{
+   background-color:	#FFFFFF;
+}
+
+.grouplist
+{
+   display:		none;
+   margin-left:		20px;
+}
+
+.ProjectContainer
+{
+   display:		inline-block;
+   outline:		1px solid black;
+}
+
+.GroupMemberContainer
+{
+   display:		inline-block;
+   outline:		1px solid black;
+   width:		50%;
+}
+
+.searchForm
+{
+   display:		inline-block;
+   outline:		1px solid black;
+   width:		50%;
+}
+
+.listUser
+{
+   display:		inline-block;
+   outline:		1px solid black;
+   width:		50%;
+}
+
+.form_maillist_newName
+{
+	width:		400px;
+}
+
+.form_maillist_comment
+{
+	width:		400px;
+	height:		150px;
+}
+
+.comtool_link
+{
+	text-decoration: underline;
+	color: rgb(0, 0, 0);
+}
+
+.form_search
+{
+
+}
+
+.radio_text
+{
+
+}
+
+.radio_username
+{
+
+}
+
+/* election */
+
+/* election tables */
+.table_new_election{
+   margin-top: 6px;
+   background-color:	#DDDDDD;
+   width: 734px;
+}
+.td_new_election{
+   padding: 6px !important;
+}
+.td_edit_election{
+   padding: 6px !important;
+}
+.table_edit_option{
+   margin-top: 6px;
+   background-color:	#DDDDDD;
+   width: 734px;
+}
+.td_edit_option{
+   padding: 6px !important;
+}
+.table_token_form{
+   margin-top: 6px;
+   background-color:	#DDDDDD;
+   width: 734px;
+}
+.td_token_form{
+   padding: 6px !important;
+}
+.table_cast_form{
+   margin-top: 6px;
+   background-color:	#DDDDDD;
+   width: 734px;
+}
+.td_cast_form1{
+   padding: 6px !important;
+   background-color:	#F5F5F5;   
+}
+.td_cast_form0{
+   padding: 6px !important;
+   background-color:	#FFFFFF;
+}
+.table_results{
+   margin-top: 6px;
+   background-color:	#DDDDDD;
+   width: 734px;
+}
+.td_results1{
+   padding: 6px !important;
+   background-color:	#F5F5F5;
+}
+.td_results0{
+   padding: 6px !important;
+   background-color:	#FFFFFF;
+}
+.table_election_list{
+   margin-top: 6px;
+   background-color:	#DDDDDD;
+   width: 734px;
+}
+.td_election_list_head{
+   padding: 6px !important;
+}
+.td_election_list_head2{
+   padding: 6px !important;
+}
+.td_election_list0{
+   padding: 6px !important;
+   background-color:	#F5F5F5;
+}
+
+.td_election_list1{
+   padding: 6px !important;
+   background-color:	#FFFFFF;
+}
+
+
+/* election input */
+.election_title{
+}
+.election_comment{
+}
+.election_expiration{
+}
+.election_maillist{
+}
+.option_text{
+}
+.option_vita_link{
+}
+.egu_election{
+}
+.egu_election_token{
+}
+.egu_cast{
+}
+
+/* Login Box */
+
+.tx-felogin-pi1 fieldset {
+	border: 0 none;
+	margin:0;
+	padding:0;
+}
+
+.tx-felogin-pi1 legend {
+	visibility: hidden;
+}
+
+.tx-felogin-pi1 form {
+	padding: 0;
+	margin: 0;
+}
+
+.tx-felogin-pi1 ul{
+	list-style-image: none;
+	list-style-type:none;
+	margin: 0 12px 0 12px;
+	padding: 10px 0 0 0;
+}
+
+.tx-felogin-pi1 ul li {
+	background-image: url(http://egu2017.eu/template_egu_list_item2_graphic.gif);
+	background-position: 0 7px;
+	background-repeat: no-repeat;
+	margin: 2px 0 2px 2px;
+	padding: 0 0 0 8px;
+	font-size: 11px;
+	color: rgb(0, 0, 0);
+	border-bottom: none;
+}
+
+.tx-felogin-pi1 ul li a {
+	color: rgb(0, 0, 0);
+	text-decoration: underline;
+	line-height: 18px;
+}
+
+.tx-felogin-pi1 ul li a:hover {
+	color: rgb(0, 114, 188);
+	text-decoration: underline;
+}
+
+
+/* Header Menu */
+
+#headermenu {
+	font-size: 13px;
+	height: 20px;
+	left: 213px;
+	line-height: 18px;
+	position: absolute;
+	top: 134px;
+}
+
+#headermenu a {
+	text-decoration: none;
+	color: rgb(255, 255, 255);
+}
+
+#headermenu a:hover {
+	text-decoration: underline;
+}
+
+#headermenu ul{
+	list-style-image: none;
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+
+}
+
+#headermenu ul li {
+	-moz-background-clip: border;
+	-moz-background-inline-policy: continuous;
+	-moz-background-origin: padding;
+	background: transparent repeat scroll 0 0;
+	border-right: 1px dotted #FFFFFF;
+	display: inline;
+	margin: 0 8px 0 0;
+	padding: 0 8px 0 0;
+}
+
+
+/* Footer */
+
+#footer {
+	height: 50px;
+	text-align: left; 
+	border-top: 5px solid rgb(255, 222, 0);
+	background-color: rgb(117, 131, 139);
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 1024px;
+	margin: 0 auto;
+}
+
+
+/* Footer Menu */
+
+#footermenu {
+	padding-left: 213px;
+	padding-top: 20px;
+	font-size: 13px;
+	float: left;
+}
+
+#footermenu a {
+	text-decoration: none;
+	color: rgb(255, 255, 255);
+}
+
+#footermenu a:hover {
+	text-decoration: underline;
+}
+
+#footermenu ul{
+	list-style-image: none;
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+
+}
+
+#footermenu ul li {
+	-moz-background-clip: border;
+	-moz-background-inline-policy: continuous;
+	-moz-background-origin: padding;
+	background: transparent repeat scroll 0 0;
+	border-right: 1px dotted #FFFFFF;
+	display: inline;
+	margin: 0 8px 0 0;
+	padding: 0 8px 0 0;
+}
+
+#footermenu_top {
+	padding-top: 20px;
+	font-size: 13px;
+	float: right;
+}
+
+#footermenu_top a {
+	text-decoration: none;
+	color: rgb(255, 255, 255);
+}
+
+#footermenu_top a:hover {
+	text-decoration: underline;
+}
+
+#footermenu_top ul{
+	list-style-image: none;
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+
+}
+
+#footermenu_top ul li {
+	-moz-background-clip: border;
+	-moz-background-inline-policy: continuous;
+	-moz-background-origin: padding;
+	background: transparent none repeat scroll 0 0;
+	border-right: 1px dotted #FFFFFF;
+	border-left: 1px dotted #FFFFFF;
+	display: inline;
+	margin: 0 10px 0 9px;
+	padding: 0 10px 0 9px;
+}
+
+/* Mail Form */
+.csc-mailform {
+	border: none;
+}
+
+.csc-mailform-field {
+}
+
+.csc-mailform-field label {
+	width: 20em;
+	text-align: right;
+	float: left;
+	clear: both;
+	font-weight: bold;
+	padding: 10px 0 10px 0;
+}
+
+.csc-mailform-field input {
+	float: left;
+	margin: 8px 0 10px 15px;
+	width: auto;
+}
+
+.csc-mailform-field input.csc-mailform-check {
+	width: auto;
+	border: none;
+}
+
+#content-c .csc-mailform-field input.csc-mailform-check {
+	width: auto;
+	border: none;
+}
+
+.csc-mailform-field textarea {
+	float: left;
+	margin: 8px 0 10px 15px;
+}
+
+.csc-mailform-field input.csc-mailform-submit {
+}
+
+/* Please Note */
+.please-note {
+background: none repeat scroll 0 0 #FFFFDD;
+border-left: 5px solid #EBEBEB;
+border-right: 5px solid #EBEBEB;
+margin: 15px 0;
+padding: 10px 15px !important;
+}
+
+/* class for seach term emphasizing in programm */
+.co_emphasize_searchterm
+{
+	color: green;
+}
+/* CO CMS Tables */
+
+.co_cms_table {
+    background-color: #f2f1ed;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.co_cms_table th {
+    background-color: #ebebeb;
+    border: 1px solid #c3c3c3!important;
+    color: #777777;
+    font-weight: normal!important;
+    padding: 5px!important;
+    vertical-align: top;
+    font-size: 13px!important;
+    line-height: 1.4em;
+    text-align: left;
+}
+
+.co_cms_table td {
+    border: 1px solid #c3c3c3!important;
+    background-color: #FFFFFF;
+    padding: 5px!important;
+    vertical-align: top;
+}
+
+.co_cms_table_td_background {
+    background-color: #EBEBEB!important;
+}
+
+.co_cms_table_no_border {
+    border-style: none;
+    border-spacing: 5px!important;
+    width: 100%;
+}
+
+.co_cms_table_no_border td {
+    border-style: none!important;
+    border-spacing: 5px!important;
+    vertical-align: top;
+}
+.center {
+    text-align: center!important;
+}
+
+/*Buttons*/
+
+.button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #97c4fe;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #97c4fe;
+	box-shadow:inset 0px 1px 0px 0px #97c4fe;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3d94f6), color-stop(1, #0073bb) );
+	background:-moz-linear-gradient( center top, #3d94f6 5%, #0073bb 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#3d94f6', endColorstr='#0073bb');
+	background-color:#3d94f6;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #337fed;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:13px;
+	font-weight:bold;
+	padding:6px 15px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #0073bb;
+}.button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #0073bb), color-stop(1, #3d94f6) )!important;
+text-decoration: none!important;
+color: #ffffff!important;
+	background:-moz-linear-gradient( center top, #0073bb 5%, #3d94f6 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#0073bb', endColorstr='#3d94f6');
+	background-color:#0073bb;
+}.button:active {
+	position:relative;
+	top:1px;
+}
+
+/*Fast entry buttons*/
+#m-fast-entry-buttons .icon-sign-in
+{
+	color: #626d73;
+	margin-right: 3px;
+}
+#m-fast-entry-buttons ul li a
+{
+	color: #0072bc;
+}
+
+/*Social Icons*/
+.fa
+{
+	color:#444;
+}
+
+.egu-social a:hover .fa
+{
+ color:#0072BC;
+}
+
+/*EGU Job button*/
+.egu-job-button
+{
+	background-image: url(http://egu2017.eu/template_egu_jobs_squarebutton_grey.png);
+	width: 75px;
+	height: 75px;
+	margin: 0 auto 38px auto;
+}
+.egu-job-button:hover
+{
+	background-image: url(http://egu2017.eu/template_egu_jobs_squarebutton_blue.png);
+}
+
+.exhibition_thumbs_border
+{
+	border: 1px solid #e0e0e0;
+}
+
+/*spacer margin bottom x1, x2 keep them proportional*/
+#content .spacer-mb-x1
+{
+ margin-bottom: 13px;
+}
+#content .spacer-mb-x2
+{
+ margin-bottom: 26px;
+}
+
+.co_cms_table-exhibitor-list-alphabetical .co_cms_exhibitor-name
+{
+	font-weight: bold;
+	background-color: #EBEBEB;
+	border-bottom: 0!important;
+}
+.co_cms_table-exhibitor-list-alphabetical .co_cms_exhibitor-address
+{
+	border-right: 0!important;
+	border-top: 0!important;
+}
+.co_cms_table-exhibitor-list-alphabetical .co_cms_exhibitor-logo
+{
+	border-left: 0!important;
+	border-top: 0!important;
+	text-align: center;
+	vertical-align: middle;
+}
+.co_cms_table-exhibitor-list-numerical .co_cms_booth-id
+{
+	font-weight: bold;
+	background-color: #EBEBEB;
+}
+
+/** new table styles **/
+.table--grid,
+.table--default,
+.table--opening-hours
+{
+	border: 1px solid #C3C3C3;
+	border-collapse: collapse;
+}
+
+.table--grid th,
+.table--grid td,
+.table--plain th,
+.table--plain td,
+.table--default th,
+.table--opening-hours th,
+.table--default td,
+.table--opening-hours td
+{
+	vertical-align:top;
+}
+
+
+.table--grid th,
+.table--grid td,
+.table--default th,
+.table--opening-hours th,
+.table--default td,
+.table--opening-hours td
+{
+	padding: 5px !important;
+	border: 1px solid #C3C3C3;
+}
+
+.table--grid th,
+.table--default th,
+.table--opening-hours th
+{
+	background-color:#EBEBEB;
+	font-weight:bold;
+	text-align:left;
+}
+.table--opening-hours
+{
+	width:520px;
+}
+
+.table--opening-hours .day
+{
+	width:408px;
+}
+.table--opening-hours th:last-child
+{
+	text-align:center;
+}
+.table--opening-hours td:last-child
+{
+	text-align:center;
+}
+
+.table--grid,
+.table--plain
+{
+	border-collapse: collapse;
+	table-layout: fixed;
+	width:100%;
+}
+
+.sidebar--logos {
+	text-align: center;
+}
+
+.sidebar--logos .logo--item {
+	display:block;
+	margin-bottom:1em;
+
+}
+
+.text-shaded {
+	color:#7F7F7F; /* 50% #000 */
+}
+
+/* ==========================================================================
+   Module Legend
+   ========================================================================== */
+.legend 
+{
+    display: block;
+    position:relative;
+    padding: 1em;
+    border:1px solid #348ECA;
+    margin:0 0 1em 0;
+}
+.legend .legend-title 
+{
+    display: inline;
+    position:absolute;
+    background-color:#348ECA;
+    color:#fff;
+    padding:0.25em;
+    top: -1em;
+}
+
+.legend .legend-body *:last-child
+{
+    margin-bottom:0 !important;
+}
+
+
+.co_adm_webstream_link
+{
+	color:red;
+	text-decoration:none;
+	font-weight:bold;
+	display: inline;
+}

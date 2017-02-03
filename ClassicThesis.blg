@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2015/dev/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ClassicThesis.aux
 The style file: biblatex.bst
@@ -8,6 +8,9 @@ A level-1 auxiliary file: FrontBackmatter/Contents.aux
 A level-1 auxiliary file: Chapters/Chapter01.aux
 A level-1 auxiliary file: Chapters/Chapter02.aux
 A level-1 auxiliary file: Chapters/Chapter03.aux
+A level-1 auxiliary file: Chapters/Chapter04.aux
+A level-1 auxiliary file: Chapters/Chapter05.aux
+A level-1 auxiliary file: Chapters/Chapter06.aux
 A level-1 auxiliary file: Chapters/Chapter0A.aux
 A level-1 auxiliary file: FrontBackmatter/ListofFiguresAndTables.aux
 A level-1 auxiliary file: FrontBackmatter/Bibliography.aux
@@ -24,229 +27,48 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: ClassicThesis-blx.bib
-Database file #2: Paper/SouthernOceanCarbonSink.bib
-Biblatex version: 3.3
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2513 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2513 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2513 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2513 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2513 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2513 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2513 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2513 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2513 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2513 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2513 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2513 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2513 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2513 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2513 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2513 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2513 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2513 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2513 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2513 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2517 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2517 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2517 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2517 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2517 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2523 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2523 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2523 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2523 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2523 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2527 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2527 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2527 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2527 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2527 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2527 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2527 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2527 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2527 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2527 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2531 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2531 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2531 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2531 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2531 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2537 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2537 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2537 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2537 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2537 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2541 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2541 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2541 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2541 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2541 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2541 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2541 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2541 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2541 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2541 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2595 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2595 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2595 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2595 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2595 of file biblatex.bst
+Database file #2: Paper/SouthernOceanCarbonSink_new.bib
+Biblatex version: 2.9
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2659 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2659 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2659 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2659 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2659 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2659 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2659 of file biblatex.bst
-Name 1 in "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" has a comma at the end for entry ilyina2013
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Ilyina, T., K. D. Six, H. Li, and I. Nunez-Riboni" for entry ilyina2013
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2659 of file biblatex.bst
-Too many commas in name 1 of "Landschützer, P., C. Rödenbeck, D. C. E. Bakker" for entry landschuetzer2016
-while executing---line 2659 of file biblatex.bst
-You've used 3 entries,
+You've used 17 entries,
             6047 wiz_defined-function locations,
-            1159 strings with 9196 characters,
-and the built_in function-call counts, 7271 in all, are:
-= -- 260
-> -- 245
-< -- 52
-+ -- 85
-- -- 95
-* -- 530
-:= -- 635
+            1338 strings with 35994 characters,
+and the built_in function-call counts, 81019 in all, are:
+= -- 3235
+> -- 2713
+< -- 647
++ -- 1215
+- -- 1227
+* -- 8418
+:= -- 5102
 add.period$ -- 0
-call.type$ -- 3
-change.case$ -- 2
-chr.to.int$ -- 34
-cite$ -- 4
-duplicate$ -- 696
-empty$ -- 774
-format.name$ -- 117
-if$ -- 1645
+call.type$ -- 17
+change.case$ -- 16
+chr.to.int$ -- 39
+cite$ -- 32
+duplicate$ -- 9338
+empty$ -- 7898
+format.name$ -- 2344
+if$ -- 17213
 int.to.chr$ -- 0
-int.to.str$ -- 4
+int.to.str$ -- 39
 missing$ -- 0
-newline$ -- 80
-num.names$ -- 82
-pop$ -- 664
+newline$ -- 1219
+num.names$ -- 931
+pop$ -- 5476
 preamble$ -- 1
-purify$ -- 26
+purify$ -- 585
 quote$ -- 0
-skip$ -- 435
+skip$ -- 4616
 stack$ -- 0
-substring$ -- 204
-swap$ -- 261
-text.length$ -- 68
-text.prefix$ -- 2
+substring$ -- 2256
+swap$ -- 3668
+text.length$ -- 530
+text.prefix$ -- 16
 top$ -- 1
-type$ -- 102
+type$ -- 634
 warning$ -- 0
-while$ -- 88
+while$ -- 392
 width$ -- 0
-write$ -- 76
-(There were 90 error messages)
+write$ -- 1201

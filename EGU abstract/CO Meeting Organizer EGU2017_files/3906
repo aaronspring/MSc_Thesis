@@ -1,0 +1,235 @@
+//<![CDATA[
+
+/*
+	PID1, FID 3906
+
+	What does it do?
+
+		Formchangewatchdog will add a new onclick trigger to all A elements and a a new onchange trigger to all INPUT, SELECT, TEXTAREA elements.
+		onchange will check for formelement value modification and set internal variable.
+		onclick will check for this variable and show up specified layer #formchangewatchdog_notYetSave
+		Layer has to contain three A elements. a
+			Link #1 gets a "save changes" button. document.getElementsByTagName("form")[0].submit() is called
+			Link #2 gets a "Dismiss" button. Original Linktarget and/or original onclicks will be executed
+			Link #3 gets a "Check" Button. #formchangewatchdog_notYetSave will be removed
+	
+	Requirements:
+	
+		mandatory: method add_onload_action()
+		optional: html object with id formchangewatchdog_notYetSave and the following structure:
+					<ELEMENT id="formchangewatchdog_notYetSave"><div><a /><a /><a /> [...] </div></ELEMENT>
+					(#formchangewatchdog_notYetSave has to contain at least one surrounding DIV which has to contain at least three A)
+					Formchangewatchdog will add its own formchangewatchdog_notYetSave using formchangewatchdog_create_formchangewatchdog_notYetSave() if document does not provide it
+	
+	Configurations:
+
+		element attribute "setwatchdog":	elements having this attribute will be handled as A elements and included into watchdog processing (getting a watchdog onclock handler)
+		element attribute "nowatchdog":		elements having this attribute will NOT be handled as A elements and excluded from watchdog processing	
+		input attribute "watchdoginvisible":	input element is ignored by watchdog
+		global variable "window.formchangewatchdog_do_not_activate":	will prevent watchdog from touching any elment. "switch off"
+		global variable "window.formchangewatchdog_do_not_show_save":	will prevent watchdog from using the forst A (save). Additionaly formchangewatchdog_create_formchangewatchdog_notYetSave() will generate just 2 links
+		
+	Elements that are affected:
+		
+		- A Elements that DO NOT have - attribute "nowatchdog", - target "_blank", href with '#" as last character
+		- Elements having setwatchdog
+		
+		- INPUT, SELECT, TEXTAREA Elements that do NOT have a attribute "watchdoginvisible"
+		
+		- Element with id "formchangewatchdog_notYetSave"
+		
+	Functions to be called:
+	
+		- none. all done automatically. 
+		- formchangewatchdog_formcontent_has_changed() can be called to set watchdog manually to "form has changed mode"
+
+*/
+
+function formchangewatchdog_create_formchangewatchdog_notYetSave()
+{
+	var prefix = '<p>You did not save your latest changes. Do you want to...</p>';
+	if(typeof window.formchangewatchdog_do_not_show_save == 'undefined')
+	{
+		var save = '<button onclick="" id="notYetSave_action_save">Save</button>';
+	}
+	else
+	{
+		var save = '';
+	}
+	var dismiss = '<button onclick="" id="notYetSave_action_dismiss">Dismiss</button>';
+	var check = '<button onclick="" id="notYetSave_action_check">Check</button>';
+
+	return '<div id="formchangewatchdog_notYetSave_container"><fieldset class="contentbox"><p>You did not save your latest changes in this form.<br /><br />Please choose one of the following options to define how to deal with these form changes:</p></fieldset><div id="formsubmit" class="form_save_area">'+save+check+dismiss+'</div></div>';	
+}
+
+function formchangewatchdog_add_listeners_to_all_clickelements()
+{
+	if(window.formchangewatchdog_do_not_activate)	
+	{
+		return true;
+	}
+	if(document.getElementsByTagName)
+	{
+		for(input=0; input < document.getElementsByTagName("input").length; input++)
+		{
+			if(!document.getElementsByTagName("input")[input].getAttribute || !document.getElementsByTagName("input")[input].getAttribute("watchdoginvisible"))
+			{
+				addEvent(document.getElementsByTagName("input")[input], "change", formchangewatchdog_formcontent_has_changed);
+			}
+		}
+		for(input in document.getElementsByTagName("select"))
+		{
+			if(!document.getElementsByTagName("select")[input].getAttribute || !document.getElementsByTagName("select")[input].getAttribute("watchdoginvisible"))
+			{
+				addEvent(document.getElementsByTagName("select")[input], "change", formchangewatchdog_formcontent_has_changed);
+			}			
+		}
+		for(input in document.getElementsByTagName("textarea"))
+		{
+			if(!document.getElementsByTagName("textarea")[input].getAttribute || !document.getElementsByTagName("textarea")[input].getAttribute("watchdoginvisible"))
+			{
+				addEvent(document.getElementsByTagName("textarea")[input], "change", formchangewatchdog_formcontent_has_changed);
+			}
+		}
+
+		listofelements = document.getElementsByTagName("*");
+		for(element in listofelements)
+		{
+			element=listofelements[element];
+			if(element.getAttribute && element.getAttribute("onclick")!="" && element.getAttribute("onclick")!=null && element.getAttribute("onclick") != "null" && element.getAttribute("setwatchdog"))
+			{
+				element.setAttribute("watchdogoldonclick", element.getAttribute("onclick"));
+				element.onclick=formchangewatchdog_check_for_modification_storage;
+			}
+		}
+		listofelements = document.getElementsByTagName("a");
+		for(link in listofelements)
+		{
+			link=listofelements[link];
+			if(
+				link.href
+				&&(link.href.length==0 || link.href.charAt(link.href.length-1)!="#")
+				&&(!link.target||link.target!="_blank")
+				&&!link.getAttribute("nowatchdog")
+				&&!link.getAttribute("onclick")
+			)
+			{
+				link.setAttribute("watchdogoldonclick",link.getAttribute("onclick"));
+				link.onclick=formchangewatchdog_check_for_modification_storage;
+			}
+		}
+	}
+}
+
+window.formchangewatchdog_formChanged=false;
+function formchangewatchdog_formcontent_has_changed()
+{
+	window.formchangewatchdog_formChanged=true;
+}
+
+function formchangewatchdog_check_for_modification_storage(e)
+{
+	var current_object = false;
+
+	if(this)
+	{
+		current_object = this;
+	}
+	else if(e)
+	{
+		current_object = (e.target) ? e.target : e.srcElement;
+	}
+
+	if(window.formchangewatchdog_formChanged)
+	{
+		if(current_object)
+		{
+			if(_get("formClickTarget"))
+			{
+				_get("formClickTarget").value=current_object;
+			}
+			window.formchangewatchdog_storeLinktarget=current_object;
+		}
+		else
+		{
+			window.formchangewatchdog_storeLinktarget=location.href;
+		}
+
+		var arrayPageSize = getPageSize();
+		var arrayPageScroll = co_getPageScroll();
+
+		if(!_get("formchangewatchdog_notYetSave"))
+		{
+			var notYetSave_layer = document.createElement("div");
+			notYetSave_layer.setAttribute("id","formchangewatchdog_notYetSave");
+			notYetSave_layer.innerHTML=formchangewatchdog_create_formchangewatchdog_notYetSave();
+			document.getElementsByTagName("body")[0].appendChild(notYetSave_layer);
+		}
+		else
+		{
+			var notYetSave_layer = _get("formchangewatchdog_notYetSave");
+		}	
+
+		notYetSave_layer.style.height = (arrayPageSize[1] + "px");
+		notYetSave_layer.style.width = (arrayPageSize[0] + "px");
+
+		if (notYetSave_layer.getElementsByTagName("div")[0])
+		{
+			notYetSave_layer.getElementsByTagName("div")[0].style.top = (arrayPageScroll[1] + ((arrayPageSize[3] - 35 - 120) / 2) + "px");
+			notYetSave_layer.getElementsByTagName("div")[0].style.left = (((arrayPageSize[0] - 350) / 2) + "px");
+		}
+
+		notYetSave_layer.style.display="block";
+
+		
+		if(notYetSave_layer.getElementsByTagName("div")[0])
+		{
+			var div = notYetSave_layer.getElementsByTagName("div")[0];
+	
+			// store
+			if(_get("notYetSave_action_save"))
+			{
+				_get("notYetSave_action_save").onclick=function(){ document.getElementsByTagName("form")[0].submit(); return false; }
+			}
+			// dismiss
+			if(_get("notYetSave_action_dismiss"))
+			{
+				_get("notYetSave_action_dismiss").onclick=function(){ window.location.href=window.formchangewatchdog_storeLinktarget; return false; }
+			}
+			// check
+			if(_get("notYetSave_action_check"))
+			{
+				_get("notYetSave_action_check").onclick=function() { notYetSave_layer.style.display="none"; return false; }
+			}
+		}
+
+		return false;
+	}
+	else
+	{
+		// ff stores onclick as string. let's generate an executable function and run it withinin current_object context to preserve .this references
+		if(typeof current_object.getAttribute("watchdogoldonclick") == "string" && current_object.getAttribute("watchdogoldonclick") != "" && current_object.getAttribute("watchdogoldonclick") != "null")
+		{
+			eval("var current_object.checkonclick=function(){"+current_object.getAttribute("watchdogoldonclick")+";}");
+
+			return current_object.checkonclick();
+		}
+		// ie stores onclick as function. let's add and run it withinin current_object context to preserve .this references
+		else if(typeof current_object.getAttribute("watchdogoldonclick") == "function")
+		{
+			current_object.checkonclick=current_object.getAttribute("watchdogoldonclick");
+
+			return current_object.checkonclick();
+		}
+
+		window.location.href=current_object.href;
+		return false;
+	}
+}
+
+
+if(typeof add_onload_action == 'function')
+{
+	add_onload_action("formchangewatchdog_add_listeners_to_all_clickelements()");
+}
+//]]>

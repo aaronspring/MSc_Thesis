@@ -1,5 +1,7 @@
 [Dolphin]
 SortOrder=1
+SortRole=date
 Sorting=2
-Timestamp=2016,8,30,11,50,10
+Timestamp=2017,1,17,10,56,28
+Version=3
 ViewMode=1

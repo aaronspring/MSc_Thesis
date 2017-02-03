@@ -10,7 +10,6 @@
 % http://postcards.miede.de
 % ****************************************************************************************************
 
-
 % ****************************************************************************************************
 % 0. Set the encoding of your files. UTF-8 is the only sensible encoding nowadays. If you can't read
 % äöüßáéçèê∂åëæƒÏ€ then change the encoding setting in your editor, not the line below. If your editor
@@ -19,11 +18,15 @@
 \PassOptionsToPackage{utf8}{inputenc}
 	\usepackage{inputenc}
 
+%\newcommand{\member}{m105_1994_2001}
+%\newcommand{\member}{m178_1985_1992} % zweitbesten
+\newcommand{\member}{m182_1988_1995} %funktioniert am besten
+
 % ****************************************************************************************************
 % 1. Configure classicthesis for your needs here, e.g., remove "drafting" below 
 % in order to deactivate the time-stamp on the pages
 % ****************************************************************************************************
-\PassOptionsToPackage{eulerchapternumbers,listings,drafting,%
+\PassOptionsToPackage{eulerchapternumbers,listings,%drafting,%
 					 pdfspacing,%floatperchapter,%linedheaders,%
 					 subfig,beramono,eulermath,parts,dottedtoc}{classicthesis}                                        
 % ********************************************************************
@@ -40,7 +43,7 @@
 % ****************************************************************************************************
 % 2. Personal data and user ad-hoc commands
 % ****************************************************************************************************
-\newcommand{\myTitle}{Internal Variability of carbon sink in Southern Ocean\xspace}
+\newcommand{\myTitle}{The impact of biology on decadal internal variability of the Southern Ocean carbon sink\xspace}
 \newcommand{\myName}{Aaron Spring\xspace}
 \newcommand{\myProf}{Prof. Dr. Norbert Frank\xspace}
 \newcommand{\mySecondProf}{Prof. Dr. Johanna Baehr\xspace}
@@ -117,11 +120,11 @@
 \usepackage{mparhack} % get marginpar right
 \usepackage{fixltx2e} % fixes some LaTeX stuff --> since 2015 in the LaTeX kernel (see below)
 %\usepackage[latest]{latexrelease} % will be used once available in more distributions (ISSUE #107)
-\PassOptionsToPackage{printonlyused,smaller}{acronym} 
-    \usepackage{acronym} % nice macros for handling all acronyms in the thesis
+%\PassOptionsToPackage{printonlyused,smaller}{acronym} 
+%    \usepackage{acronym} % nice macros for handling all acronyms in the thesis
     %\renewcommand{\bflabel}[1]{{#1}\hfill} % fix the list of acronyms --> no longer working
     %\renewcommand*{\acsfont}[1]{\textsc{#1}} 
-    \renewcommand*{\aclabelfont}[1]{\acsfont{#1}}
+%    \renewcommand*{\aclabelfont}[1]{\acsfont{#1}}
 % ****************************************************************************************************
 
 

@@ -41,7 +41,7 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
       <file>ClassicThesis.aux</file>
@@ -52,7 +52,7 @@
     </requires>
     <requires type="static">
       <file>blx-compat.def</file>
-      <file>biblatex_legacy.def</file>
+      <file>biblatex.def</file>
       <file>blx-natbib.def</file>
       <file>authoryear-comp.bbx</file>
       <file>authoryear.bbx</file>
@@ -65,7 +65,7 @@
       <file>german.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="0">
+  <external package="biblatex" priority="5" active="1">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex8</binary>
@@ -87,7 +87,7 @@
       <file>ClassicThesis-blx.bib</file>
     </requires>
     <requires type="editable">
-      <file>Paper/SouthernOceanCarbonSink.bib</file>
+      <file>Paper/SouthernOceanCarbonSink_new.bib</file>
     </requires>
     <requires type="static">
       <file>biblatex.bst</file>
