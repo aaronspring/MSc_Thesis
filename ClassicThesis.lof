@@ -16,19 +16,21 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {1}{\ignorespaces Schematic overview on the different components in MPI-Earth-System-Model\relax }}{3}{figure.caption.4}
 \defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2}{\ignorespaces Evolution of the Southern Ocean carbon sink anomaly south of 35$^\circ $S. Grey lines show the 100 ensemble members, the black line the ensemble median, the gray shading is the range of the ensemble, the blue shading is the 2$\sigma $ ensemble spread, the red lines are decreasing sink trend candidates, the blue line is the SOM-FFN observation-based estimate \citep {landschuetzer2015}; negative values indicate anomalous uptake with respect to the 1980s\relax }}{5}{figure.caption.5}
+\contentsline {figure}{\numberline {2}{\ignorespaces A schematic overview of the global ocean biogeochemistry model HAMOCC\relax }}{4}{figure.caption.5}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3}{\ignorespaces Southern Ocean CO$_2$flux where negative values indicate ocean uptake (top) and primary production (bottom): ensemble median (left) as forced signal and ensemble standard deviation (right) as internal variability\relax }}{7}{figure.caption.6}
+\contentsline {figure}{\numberline {3}{\ignorespaces Evolution of the Southern Ocean carbon sink anomaly south of 35$^\circ $S. Grey lines show the 100 ensemble members, the black line the ensemble median, the gray shading is the range of the ensemble, the blue shading is the 2$\sigma $ ensemble spread, the red lines are decreasing sink trend candidates, the blue line is the SOM-FFN observation-based estimate \citep {landschuetzer2015}; negative values indicate anomalous uptake with respect to the 1980s\relax }}{7}{figure.caption.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4}{\ignorespaces Southern Ocean austral summer trends per per 8 years: CO$_2$flux (top left), vertically integrated primary production (top right), nutrient limitation (bottom right) and mixed layer depth (bottom left); hatched areas indicate where trends were below 5\% significance\relax }}{8}{figure.caption.7}
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5}{\ignorespaces Seasonality of vertically integrated primary production (black) and mixed layer depth (red) at 50-60$^\circ $S over 8 years; thicker lines are later years\relax }}{9}{figure.caption.8}
+\contentsline {figure}{\numberline {4}{\ignorespaces Southern Ocean CO$_2$flux where negative values indicate ocean uptake (top) and primary production (bottom): ensemble median (left) as forced signal and ensemble standard deviation (right) as internal variability\relax }}{9}{figure.caption.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6}{\ignorespaces Trends in [m/8yrs] for phytoplankton average depth (left) and average depth of vertical diffusivity due to wind (right); hatched areas indicate where trends were below 5\% significance\relax }}{9}{figure.caption.9}
+\contentsline {figure}{\numberline {5}{\ignorespaces Southern Ocean austral summer trends per per 8 years: CO$_2$flux (top left), vertically integrated primary production (top right), nutrient limitation (bottom right) and mixed layer depth (bottom left); hatched areas indicate where trends were below 5\% significance\relax }}{10}{figure.caption.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6}{\ignorespaces Seasonality of vertically integrated primary production (black) and mixed layer depth (red) at 50-60$^\circ $S over 8 years; thicker lines are later years\relax }}{11}{figure.caption.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7}{\ignorespaces Trends in [m/8yrs] for phytoplankton average depth (left) and average depth of vertical diffusivity due to wind (right); hatched areas indicate where trends were below 5\% significance\relax }}{11}{figure.caption.10}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
@@ -36,4 +38,4 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7}{\ignorespaces Southern Ocean carbon sink: yearmean fieldsum 35-90S (left) and yearmean in a random grid cell (right)\relax }}{15}{figure.caption.10}
+\contentsline {figure}{\numberline {8}{\ignorespaces Southern Ocean carbon sink: yearmean fieldsum 35-90S (left) and yearmean in a random grid cell (right)\relax }}{17}{figure.caption.11}

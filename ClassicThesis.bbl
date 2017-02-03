@@ -92,6 +92,29 @@
   \warn{\item Invalid format of field 'month'}
 \endentry
 
+\entry{Eppley1972}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Eppley}{E.}%
+     {Richard~W.}{R.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ERW1}
+  \strng{fullhash}{ERW1}
+  \field{labelyear}{1972}
+  \field{sortinit}{E}
+  \field{number}{4}
+  \field{pages}{1063\bibrangedash 1085}
+  \field{title}{Temperature and phytoplankton growth in the sea}
+  \field{volume}{70}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Eppley72.pdf:PDF
+  \endverb
+  \field{journaltitle}{Fishery Bulletin}
+  \field{year}{1972}
+\endentry
+
 \entry{Giorgetta2013}{article}{}
   \name{author}{39}{}{%
     {{}%
@@ -990,6 +1013,107 @@
   \field{year}{2007}
 \endentry
 
+\entry{Nevison2016}{article}{}
+  \name{author}{11}{}{%
+    {{}%
+     {Nevison}{N.}%
+     {C.~D.}{C.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Manizza}{M.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Keeling}{K.}%
+     {R.~F.}{R.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stephens}{S.}%
+     {B.~B.}{B.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bent}{B.}%
+     {J.~D.}{J.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dunne}{D.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ilyina}{I.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Long}{L.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Resplandy}{R.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tjiputra}{T.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yukimoto}{Y.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley-Blackwell}%
+  }
+  \keyw{SouternOcean, rank2}
+  \strng{namehash}{NCD+1}
+  \strng{fullhash}{NCDMMKRFSBBBJDDJITLMRLTJYS1}
+  \field{labelyear}{2016}
+  \field{sortinit}{N}
+  \field{abstract}{%
+  Observed seasonal cycles in atmospheric potential oxygen (APO ~ O2 + 1.1 CO2)
+  were used to evaluate eight ocean biogeochemistry models from the Coupled
+  Model Intercomparison Project (CMIP5). Model APO seasonal cycles were
+  computed from the CMIP5 air-sea O2 and CO2 fluxes and compared to
+  observations at three Southern Hemisphere monitoring sites. Four of the
+  models captured either the observed APO seasonal amplitude or phasing
+  relatively well, while the other four did not. Many models had an unrealistic
+  seasonal phasing or amplitude of the CO2 flux, which in turn influenced APO.
+  By 2100 under RCP8.5, the models projected little change in the O2 component
+  of APO but large changes in the seasonality of the CO2 component associated
+  with ocean acidification. The models with poorer performance on present-day
+  APO tended to project larger net carbon uptake in the Southern Ocean, both
+  today and in 2100.%
+  }
+  \verb{doi}
+  \verb 10.1002/2015gl067584
+  \endverb
+  \field{number}{5}
+  \field{pages}{2077\bibrangedash 2085}
+  \field{title}{Evaluating {CMIP}5 ocean biogeochemistry and Southern Ocean
+  carbon uptake using atmospheric potential oxygen: Present-day performance and
+  future projection}
+  \verb{url}
+  \verb http://dx.doi.org/10.1002/2015GL067584
+  \endverb
+  \field{volume}{43}
+  \verb{file}
+  \verb :Nevison_etal2016_GRL_CMIP5_SOuthern_Ocean.pdf:PDF
+  \endverb
+  \field{journaltitle}{Geophys. Res. Lett.}
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
 \entry{Sabine2004}{article}{}
   \name{author}{15}{}{%
     {{}%
@@ -1109,6 +1233,88 @@
   \field{year}{2004}
 \endentry
 
+\entry{Sallee2013}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Sall{\'{e}}e}{S.}%
+     {J.-B.}{J.-B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shuckburgh}{S.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bruneau}{B.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Meijers}{M.}%
+     {A.~J.~S.}{A.~J.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bracegirdle}{B.}%
+     {T.~J.}{T.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {Z.}{Z.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley-Blackwell}%
+  }
+  \keyw{SouternOcean, rank3}
+  \strng{namehash}{SJB+1}
+  \strng{fullhash}{SJBSEBNMAJSBTJWZ1}
+  \field{labelyear}{2013}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  The development of the deep Southern Ocean winter mixed layer in the climate
+  models participating in the fifth Coupled Models Intercomparison Project
+  (CMIP5) is assessed. The deep winter convection regions are key to the
+  ventilation of the ocean interior, and changes in their properties have been
+  related to climate change in numerous studies. Their simulation in climate
+  models is consistently too shallow, too light and shifted equatorward
+  compared to observations. The shallow bias is mostly associated with an
+  excess annual-mean freshwater input at the sea surface that over-stratifies
+  the surface layer and prevents deep convection from developing in winter. In
+  contrast, modeled future changes are mostly associated with a reduced heat
+  loss in winter that leads to even shallower winter mixed layers. The mixed
+  layers shallow most strongly in the Pacific basin under future scenarios, and
+  this is associated with a reduction of the ventilated water volume in the
+  interior. We find a strong state dependency for the future change of
+  mixed-layer depth, with larger future shallowing being simulated by models
+  with larger historical mixed-layer depths. Given that most models are biased
+  shallow, we expect that most CMIP5 climate models might underestimate the
+  future winter mixed-layer shallowing, with important implications for the
+  sequestration of heat, and gases such as carbon dioxide, and therefore for
+  climate.%
+  }
+  \verb{doi}
+  \verb 10.1002/jgrc.20157
+  \endverb
+  \field{number}{4}
+  \field{pages}{1845\bibrangedash 1862}
+  \field{title}{Assessment of Southern Ocean mixed-layer depths in
+  {CMIP}5~{m}odels: Historical bias and forcing response}
+  \verb{url}
+  \verb http://dx.doi.org/10.1002/jgrc.20157
+  \endverb
+  \field{volume}{118}
+  \verb{file}
+  \verb :Sallee_etal2013_JGR_CMIP5_ML.pdf:PDF
+  \endverb
+  \field{journaltitle}{J. Geophys. Res. Oceans}
+  \field{year}{2013}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
 \entry{Sarmiento1984}{article}{}
   \name{author}{2}{}{%
     {{}%
@@ -1152,6 +1358,56 @@
   \field{journaltitle}{Nature}
   \field{year}{1984}
   \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Six1996}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Six}{S.}%
+     {Katharina~D.}{K.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Maier-Reimer}{M.-R.}%
+     {Ernst}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Biogeochemical cycles, processes, and modeling, 4842, Carbon cycling,
+  Phytoplankton, rank3}
+  \strng{namehash}{SKDMRE1}
+  \strng{fullhash}{SKDMRE1}
+  \field{labelyear}{1996}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  We discuss the effect of embedding a simple plankton model in the Hamburg
+  model of the oceanic carbon cycle (HAMOCC3) [Maier-Reimer, 1993]. The
+  plankton model consists of five components: phytoplankton, zooplankton,
+  detritus, dissolved organic carbon, and nutrients. Interactions between
+  compartments are described by one global set of parameters. Despite its
+  simplicity the plankton model reproduces regional differences in seasonal
+  oceanic pCO2 and improves the biogeochemical tracer distributions at the
+  depth of the oxygen minimum in the Pacific Ocean. The predicted seasonal
+  turnover of organic material is consistent with recent atmospheric O2
+  measurements in the remote areas of the Southern Ocean.%
+  }
+  \verb{doi}
+  \verb 10.1029/96GB02561
+  \endverb
+  \field{issn}{1944-9224}
+  \field{number}{4}
+  \field{pages}{559\bibrangedash 583}
+  \field{title}{{Effects of plankton dynamics on seasonal carbon fluxes in an
+  ocean general circulation model}}
+  \verb{url}
+  \verb http://dx.doi.org/10.1029/96GB02561
+  \endverb
+  \field{volume}{10}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Six_Maier-Reimer_1996.pdf:PDF
+  \endverb
+  \field{journaltitle}{Global Biogeochemical Cycles}
+  \field{year}{1996}
 \endentry
 
 \entry{Stevens2013}{article}{}
@@ -1297,6 +1553,30 @@
   \endverb
   \field{journaltitle}{Journal of Advances in Modeling Earth Systems}
   \field{year}{2013}
+\endentry
+
+\entry{Sverdrup1953}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sverdrup}{S.}%
+     {H.~U.}{H.~U.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SHU1}
+  \strng{fullhash}{SHU1}
+  \field{labelyear}{1953}
+  \field{sortinit}{S}
+  \field{pages}{287\bibrangedash 295}
+  \field{title}{On Conditions for the Vernal Blooming of Phytoplankton}
+  \field{volume}{18}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Sverdrup_1953_J.Cons.int.Explor.Mer
+  \verb -1953-Sverdrup-287-95.pdf:PDF
+  \endverb
+  \field{journaltitle}{Journal du Conseil International pour l'Exploration de
+  la Mer}
+  \field{year}{1953}
 \endentry
 
 \entry{Thompson2015}{article}{}

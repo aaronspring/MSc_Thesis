@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.11.16)  3 FEB 2017 17:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.11.16)  3 FEB 2017 18:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1373,6 +1373,16 @@ Package biblatex Warning: BibTeX reported the following issues
 
 
 Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Nevison2016':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Sallee2013':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                with 'Sarmiento1984':
 (biblatex)                - Invalid format of field 'month'.
 
@@ -1576,55 +1586,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--15
 
 ]
 Chapter 2.
-
-Overfull \hbox (8.54736pt too wide) in paragraph at lines 10--13
-\T1/pplj/m/n/10.95 ([]Stevens et al., [][]2013[][]). The ocean com-po-nent MPI 
-Ocean Model (MPIOM)
- []
-
-<gfx/MPIESM.pdf, id=212, 796.9775pt x 597.23125pt>
+<gfx/MPIESM.pdf, id=209, 796.9775pt x 597.23125pt>
 File: gfx/MPIESM.pdf Graphic file (type pdf)
  <use gfx/MPIESM.pdf>
 Package pdftex.def Info: gfx/MPIESM.pdf used on input line 16.
 (pdftex.def)             Requested size: 334.72826pt x 179.13496pt.
 
-[3 <./gfx/MPIESM.pdf>]) [4]
+<gfx/hamocc.png, id=211, 642.90187pt x 596.78629pt>
+File: gfx/hamocc.png Graphic file (type png)
+ <use gfx/hamocc.png>
+Package pdftex.def Info: gfx/hamocc.png used on input line 24.
+(pdftex.def)             Requested size: 321.45015pt x 298.39241pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3 <./gfx/MPIESM.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
+
+ []
+
+[4 <./gfx/hamocc.png>]) [5]
 \openout2 = `Chapters/Chapter03.aux'.
 
- (./Chapters/Chapter03.tex
+ (./Chapters/Chapter03.tex [6
+
+
+
+
+]
 Chapter 3.
 
-<gfx/co2flux_SO_timeseries_ym_mar-feb_35S_1980_2015_trend_8.pdf, id=244, 614.29
+<gfx/co2flux_SO_timeseries_ym_mar-feb_35S_1980_2015_trend_8.pdf, id=258, 614.29
 5pt x 794.97pt>
 File: gfx/co2flux_SO_timeseries_ym_mar-feb_35S_1980_2015_trend_8.pdf Graphic fi
 le (type pdf)
 
 <use gfx/co2flux_SO_timeseries_ym_mar-feb_35S_1980_2015_trend_8.pdf>
 Package pdftex.def Info: gfx/co2flux_SO_timeseries_ym_mar-feb_35S_1980_2015_tre
-nd_8.pdf used on input line 13.
+nd_8.pdf used on input line 14.
 (pdftex.def)             Requested size: 166.26613pt x 341.83044pt.
 
-Overfull \hbox (5.83044pt too wide) in paragraph at lines 13--15
+Overfull \hbox (5.83044pt too wide) in paragraph at lines 14--16
 [][] 
  []
 
-) [5
-
-
-
-
- <./gfx/co2flux_SO_timeseries_ym_mar-feb_35S_1980_2015_trend_8.pdf>]
+) [7 <./gfx/co2flux_SO_timeseries_ym_mar-feb_35S_1980_2015_trend_8.pdf>]
 \openout2 = `Chapters/Chapter04.aux'.
 
 
-(./Chapters/Chapter04.tex [6
+(./Chapters/Chapter04.tex [8
 
 
 
 
 ]
 Chapter 4.
-<gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf, id=266, 614.295pt x 794.97pt>
+<gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf, id=279, 614.295pt x 794.97pt>
 File: gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf Graphic file (type pdf)
 
 <use gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf>
@@ -1648,7 +1666,7 @@ Overfull \hbox (32.48831pt too wide) in paragraph at lines 11--13
  []
 
 
-<gfx/m182_1988_1995_positive_trend_8_obgc_overview_summer.pdf, id=269, 614.295p
+<gfx/m182_1988_1995_positive_trend_8_obgc_overview_summer.pdf, id=282, 614.295p
 t x 794.97pt>
 File: gfx/m182_1988_1995_positive_trend_8_obgc_overview_summer.pdf Graphic file
  (type pdf)
@@ -1678,8 +1696,8 @@ File: gfx/m182_1988_1995_positive_trend_8_obgc_overview_summer.pdf Graphic file
 Package pdftex.def Info: gfx/m182_1988_1995_positive_trend_8_obgc_overview_summ
 er.pdf used on input line 26.
 (pdftex.def)             Requested size: 166.16371pt x 80.80548pt.
- [7 <./gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf>]
-<gfx/m182_1988_1995_positive_trend_8_seasonality_intpp_zmld.pdf, id=284, page=2
+ [9 <./gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf>]
+<gfx/m182_1988_1995_positive_trend_8_seasonality_intpp_zmld.pdf, id=297, page=2
 , 614.295pt x 794.97pt>
 File: gfx/m182_1988_1995_positive_trend_8_seasonality_intpp_zmld.pdf Graphic fi
 le (type pdf)
@@ -1697,7 +1715,7 @@ Overfull \hbox (32.57983pt too wide) in paragraph at lines 34--36
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<gfx/m182_1988_1995_positive_trend_8_schwerpunkt_mixing_overview.pdf, id=286, 6
+<gfx/m182_1988_1995_positive_trend_8_schwerpunkt_mixing_overview.pdf, id=299, 6
 14.295pt x 794.97pt>
 File: gfx/m182_1988_1995_positive_trend_8_schwerpunkt_mixing_overview.pdf Graph
 ic file (type pdf)
@@ -1711,13 +1729,13 @@ Overfull \hbox (41.0942pt too wide) in paragraph at lines 41--42
 [][] 
  []
 
-) [8 <./gfx/m182_1988_1995_positive_trend_8_obgc_overview_summer.pdf>] [9 <./gf
-x/m182_1988_1995_positive_trend_8_seasonality_intpp_zmld.pdf> <./gfx/m182_1988_
-1995_positive_trend_8_schwerpunkt_mixing_overview.pdf>]
+) [10 <./gfx/m182_1988_1995_positive_trend_8_obgc_overview_summer.pdf>]
+[11 <./gfx/m182_1988_1995_positive_trend_8_seasonality_intpp_zmld.pdf> <./gfx/m
+182_1988_1995_positive_trend_8_schwerpunkt_mixing_overview.pdf>]
 \openout2 = `Chapters/Chapter05.aux'.
 
 
-(./Chapters/Chapter05.tex [10
+(./Chapters/Chapter05.tex [12
 
 
 
@@ -1736,32 +1754,19 @@ LaTeX Font Info:    Try loading font information for TS1+pplj on input line 18.
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 )
 
-LaTeX Warning: Citation 'Nevison2016' on page 11 undefined on input line 34.
+LaTeX Warning: Citation 'somestudy' on page 13 undefined on input line 35.
 
-
-Overfull \hbox (25.91896pt too wide) in paragraph at lines 34--35
-[]\T1/pplj/m/n/10.95 too early and en-hanced South-ern Ocean sea-sonal cy-cle (
-[]) 
- []
-
-
-LaTeX Warning: Citation 'somestudy' on page 11 undefined on input line 35.
-
-[11]
-
-LaTeX Warning: Citation 'Sallee2013' on page 12 undefined on input line 41.
-
-) [12]
+[13]) [14]
 \openout2 = `Chapters/Chapter06.aux'.
 
  (./Chapters/Chapter06.tex
 Chapter 6.
-) [13
+) [15
 
 
 
 
-] [14
+] [16
 
 
 
@@ -1776,14 +1781,14 @@ Overfull \hbox (1.02399pt too wide) in paragraph at lines 7--13
 am, viven-dum par-
  []
 
-<gfx/SOCS_temporal_gaussian.png, id=364, 532.99126pt x 437.34526pt>
+<gfx/SOCS_temporal_gaussian.png, id=380, 532.99126pt x 437.34526pt>
 File: gfx/SOCS_temporal_gaussian.png Graphic file (type png)
 
 <use gfx/SOCS_temporal_gaussian.png>
 Package pdftex.def Info: gfx/SOCS_temporal_gaussian.png used on input line 24.
 (pdftex.def)             Requested size: 213.19272pt x 174.935pt.
 
-<gfx/SOCS_spatial_gaussian.png, id=365, 533.74406pt x 433.62pt>
+<gfx/SOCS_spatial_gaussian.png, id=381, 533.74406pt x 433.62pt>
 File: gfx/SOCS_spatial_gaussian.png Graphic file (type png)
 
 <use gfx/SOCS_spatial_gaussian.png>
@@ -1794,12 +1799,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--26
 [][]
  []
 
-) [15
+) [17
 
 
 
  <./gfx/SOCS_temporal_gaussian.png (PNG copy)> <./gfx/SOCS_spatial_gaussian.png
- (PNG copy)>] [16
+ (PNG copy)>] [18
 
 
 
@@ -1811,32 +1816,32 @@ Package tocbasic Info: character protrusion at lof deactivated on input line 17
 .
 
 (./ClassicThesis.lof
-Overfull \hbox (0.44987pt too wide) in paragraph at lines 21--21
+Overfull \hbox (0.44987pt too wide) in paragraph at lines 23--23
  \T1/pplj/m/n/10.95 sink trend can-di-dates, the blue line is the SOM- 
  []
 
 
-Overfull \hbox (1.63164pt too wide) in paragraph at lines 21--21
+Overfull \hbox (1.63164pt too wide) in paragraph at lines 23--23
  \T1/pplj/m/n/10.95 FFN observation-based es-ti-mate (Land-schützer 
  []
 
 
-Overfull \hbox (0.13226pt too wide) in paragraph at lines 27--27
+Overfull \hbox (0.13226pt too wide) in paragraph at lines 29--29
  [][] []\T1/pplj/m/n/10.95 Southern Ocean aus-tral sum-mer trends per per 
  []
 
 
-Overfull \hbox (0.5485pt too wide) in paragraph at lines 27--27
+Overfull \hbox (0.5485pt too wide) in paragraph at lines 29--29
  \T1/pplj/m/n/10.95 8 years: CO$[]$flux (top left), ver-ti-cally in-te-grated 
  []
 
 
-Overfull \hbox (12.52034pt too wide) in paragraph at lines 27--27
+Overfull \hbox (12.52034pt too wide) in paragraph at lines 29--29
  \T1/pplj/m/n/10.95 (bot-tom left); hatched ar-eas in-di-cate where trends 
  []
 
 
-Overfull \hbox (5.73859pt too wide) in paragraph at lines 29--29
+Overfull \hbox (5.73859pt too wide) in paragraph at lines 31--31
  [][] []\T1/pplj/m/n/10.95 Seasonality of ver-ti-cally in-te-grated pri-mary pr
 o- 
  []
@@ -1845,16 +1850,14 @@ o-
 \tf@lof=\write6
 \openout6 = `ClassicThesis.lof'.
 
-Package tocbasic Info: character protrusion at lot deactivated on input line 29
-.
- (./ClassicThesis.lot)
-\tf@lot=\write7
-\openout7 = `ClassicThesis.lot'.
-
- [17
+) [19
 
 
-]) [18]
+] [20
+
+
+
+]
 \openout2 = `FrontBackmatter/Bibliography.aux'.
 
  (./FrontBackmatter/Bibliography.tex)
@@ -1894,7 +1897,11 @@ Overfull \hbox (7.40149pt too wide) in paragraph at lines 83--83
 : [][]$\T1/fvm/m/n/10.95 http : / / science .
  []
 
+[21
 
+
+
+]
 Overfull \hbox (1.23pt too wide) in paragraph at lines 83--83
 \T1/pplj/m/n/10.95 ogy.^^Q In: \T1/pplj/m/it/10.95 Geo-phys. Res. Lett. \T1/ppl
 j/m/n/10.95 32.L11603. \T1/pplj/m/sc/10.95 doi\T1/pplj/m/n/10.95 : [][]$\T1/fvm
@@ -1907,27 +1914,34 @@ Overfull \hbox (20.07433pt too wide) in paragraph at lines 83--83
 nlinelibrary . wiley . com / doi / 10 . 1029 / 2005GL022727 /
  []
 
-[19
+
+Overfull \hbox (17.8185pt too wide) in paragraph at lines 83--83
+\T1/pplj/m/n/10.95 In: \T1/pplj/m/it/10.95 Geo-phys. Res. Lett. \T1/pplj/m/n/10
+.95 43.5, pp. 2077^^U2085. \T1/pplj/m/sc/10.95 doi\T1/pplj/m/n/10.95 : [][]$\T1
+/fvm/m/n/10.95 10 . 1002 / 2015gl067584$[][]\T1/pplj/m/n/10.95 .
+ []
 
 
-
-
-
-
-]
 Overfull \hbox (16.42784pt too wide) in paragraph at lines 83--83
 \T1/pplj/m/sc/10.95 doi\T1/pplj/m/n/10.95 : [][]$\T1/fvm/m/n/10.95 10 . 1126 / 
 science . 1097403$[][]\T1/pplj/m/n/10.95 . eprint: [][]$\T1/fvm/m/n/10.95 http 
 : / / science . sciencemag .
  []
 
-[20]
+
+Overfull \hbox (8.41235pt too wide) in paragraph at lines 83--83
+\T1/pplj/m/n/10.95 Phy-to-plank-ton.^^Q In: \T1/pplj/m/it/10.95 Jour-nal du Con
+-seil In-ter-na-tional pour l'Exploration
+ []
+
+[22] [23] [24
+
+
+
+]
 \openout2 = `FrontBackmatter/Declaration.aux'.
 
- (./FrontBackmatter/Declaration.tex) [21
-
-
-
+ (./FrontBackmatter/Declaration.tex) [25
 
 
 
@@ -2104,6 +2118,7 @@ FrontBackmatter/Contents.tex
 Chapters/Chapter01.tex
 Chapters/Chapter02.tex
 gfx/MPIESM.pdf
+gfx/hamocc.png
 Chapters/Chapter03.tex
 gfx/co2flux_SO_timeseries_ym_mar-feb_35S_1980_2015_trend_8.pdf
 Chapters/Chapter04.tex
@@ -2129,7 +2144,7 @@ FrontBackmatter/Declaration.tex
 
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 86.
 Package rerunfilecheck Info: File `ClassicThesis.out' has not changed.
-(rerunfilecheck)             Checksum: 69E0FBC543EDFF08E9E79B5FCF588FBD;1805.
+(rerunfilecheck)             Checksum: 9FAF9913C7983AD9682F8B2B1FEEDFA5;1814.
 
 LaTeX Warning: There were undefined references.
 
@@ -2143,28 +2158,27 @@ Package logreq Info: Writing requests to 'ClassicThesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21998 strings out of 494404
- 383535 string characters out of 6163652
- 750661 words of memory out of 5000000
- 24635 multiletter control sequences out of 15000+600000
+ 22020 strings out of 494404
+ 383831 string characters out of 6163652
+ 757884 words of memory out of 5000000
+ 24654 multiletter control sequences out of 15000+600000
  69663 words of font info for 109 fonts, out of 8000000 for 9000
  354 hyphenation exceptions out of 8191
- 65i,22n,90p,1521b,2777s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,22n,98p,1521b,2777s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/euler/eurm7.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/fpl/fplbj8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrij8
-a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ClassicThesis.pdf (29 pages, 5129137 bytes).
+s/type1/public/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/fpl/fplrij8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvmr8
+a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on ClassicThesis.pdf (33 pages, 5718075 bytes).
 PDF statistics:
- 525 PDF objects out of 1000 (max. 8388607)
- 456 compressed objects within 5 object streams
- 108 named destinations out of 1000 (max. 500000)
- 13117 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 557 PDF objects out of 1000 (max. 8388607)
+ 484 compressed objects within 5 object streams
+ 113 named destinations out of 1000 (max. 500000)
+ 13114 words of extra memory for PDF output out of 14400 (max. 10000000)
 
