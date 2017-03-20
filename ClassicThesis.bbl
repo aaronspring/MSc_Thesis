@@ -1013,6 +1013,60 @@
   \field{year}{2007}
 \endentry
 
+\entry{Marshall2012}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Marshall}{M.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Speer}{S.}%
+     {Kevin}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Nature Publishing Group}%
+  }
+  \keyw{rank2, CarbonSink, SouternOcean}
+  \strng{namehash}{MJSK1}
+  \strng{fullhash}{MJSK1}
+  \field{labelyear}{2012}
+  \field{sortinit}{M}
+  \field{abstract}{%
+  The meridional overturning circulation of the ocean plays a central role in
+  climate and climate variability by storing and transporting heat, fresh water
+  and carbon around the globe. Historically, the focus of research has been on
+  the North Atlantic Basin, a primary site where water sinks from the surface
+  to depth, triggered by loss of heat, and therefore buoyancy, to the
+  atmosphere. A key part of the overturning puzzle, however, is the return path
+  from the interior ocean to the surface through upwelling in the Southern
+  Ocean. This return path is largely driven by winds. It has become clear over
+  the past few years that the importance of Southern Ocean upwelling for our
+  understanding of climate rivals that of North Atlantic downwelling, because
+  it controls the rate at which ocean reservoirs of heat and carbon communicate
+  with the surface.%
+  }
+  \verb{doi}
+  \verb 10.1038/ngeo1391
+  \endverb
+  \field{number}{3}
+  \field{pages}{171\bibrangedash 180}
+  \field{title}{Closure of the meridional overturning circulation through
+  Southern Ocean upwelling}
+  \verb{url}
+  \verb http://dx.doi.org/10.1038/NGEO1391
+  \endverb
+  \field{volume}{5}
+  \verb{file}
+  \verb :MarshallSpeer_2012_NGeo_SOupwelling_ngeo1391.pdf:PDF
+  \endverb
+  \field{journaltitle}{Nature Geoscience}
+  \field{year}{2012}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
 \entry{Nevison2016}{article}{}
   \name{author}{11}{}{%
     {{}%
@@ -1553,6 +1607,93 @@
   \endverb
   \field{journaltitle}{Journal of Advances in Modeling Earth Systems}
   \field{year}{2013}
+\endentry
+
+\entry{Stoessel2015}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Stössel}{S.}%
+     {Achim}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Notz}{N.}%
+     {Dirk}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haumann}{H.}%
+     {F.~Alexander}{F.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haak}{H.}%
+     {Helmuth}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jungclaus}{J.}%
+     {Johann}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mikolajewicz}{M.}%
+     {Uwe}{U.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{High-latitude Southern Ocean, Climate models, Surface buoyancy fluxes,
+  Convection, Sea ice}
+  \strng{namehash}{SA+1}
+  \strng{fullhash}{SANDHFAHHJJMU1}
+  \field{labelyear}{2015}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  Abstract Earth System Models (ESMs) generally suffer from a poor simulation
+  of the High-Latitude Southern Ocean (HLSO). Here we aim at a better
+  understanding of the shortcomings by investigating the sensitivity of the
+  \{HLSO\} to the external freshwater flux and the horizontal resolution in
+  forced and coupled simulations with the Max-Planck-Institute Ocean Model
+  (MPIOM). Forced experiments reveal an immediate reduction of open-ocean
+  convection with additional freshwater input. The latter leads to a remarkably
+  realistic simulation of the distinct water-mass structure in the central
+  Weddell Sea featuring a temperature maximum of +0.5 °C at 250 m depth.
+  Similar, but more modest improvements occur over a time span of 40 years
+  after switching from a forced to a coupled simulation with an eddy-resolving
+  version of MPIOM. The switch is accompanied with pronounced changes of the
+  external freshwater flux and the wind field, as well as a more realistic heat
+  flux due to coupling. Similar to the forced freshwater-flux experiments, a
+  heat reservoir develops at depth, which in turn decreases the vertically
+  integrated density of the \{HLSO\} and reduces the Antarctic Circumpolar
+  Current to rather realistic values. Coupling with a higher resolution version
+  of the atmosphere model (ECHAM6) yields distinct improvements of the \{HLSO\}
+  water-mass structure and sea-ice cover. While the coupled simulations reveal
+  a realistic amount of Antarctic runoff, its distribution appears too
+  concentrated along the coast. Spreading the runoff over a wider region, as
+  suggested in earlier studies to mimic the effect of freshwater transport
+  through icebergs, also leads to noticeable improvements of the \{HLSO\}
+  water-mass properties, predominantly along the coast. This suggests that the
+  spread of the runoff improves the representation of Antarctic Bottom Water
+  formation through enhanced near-boundary convection rather than weakened
+  open-ocean convection.%
+  }
+  \verb{doi}
+  \verb http://dx.doi.org/10.1016/j.ocemod.2014.11.008
+  \endverb
+  \field{issn}{1463-5003}
+  \field{pages}{58 \bibrangedash  75}
+  \field{title}{Controlling high-latitude Southern Ocean convection in climate
+  models}
+  \verb{url}
+  \verb http://www.sciencedirect.com/science/article/pii/S1463500314001760
+  \endverb
+  \field{volume}{86}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Stoessel_etal2015_OM_SO_ventilation
+  \verb _ice.pdf:PDF
+  \endverb
+  \field{journaltitle}{Ocean Modelling}
+  \field{year}{2015}
 \endentry
 
 \entry{Sverdrup1953}{article}{}

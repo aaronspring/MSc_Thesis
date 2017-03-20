@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/dev/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: outline.aux
+The style file: abbrvnat.bst
+Database file #1: ../Paper/SouthernOceanCarbonSink_new.bib
+You've used 38 entries,
+            2773 wiz_defined-function locations,
+            944 strings with 18100 characters,
+and the built_in function-call counts, 30405 in all, are:
+= -- 2608
+> -- 2894
+< -- 10
++ -- 968
+- -- 930
+* -- 3150
+:= -- 4986
+add.period$ -- 204
+call.type$ -- 38
+change.case$ -- 424
+chr.to.int$ -- 38
+cite$ -- 76
+duplicate$ -- 787
+empty$ -- 1569
+format.name$ -- 978
+if$ -- 6009
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 38
+newline$ -- 288
+num.names$ -- 152
+pop$ -- 687
+preamble$ -- 1
+purify$ -- 386
+quote$ -- 0
+skip$ -- 759
+stack$ -- 0
+substring$ -- 1082
+swap$ -- 57
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 418
+warning$ -- 0
+while$ -- 185
+width$ -- 0
+write$ -- 681

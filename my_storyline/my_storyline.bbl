@@ -1,17 +1,17 @@
-\begin{thebibliography}{6}
+\begin{thebibliography}{7}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Deser et~al.(2012)Deser, Phillips, Bourdette, and Teng]{Deser2012}
-C.~Deser, A.~Phillips, V.~Bourdette, and H.~Teng.
-\newblock Uncertainty in climate change projections: the role of internal
-  variability.
-\newblock \emph{Clim Dyn}, 38\penalty0 (3-4):\penalty0 527--546, dec 2012.
-\newblock \doi{10.1007/s00382-010-0977-x}.
-\newblock URL \url{http://dx.doi.org/10.1007/s00382-010-0977-x}.
+\bibitem[DeVries et~al.(2017)DeVries, Holzer, and Primeau]{DeVries2017}
+T.~DeVries, M.~Holzer, and F.~Primeau.
+\newblock Recent increase in oceanic carbon uptake driven by weaker upper-ocean
+  overturning.
+\newblock \emph{Nature}, 542\penalty0 (7640):\penalty0 215--218, feb 2017.
+\newblock \doi{10.1038/nature21068}.
+\newblock URL \url{https://doi.org/10.1038%2Fnature21068}.
 
 \bibitem[Hauck et~al.(2013)Hauck, V{\"o}lker, Wang, Hoppema, Losch, and
   Wolf-Gladrow]{Hauck2013}
@@ -35,6 +35,15 @@ P.~Landsch{\"u}tzer, N.~Gruber, F.~A. Haumann, C.~R{\"o}denbeck, D.~C.~E.
 \newblock \doi{10.1126/science.aab2620}.
 \newblock URL \url{http://science.sciencemag.org/content/349/6253/1221}.
 
+\bibitem[Lovenduski and Gruber(2005)]{Lovenduski2005}
+N.~S. Lovenduski and N.~Gruber.
+\newblock Impact of the southern annular mode on southern ocean circulation and
+  biology.
+\newblock \emph{Geophys. Res. Lett.}, 32\penalty0 (L11603), 2005.
+\newblock \doi{10.1029/2005GL022727}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1029/2005GL022727/pdf}.
+
 \bibitem[Lovenduski et~al.(2008)Lovenduski, Gruber, and Doney]{Lovenduski2008}
 N.~S. Lovenduski, N.~Gruber, and S.~C. Doney.
 \newblock Toward a mechanistic understanding of the decadal trends in the
@@ -42,11 +51,13 @@ N.~S. Lovenduski, N.~Gruber, and S.~C. Doney.
 \newblock \emph{Global Biogeochem. Cycles}, 22, 2008.
 \newblock \doi{10.1029/2007GB003139}.
 
-\bibitem[Sverdrup(1953)]{Sverdrup1953}
-H.~U. Sverdrup.
-\newblock On conditions for the vernal blooming of phytoplankton.
-\newblock \emph{Journal du Conseil International pour l'Exploration de la Mer},
-  18:\penalty0 287--295, 1953.
+\bibitem[Morrison et~al.(2015)Morrison, Frölicher, and
+  Sarmiento]{Morrison2015}
+A.~Morrison, T.~Frölicher, and J.~Sarmiento.
+\newblock Upwelling in the southern ocean.
+\newblock \emph{Physics Today}, 2015.
+\newblock \doi{10.1063/PT.3.2654}.
+\newblock URL \url{http://dx.doi.org/10.1063/PT.3.2654}.
 
 \bibitem[Wang and Moore(2012)]{wang2012}
 S.~Wang and J.~K. Moore.

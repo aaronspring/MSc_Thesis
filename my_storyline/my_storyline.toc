@@ -1,1 +1,7 @@
 \beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Method}{3}{0}{2}
+\beamer@sectionintoc {3}{Scientic questions}{4}{0}{3}
+\beamer@sectionintoc {4}{Results}{5}{0}{4}
+\beamer@subsectionintoc {4}{2}{Circulation}{11}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{12}{0}{5}

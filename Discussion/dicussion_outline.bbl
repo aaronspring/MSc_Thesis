@@ -1,0 +1,97 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Hauck et~al.(2013)Hauck, V{\"o}lker, Wang, Hoppema, Losch, and
+  Wolf-Gladrow]{Hauck2013}
+J.~Hauck, C.~V{\"o}lker, T.~Wang, M.~Hoppema, M.~Losch, and D.~A. Wolf-Gladrow.
+\newblock Seasonally different carbon flux changes in the southern ocean in
+  response to the southern annular mode.
+\newblock \emph{Global Biogeochemical Cycles}, 27\penalty0 (4):\penalty0
+  1236--1245, dec 2013.
+\newblock \doi{10.1002/2013gb004600}.
+\newblock URL \url{http://dx.doi.org/10.1002/2013GB004600}.
+
+\bibitem[Landsch{\"u}tzer et~al.(2015)Landsch{\"u}tzer, Gruber, Haumann,
+  R{\"o}denbeck, Bakker, van Heuven, Hoppema, Metzl, Sweeney, Takahashi,
+  Tilbrook, and Wanninkhof]{landschuetzer2015}
+P.~Landsch{\"u}tzer, N.~Gruber, F.~A. Haumann, C.~R{\"o}denbeck, D.~C.~E.
+  Bakker, S.~van Heuven, M.~Hoppema, N.~Metzl, C.~Sweeney, T.~Takahashi,
+  B.~Tilbrook, and R.~Wanninkhof.
+\newblock The reinvigoration of the southern ocean carbon sink.
+\newblock \emph{Science}, 349\penalty0 (6253):\penalty0 1221--1224, 2015.
+\newblock ISSN 0036-8075.
+\newblock \doi{10.1126/science.aab2620}.
+\newblock URL \url{http://science.sciencemag.org/content/349/6253/1221}.
+
+\bibitem[Lovenduski and Gruber(2005)]{Lovenduski2005}
+N.~S. Lovenduski and N.~Gruber.
+\newblock Impact of the southern annular mode on southern ocean circulation and
+  biology.
+\newblock \emph{Geophys. Res. Lett.}, 32\penalty0 (L11603), 2005.
+\newblock \doi{10.1029/2005GL022727}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1029/2005GL022727/pdf}.
+
+\bibitem[Nevison et~al.(2016)Nevison, Manizza, Keeling, Stephens, Bent, Dunne,
+  Ilyina, Long, Resplandy, Tjiputra, and Yukimoto]{Nevison2016}
+C.~D. Nevison, M.~Manizza, R.~F. Keeling, B.~B. Stephens, J.~D. Bent, J.~Dunne,
+  T.~Ilyina, M.~Long, L.~Resplandy, J.~Tjiputra, and S.~Yukimoto.
+\newblock Evaluating {CMIP}5 ocean biogeochemistry and southern ocean carbon
+  uptake using atmospheric potential oxygen: Present-day performance and future
+  projection.
+\newblock \emph{Geophys. Res. Lett.}, 43\penalty0 (5):\penalty0 2077--2085, mar
+  2016.
+\newblock \doi{10.1002/2015gl067584}.
+\newblock URL \url{http://dx.doi.org/10.1002/2015GL067584}.
+
+\bibitem[Sall{\'{e}}e et~al.(2013)Sall{\'{e}}e, Shuckburgh, Bruneau, Meijers,
+  Bracegirdle, and Wang]{Sallee2013}
+J.-B. Sall{\'{e}}e, E.~Shuckburgh, N.~Bruneau, A.~J.~S. Meijers, T.~J.
+  Bracegirdle, and Z.~Wang.
+\newblock Assessment of southern ocean mixed-layer depths in {CMIP}5~{m}odels:
+  Historical bias and forcing response.
+\newblock \emph{J. Geophys. Res. Oceans}, 118\penalty0 (4):\penalty0
+  1845--1862, apr 2013.
+\newblock \doi{10.1002/jgrc.20157}.
+\newblock URL \url{http://dx.doi.org/10.1002/jgrc.20157}.
+
+\bibitem[Sallée et~al.(2013)Sallée, Shuckburgh, Bruneau, Meijers,
+  Bracegirdle, Wang, and Roy]{Sallee2013a}
+J.-B. Sallée, E.~Shuckburgh, N.~Bruneau, A.~J.~S. Meijers, T.~J. Bracegirdle,
+  Z.~Wang, and T.~Roy.
+\newblock Assessment of southern ocean water mass circulation and
+  characteristics in cmip5 models: Historical bias and forcing response.
+\newblock \emph{Journal of Geophysical Research: Oceans}, 118\penalty0
+  (4):\penalty0 1830--1844, 2013.
+\newblock ISSN 2169-9291.
+\newblock \doi{10.1002/jgrc.20135}.
+\newblock URL \url{http://dx.doi.org/10.1002/jgrc.20135}.
+
+\bibitem[Stössel et~al.(2015)Stössel, Notz, Haumann, Haak, Jungclaus, and
+  Mikolajewicz]{Stoessel2015}
+A.~Stössel, D.~Notz, F.~A. Haumann, H.~Haak, J.~Jungclaus, and
+  U.~Mikolajewicz.
+\newblock Controlling high-latitude southern ocean convection in climate
+  models.
+\newblock \emph{Ocean Modelling}, 86:\penalty0 58 -- 75, 2015.
+\newblock ISSN 1463-5003.
+\newblock \doi{http://dx.doi.org/10.1016/j.ocemod.2014.11.008}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S1463500314001760}.
+
+\bibitem[Wang and Moore(2012)]{wang2012}
+S.~Wang and J.~K. Moore.
+\newblock {Variability of primary production and air-sea CO2 flux in the
+  Southern Ocean}.
+\newblock \emph{Global Biogeochemical Cycles}, 26\penalty0 (1):\penalty0
+  n/a–n/a, 2012.
+\newblock ISSN 1944-9224.
+\newblock \doi{10.1029/2010GB003981}.
+\newblock URL \url{http://dx.doi.org/10.1029/2010GB003981}.
+\newblock GB1008.
+
+\end{thebibliography}

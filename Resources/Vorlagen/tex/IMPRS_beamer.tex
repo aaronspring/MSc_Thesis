@@ -1,0 +1,49 @@
+\documentclass[aspectratio=169]{beamer}
+\mode<presentation>{
+  \usetheme{default}
+  \usecolortheme{dove}
+}
+\defbeamertemplate*{footline}{my footline}
+{
+	\ifnum \insertpagenumber=1
+		\leavevmode%
+		\includegraphics[width=\paperwidth]{MPIM_Titelseite_unten.pdf}%NEW
+		\vskip-10pt%NEW
+		\hbox{%
+			\pgfsetfillopacity{0}\begin{beamercolorbox}[wd=1\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+				\usebeamerfont{title in head/foot}\pgfsetfillopacity{1}%\insertframenumber{} / \inserttotalframenumber\hspace*{2ex}
+			\end{beamercolorbox}%
+		}%
+		\vskip0pt%
+	\else
+		\leavevmode%
+		%\includegraphics[width=\paperwidth]{MPIM_IMPRS_Folgeseite_unten.pdf}
+		\includegraphics[width=\paperwidth]{MPIM_Titelseite_unten.pdf}		
+		\vskip-10pt
+		\hbox{%
+			\pgfsetfillopacity{0}\begin{beamercolorbox}[wd=1\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+				\usebeamerfont{title in head/foot}\pgfsetfillopacity{1}\insertframenumber{} / \inserttotalframenumber\hspace*{2ex}
+			\end{beamercolorbox}%
+		}%
+		\vskip0pt%
+	\fi
+}
+
+
+\makeatletter
+\setbeamertemplate{footline}[my footline]
+
+
+
+
+\title{Some Title}
+
+\begin{document}
+	\begin{frame}
+		\titlepage
+	\end{frame}
+	
+	\begin{frame}{Frame 1}
+		This is a normal frame.
+	\end{frame}
+\end{document}

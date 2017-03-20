@@ -1,0 +1,165 @@
+\documentclass[12pt]{article}
+
+%\usepackage{scicite}
+
+%\usepackage{times}
+\usepackage{pdfpages}
+
+%\usepackage[ansinew]{inputenc}
+\usepackage{amsmath}
+\usepackage{siunitx}
+\usepackage[colorlinks=true, urlcolor=blue, linkcolor=blue,citecolor=blue]{hyperref}
+%\usepackage[german]{babel}
+\usepackage{float}
+%\usepackage[numbers]{natbib}
+\usepackage[authoryear]{natbib}
+%\usepackage[pliannatuthoryear]{natbib}
+
+\usepackage{graphicx}
+\graphicspath{{/home/mpim/m300524/MSc_Thesis/gfx/}}
+
+% The following parameters seem to provide a reasonable page setup.
+
+\topmargin 0.0cm
+\oddsidemargin 0.2cm
+\textwidth 16cm 
+\textheight 21cm
+\footskip 1.0cm
+
+%\newcommand{\member}{m105_1994_2001}
+%\newcommand{\member}{m178_1985_1992} % zweitbesten
+\newcommand{\member}{m182_1988_1995} %funktioniert am besten
+
+%The next command sets up an environment for the abstract to your paper.
+
+%\newenvironment{sciabstract}{%
+%\begin{quote} \bf}
+%{\end{quote}}
+
+
+% If your reference list includes text notes as well as references,
+% include the following line; otherwise, comment it out.
+
+\renewcommand\refname{References and Notes}
+
+% The following lines set up an environment for the last note in the
+% reference list, which commonly includes acknowledgments of funding,
+% help, etc.  It's intended for users of BibTeX or the {thebibliography}
+% environment.  Users who are hand-coding their references at the end
+% using a list environment such as {enumerate} can simply add another
+% item at the end, and it will be numbered automatically.
+
+%\newcounter{lastnote}
+%\newenvironment{scilastnote}{%
+%\setcounter{lastnote}{\value{enumiv}}%
+%\addtocounter{lastnote}{+1}%
+%\begin{list}%
+%{\arabic{lastnote}.}
+%{\setlength{\leftmargin}{.22in}}
+%{\setlength{\labelsep}{.5em}}}
+%{\end{list}}
+
+
+% Include your paper's title here
+
+\title{The impact of biology on decadal decreasing trends of carbon sink in the Southern Ocean} 
+
+
+\author
+{Aaron Spring,$^{1\ast}$ Hongmei Li,$^{1}$ Tatiana Ilyina$^{1}$\\
+\\
+\normalsize{$^{1}$Max Planck Institute for Meteorology, Bundesstra{\ss}e 53, 20146 Hamburg, Germany}\\
+\\
+\normalsize{$^\ast$To whom correspondence should be addressed; E-mail:  aaron.spring@mpimet.mpg.de.}
+}
+
+% Include the date command, but leave its argument blank.
+
+\date{}
+
+
+
+%%%%%%%%%%%%%%%%% END OF PREAMBLE %%%%%%%%%%%%%%%%
+
+
+
+
+\begin{document} 
+
+% Double-space the manuscript.
+
+\baselineskip18pt
+
+% Make the title.
+
+%\maketitle 
+%Other title: The response of biology for the Southern Ocean carbon sink under the context of intensified winds
+
+
+\section{Discussion Outline}
+
+Other studies investigated impact of winds on Southern Ocean biology \citep{Lovenduski2005,Hauck2013}.
+ 
+\citep{Lovenduski2005}: observational satellite study with Chl-a
+\begin{enumerate}
+\item our MLD responds differently than fig.2 schematic illustration
+\item increase in SAM → increase in chlorophyll south of PF/45°S because of iron supply from below (we have phy-decrease)
+\item increase in SAM → reduction in chlorophyll north of PF/45°S because of increased ZMLD (we have a slight phy-increase)
+\item BUT we dont have iron/nutrient limitation in SO
+\end{enumerate} 
+
+\citep{Hauck2013}: stronger winds, increased upwelling, more iron supply, higher primary production, overlap of deepening zmld and iron increase areas
+
+\citep{wang2012}: 
+\begin{enumerate}
+\item forced model, 25yr trends, so rather climate change impact than decadal variability
+\item some regions: more upwelling, more iron, more primary production 
+\item I dont get the clear storyline of the whole paper, too many aspects
+\end{enumerate}
+
+Limitations of HAMOCC/MPIESM vs obs/other models:
+\begin{enumerate}
+\item too early and enhanced Southern Ocean seasonal cycle \citep{Nevison2016}
+\item not eddy resolving, has impacts \citep{Stoessel2015}
+\item basically no nutrient limitation in SO? - other models and observations disagree; no iron hypothesis in HAMOCC
+\item observation studies use sparse data for pCO2 \citep{landschuetzer2015}
+\item MPIOM performance on circulation patterns and water masses in SO \citep{Sallee2013a} %(Yohei mentioned Anne M. could know this)
+\item MPI-ESM zmld performance in SO \citep{Sallee2013}
+\end{enumerate} 
+
+
+
+
+
+
+
+\newpage
+\baselineskip18pt
+%\addbibresource{../Paper/SouthernOceanCarbonSink_new}
+\bibliography{../Paper/SouthernOceanCarbonSink_new}
+
+\bibliographystyle{abbrvnat}%unsrtnat}%abbrvnat}%plainnat}
+
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.11.16)  30 JAN 2017 19:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.11.16)  10 MAR 2017 14:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -720,90 +720,83 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count154
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 38.
+Package hyperref Info: Option `colorlinks' set `true' on input line 40.
 
 (/usr/share/texlive/texmf-dist/tex/latex/appendixnumberbeamer/appendixnumberbea
 mer.sty)
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\new@ifnextchar' on input line 69.
+(hyperref)                removing `\new@ifnextchar' on input line 72.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\new@ifnextchar' on input line 69.
+(hyperref)                removing `\new@ifnextchar' on input line 72.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 69.
+(hyperref)                removing `math shift' on input line 72.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 69.
+(hyperref)                removing `superscript' on input line 72.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 69.
+(hyperref)                removing `math shift' on input line 72.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 69.
+(hyperref)                removing `math shift' on input line 72.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 69.
+(hyperref)                removing `superscript' on input line 72.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 69.
+(hyperref)                removing `math shift' on input line 72.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 69.
+(hyperref)                removing `math shift' on input line 72.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 69.
+(hyperref)                removing `superscript' on input line 72.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 69.
+(hyperref)                removing `math shift' on input line 72.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 69.
+(hyperref)                removing `math shift' on input line 72.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 69.
+(hyperref)                removing `superscript' on input line 72.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 69.
+(hyperref)                removing `math shift' on input line 72.
 
-(./my_storyline.aux
-
-LaTeX Warning: Label `fig:SOCS_ensmean_ensstd' multiply defined.
-
-
-LaTeX Warning: Label `fig:wind_mixing' multiply defined.
-
-)
+(./my_storyline.aux)
 \openout1 = `my_storyline.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -869,7 +862,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box56
-Package hyperref Info: Link coloring ON on input line 69.
+Package hyperref Info: Link coloring ON on input line 72.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -879,66 +872,66 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count161
 )
-LaTeX Info: Redefining \ref on input line 69.
-LaTeX Info: Redefining \pageref on input line 69.
-LaTeX Info: Redefining \nameref on input line 69.
+LaTeX Info: Redefining \ref on input line 72.
+LaTeX Info: Redefining \pageref on input line 72.
+LaTeX Info: Redefining \nameref on input line 72.
 
 (./my_storyline.out) (./my_storyline.out)
 \@outlinefile=\write5
 \openout5 = `my_storyline.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 69.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 72.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 69.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 72.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 69.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 69.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 69.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 69.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 69.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 72.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 69.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 69.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 69.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 72.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 69.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 69.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 69.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 72.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 69.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 69.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 72.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 69.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 72.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 69.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 69.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 69.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 69.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 69.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 69.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 69.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 72.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 72.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 6
-9.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 7
+2.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-69.
+72.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 69.
+ut line 72.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -964,283 +957,369 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 69.
- (./my_storyline.nav) <MPIM_Titelseite_unten.pdf, id=17, 722.7pt x 42.67944pt>
+LaTeX Info: Redefining \includegraphics on input line 72.
+ (./my_storyline.nav) <MPIM_Titelseite_unten.pdf, id=41, 722.7pt x 42.67944pt>
 File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
 
 <use MPIM_Titelseite_unten.pdf>
-Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 69.
+Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 72.
 (pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 72.
+LaTeX Font Info:    Try loading font information for U+msa on input line 75.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 72.
+LaTeX Font Info:    Try loading font information for U+msb on input line 75.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 72.
+line 75.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-Overfull \vbox (6.99472pt too high) detected at line 72
+Overfull \vbox (10.00792pt too high) detected at line 75
  []
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 72.
+(Font)              size <5> substituted on input line 75.
 
 File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
 <use MPIM_Titelseite_unten.pdf>
-Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 72.
+Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 75.
 (pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./MPIM_Titelseite_unten.pd
 f>]
-</home/mpim/m300524/MSc_Thesis/gfx/landschuetzer_fig1.png, id=56, 1038.88126pt 
+</home/mpim/m300524/MSc_Thesis/gfx/landschuetzer_fig1.png, id=54, 1038.88126pt 
 x 488.82625pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/landschuetzer_fig1.png Graphic file (ty
 pe png)
  <use /home/mpim/m300524/MSc_Thesis/gfx/landschuetzer_fig1.png>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/landschuetzer_fig1.p
-ng used on input line 82.
+ng used on input line 86.
 (pdftex.def)             Requested size: 311.66678pt x 146.649pt.
 File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
 
 <use MPIM_Titelseite_unten.pdf>
-Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 82.
+Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 86.
 (pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
  [2
 
  </home/mpim/m300524/MSc_Thesis/gfx/landschuetzer_fig1.png>]
-</home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf, id=85, 796.9775pt x 597.23125pt>
+</home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf, id=61, 796.9775pt x 597.23125pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf Graphic file (type pdf)
 <use /home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf used on i
-nput line 92.
-(pdftex.def)             Requested size: 239.0951pt x 162.09897pt.
+nput line 98.
+(pdftex.def)             Requested size: 223.15218pt x 119.42331pt.
 
-Overfull \vbox (25.44922pt too high) detected at line 92
+Overfull \vbox (12.31801pt too high) detected at line 98
  []
 
 File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
 <use MPIM_Titelseite_unten.pdf>
-Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 92.
+Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 98.
 (pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
  [3
 
  </home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf>]
+File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
+ <use MPIM_Titelseite_unten.pdf>
+Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 108.
+(pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
+ [4
+
+]
 </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ym_mar-feb_35S_1980_20
-15_trend_8.pdf, id=124, 614.295pt x 794.97pt>
+15_trend_8.pdf, id=83, 614.295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ym_mar-feb_35S_19
 80_2015_trend_8.pdf Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ym_mar-feb_35S_198
 0_2015_trend_8.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeserie
-s_ym_mar-feb_35S_1980_2015_trend_8.pdf used on input line 102.
-(pdftex.def)             Requested size: 186.80484pt x 357.7332pt.
+s_ym_mar-feb_35S_1980_2015_trend_8.pdf used on input line 119.
+(pdftex.def)             Requested size: 104.28433pt x 222.59007pt.
 
-Overfull \vbox (14.15509pt too high) detected at line 102
+Overfull \vbox (14.1981pt too high) detected at line 119
  []
 
 File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
 <use MPIM_Titelseite_unten.pdf>
-Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 102.
-(pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
- [4
-
- </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ym_mar-feb_35S_1980_2
-015_trend_8.pdf>]
-</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf, id
-=157, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
-f Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
->
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
-intpp_ens_t1990s.pdf used on input line 114.
-(pdftex.def)             Requested size: 184.24416pt x 63.2499pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
-f Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
->
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
-intpp_ens_t1990s.pdf used on input line 114.
-(pdftex.def)             Requested size: 184.24416pt x 72.21239pt.
-pdfTeX warning (ext4): destination with the same identifier (name{fig:SOCS_ensm
-ean_ensstd}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.114 \end{frame}
-                 
-File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
- <use MPIM_Titelseite_unten.pdf>
-Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 114.
+Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 119.
 (pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
  [5
 
- </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf>]
-</home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_obgc_overvie
-w_summer.pdf, id=193, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
+ </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ym_mar-feb_35S_1980_2
+015_trend_8.pdf>]
+</home/mpim/m300524/MSc_Thesis/gfx/Southern_Ocean_Circulation.png, id=97, 661.7
+2218pt x 572.19958pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/Southern_Ocean_Circulation.png Graphic 
+file (type png)
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 128.
-(pdftex.def)             Requested size: 132.93147pt x 73.74976pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
+<use /home/mpim/m300524/MSc_Thesis/gfx/Southern_Ocean_Circulation.png>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Southern_Ocean_Circu
+lation.png used on input line 127.
+(pdftex.def)             Requested size: 255.57945pt x 145.79518pt.
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 128.
-(pdftex.def)             Requested size: 132.93147pt x 64.64497pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 128.
-(pdftex.def)             Requested size: 132.93147pt x 62.36827pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 128.
-(pdftex.def)             Requested size: 132.93147pt x 64.64462pt.
-
-Overfull \vbox (19.24463pt too high) detected at line 128
+Overfull \vbox (15.5549pt too high) detected at line 127
  []
 
 File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
 <use MPIM_Titelseite_unten.pdf>
-Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 128.
+Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 127.
 (pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
  [6
 
- </home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_obgc_overvi
-ew_summer.pdf>]
-</home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_schwerpunkt_
-mixing_overview.pdf, id=232, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_schwerp
-unkt_mixing_overview.pdf Graphic file (type pdf)
+ </home/mpim/m300524/MSc_Thesis/gfx/Southern_Ocean_Circulation.png>]
+</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overvie
+w_summer.pdf, id=105, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_schwerpu
-nkt_mixing_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_posit
-ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 139.
-(pdftex.def)             Requested size: 157.77014pt x 110.11195pt.
-File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
- <use MPIM_Titelseite_unten.pdf>
-Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 139.
-(pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
- [7
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 156.
+(pdftex.def)             Requested size: 132.93147pt x 73.74976pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
 
- </home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_schwerpunkt
-_mixing_overview.pdf>]
-File: /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_schwerp
-unkt_mixing_overview.pdf Graphic file (type pdf)
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 156.
+(pdftex.def)             Requested size: 132.93147pt x 64.64497pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_schwerpu
-nkt_mixing_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_posit
-ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 149.
-(pdftex.def)             Requested size: 133.58542pt x 110.11195pt.
-pdfTeX warning (ext4): destination with the same identifier (name{fig:wind_mixi
-ng}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.149 \end{frame}
-                 
-File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
- <use MPIM_Titelseite_unten.pdf>
-Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 149.
-(pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
- [8
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 156.
+(pdftex.def)             Requested size: 132.93147pt x 62.36827pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
 
-]
-</home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_seasonality_
-intpp_zmld.pdf, id=296, page=2, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_seasona
-lity_intpp_zmld.pdf Graphic file (type pdf)
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 156.
+(pdftex.def)             Requested size: 132.93147pt x 64.64462pt.
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_seasonal
-ity_intpp_zmld.pdf, page 2>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_posit
-ive_trend_8_seasonality_intpp_zmld.pdf, page2 used on input line 159.
-(pdftex.def)             Requested size: 184.28992pt x 144.59802pt.
-
-Overfull \vbox (12.44827pt too high) detected at line 159
+Overfull \vbox (13.5541pt too high) detected at line 156
  []
 
 File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
 <use MPIM_Titelseite_unten.pdf>
-Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 159.
+Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 156.
+(pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
+ [7
+
+ </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overvi
+ew_summer.pdf>]
+</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpunkt_
+mixing_overview.pdf, id=124, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerp
+unkt_mixing_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpu
+nkt_mixing_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 168.
+(pdftex.def)             Requested size: 189.3261pt x 132.1357pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerp
+unkt_mixing_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpu
+nkt_mixing_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 168.
+(pdftex.def)             Requested size: 160.30414pt x 132.1357pt.
+
+Overfull \vbox (11.43039pt too high) detected at line 168
+ []
+
+File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
+<use MPIM_Titelseite_unten.pdf>
+Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 168.
+(pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
+ [8
+
+ </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpunkt
+_mixing_overview.pdf>]
+</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_seasonality_
+intpp_zmld.pdf, id=137, page=2, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_seasona
+lity_intpp_zmld.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_seasonal
+ity_intpp_zmld.pdf, page 2>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_seasonality_intpp_zmld.pdf, page2 used on input line 179.
+(pdftex.def)             Requested size: 184.28992pt x 144.59802pt.
+
+Overfull \vbox (12.44827pt too high) detected at line 179
+ []
+
+File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
+<use MPIM_Titelseite_unten.pdf>
+Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 179.
 (pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
  [9
 
- </home/mpim/m300524/MSc_Thesis/gfx/m182_1988_1995_positive_trend_8_seasonality
+ </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_seasonality
 _intpp_zmld.pdf>]
-File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
+</home/mpim/m300524/MSc_Thesis/gfx/Southern_Ocean_SAM_zmld_response_Lovenduski2
+005.png, id=148, 505.89pt x 455.97154pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/Southern_Ocean_SAM_zmld_response_Lovend
+uski2005.png Graphic file (type png)
 
+<use /home/mpim/m300524/MSc_Thesis/gfx/Southern_Ocean_SAM_zmld_response_Lovendu
+ski2005.png>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Southern_Ocean_SAM_z
+mld_response_Lovenduski2005.png used on input line 193.
+(pdftex.def)             Requested size: 151.76816pt x 111.18484pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 193.
+(pdftex.def)             Requested size: 129.4024pt x 93.55182pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 193.
+(pdftex.def)             Requested size: 137.93819pt x 93.55182pt.
+
+Overfull \hbox (20.77016pt too wide) in paragraph at lines 193--193
+ [][][] 
+ []
+
+
+Overfull \vbox (1.71042pt too high) detected at line 193
+ []
+
+File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
 <use MPIM_Titelseite_unten.pdf>
-Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 163.
+Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 193.
 (pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
  [10
 
-]
+ </home/mpim/m300524/MSc_Thesis/gfx/Southern_Ocean_SAM_zmld_response_Lovenduski
+2005.png>]
+</home/mpim/m300524/MSc_Thesis/gfx/DeVries_2017_Fig1_Upper_Ocean_Overturning_Ci
+rculation.png, id=160, 518.6878pt x 631.05865pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/DeVries_2017_Fig1_Upper_Ocean_Overturni
+ng_Circulation.png Graphic file (type png)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/DeVries_2017_Fig1_Upper_Ocean_Overturnin
+g_Circulation.png>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/DeVries_2017_Fig1_Up
+per_Ocean_Overturning_Circulation.png used on input line 205.
+(pdftex.def)             Requested size: 166.4728pt x 138.76822pt.
+
+</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overvie
+w_winter.pdf, id=162, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_winter.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_winter.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_winter.pdf used on input line 205.
+(pdftex.def)             Requested size: 132.93147pt x 73.74976pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_winter.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_winter.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_winter.pdf used on input line 205.
+(pdftex.def)             Requested size: 132.93147pt x 64.64497pt.
+
+Overfull \hbox (33.99715pt too wide) in paragraph at lines 205--205
+ [][][] 
+ []
+
+
+Overfull \vbox (15.4563pt too high) detected at line 205
+ []
+
 File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
- <use MPIM_Titelseite_unten.pdf>
-Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 167.
+<use MPIM_Titelseite_unten.pdf>
+Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 205.
 (pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
  [11
 
-]
+ </home/mpim/m300524/MSc_Thesis/gfx/DeVries_2017_Fig1_Upper_Ocean_Overturning_C
+irculation.png> </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_tren
+d_8_obgc_overview_winter.pdf>]
+</home/mpim/m300524/MSc_Thesis/gfx/Scatter_trends_ensanom_co2flux_vs_SAM_n1800_
+1980_1997.pdf, id=176, page=2, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/Scatter_trends_ensanom_co2flux_vs_SAM_n
+1800_1980_1997.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Scatter_trends_ensanom_co2flux_vs_SAM_n1
+800_1980_1997.pdf, page 2>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Scatter_trends_ensan
+om_co2flux_vs_SAM_n1800_1980_1997.pdf, page2 used on input line 217.
+(pdftex.def)             Requested size: 143.3212pt x 180.36647pt.
+
+Overfull \vbox (15.00851pt too high) detected at line 217
+ []
+
+File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
+<use MPIM_Titelseite_unten.pdf>
+Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 217.
+(pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
+ [12
+
+ </home/mpim/m300524/MSc_Thesis/gfx/Scatter_trends_ensanom_co2flux_vs_SAM_n1800
+_1980_1997.pdf>]
 File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
 
 <use MPIM_Titelseite_unten.pdf>
-Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 174.
+Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 228.
 (pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
- [12
+ [13
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\translate ' on input line 177.
+(hyperref)                removing `\translate ' on input line 230.
 
 (./my_storyline.bbl
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¶ in font cmss10!
 Missing character: There is no â in font cmss10!
 Missing character: There is no € in font cmss10!
 Missing character: There is no “ in font cmss10!
 )
 File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
  <use MPIM_Titelseite_unten.pdf>
-Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 185.
+Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 238.
 (pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
- [13
+ [14
 
 ]
 File: MPIM_Titelseite_unten.pdf Graphic file (type pdf)
 
 <use MPIM_Titelseite_unten.pdf>
-Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 185.
+Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 238.
 (pdftex.def)             Requested size: 455.24408pt x 26.88492pt.
- [14
+ [15
 
 
 ]
@@ -1253,44 +1332,43 @@ Package pdftex.def Info: MPIM_Titelseite_unten.pdf used on input line 185.
 \tf@snm=\write8
 \openout8 = `my_storyline.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 242.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 242.
  (./my_storyline.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 242.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 242.
 Package rerunfilecheck Info: File `my_storyline.out' has not changed.
-(rerunfilecheck)             Checksum: D9694BC855D0C50CCAD6B8D6DEDF7609;41.
+(rerunfilecheck)             Checksum: 5B7EF560A78977D728C46B5A331D9E72;330.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 189.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 242.
  ) 
 Here is how much of TeX's memory you used:
- 17082 strings out of 494404
- 325586 string characters out of 6163652
- 394065 words of memory out of 5000000
- 19897 multiletter control sequences out of 15000+600000
+ 17162 strings out of 494404
+ 328177 string characters out of 6163652
+ 394289 words of memory out of 5000000
+ 19964 multiletter control sequences out of 15000+600000
  16058 words of font info for 59 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
- 56i,15n,55p,412b,556s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmtt10.pfb>
-Output written on my_storyline.pdf (14 pages, 5144850 bytes).
+ 56i,15n,55p,458b,440s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/s
+ymbols/msam10.pfb>
+Output written on my_storyline.pdf (15 pages, 11847258 bytes).
 PDF statistics:
- 511 PDF objects out of 1000 (max. 8388607)
- 453 compressed objects within 5 object streams
- 35 named destinations out of 1000 (max. 500000)
- 157 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 262 PDF objects out of 1000 (max. 8388607)
+ 194 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 261 words of extra memory for PDF output out of 10000 (max. 10000000)
 

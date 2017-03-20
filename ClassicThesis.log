@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.11.16)  3 FEB 2017 18:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.11.16)  10 MAR 2017 14:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1373,6 +1373,11 @@ Package biblatex Warning: BibTeX reported the following issues
 
 
 Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Marshall2012':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                with 'Nevison2016':
 (biblatex)                - Invalid format of field 'month'.
 
@@ -1602,7 +1607,7 @@ Package pdftex.def Info: gfx/hamocc.png used on input line 24.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [3 <./gfx/MPIESM.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 37--40
+Underfull \hbox (badness 10000) in paragraph at lines 38--41
 
  []
 
@@ -1752,14 +1757,11 @@ LaTeX Font Info:    Try loading font information for TS1+pplj on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
-)
-
-LaTeX Warning: Citation 'somestudy' on page 13 undefined on input line 35.
-
-[13]) [14]
+) [13]) [14]
 \openout2 = `Chapters/Chapter06.aux'.
 
- (./Chapters/Chapter06.tex
+
+(./Chapters/Chapter06.tex
 Chapter 6.
 ) [15
 
@@ -1781,14 +1783,14 @@ Overfull \hbox (1.02399pt too wide) in paragraph at lines 7--13
 am, viven-dum par-
  []
 
-<gfx/SOCS_temporal_gaussian.png, id=380, 532.99126pt x 437.34526pt>
+<gfx/SOCS_temporal_gaussian.png, id=384, 532.99126pt x 437.34526pt>
 File: gfx/SOCS_temporal_gaussian.png Graphic file (type png)
 
 <use gfx/SOCS_temporal_gaussian.png>
 Package pdftex.def Info: gfx/SOCS_temporal_gaussian.png used on input line 24.
 (pdftex.def)             Requested size: 213.19272pt x 174.935pt.
 
-<gfx/SOCS_spatial_gaussian.png, id=381, 533.74406pt x 433.62pt>
+<gfx/SOCS_spatial_gaussian.png, id=385, 533.74406pt x 433.62pt>
 File: gfx/SOCS_spatial_gaussian.png Graphic file (type png)
 
 <use gfx/SOCS_spatial_gaussian.png>
@@ -1928,13 +1930,13 @@ science . 1097403$[][]\T1/pplj/m/n/10.95 . eprint: [][]$\T1/fvm/m/n/10.95 http
 : / / science . sciencemag .
  []
 
-
+[22]
 Overfull \hbox (8.41235pt too wide) in paragraph at lines 83--83
 \T1/pplj/m/n/10.95 Phy-to-plank-ton.^^Q In: \T1/pplj/m/it/10.95 Jour-nal du Con
 -seil In-ter-na-tional pour l'Exploration
  []
 
-[22] [23] [24
+[23] [24
 
 
 
@@ -2146,23 +2148,19 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 86.
 Package rerunfilecheck Info: File `ClassicThesis.out' has not changed.
 (rerunfilecheck)             Checksum: 9FAF9913C7983AD9682F8B2B1FEEDFA5;1814.
 
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                ClassicThesis
-(biblatex)                and rerun LaTeX afterwards.
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
 
 Package logreq Info: Writing requests to 'ClassicThesis.run.xml'.
 \openout1 = `ClassicThesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22020 strings out of 494404
- 383831 string characters out of 6163652
- 757884 words of memory out of 5000000
- 24654 multiletter control sequences out of 15000+600000
- 69663 words of font info for 109 fonts, out of 8000000 for 9000
+ 22028 strings out of 494404
+ 384056 string characters out of 6163652
+ 762143 words of memory out of 5000000
+ 24663 multiletter control sequences out of 15000+600000
+ 68207 words of font info for 106 fonts, out of 8000000 for 9000
  354 hyphenation exceptions out of 8191
  69i,22n,98p,1521b,2777s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -2175,10 +2173,10 @@ c/fpl/fplrij8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvmr8
 a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ClassicThesis.pdf (33 pages, 5718075 bytes).
+Output written on ClassicThesis.pdf (33 pages, 5719501 bytes).
 PDF statistics:
- 557 PDF objects out of 1000 (max. 8388607)
- 484 compressed objects within 5 object streams
- 113 named destinations out of 1000 (max. 500000)
+ 568 PDF objects out of 1000 (max. 8388607)
+ 495 compressed objects within 5 object streams
+ 115 named destinations out of 1000 (max. 500000)
  13114 words of extra memory for PDF output out of 14400 (max. 10000000)
 

@@ -1,0 +1,62 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Deser et~al.(2012)Deser, Phillips, Bourdette, and Teng]{Deser2012}
+C.~Deser, A.~Phillips, V.~Bourdette, and H.~Teng.
+\newblock Uncertainty in climate change projections: the role of internal
+  variability.
+\newblock \emph{Clim Dyn}, 38\penalty0 (3-4):\penalty0 527--546, dec 2012.
+\newblock \doi{10.1007/s00382-010-0977-x}.
+\newblock URL \url{http://dx.doi.org/10.1007/s00382-010-0977-x}.
+
+\bibitem[Hauck et~al.(2013)Hauck, V{\"o}lker, Wang, Hoppema, Losch, and
+  Wolf-Gladrow]{Hauck2013}
+J.~Hauck, C.~V{\"o}lker, T.~Wang, M.~Hoppema, M.~Losch, and D.~A. Wolf-Gladrow.
+\newblock Seasonally different carbon flux changes in the southern ocean in
+  response to the southern annular mode.
+\newblock \emph{Global Biogeochemical Cycles}, 27\penalty0 (4):\penalty0
+  1236--1245, dec 2013.
+\newblock \doi{10.1002/2013gb004600}.
+\newblock URL \url{http://dx.doi.org/10.1002/2013GB004600}.
+
+\bibitem[Landsch{\"u}tzer et~al.(2015)Landsch{\"u}tzer, Gruber, Haumann,
+  R{\"o}denbeck, Bakker, van Heuven, Hoppema, Metzl, Sweeney, Takahashi,
+  Tilbrook, and Wanninkhof]{landschuetzer2015}
+P.~Landsch{\"u}tzer, N.~Gruber, F.~A. Haumann, C.~R{\"o}denbeck, D.~C.~E.
+  Bakker, S.~van Heuven, M.~Hoppema, N.~Metzl, C.~Sweeney, T.~Takahashi,
+  B.~Tilbrook, and R.~Wanninkhof.
+\newblock The reinvigoration of the southern ocean carbon sink.
+\newblock \emph{Science}, 349\penalty0 (6253):\penalty0 1221--1224, 2015.
+\newblock ISSN 0036-8075.
+\newblock \doi{10.1126/science.aab2620}.
+\newblock URL \url{http://science.sciencemag.org/content/349/6253/1221}.
+
+\bibitem[Lovenduski et~al.(2008)Lovenduski, Gruber, and Doney]{Lovenduski2008}
+N.~S. Lovenduski, N.~Gruber, and S.~C. Doney.
+\newblock Toward a mechanistic understanding of the decadal trends in the
+  southern ocean carbon sink.
+\newblock \emph{Global Biogeochem. Cycles}, 22, 2008.
+\newblock \doi{10.1029/2007GB003139}.
+
+\bibitem[Sverdrup(1953)]{Sverdrup1953}
+H.~U. Sverdrup.
+\newblock On conditions for the vernal blooming of phytoplankton.
+\newblock \emph{Journal du Conseil International pour l'Exploration de la Mer},
+  18:\penalty0 287--295, 1953.
+
+\bibitem[Wang and Moore(2012)]{wang2012}
+S.~Wang and J.~K. Moore.
+\newblock {Variability of primary production and air-sea CO2 flux in the
+  Southern Ocean}.
+\newblock \emph{Global Biogeochemical Cycles}, 26\penalty0 (1):\penalty0
+  n/a–n/a, 2012.
+\newblock ISSN 1944-9224.
+\newblock \doi{10.1029/2010GB003981}.
+\newblock URL \url{http://dx.doi.org/10.1029/2010GB003981}.
+\newblock GB1008.
+
+\end{thebibliography}

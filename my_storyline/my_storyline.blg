@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: my_storyline.aux
 The style file: abbrvnat.bst
 Database file #1: ../Paper/SouthernOceanCarbonSink_new.bib
-You've used 6 entries,
+You've used 7 entries,
             2773 wiz_defined-function locations,
-            652 strings with 6304 characters,
-and the built_in function-call counts, 3656 in all, are:
-= -- 328
-> -- 268
+            662 strings with 6534 characters,
+and the built_in function-call counts, 4071 in all, are:
+= -- 369
+> -- 300
 < -- 2
-+ -- 90
-- -- 84
-* -- 350
-:= -- 592
-add.period$ -- 30
-call.type$ -- 6
-change.case$ -- 46
-chr.to.int$ -- 6
-cite$ -- 12
-duplicate$ -- 123
-empty$ -- 240
-format.name$ -- 92
-if$ -- 737
++ -- 100
+- -- 93
+* -- 388
+:= -- 663
+add.period$ -- 37
+call.type$ -- 7
+change.case$ -- 52
+chr.to.int$ -- 7
+cite$ -- 14
+duplicate$ -- 142
+empty$ -- 263
+format.name$ -- 104
+if$ -- 821
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 6
-newline$ -- 50
-num.names$ -- 24
-pop$ -- 69
+missing$ -- 7
+newline$ -- 59
+num.names$ -- 28
+pop$ -- 76
 preamble$ -- 1
-purify$ -- 40
+purify$ -- 45
 quote$ -- 0
-skip$ -- 102
+skip$ -- 120
 stack$ -- 0
-substring$ -- 147
-swap$ -- 8
+substring$ -- 128
+swap$ -- 9
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 66
+type$ -- 77
 warning$ -- 0
-while$ -- 26
+while$ -- 28
 width$ -- 0
-write$ -- 109
+write$ -- 129
