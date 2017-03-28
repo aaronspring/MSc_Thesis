@@ -1,65 +1,73 @@
-\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
-\contentsline {paragraph}{why Southern Ocean is important}{2}{section*.2}
-\contentsline {paragraph}{Southern Ocean observations and call for models}{2}{section*.3}
-\contentsline {paragraph}{Hypothesis}{2}{section*.4}
-\contentsline {paragraph}{Previous studies on mechanism and trends, modelling and observations}{2}{section*.5}
-\contentsline {paragraph}{What I do and research questions}{3}{section*.6}
-\contentsline {section}{\numberline {2}Methods}{3}{section.2}
-\contentsline {subsection}{\numberline {2.1}Model description}{3}{subsection.2.1}
-\contentsline {paragraph}{listing MPI-ESM components}{3}{section*.7}
-\contentsline {paragraph}{basics in HAMOCC - needed ?}{3}{section*.8}
-\contentsline {subsection}{\numberline {2.2}Large ensemble}{4}{subsection.2.2}
-\contentsline {paragraph}{general: what is it? how produced technically?}{4}{section*.9}
-\contentsline {paragraph}{novel method: how are other ensembles different?}{5}{section*.10}
-\contentsline {subsection}{\numberline {2.3}Data}{6}{subsection.2.3}
-\contentsline {paragraph}{where are they from and why I choose this product?}{6}{section*.11}
-\contentsline {section}{\numberline {3}Results I: Historical evolution of the Southern Ocean carbon sink}{7}{section.3}
-\contentsline {paragraph}{carbon sink SO: forced trend and int variability, int var results}{7}{section*.12}
-\contentsline {paragraph}{comparison ensemble to data}{7}{section*.13}
-\contentsline {paragraph}{choice of trends: compromise signal strength and signal length monotonic}{7}{section*.14}
-\contentsline {paragraph}{timeseries sam, biology, upwelling index? nice-to-have, but no connection to storyline; results I: seems short}{7}{figure.5}
-\contentsline {paragraph}{transition to process understanding in spatial view; afterwards only two members shown exemplarily}{8}{section*.16}
-\contentsline {section}{\numberline {4}Results II: Spatial distribution of Southern Ocean carbon sink}{9}{section.4}
-\contentsline {paragraph}{mean state and internal variability Southern ocean carbon sink}{9}{section*.17}
-\contentsline {paragraph}{mean state and internal variability Southern ocean westerly winds? no plot yet}{9}{section*.18}
-\contentsline {paragraph}{mean state and internal variability of biology and link to carbon sink}{9}{section*.19}
-\contentsline {paragraph}{mean state and internal variability of upper ocean circulation and link to carbon sink}{9}{section*.20}
-\contentsline {subsection}{\numberline {4.1}Negative trends in carbon sink}{11}{subsection.4.1}
-\contentsline {paragraph}{trends in pCO2 and westerly winds}{11}{section*.21}
-\contentsline {paragraph}{schematics: explain carbon decrease due to wind}{11}{section*.22}
-\contentsline {subsubsection}{\numberline {4.1.1}Changes in biology in negative trends}{12}{subsubsection.4.1.1}
-\contentsline {paragraph}{on trends in co2flux, intpp}{12}{section*.23}
-\contentsline {paragraph}{on explaining intpp decrease in 50s: using zmld mixing}{12}{section*.24}
-\contentsline {paragraph}{on intpp not increasing because of more nutrients}{12}{section*.25}
-\contentsline {paragraph}{on mixing, sverdrup as cause for intpp decrease}{12}{section*.26}
-\contentsline {paragraph}{balance of mass of phytoplankton and wind penetration depth}{12}{section*.27}
-\contentsline {paragraph}{concentration increase of intpp at 40s due to advection/ekman transport}{12}{section*.28}
-\contentsline {subsubsection}{\numberline {4.1.2}Changes in ocean circulation in negative trends}{14}{subsubsection.4.1.2}
-\contentsline {paragraph}{transition: zmld trends; Upper-ocean overturning circulation: up, ekman transport, downwelling}{14}{section*.29}
-\contentsline {paragraph}{carbon transport changes}{14}{section*.30}
-\contentsline {subsection}{\numberline {4.2}Positive trends in carbon sink}{15}{subsection.4.2}
-\contentsline {paragraph}{disclaimer: everything upside down}{15}{section*.31}
-\contentsline {paragraph}{trends in pCO2 and westerly winds}{15}{section*.32}
-\contentsline {paragraph}{schematic changes due to wind}{15}{section*.33}
-\contentsline {subsubsection}{\numberline {4.2.1}Changes in biology in positive trends}{17}{subsubsection.4.2.1}
-\contentsline {paragraph}{on trends in co2flux, intpp}{17}{section*.34}
-\contentsline {paragraph}{on explaining intpp increase in 50s: using less zmld mixing}{17}{section*.35}
-\contentsline {paragraph}{on intpp not decreasing because of less nutrients}{17}{section*.36}
-\contentsline {subsubsection}{\numberline {4.2.2}Changes in ocean circulation in positive trends}{19}{subsubsection.4.2.2}
-\contentsline {paragraph}{transition: zmld trends; Upper-ocean overturning circulation: up, ekman transport, downwelling}{19}{section*.37}
-\contentsline {paragraph}{carbon transport changes}{19}{section*.38}
-\contentsline {subsection}{\numberline {4.3}Internal Variability due to winds}{20}{subsection.4.3}
-\contentsline {paragraph}{on difference regimes, correlation plots co2flux and wind trends}{20}{section*.39}
-\contentsline {section}{\numberline {5}Discussion}{21}{section.5}
-\contentsline {paragraph}{on comparison biology paper}{21}{section*.40}
-\contentsline {paragraph}{on comparison circulation paper}{21}{section*.41}
-\contentsline {paragraph}{on comparison earlier co2flux paper}{21}{section*.42}
-\contentsline {paragraph}{on internal variability}{21}{section*.43}
-\contentsline {paragraph}{on ensemble comparisons}{21}{section*.44}
-\contentsline {paragraph}{on MPI-OM SO performance evaluation papers}{21}{section*.45}
-\contentsline {paragraph}{on HAMOCC SO performance}{21}{section*.46}
-\contentsline {section}{\numberline {6}Summary and conclusions}{22}{section.6}
-\contentsline {paragraph}{what I did and internal variability value $\pm $}{22}{section*.47}
-\contentsline {paragraph}{two wind regimes of internal variability}{22}{section*.48}
-\contentsline {paragraph}{outlook: large ensemble variability modeling}{22}{section*.49}
-\contentsline {paragraph}{outlook: focus SO: ARGO data and SOMFFN combined}{22}{section*.50}
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {paragraph}{why Southern Ocean is important}{3}{section*.2}
+\contentsline {paragraph}{Southern Ocean observations and call for models}{3}{section*.3}
+\contentsline {paragraph}{Hypothesis}{3}{section*.4}
+\contentsline {paragraph}{Previous studies on co2flux mechanism and trends, modelling and observations}{3}{section*.5}
+\contentsline {paragraph}{what's new?}{3}{section*.6}
+\contentsline {paragraph}{What I do and research questions}{3}{section*.7}
+\contentsline {section}{\numberline {2}Methods}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Model description}{4}{subsection.2.1}
+\contentsline {paragraph}{listing MPI-ESM components}{4}{section*.8}
+\contentsline {subparagraph}{HAMOCC coupling}{5}{section*.10}
+\contentsline {subparagraph}{CO$_2$flux description}{5}{section*.11}
+\contentsline {subparagraph}{biology}{5}{section*.12}
+\contentsline {subparagraph}{Variability in biology}{5}{section*.13}
+\contentsline {subparagraph}{relevant MPIOM info: upwelling/advection/mixing}{6}{section*.14}
+\contentsline {subparagraph}{misc/low impact on variability: chemistry, sediment}{7}{section*.15}
+\contentsline {subsection}{\numberline {2.2}Large ensemble}{7}{subsection.2.2}
+\contentsline {paragraph}{general: what is it? how produced technically?}{7}{section*.16}
+\contentsline {paragraph}{novel method: how are other ensembles different?}{7}{section*.17}
+\contentsline {subsection}{\numberline {2.3}Data}{8}{subsection.2.3}
+\contentsline {paragraph}{where are they from and why I choose this product?}{8}{section*.18}
+\contentsline {section}{\numberline {3}Historical evolution of the Southern Ocean carbon sink}{9}{section.3}
+\contentsline {paragraph}{carbon sink SO: forced trend and int variability, int var results}{9}{section*.19}
+\contentsline {paragraph}{comparison ensemble to data}{9}{section*.20}
+\contentsline {paragraph}{choice of trends: compromise signal strength and signal monotonic length; describe selection technical}{9}{section*.21}
+\contentsline {paragraph}{timeseries sam, biology, upwelling index? nice-to-have, but no connection to storyline; temporal results: seems short}{10}{section*.22}
+\contentsline {paragraph}{transition to process understanding in spatial view; afterwards only two members shown exemplarily}{10}{section*.23}
+\contentsline {section}{\numberline {4}Spatial distribution of Southern Ocean carbon sink}{11}{section.4}
+\contentsline {paragraph}{mean state and internal variability Southern ocean carbon sink}{11}{section*.24}
+\contentsline {paragraph}{mean state and internal variability Southern ocean westerly winds? no plot yet}{11}{section*.25}
+\contentsline {paragraph}{mean state and internal variability of biology and link to carbon sink}{11}{section*.26}
+\contentsline {paragraph}{mean state and internal variability of upper ocean circulation and link to carbon sink}{11}{section*.27}
+\contentsline {subsection}{\numberline {4.1}Negative trends in carbon sink}{14}{subsection.4.1}
+\contentsline {paragraph}{trends in pCO2 and westerly winds}{14}{section*.28}
+\contentsline {paragraph}{schematics: explain carbon decrease due to wind}{14}{section*.29}
+\contentsline {subsubsection}{\numberline {4.1.1}Changes in biology in negative CO$_2$flux trends}{14}{subsubsection.4.1.1}
+\contentsline {paragraph}{on trends in co2flux, intpp}{14}{section*.30}
+\contentsline {paragraph}{on intpp not increasing because of more nutrients}{14}{section*.31}
+\contentsline {paragraph}{on temp and light limitation changes due to SAM, coastal due to ice}{14}{section*.32}
+\contentsline {paragraph}{then why intpp decreases in 50s? zmld mixing and light depth limitation}{14}{section*.33}
+\contentsline {paragraph}{center of mass of phytoplankton and wind penetration depth}{15}{section*.34}
+\contentsline {paragraph}{concentration increase of intpp at 40s due to advection/ekman transport}{15}{section*.35}
+\contentsline {subsubsection}{\numberline {4.1.2}Changes in ocean circulation in negative CO$_2$flux trends}{17}{subsubsection.4.1.2}
+\contentsline {paragraph}{transition: zmld trends; Upper-ocean overturning circulation: up, ekman transport, downwelling}{17}{section*.36}
+\contentsline {paragraph}{carbon transport changes}{17}{section*.37}
+\contentsline {subsection}{\numberline {4.2}Positive trends in carbon sink}{18}{subsection.4.2}
+\contentsline {paragraph}{disclaimer: everything upside down}{18}{section*.38}
+\contentsline {paragraph}{trends in pCO2 and westerly winds}{18}{section*.39}
+\contentsline {paragraph}{schematic changes due to wind}{18}{section*.40}
+\contentsline {subsubsection}{\numberline {4.2.1}Changes in biology in positive CO$_2$flux trends}{19}{subsubsection.4.2.1}
+\contentsline {paragraph}{on trends in co2flux, intpp}{19}{section*.41}
+\contentsline {paragraph}{on intpp not decreasing because of less nutrients}{19}{section*.42}
+\contentsline {paragraph}{on temp and light limitation changes due to SAM, coastal due to ice}{19}{section*.43}
+\contentsline {paragraph}{the why intpp increases in 50s: using less zmld mixing}{19}{section*.44}
+\contentsline {subsubsection}{\numberline {4.2.2}Changes in ocean circulation in positive CO$_2$flux trends}{21}{subsubsection.4.2.2}
+\contentsline {paragraph}{transition: zmld trends; Upper-ocean overturning circulation: up, ekman transport, downwelling}{21}{section*.45}
+\contentsline {paragraph}{carbon transport changes}{21}{section*.46}
+\contentsline {section}{\numberline {5}50-60S dominates Internal Variability of the total Southern Ocean carbon sink due to winds - need a better title: emphasis on 50S as driving int var region via winds}{22}{section.5}
+\contentsline {paragraph}{on area 50-60S as driver of Southern Ocean internal variability, correlation plots co2flux and wind trends}{22}{section*.47}
+\contentsline {section}{\numberline {6}estimate: bio vs upwelling}{23}{section.6}
+\contentsline {section}{\numberline {7}Discussion}{24}{section.7}
+\contentsline {paragraph}{on comparison biology paper}{24}{section*.49}
+\contentsline {paragraph}{on comparison circulation paper}{24}{section*.50}
+\contentsline {paragraph}{on comparison earlier co2flux paper}{24}{section*.51}
+\contentsline {paragraph}{on internal variability comparison}{24}{section*.52}
+\contentsline {paragraph}{on ensemble comparisons}{24}{section*.53}
+\contentsline {paragraph}{on MPI-OM Southern Ocean performance evaluation papers}{24}{section*.54}
+\contentsline {paragraph}{on HAMOCC SO performance}{24}{section*.55}
+\contentsline {section}{\numberline {8}Summary and conclusions}{25}{section.8}
+\contentsline {paragraph}{what I did and internal variability value $\pm $}{25}{section*.56}
+\contentsline {paragraph}{two wind regimes of internal variability}{25}{section*.57}
+\contentsline {paragraph}{outlook: large ensemble variability modeling}{25}{section*.58}
+\contentsline {paragraph}{outlook: observational focus on Southern Ocean}{25}{section*.59}

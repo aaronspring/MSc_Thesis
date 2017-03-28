@@ -1,4 +1,4 @@
-\begin{thebibliography}{38}
+\begin{thebibliography}{49}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -47,6 +47,17 @@ P.~J.~S. Franks.
   72\penalty0 (6):\penalty0 1897--1907, oct 2014.
 \newblock \doi{10.1093/icesjms/fsu175}.
 
+\bibitem[Gent et~al.(1995)Gent, Willebrand, McDougall, and
+  McWilliams]{Gent1995}
+P.~R. Gent, J.~Willebrand, T.~J. McDougall, and J.~C. McWilliams.
+\newblock Parameterizing eddy-induced tracer transports in ocean circulation
+  models.
+\newblock \emph{Journal of Physical Oceanography}, 25\penalty0 (4):\penalty0
+  463–474, 1995.
+\newblock \doi{10.1175/1520-0485(1995)025<0463:PEITTI>2.0.CO;2}.
+\newblock URL
+  \url{http://dx.doi.org/10.1175/1520-0485(1995)025<0463:PEITTI>2.0.CO; 2}.
+
 \bibitem[Giorgetta et~al.(2013)Giorgetta, Jungclaus, Reick, Legutke, Bader,
   B{\"o}ttinger, Brovkin, Crueger, Esch, Fieg, Glushak, Gayler, Haak, Hollweg,
   Ilyina, Kinne, Kornblueh, Matei, Mauritsen, Mikolajewicz, Mueller, Notz,
@@ -67,6 +78,15 @@ M.~A. Giorgetta, J.~Jungclaus, C.~H. Reick, S.~Legutke, J.~Bader,
 \newblock ISSN 1942-2466.
 \newblock \doi{10.1002/jame.20038}.
 \newblock URL \url{http://dx.doi.org/10.1002/jame.20038}.
+
+\bibitem[Gong and Wang(1999)]{Gong1999}
+D.~Gong and S.~Wang.
+\newblock {Definition of Antarctic Oscillation index}.
+\newblock \emph{Geophysical Research Letters}, 26\penalty0 (4):\penalty0
+  459--462, 1999.
+\newblock ISSN 1944-8007.
+\newblock \doi{10.1029/1999GL900003}.
+\newblock URL \url{http://dx.doi.org/10.1029/1999GL900003}.
 
 \bibitem[Hauck et~al.(2013)Hauck, V{\"o}lker, Wang, Hoppema, Losch, and
   Wolf-Gladrow]{Hauck2013}
@@ -136,6 +156,24 @@ J.~E. Kay, C.~Deser, A.~Phillips, A.~Mai, C.~Hannay, G.~Strand, J.~M.
 \newblock \doi{10.1175/bams-d-13-00255.1}.
 \newblock URL \url{http://dx.doi.org/10.1175/BAMS-D-13-00255.1}.
 
+\bibitem[Kessler and Tjiputra(2016)]{Kessler2016}
+A.~Kessler and J.~Tjiputra.
+\newblock The southern ocean as a~constraint to reduce uncertainty in future
+  ocean carbon sinks.
+\newblock \emph{Earth Syst. Dynam.}, 7\penalty0 (2):\penalty0 295--312, apr
+  2016.
+\newblock \doi{10.5194/esd-7-295-2016}.
+\newblock URL \url{http://dx.doi.org/10.5194/esd-7-295-2016}.
+
+\bibitem[Landsch{\"u}tzer et~al.(2014)Landsch{\"u}tzer, Gruber, Bakker, and
+  Schuster]{Landschuetzer2014}
+P.~Landsch{\"u}tzer, N.~Gruber, D.~C.~E. Bakker, and U.~Schuster.
+\newblock Recent variability of the global ocean carbon sink.
+\newblock \emph{Global Biogeochemical Cycles}, 28\penalty0 (9):\penalty0
+  927--949, sep 2014.
+\newblock \doi{10.1002/2014gb004853}.
+\newblock URL \url{http://dx.doi.org/10.1002/2014GB004853}.
+
 \bibitem[Landsch{\"u}tzer et~al.(2015)Landsch{\"u}tzer, Gruber, Haumann,
   R{\"o}denbeck, Bakker, van Heuven, Hoppema, Metzl, Sweeney, Takahashi,
   Tilbrook, and Wanninkhof]{landschuetzer2015}
@@ -148,23 +186,33 @@ P.~Landsch{\"u}tzer, N.~Gruber, F.~A. Haumann, C.~R{\"o}denbeck, D.~C.~E.
 \newblock \doi{10.1126/science.aab2620}.
 \newblock URL \url{http://science.sciencemag.org/content/349/6253/1221}.
 
-\bibitem[Landschützer et~al.(2014)Landschützer, Gruber, Bakker, and
-  Schuster]{Landschuetzer2014}
-P.~Landschützer, N.~Gruber, D.~C.~E. Bakker, and U.~Schuster.
-\newblock Recent variability of the global ocean carbon sink.
-\newblock \emph{Global Biogeochemical Cycles}, 28\penalty0 (9):\penalty0
-  927--949, sep 2014.
-\newblock \doi{10.1002/2014gb004853}.
-\newblock URL \url{http://dx.doi.org/10.1002/2014GB004853}.
-
-\bibitem[Landschützer et~al.(2016)Landschützer, Gruber, and
+\bibitem[Landsch{\"u}tzer et~al.(2016)Landsch{\"u}tzer, Gruber, and
   Bakker]{landschuetzer2016}
-P.~Landschützer, N.~Gruber, and D.~C.~E. Bakker.
+P.~Landsch{\"u}tzer, N.~Gruber, and D.~C.~E. Bakker.
 \newblock Decadal variations and trends of the global ocean carbon sink.
 \newblock \emph{Global Biogeochemical Cycles}, 30\penalty0 (10):\penalty0
   1396--1417, oct 2016.
 \newblock \doi{10.1002/2015gb005359}.
 \newblock URL \url{https://doi.org/10.1002%2F2015gb005359}.
+
+\bibitem[Lauderdale et~al.(2013)Lauderdale, Garabato, Oliver, Follows, and
+  Williams]{Lauderdale2013}
+J.~M. Lauderdale, A.~C.~N. Garabato, K.~I.~C. Oliver, M.~J. Follows, and R.~G.
+  Williams.
+\newblock Wind-driven changes in southern ocean residual circulation, ocean
+  carbon reservoirs and atmospheric co2.
+\newblock \emph{Climate Dynamics}, 41\penalty0 (7):\penalty0 2145--2164, 2013.
+\newblock ISSN 1432-0894.
+\newblock \doi{10.1007/s00382-012-1650-3}.
+\newblock URL \url{http://dx.doi.org/10.1007/s00382-012-1650-3}.
+
+\bibitem[Lauderdale et~al.(2016)Lauderdale, Dutkiewicz, Williams, and
+  Follows]{Lauderdale2016a}
+J.~M. Lauderdale, S.~Dutkiewicz, R.~G. Williams, and M.~J. Follows.
+\newblock Quantifying the drivers of ocean-atmosphere {CO}2 fluxes.
+\newblock \emph{Global Biogeochem. Cycles}, 2016.
+\newblock \doi{10.1002/2016gb005400}.
+\newblock URL \url{http://dx.doi.org/10.1002/2016GB005400}.
 
 \bibitem[Le~Qu{\'e}r{\'e} et~al.(2007)Le~Qu{\'e}r{\'e}, R{\"o}denbeck,
   Buitenhuis, Conway, Langenfelds, Gomez, Labuschagne, Ramonet, Nakazawa,
@@ -247,14 +295,16 @@ J.~Marotzke and P.~M. Forster.
 \newblock \doi{10.1038/nature14117}.
 \newblock URL \url{http://dx.doi.org/10.1038/nature14117}.
 
-\bibitem[Marshall and Speer(2012)]{Marshall2012}
-J.~Marshall and K.~Speer.
-\newblock Closure of the meridional overturning circulation through southern
-  ocean upwelling.
-\newblock \emph{Nature Geoscience}, 5\penalty0 (3):\penalty0 171--180, feb
-  2012.
-\newblock \doi{10.1038/ngeo1391}.
-\newblock URL \url{http://dx.doi.org/10.1038/NGEO1391}.
+\bibitem[Marsland et~al.(2003)Marsland, Haak, Jungclaus, Latif, and
+  Röske]{Marsland2003}
+S.~Marsland, H.~Haak, J.~Jungclaus, M.~Latif, and F.~Röske.
+\newblock The max-planck-institute global ocean/sea ice model with orthogonal
+  curvilinear coordinates.
+\newblock \emph{Ocean Modelling}, 5\penalty0 (2):\penalty0 91 -- 127, 2003.
+\newblock ISSN 1463-5003.
+\newblock \doi{http://dx.doi.org/10.1016/S1463-5003(02)00015-X}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S146350030200015X}.
 
 \bibitem[Martin(1990)]{Martin1990}
 J.~H. Martin.
@@ -273,16 +323,6 @@ G.~A. McKinley, D.~J. Pilcher, A.~R. Fay, K.~Lindsay, M.~C. Long, and N.~S.
 \newblock \doi{10.1038/nature16958}.
 \newblock URL \url{http://dx.doi.org/10.1038/nature16958}.
 
-\bibitem[Nevison et~al.(2015)Nevison, Manizza, Keeling, Kahru, Bopp, Dunne,
-  Tiputra, Ilyina, and Mitchell]{Nevison2015}
-C.~D. Nevison, M.~Manizza, R.~F. Keeling, M.~Kahru, L.~Bopp, J.~Dunne,
-  J.~Tiputra, T.~Ilyina, and B.~G. Mitchell.
-\newblock Evaluating the ocean biogeochemical components of earth system models
-  using atmospheric potential oxygen and ocean color data.
-\newblock \emph{Biogeosciences}, 12\penalty0 (1):\penalty0 193--208, jan 2015.
-\newblock \doi{10.5194/bg-12-193-2015}.
-\newblock URL \url{http://dx.doi.org/10.5194/bg-12-193-2015}.
-
 \bibitem[Nevison et~al.(2016)Nevison, Manizza, Keeling, Stephens, Bent, Dunne,
   Ilyina, Long, Resplandy, Tjiputra, and Yukimoto]{Nevison2016}
 C.~D. Nevison, M.~Manizza, R.~F. Keeling, B.~B. Stephens, J.~D. Bent, J.~Dunne,
@@ -294,6 +334,26 @@ C.~D. Nevison, M.~Manizza, R.~F. Keeling, B.~B. Stephens, J.~D. Bent, J.~Dunne,
   2016.
 \newblock \doi{10.1002/2015gl067584}.
 \newblock URL \url{http://dx.doi.org/10.1002/2015GL067584}.
+
+\bibitem[Pacanowski and Philander(1981)]{Pacanowski1981}
+R.~C. Pacanowski and S.~G.~H. Philander.
+\newblock {Parameterization of Vertical Mixing in Numerical Models of Tropical
+  Oceans}.
+\newblock \emph{Journal of Physical Oceanography}, 11\penalty0 (11):\penalty0
+  1443--1451, 1981.
+\newblock \doi{10.1175/1520-0485(1981)011<1443:POVMIN>2.0.CO;2}.
+\newblock URL
+  \url{http://dx.doi.org/10.1175/1520-0485(1981)011<1443:POVMIN>2.0.CO; 2}.
+
+\bibitem[Resplandy et~al.(2015)Resplandy, S{\'{e}}f{\'{e}}rian, and
+  Bopp]{Resplandy2015}
+L.~Resplandy, R.~S{\'{e}}f{\'{e}}rian, and L.~Bopp.
+\newblock Natural variability of {CO}2and o2fluxes: What can we learn from
+  centuries-long climate models simulations?
+\newblock \emph{Journal of Geophysical Research: Oceans}, 120\penalty0
+  (1):\penalty0 384--404, jan 2015.
+\newblock \doi{10.1002/2014jc010463}.
+\newblock URL \url{https://doi.org/10.1002%2F2014jc010463}.
 
 \bibitem[Rodgers et~al.(2015)Rodgers, Lin, and Frölicher]{Rodgers2015}
 K.~B. Rodgers, J.~Lin, and T.~L. Frölicher.
@@ -349,6 +409,11 @@ K.~D. Six and E.~Maier-Reimer.
 \newblock \doi{10.1029/96GB02561}.
 \newblock URL \url{http://dx.doi.org/10.1029/96GB02561}.
 
+\bibitem[Smith(1936)]{Smith1936}
+E.~L. Smith.
+\newblock Photosynthesis in relation to light and carbon dioxide.
+\newblock \emph{Proc. Nat. Acad. Sci.}, 22:\penalty0 504--511, 1936.
+
 \bibitem[Stevens et~al.(2013)Stevens, Giorgetta, Esch, Mauritsen, Crueger,
   Rast, Salzmann, Schmidt, Bader, Block, Brokopf, Fast, Kinne, Kornblueh,
   Lohmann, Pincus, Reichler, and Roeckner]{Stevens2013}
@@ -388,6 +453,16 @@ K.~E. Taylor, R.~J. Stouffer, and G.~A. Meehl.
 \newblock \doi{10.1175/bams-d-11-00094.1}.
 \newblock URL \url{http://dx.doi.org/10.1175/BAMS-D-11-00094.1}.
 
+\bibitem[Thompson and Wallace(2000)]{Thompson2000}
+D.~Thompson and J.~Wallace.
+\newblock Annular modes in the extratropical circulation. part i: Month-month
+  variability.
+\newblock \emph{Journal of Climate}, 13\penalty0 (5):\penalty0 1000--1016,
+  2000.
+\newblock \doi{10.1175/1520-0442(2000)013<1000:AMITEC>2.0.CO;2}.
+\newblock URL
+  \url{http://journals.ametsoc.org/doi/pdf/10.1175/1520-0442%282000%29013%3C1040%3AR%3E2.0.CO%3B2}.
+
 \bibitem[Thompson et~al.(2015)Thompson, Barnes, Deser, Foust, and
   Phillips]{Thompson2015}
 D.~W.~J. Thompson, E.~A. Barnes, C.~Deser, W.~E. Foust, and A.~S. Phillips.
@@ -397,6 +472,15 @@ D.~W.~J. Thompson, E.~A. Barnes, C.~Deser, W.~E. Foust, and A.~S. Phillips.
   2015.
 \newblock \doi{10.1175/jcli-d-14-00830.1}.
 \newblock URL \url{http://dx.doi.org/10.1175/JCLI-D-14-00830.1}.
+
+\bibitem[Volk and Hoffert(1985)]{VolkHoffert1985}
+T.~Volk and M.~I. Hoffert.
+\newblock \emph{Ocean Carbon Pumps: Analysis of Relative Strengths and
+  Efficiencies in Ocean-Driven Atmospheric CO2 Changes}, pages 99--110.
+\newblock American Geophysical Union, 1985.
+\newblock ISBN 9781118664322.
+\newblock \doi{10.1029/GM032p0099}.
+\newblock URL \url{http://dx.doi.org/10.1029/GM032p0099}.
 
 \bibitem[Wang and Moore(2012)]{wang2012}
 S.~Wang and J.~K. Moore.
@@ -417,5 +501,20 @@ R.~Wanninkhof.
 \newblock ISSN 2156-2202.
 \newblock \doi{10.1029/92JC00188}.
 \newblock URL \url{http://dx.doi.org/10.1029/92JC00188}.
+
+\bibitem[Wanninkhof et~al.(2013)Wanninkhof, Oceanographic, Laboratory, and
+  of]{Wanninkhof2013}
+R.~Wanninkhof, A.~Oceanographic, M.~Laboratory, and A.~of.
+\newblock Relationship between wind speed and gas exchange over the ocean,
+  revisited, 2013.
+
+\bibitem[Weiss(1974)]{Weiss1974}
+R.~Weiss.
+\newblock Carbon dioxide in water and seawater: the solubility of a non-ideal
+  gas.
+\newblock \emph{Marine Chemistry 2}, 2:\penalty0 203--215, 1974.
+\newblock \doi{doi:10.1016/0304-4203(74)90015-2}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/0304420374900152}.
 
 \end{thebibliography}
