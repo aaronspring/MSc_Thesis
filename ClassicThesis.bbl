@@ -16,6 +16,762 @@
   {}
 \endgroup
 
+\entry{Abernathey2011}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Abernathey}{A.}%
+     {Ryan}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Marshall}{M.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ferreira}{F.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {American Meteorological Society}%
+  }
+  \keyw{rank2}
+  \strng{namehash}{AR+1}
+  \strng{fullhash}{ARMJFD1}
+  \field{labelyear}{2011}
+  \field{sortinit}{A}
+  \field{abstract}{%
+  An eddy-resolving numerical model of a zonal flow, meant to resemble the
+  Antarctic Circumpolar Current, is described and analyzed using the framework
+  of J. Marshall and T. Radko. In addition to wind and buoyancy forcing at the
+  surface, the model contains a sponge layer at the northern boundary that
+  permits a residual meridional overturning circulation (MOC) to exist at
+  depth. The strength of the residual MOC is diagnosed for different strengths
+  of surface wind stress. It is found that the eddy circulation largely
+  compensates for the changes in Ekman circulation. The extent of the
+  compensation and thus the sensitivity of the MOC to the winds depend on the
+  surface boundary condition. A fixed-heat-flux surface boundary severely
+  limits the ability of the MOC to change. An interactive heat flux leads to
+  greater sensitivity. To explain the MOC sensitivity to the wind strength
+  under the interactive heat flux, transformed Eulerian-mean theory is applied,
+  in which the eddy diffusivity plays a central role in determining the eddy
+  response. A scaling theory for the eddy diffusivity, based on the mechanical
+  energy balance, is developed and tested; the average magnitude of the
+  diffusivity is found to be proportional to the square root of the wind
+  stress. The MOC sensitivity to the winds based on this scaling is compared
+  with the true sensitivity diagnosed from the experiments.%
+  }
+  \verb{doi}
+  \verb 10.1175/jpo-d-11-023.1
+  \endverb
+  \field{number}{12}
+  \field{pages}{2261\bibrangedash 2278}
+  \field{title}{The Dependence of Southern Ocean Meridional Overturning on Wind
+  Stress}
+  \field{volume}{41}
+  \verb{file}
+  \verb :Abernathey_etal_2011_SO_meridional_overturning.pdf:PDF
+  \endverb
+  \field{journaltitle}{J. Phys. Oceanogr.}
+  \field{year}{2011}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Bakker2014}{article}{}
+  \name{author}{81}{}{%
+    {{}%
+     {Bakker}{B.}%
+     {D.~C.~E.}{D.~C.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pfeil}{P.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hankin}{H.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Olsen}{O.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Alin}{A.}%
+     {S.~R.}{S.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cosca}{C.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Harasawa}{H.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kozyr}{K.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nojiri}{N.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {O'Brien}{O.}%
+     {K.~M.}{K.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schuster}{S.}%
+     {U.}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Telszewski}{T.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tilbrook}{T.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wada}{W.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Akl}{A.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Barbero}{B.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bates}{B.}%
+     {N.~R.}{N.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Boutin}{B.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bozec}{B.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cai}{C.}%
+     {W.-J.}{W.-J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Castle}{C.}%
+     {R.~D.}{R.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chavez}{C.}%
+     {F.~P.}{F.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chen}{C.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chierici}{C.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Currie}{C.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Baar}{B.}%
+     {H.~J.~W.}{H.~J.~W.}%
+     {de}{d.}%
+     {}{}}%
+    {{}%
+     {Evans}{E.}%
+     {W.}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Feely}{F.}%
+     {R.~A.}{R.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fransson}{F.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gao}{G.}%
+     {Z.}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hales}{H.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hardman-Mountford}{H.-M.}%
+     {N.~J.}{N.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hoppema}{H.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Huang}{H.}%
+     {W.-J.}{W.-J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hunt}{H.}%
+     {C.~W.}{C.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Huss}{H.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ichikawa}{I.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Johannessen}{J.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jones}{J.}%
+     {E.~M.}{E.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jones}{J.}%
+     {S.~D.}{S.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jutterström}{J.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kitidis}{K.}%
+     {V.}{V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Körtzinger}{K.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Landschützer}{L.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lauvset}{L.}%
+     {S.~K.}{S.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lef{\`{e}}vre}{L.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Manke}{M.}%
+     {A.~B.}{A.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mathis}{M.}%
+     {J.~T.}{J.~T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Merlivat}{M.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Metzl}{M.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Murata}{M.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Newberger}{N.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Omar}{O.}%
+     {A.~M.}{A.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ono}{O.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Park}{P.}%
+     {G.-H.}{G.-H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Paterson}{P.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pierrot}{P.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {R{\'{\i}}os}{R.}%
+     {A.~F.}{A.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sabine}{S.}%
+     {C.~L.}{C.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Saito}{S.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Salisbury}{S.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sarma}{S.}%
+     {V.~V. S.~S.}{V.~V. S.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schlitzer}{S.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sieger}{S.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Skjelvan}{S.}%
+     {I.}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Steinhoff}{S.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sullivan}{S.}%
+     {K.~F.}{K.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sun}{S.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sutton}{S.}%
+     {A.~J.}{A.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Suzuki}{S.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sweeney}{S.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Takahashi}{T.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tjiputra}{T.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tsurushima}{T.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Heuven}{H.}%
+     {S.~M. A.~C.}{S.~M. A.~C.}%
+     {van}{v.}%
+     {}{}}%
+    {{}%
+     {Vandemark}{V.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vlahos}{V.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wallace}{W.}%
+     {D.~W.~R.}{D.~W.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wanninkhof}{W.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Watson}{W.}%
+     {A.~J.}{A.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Copernicus {GmbH}}%
+  }
+  \strng{namehash}{BDCE+1}
+  \strng{fullhash}{BDCEPBSKHSOAASRCCHSKANYOKMSUTMTBWCAJBLBNRBJBYCWJCRDCFPCLCMCKBHJWdEWFRAFAGZHBHMNJHMHWJHCWHBITJTJEMJSDJSKVKALPLSKLNMABMJTMLMNMANTOAMOTPGHPKPDRAFSCLSSSJSVVSSSRSRSISTSKFSHSAJSTSCTTTJTNHSMACvVDVPWDWRWRWAJ1}
+  \field{labelyear}{2014}
+  \field{sortinit}{B}
+  \verb{doi}
+  \verb 10.5194/essd-6-69-2014
+  \endverb
+  \field{number}{1}
+  \field{pages}{69\bibrangedash 90}
+  \field{title}{An update to the Surface Ocean {CO}$_2$ Atlas ({SOCAT} version
+  2)}
+  \field{volume}{6}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Bakker_etal2004_essd-6-69-2014.pdf:
+  \verb PDF
+  \endverb
+  \field{journaltitle}{Earth System Science Data}
+  \field{year}{2014}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Behrenfeld2014}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Behrenfeld}{B.}%
+     {Michael~J.}{M.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer Nature}%
+  }
+  \strng{namehash}{BMJ1}
+  \strng{fullhash}{BMJ1}
+  \field{labelyear}{2014}
+  \field{sortinit}{B}
+  \verb{doi}
+  \verb 10.1038/nclimate2349
+  \endverb
+  \field{number}{10}
+  \field{pages}{880\bibrangedash 887}
+  \field{title}{Climate-mediated dance of the plankton}
+  \field{volume}{4}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Behrenfeld_2014.pdf:PDF
+  \endverb
+  \field{journaltitle}{Nature Climate Change}
+  \field{year}{2014}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Bittner2016}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Bittner}{B.}%
+     {Matthias}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schmidt}{S.}%
+     {Hauke}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Timmreck}{T.}%
+     {Claudia}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sienz}{S.}%
+     {Frank}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Volcanic effects; Climate variability; Stratosphere/troposphere
+  interactions; Volcano/climate interactions; volcanic eruptions; polar vortex;
+  internal variability; large ensemble}
+  \strng{namehash}{BM+1}
+  \strng{fullhash}{BMSHTCSF1}
+  \field{labelyear}{2016}
+  \field{sortinit}{B}
+  \field{abstract}{%
+  The observed strengthening of the Northern Hemisphere (NH) polar vortex after
+  tropical volcanic eruptions appears to be underestimated by coupled climate
+  models. However, there are only a limited number of observed eruptions, which
+  makes the attribution of volcanic signals difficult, because the polar vortex
+  is also influenced by other external forcing factors as well as internal
+  variability. We show with a 100-member ensemble of historical (1850--2005)
+  simulations with the Max Planck Institute Earth System Model that an ensemble
+  larger than what is provided by the Coupled Model Intercomparison Project
+  Phase 5 (CMIP5) models is needed to detect a statistically significant NH
+  polar vortex strengthening. The most robust signal can be found when only the
+  two strongest eruptions (Krakatau and Pinatubo) are considered in contrast to
+  including smaller eruptions to increase the sample size. For these two
+  strongest eruptions, the mean of 15 CMIP5 models shows a statistically
+  significant strengthening of the NH polar vortex as well.%
+  }
+  \verb{doi}
+  \verb 10.1002/2016GL070587
+  \endverb
+  \field{issn}{1944-8007}
+  \field{note}{2016GL070587}
+  \field{number}{17}
+  \field{pages}{9324\bibrangedash 9332}
+  \field{title}{{Using a large ensemble of simulations to assess the Northern
+  Hemisphere stratospheric dynamical response to tropical volcanic eruptions
+  and its uncertainty}}
+  \field{volume}{43}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Bittner_etal2016_LE_volcanoes_SI.pd
+  \verb f:PDF
+  \endverb
+  \field{journaltitle}{Geophysical Research Letters}
+  \field{year}{2016}
+\endentry
+
+\entry{Bopp2013}{article}{}
+  \name{author}{12}{}{%
+    {{}%
+     {Bopp}{B.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Resplandy}{R.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Orr}{O.}%
+     {J.~C.}{J.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Doney}{D.}%
+     {S.~C.}{S.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dunne}{D.}%
+     {J.~P.}{J.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gehlen}{G.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Halloran}{H.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Heinze}{H.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ilyina}{I.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {S{\'{e}}f{\'{e}}rian}{S.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tjiputra}{T.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vichi}{V.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Copernicus {GmbH}}%
+  }
+  \strng{namehash}{BL+1}
+  \strng{fullhash}{BLRLOJCDSCDJPGMHPHCITSRTJVM1}
+  \field{labelyear}{2013}
+  \field{sortinit}{B}
+  \verb{doi}
+  \verb 10.5194/bg-10-6225-2013
+  \endverb
+  \field{number}{10}
+  \field{pages}{6225\bibrangedash 6245}
+  \field{title}{Multiple stressors of ocean ecosystems in the 21{s}t century:
+  projections with {CMIP}5~{m}odels}
+  \field{volume}{10}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Bopp_etal2013_BGS_PP-10-6225-2013.p
+  \verb df:PDF
+  \endverb
+  \field{journaltitle}{Biogeosciences}
+  \field{year}{2013}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Bryan2014}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Bryan}{B.}%
+     {Frank~O.}{F.~O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gent}{G.}%
+     {Peter~R.}{P.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tomas}{T.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BFO+1}
+  \strng{fullhash}{BFOGPRTR1}
+  \field{labelyear}{2014}
+  \field{sortinit}{B}
+  \verb{doi}
+  \verb 10.1175/JCLI-D-12-00759.1
+  \endverb
+  \field{pages}{411\bibrangedash 425}
+  \field{title}{Can Southern Ocean Eddy Effects Be Parameterized in Climate
+  Models?}
+  \field{volume}{27}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Bryan_etal2014_jcli-d-12-00759.1.pd
+  \verb f:PDF
+  \endverb
+  \field{journaltitle}{Journal of Climate}
+  \field{year}{2014}
+\endentry
+
+\entry{DeVries2017}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {DeVries}{D.}%
+     {Tim}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Holzer}{H.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Primeau}{P.}%
+     {Francois}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer Nature}%
+  }
+  \keyw{rank5}
+  \strng{namehash}{DT+1}
+  \strng{fullhash}{DTHMPF1}
+  \field{labelyear}{2017}
+  \field{sortinit}{D}
+  \verb{doi}
+  \verb 10.1038/nature21068
+  \endverb
+  \field{number}{7640}
+  \field{pages}{215\bibrangedash 218}
+  \field{title}{Recent increase in oceanic carbon uptake driven by weaker
+  upper-ocean overturning}
+  \field{volume}{542}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/devries_nat_17.pdf:PDF
+  \endverb
+  \field{journaltitle}{Nature}
+  \field{year}{2017}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
 \entry{Deser2012}{article}{}
   \name{author}{4}{}{%
     {{}%
@@ -80,15 +836,132 @@
   \field{pages}{527\bibrangedash 546}
   \field{title}{Uncertainty in climate change projections: the role of internal
   variability}
-  \verb{url}
-  \verb http://dx.doi.org/10.1007/s00382-010-0977-x
-  \endverb
   \field{volume}{38}
   \verb{file}
   \verb :Deser_etal2012_ClimDyn_intvariability.pdf:PDF
   \endverb
   \field{journaltitle}{Clim Dyn}
   \field{year}{2012}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Doeoes1993}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {D\"{o}\"{o}s}{D.}%
+     {Kristofer}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Webb}{W.}%
+     {David~J.}{D.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{fundamentals, rank1, fundamental, SouternOcean}
+  \strng{namehash}{DKWDJ1}
+  \strng{fullhash}{DKWDJ1}
+  \field{labelyear}{1994}
+  \field{sortinit}{D}
+  \field{abstract}{%
+  Abstract The meridional circulation cells of the Southern Ocean are
+  investigated using the results from a fine-resolution primitive equation
+  model. Zonal integration along depth levels shows the classical series of
+  meridional cells but integration along density layers shows a number of
+  differences, including the virtual disappearance of the Deacon cell. To
+  investigate the differences, the meridional transport is calculated as a
+  function of both density and depth. The results show that the Deacon cell is
+  associated with systematic changes in the depth of density surfaces between
+  the western boundary current region off South America and the return flow in
+  the interior of the ocean. Water flowing on each density surface produces a
+  meridional cell with a vertical excursion of a few hundred meters. Thew cells
+  combine, without water crossing density surfaces, to produce a single
+  integrated Deacon cell extending from the surface to below 2000 m. The
+  results also show that, at each latitude, water on each of the density
+  surfaces in the upper layers of the ocean systematically transfers angular
+  momentum from the shallowest depths at which it is found to deeper depths. In
+  this way the torque, due the wind acting on the surface of the ocean, is
+  transferred downward, in a series of steps between water masses of increasing
+  density, until it is finally lost as a pressure torque acting on the ocean
+  bottom topography.%
+  }
+  \verb{doi}
+  \verb 10.1175/1520-0485(1994)024<0429:TDCATO>2.0.CO;2
+  \endverb
+  \verb{eprint}
+  \verb http://dx.doi.org/10.1175/1520-0485(1994)024<0429:TDCATO>2.0.CO;2
+  \endverb
+  \field{number}{2}
+  \field{pages}{429\bibrangedash 442}
+  \field{title}{The Deacon Cell and the Other Meridional Cells of the Southern
+  Ocean}
+  \field{volume}{24}
+  \verb{file}
+  \verb :Doeoes_etal1993_JPO_deacon_cell.pdf:PDF
+  \endverb
+  \field{journaltitle}{Journal of Physical Oceanography}
+  \field{year}{1994}
+\endentry
+
+\entry{Dufour2013}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Dufour}{D.}%
+     {Carolina~O.}{C.~O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sommer}{S.}%
+     {Julien~Le}{J.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gehlen}{G.}%
+     {Marion}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Orr}{O.}%
+     {James~C.}{J.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Molines}{M.}%
+     {Jean-Marc}{J.-M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Simeon}{S.}%
+     {Jennifer}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Barnier}{B.}%
+     {Bernard}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley-Blackwell}%
+  }
+  \strng{namehash}{DCO+1}
+  \strng{fullhash}{DCOSJLGMOJCMJMSJBB1}
+  \field{labelyear}{2013}
+  \field{sortinit}{D}
+  \verb{doi}
+  \verb 10.1002/gbc.20090
+  \endverb
+  \field{number}{3}
+  \field{pages}{950\bibrangedash 961}
+  \field{title}{Eddy compensation and controls of the enhanced sea-to-air {CO}
+  2 flux during positive phases of the Southern Annular Mode}
+  \field{volume}{27}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Dufour_etal2013_Eddy_compensation_a
+  \verb nd_controls_of_the_enhanced_sea.pdf:PDF
+  \endverb
+  \field{journaltitle}{Global Biogeochemical Cycles}
+  \field{year}{2013}
   \warn{\item Invalid format of field 'month'}
 \endentry
 
@@ -113,6 +986,295 @@
   \endverb
   \field{journaltitle}{Fishery Bulletin}
   \field{year}{1972}
+\endentry
+
+\entry{Falkowski1998}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Falkowski}{F.}%
+     {P.~G.}{P.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Barber}{B.}%
+     {R.~T.}{R.~T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smetacek}{S.}%
+     {Victor}{V.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FPG+1}
+  \strng{fullhash}{FPGBRTSV1}
+  \field{labelyear}{1998}
+  \field{sortinit}{F}
+  \field{abstract}{%
+  Changes in oceanic primary production, linked to changes in the network of
+  global biogeochemical cycles, have profoundly influenced the geochemistry of
+  Earth for over 3 billion years. In the contemporary ocean, photosynthetic
+  carbon fixation by marine phytoplankton leads to formation of ∼45 gigatons
+  of organic carbon per annum, of which 16 gigatons are exported to the ocean
+  interior. Changes in the magnitude of total and export production can
+  strongly influence atmospheric CO2 levels (and hence climate) on geological
+  time scales, as well as set upper bounds for sustainable fisheries harvest.
+  The two fluxes are critically dependent on geophysical processes that
+  determine mixed-layer depth, nutrient fluxes to and within the ocean, and
+  food-web structure. Because the average turnover time of phytoplankton carbon
+  in the ocean is on the order of a week or less, total and export production
+  are extremely sensitive to external forcing and consequently are seldom in
+  steady state. Elucidating the biogeochemical controls and feedbacks on
+  primary production is essential to understanding how oceanic biota responded
+  to and affected natural climatic variability in the geological past, and will
+  respond to anthropogenically influenced changes in coming decades. One of the
+  most crucial feedbacks results from changes in radiative forcing on the
+  hydrological cycle, which influences the aeolian iron flux and, in turn,
+  affects nitrogen fixation and primary production in the oceans.%
+  }
+  \verb{doi}
+  \verb 10.1126/science.281.5374.200
+  \endverb
+  \field{number}{5374}
+  \field{pages}{200\bibrangedash 206}
+  \field{title}{Biogeochemical Controls and Feedbacks on and Ocean Primary and
+  Production}
+  \field{volume}{281}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Falkowski_etal1998_Ocean_primary_pr
+  \verb oduction.pdf:PDF
+  \endverb
+  \field{journaltitle}{Science}
+  \field{year}{1998}
+\endentry
+
+\entry{Franks2014}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Franks}{F.}%
+     {Peter J.~S.}{P.~J.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press ({OUP})}%
+  }
+  \strng{namehash}{FPJS1}
+  \strng{fullhash}{FPJS1}
+  \field{labelyear}{2014}
+  \field{sortinit}{F}
+  \verb{doi}
+  \verb 10.1093/icesjms/fsu175
+  \endverb
+  \field{number}{6}
+  \field{pages}{1897\bibrangedash 1907}
+  \field{title}{Has Sverdrup's critical depth hypothesis been tested? Mixed
+  layers vs. turbulent layers}
+  \field{volume}{72}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Franks_2014.pdf:PDF
+  \endverb
+  \field{journaltitle}{{ICES} Journal of Marine Science: Journal du Conseil}
+  \field{year}{2014}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{WOA2013}{book}{}
+  \name{author}{8}{}{%
+    {{}%
+     {Garcia}{G.}%
+     {H.~E.}{H.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Locarnini}{L.}%
+     {R.~A.}{R.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Boyer}{B.}%
+     {T.~P.}{T.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Antonov}{A.}%
+     {J.~I.}{J.~I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Baranova}{B.}%
+     {O.K.}{O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zweng}{Z.}%
+     {M.M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Reagan}{R.}%
+     {J.R.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Johnson}{J.}%
+     {D.R.}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Levitus}{L.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mishonov}{M.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {NOAA Atlas NESDIS}%
+  }
+  \strng{namehash}{GHE+1}
+  \strng{fullhash}{GHELRABTPAJIBOZMRJJD1}
+  \field{labelyear}{2013}
+  \field{sortinit}{G}
+  \field{series}{25}
+  \field{title}{World Ocean Atlas 2013, Volume 4: Dissolved Inorganic Nutrients
+  (phosphate, nitrate, silicate)}
+  \verb{url}
+  \verb https://www.nodc.noaa.gov/OC5/woa13/pubwoa13.html
+  \endverb
+  \field{volume}{76}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/WOA13_vol4.pdf:PDF
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{Gent2011}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Gent}{G.}%
+     {Peter~R.}{P.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Danabasoglu}{D.}%
+     {Gokhan}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GPRDG1}
+  \strng{fullhash}{GPRDG1}
+  \field{labelyear}{2011}
+  \field{sortinit}{G}
+  \verb{doi}
+  \verb 10.1175/JCLI-D-10-05011.1
+  \endverb
+  \field{pages}{4992\bibrangedash 4998}
+  \field{title}{Response to Increasing Southern Hemisphere Wind in CCSM4}
+  \field{volume}{24}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Gent_Danabasoglu_JClim2011.pdf:PDF
+  \endverb
+  \field{journaltitle}{Journal of Climate}
+  \field{year}{2011}
+\endentry
+
+\entry{Gent1995}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Gent}{G.}%
+     {Peter~R.}{P.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Willebrand}{W.}%
+     {Jurgen}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McDougall}{M.}%
+     {Trevor~J.}{T.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McWilliams}{M.}%
+     {James~C.}{J.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GPR+1}
+  \strng{fullhash}{GPRWJMTJMJC1}
+  \field{labelyear}{1995}
+  \field{sortinit}{G}
+  \field{abstract}{%
+  Abstract It is shown that the effects of mesoscale eddies on tracer
+  transports can be parameterized in a large-scale model by additional
+  advection and diffusion of tracers. Thus, tracers are advected by the
+  effective transport velocity, which is the sum of the large-scale velocity
+  and the eddy-induced transport velocity. The density and continuity equations
+  are the familiar equations for adiabatic, Boussinesq, and incompressible flow
+  with the effective transport velocity replacing the large-scale velocity. One
+  of the main points of this paper is to show how simple the parameterization
+  of Gent and McWilliams appears when interpreted in terms of the effective
+  transport velocity. This was not done in their original 1990 paper. It is
+  also shown that, with the Gent and McWilliams parameterization, potential
+  vorticity in the planetary geostrophic model satisfies an equation close to
+  that for tracers. The analogy of this parameterization with vertical mixing
+  of momentum is then described. The effect of the Gent and McWilliams
+  parameterization is illustrated by applying it to a strong, sloping
+  two-dimensional front. The final state is that the front is flat,
+  corresponding to a state of minimum potential energy. However, the amount of
+  water of a given density has not been changed and there has been no flow
+  across isopycnals. These properties are not preserved with horizontal
+  diffusion of tracer. Finally, the Levitus dataset is used to estimate the
+  effects of the Gent and McWilliams parameterization. The zonal mean
+  meridional overturning streamfunction for the eddy-induced transport velocity
+  has a maximum of 18 Sverdrups near the Antarctic Circumpolar Current. The
+  associated poleward heat transport is 0.4 petawatts. The maximum poleward
+  heat transport in the Northern Hemisphere is 0.15 petawatts at 40°N. These
+  values are the same order of magnitude as estimates from observations and
+  regional eddy-resolving ocean models.%
+  }
+  \verb{doi}
+  \verb 10.1175/1520-0485(1995)025%3C0463:PEITTI%3E2.0.CO;2
+  \endverb
+  \verb{eprint}
+  \verb http://dx.doi.org/10.1175/1520-0485(1995)025<0463:PEITTI>2.0.CO;2
+  \endverb
+  \field{number}{4}
+  \field{pages}{463–474}
+  \field{title}{Parameterizing Eddy-Induced Tracer Transports in Ocean
+  Circulation Models}
+  \field{volume}{25}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Gent_etal1995_eddy_param.pdf:PDF
+  \endverb
+  \field{journaltitle}{Journal of Physical Oceanography}
+  \field{year}{1995}
+\endentry
+
+\entry{Gilbert1987}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gilbert}{G.}%
+     {R.~O.}{R.~O.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley}%
+  }
+  \strng{namehash}{GRO1}
+  \strng{fullhash}{GRO1}
+  \field{labelyear}{1987}
+  \field{sortinit}{G}
+  \field{title}{Statistical Methods for Environmental Pollution Monitoring}
+  \field{year}{1987}
 \endentry
 
 \entry{Giorgetta2013}{article}{}
@@ -351,15 +1513,169 @@
   \field{pages}{572\bibrangedash 597}
   \field{title}{Climate and carbon cycle changes from 1850 to 2100 in MPI-ESM
   simulations for the Coupled Model Intercomparison Project phase 5}
-  \verb{url}
-  \verb http://dx.doi.org/10.1002/jame.20038
-  \endverb
   \field{volume}{5}
   \verb{file}
   \verb :home/mpim/m300524/MSc_Thesis/Paper/Gioretta_etal2013_JAMES.pdf:PDF
   \endverb
   \field{journaltitle}{Journal of Advances in Modeling Earth Systems}
   \field{year}{2013}
+\endentry
+
+\entry{Gnanadesikan2015}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Gnanadesikan}{G.}%
+     {Anand}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pradal}{P.}%
+     {Marie-Aude}{M.-A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Abernathey}{A.}%
+     {Ryan}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley-Blackwell}%
+  }
+  \strng{namehash}{GA+1}
+  \strng{fullhash}{GAPMAAR1}
+  \field{labelyear}{2015}
+  \field{sortinit}{G}
+  \verb{doi}
+  \verb 10.1002/2015gl064100
+  \endverb
+  \field{number}{11}
+  \field{pages}{4249\bibrangedash 4255}
+  \field{title}{Isopycnal mixing by mesoscale eddies significantly impacts
+  oceanic anthropogenic carbon uptake}
+  \verb{url}
+  \verb https://doi.org/10.1002%2F2015gl064100
+  \endverb
+  \field{volume}{42}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Gnanadesikan_etal2015_GRL_eddies_Ca
+  \verb rbon_mixing.pdf:PDF
+  \endverb
+  \field{journaltitle}{Geophysical Research Letters}
+  \field{year}{2015}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Gong1999}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Gong}{G.}%
+     {Daoyi}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {Shaowu}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Meteorology and Atmospheric Dynamics; Meteorology and Atmospheric
+  Dynamics: General circulation}
+  \strng{namehash}{GDWS1}
+  \strng{fullhash}{GDWS1}
+  \field{labelyear}{1999}
+  \field{sortinit}{G}
+  \field{abstract}{%
+  Following Walker's work about his famous three oscillations published during
+  the 1920--30s, many papers were written about atmospheric oscillations. A
+  fourth atmospheric oscillation in the middle and high southern latitudes was
+  found, and named the Antarctic Oscillation (AO). AO refers to a large scale
+  alternation of atmospheric mass between the mid-latitudes and high latitudes
+  surface pressure. In order to understand the spatial structure of sea level
+  pressure variation in detail, empirical orthogonal function analysis is
+  applied. An objective index of the Antarctic Oscillation Index (AOI) is
+  defined as the difference of zonal mean sea level pressure between 40°S and
+  65°S. The AOI has the potential for clarifying climate regimes in the
+  southern hemisphere, similar to how the NAO and the NPO has been used in the
+  northern hemisphere.%
+  }
+  \verb{doi}
+  \verb 10.1029/1999GL900003
+  \endverb
+  \field{issn}{1944-8007}
+  \field{number}{4}
+  \field{pages}{459\bibrangedash 462}
+  \field{title}{{Definition of Antarctic Oscillation index}}
+  \field{volume}{26}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Gong_and_Wang_1999_AOI_SAM.pdf:PDF
+  \endverb
+  \field{journaltitle}{Geophysical Research Letters}
+  \field{year}{1999}
+\endentry
+
+\entry{Hall2002}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hall}{H.}%
+     {Alex}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Visbeck}{V.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HAVM1}
+  \strng{fullhash}{HAVM1}
+  \field{labelyear}{2002}
+  \field{sortinit}{H}
+  \field{abstract}{%
+  Abstract Zonally symmetric fluctuations of the midlatitude westerly winds
+  characterize the primary mode of atmospheric variability in the Southern
+  Hemisphere during all seasons. This is true not only in observations but also
+  in an unforced 15 000-yr integration of a coarse-resolution (R15) coupled
+  ocean--atmosphere model. Here it is documented how this mode of atmospheric
+  variability, known as the Southern Annular Mode (SAM), generates ocean
+  circulation and sea ice variations in the model integration on interannual to
+  centennial timescales that are tightly in phase with the SAM. The positive
+  phase of the SAM is associated with an intensification of the surface
+  westerlies over the circumpolar ocean (around 60°S), and a weakening of the
+  surface westerlies farther north. This induces Ekman drift to the north at
+  all longitudes of the circumpolar ocean, and Ekman drift to the south at
+  around 30°S. Through mass continuity, the Ekman drift generates anomalous
+  upwelling along the margins of the Antarctic continent, and downwelling
+  around 45°S. The anomalous flow diverging from the Antarctic continent also
+  increases the vertical tilt of the isopycnals in the Southern Ocean, so that
+  a more intense circumpolar current is also closely associated with positive
+  SAM. In addition, the anomalous divergent flow advects sea ice farther north,
+  resulting in an increase in sea ice coverage. Finally, positive SAM drives
+  increases in poleward heat transport at about 30°S, while decreases occur in
+  the circumpolar region. Ocean and sea ice anomalies of the opposite sign
+  occur when the SAM is negative. The ocean and sea ice fluctuations associated
+  with the SAM constitute a significant fraction of simulated ocean variability
+  poleward of 30°S year-round. The robustness of the mechanisms relating the
+  SAM to oceanic variability suggests that the SAM is likely an important
+  source of large-scale variability in the real Southern Hemisphere ocean.%
+  }
+  \verb{doi}
+  \verb 10.1175/1520-0442(2002)015<3043:SVITSH>2.0.CO;2
+  \endverb
+  \verb{eprint}
+  \verb http://dx.doi.org/10.1175/1520-0442(2002)015<3043:SVITSH>2.0.CO;2
+  \endverb
+  \field{number}{21}
+  \field{pages}{3043\bibrangedash 3057}
+  \field{title}{{Synchronous Variability in the Southern Hemisphere Atmosphere,
+  Sea Ice, and Ocean Resulting from the Annular Mode}}
+  \field{volume}{15}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Hall_and_Visbeck_2002_JoC_SAM_vari.
+  \verb pdf:PDF
+  \endverb
+  \field{journaltitle}{Journal of Climate}
+  \field{year}{2002}
 \endentry
 
 \entry{Hauck2013}{article}{}
@@ -409,9 +1725,6 @@
   \field{pages}{1236\bibrangedash 1245}
   \field{title}{Seasonally different carbon flux changes in the Southern Ocean
   in response to the southern annular mode}
-  \verb{url}
-  \verb http://dx.doi.org/10.1002/2013GB004600
-  \endverb
   \field{volume}{27}
   \verb{file}
   \verb :home/mpim/m300524/MSc_Thesis/Paper/Hauck_etal2013_GCB_Seasonality_SAM_
@@ -419,6 +1732,390 @@
   \endverb
   \field{journaltitle}{Global Biogeochemical Cycles}
   \field{year}{2013}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Haumann2014}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Haumann}{H.}%
+     {F.~Alexander}{F.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Notz}{N.}%
+     {Dirk}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schmidt}{S.}%
+     {Hauke}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley-Blackwell}%
+  }
+  \strng{namehash}{HFA+1}
+  \strng{fullhash}{HFANDSH1}
+  \field{labelyear}{2014}
+  \field{sortinit}{H}
+  \verb{doi}
+  \verb 10.1002/2014gl061659
+  \endverb
+  \field{number}{23}
+  \field{pages}{8429\bibrangedash 8437}
+  \field{title}{Anthropogenic influence on recent circulation-driven Antarctic
+  sea ice changes}
+  \field{volume}{41}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Haumann_etal2014_GRL_AA_sea_ice_grl
+  \verb 52406.pdf:PDF
+  \endverb
+  \field{journaltitle}{Geophysical Research Letters}
+  \field{year}{2014}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Haumann2016}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Haumann}{H.}%
+     {F.~Alexander}{F.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gruber}{G.}%
+     {Nicolas}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Münnich}{M.}%
+     {Matthias}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Frenger}{F.}%
+     {Ivy}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kern}{K.}%
+     {Stefan}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer Nature}%
+  }
+  \strng{namehash}{HFA+1}
+  \strng{fullhash}{HFAGNMMFIKS1}
+  \field{labelyear}{2016}
+  \field{sortinit}{H}
+  \verb{doi}
+  \verb 10.1038/nature19101
+  \endverb
+  \field{number}{7618}
+  \field{pages}{89\bibrangedash 92}
+  \field{title}{Sea-ice transport driving Southern Ocean salinity and its
+  recent trends}
+  \field{volume}{537}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Haumann_etal2016_SO_sea-ice_nature1
+  \verb 9101.pdf:PDF
+  \endverb
+  \field{journaltitle}{Nature}
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Hawkins2009}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hawkins}{H.}%
+     {Ed}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sutton}{S.}%
+     {Rowan}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HESR1}
+  \strng{fullhash}{HESR1}
+  \field{labelyear}{2009}
+  \field{sortinit}{H}
+  \field{abstract}{%
+  Abstract Faced by the realities of a changing climate, decision makers in a
+  wide variety of organizations are increasingly seeking quantitative
+  predictions of regional and local climate. An important issue for these
+  decision makers, and for organizations that fund climate research, is what is
+  the potential for climate science to deliver improvements---especially
+  reductions in uncertainty---in such predictions? Uncertainty in climate
+  predictions arises from three distinct sources: internal variability, model
+  uncertainty, and scenario uncertainty. Using data from a suite of climate
+  models, we separate and quantify these sources. For predictions of changes in
+  surface air temperature on decadal timescales and regional spatial scales, we
+  show that uncertainty for the next few decades is dominated by sources (model
+  uncertainty and internal variability) that are potentially reducible through
+  progress in climate science. Furthermore, we find that model uncertainty is
+  of greater importance than internal variability. Our findings have
+  implications for managing adaptation to a changing climate. Because the costs
+  of adaptation are very large, and greater uncertainty about future climate is
+  likely to be associated with more expensive adaptation, reducing uncertainty
+  in climate predictions is potentially of enormous economic value. We
+  highlight the need for much more work to compare (a) the cost of various
+  degrees of adaptation, given current levels of uncertainty and (b) the cost
+  of new investments in climate science to reduce current levels of
+  uncertainty. Our study also highlights the importance of targeting climate
+  science investments on the most promising opportunities to reduce prediction
+  uncertainty.%
+  }
+  \verb{doi}
+  \verb 10.1175/2009BAMS2607.1
+  \endverb
+  \verb{eprint}
+  \verb http://dx.doi.org/10.1175/2009BAMS2607.1
+  \endverb
+  \field{number}{8}
+  \field{pages}{1095\bibrangedash 1107}
+  \field{title}{{The Potential to Narrow Uncertainty in Regional Climate
+  Predictions}}
+  \field{volume}{90}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Hawkins_and_Sutton_2009_BAMS_uncert
+  \verb ainty.pdf:PDF
+  \endverb
+  \field{journaltitle}{Bulletin of the American Meteorological Society}
+  \field{year}{2009}
+\endentry
+
+\entry{Heinze1999}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Heinze}{H.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Maier-Reimer}{M.-R.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Winguth}{W.}%
+     {A.~M.~E.}{A.~M.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Archer}{A.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Marine sediments: processes and transport; Biogeochemical cycles;
+  processes; and modeling; 4842; Sedimentation}
+  \strng{namehash}{HC+1}
+  \strng{fullhash}{HCMREWAMEAD1}
+  \field{labelyear}{1999}
+  \field{sortinit}{H}
+  \field{abstract}{%
+  A chemically reactive 10-layer sediment module was coupled to a geochemical
+  ocean general circulation model (the Hamburg Oceanic Carbon Cycle Model). The
+  sediment model includes four solid sediment components (CaCO3, opal, organic
+  carbon, and clay), and five pore water substances (dissolved inorganic
+  carbon, total alkalinity, PO43−, O2, Si(OH)4) plus corresponding species
+  containing 13C and 14C instead of 12C. The processes, namely, particle
+  deposition, pore water reactions, pore water diffusion and interaction with
+  the open water column, vertical sediment advection, sediment accumulation,
+  and bioturbation, are simulated through basic parametrizations. For the water
+  column part the Si and C cycles are coupled by a formulation of the ``rain
+  ratio'' Si:C(CaCO3):C(POC), where POC is particulate organic carbon, in
+  biogenic particle export production, with CaCO3 frustrule production growing
+  in parallel to a weakening of opal production during progressing deficiency
+  of dissolved silicate in the surface layer. For two preindustrial velocity
+  fields the model reproduces major features of observed water column and
+  sediment tracer distributions parallel to a correct preindustrial CO2 level
+  close to 280 ppm. The model reacts sensitively to the formulation of the POC
+  flux parametrization, the rain ratio, as well as the solubility of opal but
+  is fairly insensitive to changes in the bioturbation rate as well as the
+  amount of clay deposition. A simulation of the sediment distribution by use
+  of a velocity field, which represents the ocean at conditions during the last
+  glacial maximum, yields realistic glacial-interglacial changes for the
+  Atlantic Ocean, while discrepancies remain for the Indo-Pacific region. A
+  significant decrease of the atmospheric pCO2 could be achieved through an
+  additional change of water column inventories by a change in weathering input
+  of Si and alkalinity.%
+  }
+  \verb{doi}
+  \verb 10.1029/98GB02812
+  \endverb
+  \field{issn}{1944-9224}
+  \field{number}{1}
+  \field{pages}{221\bibrangedash 250}
+  \field{title}{A global oceanic sediment model for long-term climate studies}
+  \field{volume}{13}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Heinze_and_MR_1999_GBC_Sediment.pdf
+  \verb :PDF
+  \endverb
+  \field{journaltitle}{Global Biogeochemical Cycles}
+  \field{year}{1999}
+\endentry
+
+\entry{Heuze2013}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Heuz{\'{e}}}{H.}%
+     {C{\'{e}}line}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Heywood}{H.}%
+     {Karen~J.}{K.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stevens}{S.}%
+     {David~P.}{D.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ridley}{R.}%
+     {Jeff~K.}{J.~K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley-Blackwell}%
+  }
+  \keyw{SouternOcean, rank3}
+  \strng{namehash}{HC+2}
+  \strng{fullhash}{HCHKJSDPRJK1}
+  \field{labelyear}{2013}
+  \field{sortinit}{H}
+  \field{abstract}{%
+  Southern Ocean deep water properties and formation processes in climate
+  models are indicative of their capability to simulate future climate, heat
+  and carbon uptake, and sea level rise. Southern Ocean temperature and density
+  averaged over 1986–2005 from 15 CMIP5 (Coupled Model Intercomparison
+  Project Phase 5) climate models are compared with an observed climatology,
+  focusing on bottom water. Bottom properties are reasonably accurate for half
+  the models. Ten models create dense water on the Antarctic shelf, but it
+  mixes with lighter water and is not exported as bottom water as in reality.
+  Instead, most models create deep water by open ocean deep convection, a
+  process occurring rarely in reality. Models with extensive deep convection
+  are those with strong seasonality in sea ice. Optimum bottom properties occur
+  in models with deep convection in the Weddell and Ross Gyres. Bottom Water
+  formation processes are poorly represented in ocean models and are a key
+  challenge for improving climate predictions.%
+  }
+  \verb{doi}
+  \verb 10.1002/grl.50287
+  \endverb
+  \field{number}{7}
+  \field{pages}{1409\bibrangedash 1414}
+  \field{title}{Southern Ocean bottom water characteristics in
+  {CMIP}5~{m}odels}
+  \field{volume}{40}
+  \verb{file}
+  \verb :Heuze_etal2013_GRL_SO_bottom_water_cmip5.pdf:PDF
+  \endverb
+  \field{journaltitle}{Geophys. Res. Lett.}
+  \field{year}{2013}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Hirsch1982}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Hirsch}{H.}%
+     {R.M.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Slack}{S.}%
+     {J.R.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {R.A.}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HR+1}
+  \strng{fullhash}{HRSJSR1}
+  \field{labelyear}{1982}
+  \field{sortinit}{H}
+  \field{number}{1}
+  \field{pages}{107\bibrangedash 121}
+  \field{title}{Techniques of trend analysis for monthly water quality data}
+  \field{volume}{18}
+  \field{journaltitle}{Water Resources Research}
+  \field{year}{1982}
+\endentry
+
+\entry{IPCC}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {IPCC}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {al.}{a.}%
+     {T.~F.~Stocker}{T.~F.~S.}%
+     {et}{e.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{I1}
+  \strng{fullhash}{I1}
+  \field{labelyear}{2013}
+  \field{sortinit}{I}
+  \field{title}{Climate Change 2013: The Physical Science Basis. Contribution
+  of Working Group I to the Fifth Assessment Report on the Intergovernmental
+  Panel on Climate Change}
+  \field{year}{2013}
+\endentry
+
+\entry{ilyinaletter2016}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Ilyina}{I.}%
+     {Tatiana}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{rank4, CarbonSink}
+  \strng{namehash}{IT1}
+  \strng{fullhash}{IT1}
+  \field{labelyear}{2016}
+  \field{sortinit}{I}
+  \field{abstract}{%
+  Simulations of the flux of atmospheric carbon dioxide into the ocean show
+  that changes in flux associated with human activities are currently masked by
+  natural climate variations, but will be evident in the near future%
+  }
+  \field{booktitle}{Nature}
+  \verb{doi}
+  \verb 10.1038/530426a
+  \endverb
+  \field{number}{7591}
+  \field{pages}{426\bibrangedash 427}
+  \field{title}{Hidden trends in the ocean carbon sink}
+  \field{volume}{530}
+  \verb{file}
+  \verb :Ilyina_2016_OCS_Hidden_trends_letter_530426a.pdf:PDF
+  \endverb
+  \field{journaltitle}{Nature}
+  \field{year}{2016}
   \warn{\item Invalid format of field 'month'}
 \endentry
 
@@ -496,9 +2193,6 @@
   \field{title}{Global ocean biogeochemistry model HAMOCC: Model architecture
   and performance as component of the MPI-Earth system model in different CMIP5
   experimental realizations}
-  \verb{url}
-  \verb http://dx.doi.org/10.1029/2012MS000178
-  \endverb
   \field{volume}{5}
   \verb{file}
   \verb :home/mpim/m300524/MSc_Thesis/Paper/Ilyina_etal2013a_JAMES_hamocc_cmip5
@@ -596,15 +2290,600 @@
   \field{title}{Characteristics of the ocean simulations in the Max Planck
   Institute Ocean Model (MPIOM) the ocean component of the MPI-Earth system
   model}
-  \verb{url}
-  \verb http://dx.doi.org/10.1002/jame.20023
-  \endverb
   \field{volume}{5}
   \verb{file}
   \verb :Jungclaus_etal2013_JAMES_MPIOM.pdf:PDF
   \endverb
   \field{journaltitle}{Journal of Advances in Modeling Earth Systems}
   \field{year}{2013}
+\endentry
+
+\entry{Kalnay1996}{article}{}
+  \name{author}{22}{}{%
+    {{}%
+     {Kalnay}{K.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kanamitsu}{K.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kistler}{K.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Collins}{C.}%
+     {W.}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Deaven}{D.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gandin}{G.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Iredell}{I.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Saha}{S.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {White}{W.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Woollen}{W.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhu}{Z.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Leetmaa}{L.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Reynolds}{R.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chelliah}{C.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ebisuzaki}{E.}%
+     {W.}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Higgins}{H.}%
+     {W.}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Janowiak}{J.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mo}{M.}%
+     {K.~C.}{K.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ropelewski}{R.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jenne}{J.}%
+     {Roy}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Joseph}{J.}%
+     {Dennis}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KE+1}
+  \strng{fullhash}{KEKMKRCWDDGLIMSSWGWJZYLARRCMEWHWJJMKCRCWJJRJD1}
+  \field{labelyear}{1996}
+  \field{sortinit}{K}
+  \field{abstract}{%
+  Abstract The NCEP and NCAR are cooperating in a project (denoted
+  “reanalysis”) to produce a 40-year record of global analyses of
+  atmospheric fields in support of the needs of the research and climate
+  monitoring communities. This effort involves the recovery of land surface,
+  ship, rawinsonde, pibal, aircraft, satellite, and other data; quality
+  controlling and assimilating these data with a data assimilation system that
+  is kept unchanged over the reanalysis period 1957–96. This eliminates
+  perceived climate jumps associated with changes in the data assimilation
+  system. The NCEP/NCAR 40-yr reanalysis uses a frozen state-of-the-art global
+  data assimilation system and a database as complete as possible. The data
+  assimilation and the model used are identical to the global system
+  implemented operationally at the NCEP on 11 January 1995, except that the
+  horizontal resolution is T62 (about 210 km). The database has been enhanced
+  with many sources of observations not available in real time for operations,
+  provided by different countries and organizations. The system has been
+  designed with advanced quality control and monitoring components, and can
+  produce 1 mon of reanalysis per day on a Cray YMP/8 supercomputer. Different
+  types of output archives are being created to satisfy different user needs,
+  including a “quick look” CD-ROM (one per year) with six tropospheric and
+  stratospheric fields available twice daily, as well as surface,
+  top-of-the-atmosphere, and isentropic fields. Reanalysis information and
+  selected output is also available on-line via the Internet
+  (http//:nic.fb4.noaa.gov:8000). A special CD-ROM, containing 13 years of
+  selected observed, daily, monthly, and climatological data from the NCEP/NCAR
+  Re-analysis, is included with this issue. Output variables are classified
+  into four classes, depending on the degree to which they are influenced by
+  the observations and/or the model. For example, “C” variables (such as
+  precipitation and surface fluxes) are completely determined by the model
+  during the data assimilation and should be used with caution. Nevertheless, a
+  comparison of these variables with observations and with several
+  climatologies shows that they generally contain considerable useful
+  information. Eight-day forecasts, produced every 5 days, should be useful for
+  predictability studies and for monitoring the quality of the observing
+  systems. The 40 years of reanalysis (1957–96) should be completed in early
+  1997. A continuation into the future through an identical Climate Data
+  Assimilation System will allow researchers to reliably compare recent
+  anomalies with those in earlier decades. Since changes in the observing
+  systems will inevitably produce perceived changes in the climate, parallel
+  reanalyses (at least 1 year long) will be generated for the periods
+  immediately after the introduction of new observing systems, such as new
+  types of satellite data. NCEP plans currently call for an updated reanalysis
+  using a state-of-the-art system every five years or so. The successive
+  reanalyses will be greatly facilitated by the generation of the comprehensive
+  database in the present reanalysis.%
+  }
+  \verb{doi}
+  \verb 10.1175/1520-0477(1996)077%3C0437:TNYRP%3E2.0.CO;2
+  \endverb
+  \verb{eprint}
+  \verb http://dx.doi.org/10.1175/1520-0477(1996)077<0437:TNYRP>2.0.CO;2
+  \endverb
+  \field{number}{3}
+  \field{pages}{437–471}
+  \field{title}{{The NCEP/NCAR 40-Year Reanalysis Project}}
+  \field{volume}{77}
+  \field{journaltitle}{Bulletin of the American Meteorological Society}
+  \field{year}{1996}
+\endentry
+
+\entry{Kay2015}{article}{}
+  \name{author}{21}{}{%
+    {{}%
+     {Kay}{K.}%
+     {J.~E.}{J.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Deser}{D.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Phillips}{P.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mai}{M.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hannay}{H.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Strand}{S.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Arblaster}{A.}%
+     {J.~M.}{J.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bates}{B.}%
+     {S.~C.}{S.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Danabasoglu}{D.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Edwards}{E.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Holland}{H.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kushner}{K.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lamarque}{L.}%
+     {J.-F.}{J.-F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lawrence}{L.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lindsay}{L.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Middleton}{M.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Munoz}{M.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Neale}{N.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Oleson}{O.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Polvani}{P.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vertenstein}{V.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {American Meteorological Society}%
+  }
+  \keyw{rank3}
+  \strng{namehash}{KJE+1}
+  \strng{fullhash}{KJEDCPAMAHCSGAJMBSCDGEJHMKPLJFLDLKMAMENROKPLVM1}
+  \field{labelyear}{2015}
+  \field{sortinit}{K}
+  \field{abstract}{%
+  By simulating climate trajectories over the period 1920–2100 multiple times
+  with small atmo- spheric initialization differences, but using the same model
+  and external forcing, this commu- nity project provides a comprehensive
+  resource for studying climate change in the presence of internal climate
+  variability.%
+  }
+  \verb{doi}
+  \verb 10.1175/bams-d-13-00255.1
+  \endverb
+  \field{number}{8}
+  \field{pages}{1333\bibrangedash 1349}
+  \field{title}{The Community Earth System Model ({CESM}) Large Ensemble
+  Project: A Community Resource for Studying Climate Change in the Presence of
+  Internal Climate Variability}
+  \field{volume}{96}
+  \verb{file}
+  \verb :Kay_etal2015_AMS_CESM_large_ensemble_project.pdf:PDF
+  \endverb
+  \field{journaltitle}{Bull. Amer. Meteor. Soc.}
+  \field{year}{2015}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Keeling2004}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Keeling}{K.}%
+     {Charles~D.}{C.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brix}{B.}%
+     {Holger}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gruber}{G.}%
+     {Nicolas}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Climate and interannual variability, Biogeochemical cycles, processes,
+  and modeling, Carbon cycling, Stable isotopes, long-term trends, North
+  Pacific, seasonal carbon cycle}
+  \strng{namehash}{KCD+1}
+  \strng{fullhash}{KCDBHGN1}
+  \field{labelyear}{2004}
+  \field{sortinit}{K}
+  \verb{doi}
+  \verb 10.1029/2004GB002227
+  \endverb
+  \field{issn}{1944-9224}
+  \field{note}{GB4006}
+  \field{number}{4}
+  \field{title}{Seasonal and long-term dynamics of the upper ocean carbon cycle
+  at Station ALOHA near Hawaii}
+  \field{volume}{18}
+  \field{journaltitle}{Global Biogeochemical Cycles}
+  \field{year}{2004}
+\endentry
+
+\entry{Kendall1975}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kendall}{K.}%
+     {M.~G.}{M.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Charles Griffin}%
+  }
+  \strng{namehash}{KMG1}
+  \strng{fullhash}{KMG1}
+  \field{labelyear}{1975}
+  \field{sortinit}{K}
+  \field{title}{Rank Correlation Methods}
+  \field{year}{1975}
+\endentry
+
+\entry{Kessler2016}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kessler}{K.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tjiputra}{T.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Copernicus {GmbH}}%
+  }
+  \keyw{CarbonSink, SouternOcean, rank2}
+  \strng{namehash}{KATJ1}
+  \strng{fullhash}{KATJ1}
+  \field{labelyear}{2016}
+  \field{sortinit}{K}
+  \field{abstract}{%
+  Earth system model (ESM) simulations exhibit large biases compares to
+  observation-based estimates of the present ocean CO2 sink. The inter-model
+  spread in projections increases nearly 2-fold by the end of the 21st century
+  and therefore contributes significantly to the uncertainty of future climate
+  projections. In this study, the Southern Ocean (SO) is shown to be one of the
+  hot-spot regions for future uptake of anthropogenic CO2 , characterized by
+  both the solubility pump and biologically mediated carbon drawdown in the
+  spring and summer. We show, by analyzing a suite of fully interactive ESMs
+  simulations from the Coupled Model Intercomparison Project phase 5 (CMIP5)
+  over the 21st century under the high-CO2 Representative Concentration Pathway
+  (RCP) 8.5 scenario, that the SO is the only region where the atmospheric CO2
+  uptake rate continues to increase toward the end of the 21st century.
+  Furthermore, our study discovers a strong inter-model link between the
+  contemporary CO2 uptake in the Southern Ocean and the projected global
+  cumulated uptake over the 21st century. This strong correlation suggests that
+  models with low (high) carbon uptake rate in the contemporary SO tend to
+  simulate low (high) uptake rate in the future. Nevertheless, our analysis
+  also shows that none of the models fully capture the observed biophysical
+  mechanisms governing the CO2 fluxes in the SO. The inter-model spread for the
+  con- temporary CO2 uptake in the Southern Ocean is attributed to the
+  variations in the simulated seasonal cycle of surface pCO2 . Two groups of
+  model behavior have been identified. The first one simulates anomalously
+  strong SO carbon uptake, generally due to both too strong a net primary
+  production and too low a surface pCO2 in December–January. The second group
+  simulates an opposite CO2 flux seasonal phase, which is driven mainly by the
+  bias in the sea surface temperature variability. We show that these biases
+  are persistent throughout the 21st century, which highlights the urgent need
+  for a sustained and comprehensive biogeochemical monitoring system in the
+  Southern Ocean to better constrain key processes represented in current model
+  systems.%
+  }
+  \verb{doi}
+  \verb 10.5194/esd-7-295-2016
+  \endverb
+  \field{number}{2}
+  \field{pages}{295\bibrangedash 312}
+  \field{title}{The Southern Ocean as a~constraint to reduce uncertainty in
+  future ocean carbon sinks}
+  \field{volume}{7}
+  \verb{file}
+  \verb :Kessler_etal2016_EarthSystDynam_SO_constraint_reduce_unvertainty_CS.pd
+  \verb f:PDF
+  \endverb
+  \field{journaltitle}{Earth Syst. Dynam.}
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Kidston2010}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kidston}{K.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gerber}{G.}%
+     {E.~P.}{E.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Earth system modeling; Geomorphology and weathering; Regional climate
+  change; Climate variability; climate change; jet stream}
+  \strng{namehash}{KJGEP1}
+  \strng{fullhash}{KJGEP1}
+  \field{labelyear}{2010}
+  \field{sortinit}{K}
+  \field{abstract}{%
+  Future climate predictions by global circulation models in the Coupled Model
+  Intercomparison Project Phase 3 (CMIP3) archive indicate that the recent
+  poleward shift of the eddy-driven jet streams will continue throughout the
+  21st century. Here it is shown that differences in the projected magnitude of
+  the trend in the Southern Hemisphere are well correlated with biases in the
+  latitude of the jet in the simulation of 20th century climate. Furthermore,
+  the latitude of the jet in the models' 20th century climatology is correlated
+  with biases in the internal variability of the jet stream, as quantified by
+  the time scale of the annular mode. Thus an equatorward bias in the position
+  of the jet is associated with both enhanced persistence of the annular mode,
+  and an increased poleward shift of the jet. These relationships appear to be
+  robust throughout the year except in the austral summer, when differences in
+  forcing, particularly stratospheric ozone, make it impossible to compare the
+  response of one model with another. These results suggest that the fidelity
+  of a model's simulation of the 20th century climate may be related to its
+  fitness for climate prediction. The cause of this relationship is discussed,
+  as well as the implications for climate change projections.%
+  }
+  \verb{doi}
+  \verb 10.1029/2010GL042873
+  \endverb
+  \field{issn}{1944-8007}
+  \field{note}{L09708}
+  \field{number}{9}
+  \field{title}{{Intermodel variability of the poleward shift of the austral
+  jet stream in the CMIP3 integrations linked to biases in 20th century
+  climatology}}
+  \field{volume}{37}
+  \field{journaltitle}{Geophysical Research Letters}
+  \field{year}{2010}
+\endentry
+
+\entry{Krumhardt2017}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Krumhardt}{K.}%
+     {Kristen~M.}{K.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lovenduski}{L.}%
+     {Nicole~S.}{N.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Long}{L.}%
+     {Matthew~C.}{M.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lindsay}{L.}%
+     {Keith}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley-Blackwell}%
+  }
+  \strng{namehash}{KKM+1}
+  \strng{fullhash}{KKMLNSLMCLK1}
+  \field{labelyear}{2017}
+  \field{sortinit}{K}
+  \verb{doi}
+  \verb 10.1002/2016gb005528
+  \endverb
+  \field{number}{1}
+  \field{pages}{114\bibrangedash 133}
+  \field{title}{Avoidable impacts of ocean warming on marine primary
+  production: Insights from the {CESM} ensembles}
+  \field{volume}{31}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Krumhardt_etal2017_GBC_20498.pdf:PD
+  \verb F
+  \endverb
+  \field{journaltitle}{Global Biogeochemical Cycles}
+  \field{year}{2017}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Landschuetzer2014}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Landsch{\"u}tzer}{L.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gruber}{G.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bakker}{B.}%
+     {D.~C.~E.}{D.~C.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schuster}{S.}%
+     {U.}{U.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley-Blackwell}%
+  }
+  \strng{namehash}{LP+1}
+  \strng{fullhash}{LPGNBDCESU1}
+  \field{labelyear}{2014}
+  \field{sortinit}{L}
+  \verb{doi}
+  \verb 10.1002/2014gb004853
+  \endverb
+  \field{number}{9}
+  \field{pages}{927\bibrangedash 949}
+  \field{title}{Recent variability of the global ocean carbon sink}
+  \field{volume}{28}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Landschuetzer_etal2014_GBC.pdf:PDF
+  \endverb
+  \field{journaltitle}{Global Biogeochemical Cycles}
+  \field{year}{2014}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{landschuetzer2015}{article}{}
@@ -674,7 +2953,7 @@
     {American Association for the Advancement of Science}%
   }
   \keyw{rank4}
-  \strng{namehash}{LP+1}
+  \strng{namehash}{LP+2}
   \strng{fullhash}{LPGNHFARCBDCEHSvHMMNSCTTTBWR1}
   \field{labelyear}{2015}
   \field{sortinit}{L}
@@ -711,9 +2990,6 @@
   \field{number}{6253}
   \field{pages}{1221\bibrangedash 1224}
   \field{title}{The reinvigoration of the Southern Ocean carbon sink}
-  \verb{url}
-  \verb http://science.sciencemag.org/content/349/6253/1221
-  \endverb
   \field{volume}{349}
   \verb{file}
   \verb :home/mpim/m300524/MSc_Thesis/Paper/Landschuetzer_etal2015_Science_rein
@@ -721,6 +2997,155 @@
   \endverb
   \field{journaltitle}{Science}
   \field{year}{2015}
+\endentry
+
+\entry{Lauderdale2013}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Lauderdale}{L.}%
+     {Jonathan~M.}{J.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Garabato}{G.}%
+     {Alberto C.~Naveira}{A.~C.~N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Oliver}{O.}%
+     {Kevin I.~C.}{K.~I.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Follows}{F.}%
+     {Michael~J.}{M.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Williams}{W.}%
+     {Richard~G.}{R.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{rank3}
+  \strng{namehash}{LJM+1}
+  \strng{fullhash}{LJMGACNOKICFMJWRG1}
+  \field{labelyear}{2013}
+  \field{sortinit}{L}
+  \field{abstract}{%
+  The effect of idealized wind-driven circulation changes in the Southern Ocean
+  on atmospheric CO2 and the ocean carbon inventory is investigated using a
+  suite of coarse-resolution, global coupled ocean circulation and
+  biogeochemistry experiments with parameterized eddy activity and only modest
+  changes in surface buoyancy forcing, each experiment integrated for
+  5,000 years. A positive correlation is obtained between the meridional
+  overturning or residual circulation in the Southern Ocean and atmospheric
+  CO2: stronger or northward-shifted westerly winds in the Southern Hemisphere
+  result in increased residual circulation, greater upwelling of carbon-rich
+  deep waters and oceanic outgassing, which increases atmospheric pCO2 by
+  ∼20 $\mu$atm; weaker or southward-shifted winds lead to the opposing
+  result. The ocean carbon inventory in our model varies through contrasting
+  changes in the saturated, disequilibrium and biogenic (soft-tissue and
+  carbonate) reservoirs, each varying by O(10--100) PgC, all of which
+  contribute to the net anomaly in atmospheric CO2. Increased residual
+  overturning deepens the global pycnocline, warming the upper ocean and
+  decreasing the saturated carbon reservoir. Increased upwelling of carbon- and
+  nutrient-rich deep waters and inefficient biological activity results in
+  subduction of unutilized nutrients into the ocean interior, decreasing the
+  biogenic carbon reservoir of intermediate and mode waters ventilating the
+  Northern Hemisphere, and making the disequilibrium carbon reservoir more
+  positive in the mode waters due to the reduced residence time at the surface.
+  Wind-induced changes in the model carbon inventory are dominated by the
+  response of the global pycnocline, although there is an additional abyssal
+  response when the peak westerly winds change their latitude, altering their
+  proximity to Drake Passage and changing the depth extent of the southward
+  return flow of the overturning: a northward shift of the westerly winds
+  isolates dense isopycnals, allowing biogenic carbon to accumulate in the deep
+  ocean of the Southern Hemisphere, while a southward shift shoals dense
+  isopycnals that outcrop in the Southern Ocean and reduces the biogenic carbon
+  store in the deep ocean.%
+  }
+  \verb{doi}
+  \verb 10.1007/s00382-012-1650-3
+  \endverb
+  \field{issn}{1432-0894}
+  \field{number}{7}
+  \field{pages}{2145\bibrangedash 2164}
+  \field{title}{Wind-driven changes in Southern Ocean residual circulation,
+  ocean carbon reservoirs and atmospheric CO2}
+  \field{volume}{41}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Lauderdale_etal2013_ClimDyn.pdf:PDF
+  \endverb
+  \field{journaltitle}{Climate Dynamics}
+  \field{year}{2013}
+\endentry
+
+\entry{Lauderdale2016}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Lauderdale}{L.}%
+     {Jonathan~M.}{J.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Williams}{W.}%
+     {Richard~G.}{R.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Munday}{M.}%
+     {David~R.}{D.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Marshall}{M.}%
+     {David~P.}{D.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer Science $\mathplus$ Business Media}%
+  }
+  \keyw{SouternOcean, rank3}
+  \strng{namehash}{LJM+1}
+  \strng{fullhash}{LJMWRGMDRMDP1}
+  \field{labelyear}{2016}
+  \field{sortinit}{L}
+  \field{abstract}{%
+  The Southern Ocean plays a pivotal role in cli- mate change by exchanging
+  heat and carbon, and provides the primary window for the global deep ocean to
+  commu- nicate with the atmosphere. There has been a widespread focus on
+  explaining atmospheric CO2 changes in terms of changes in wind forcing in the
+  Southern Ocean. Here, we develop a dynamically-motivated metric, the residual
+  upwelling, that measures the primary effect of Southern Ocean dynamics on
+  atmospheric CO2 on centennial to millennial timescales by determining the
+  communication with the deep ocean. The metric encapsulates the com- bined,
+  net effect of winds and air–sea buoyancy forcing on both the upper and
+  lower overturning cells, which have been invoked as explaining atmospheric
+  CO2 changes for the present day and glacial-interglacial changes. The skill
+  of the metric is assessed by employing suites of idealized ocean model
+  experiments, including parameterized and explicitly simulated eddies, with
+  online biogeochemistry and integrated for 10,000 years to equilibrium.
+  Increased residual upwelling drives elevated atmospheric CO2 a a rate of
+  typically 1–1.5 parts per million/106 m3 s−1 by enhancing the
+  communication between the atmosphere and deep ocean. This metric can be used
+  to interpret the long- term effect of Southern Ocean dynamics on the natural
+  car- bon cycle and atmospheric CO2, alongside other metrics, such as
+  involving the proportion of preformed nutrients and the extent of sea ice
+  cover.%
+  }
+  \verb{doi}
+  \verb 10.1007/s00382-016-3163-y
+  \endverb
+  \field{title}{The impact of Southern Ocean residual upwelling on atmospheric
+  {CO}2 on centennial and millennial timescales}
+  \verb{file}
+  \verb :Lauderdale_et_al-2016-ClimDyn.pdf:PDF
+  \endverb
+  \field{journaltitle}{Clim Dyn}
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{LeQuere2007}{article}{}
@@ -790,7 +3215,7 @@
     {American Association for the Advancement of Science}%
   }
   \keyw{rank4}
-  \strng{namehash}{LQC+1}
+  \strng{namehash}{LQC+2}
   \strng{fullhash}{LQCRCBETCTJLRGALCRMNTMNGNHM1}
   \field{labelyear}{2007}
   \field{sortinit}{L}
@@ -814,11 +3239,8 @@
   \field{issn}{0036-8075}
   \field{number}{5832}
   \field{pages}{1735\bibrangedash 1738}
-  \field{title}{Saturation of the Southern Ocean CO2 Sink Due to Recent Climate
-  Change}
-  \verb{url}
-  \verb http://science.sciencemag.org/content/316/5832/1735
-  \endverb
+  \field{title}{Saturation of the Southern Ocean CO$_2$ Sink Due to Recent
+  Climate Change}
   \field{volume}{316}
   \verb{file}
   \verb :home/mpim/m300524/MSc_Thesis/Paper/LeQuere_etal2007_Science_saturation
@@ -826,6 +3248,366 @@
   \endverb
   \field{journaltitle}{Science}
   \field{year}{2007}
+\endentry
+
+\entry{Quere2016}{article}{}
+  \name{author}{67}{}{%
+    {{}%
+     {Le~Qu{\'{e}}r{\'{e}}}{L.~Q.}%
+     {Corinne}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Andrew}{A.}%
+     {Robbie~M.}{R.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Canadell}{C.}%
+     {Josep~G.}{J.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sitch}{S.}%
+     {Stephen}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Korsbakken}{K.}%
+     {Jan~Ivar}{J.~I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Peters}{P.}%
+     {Glen~P.}{G.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Manning}{M.}%
+     {Andrew~C.}{A.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Boden}{B.}%
+     {Thomas~A.}{T.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tans}{T.}%
+     {Pieter~P.}{P.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Houghton}{H.}%
+     {Richard~A.}{R.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Keeling}{K.}%
+     {Ralph~F.}{R.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Alin}{A.}%
+     {Simone}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Andrews}{A.}%
+     {Oliver~D.}{O.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Anthoni}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Barbero}{B.}%
+     {Leticia}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bopp}{B.}%
+     {Laurent}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chevallier}{C.}%
+     {Fr{\'{e}}d{\'{e}}ric}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chini}{C.}%
+     {Louise~P.}{L.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ciais}{C.}%
+     {Philippe}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Currie}{C.}%
+     {Kim}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Delire}{D.}%
+     {Christine}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Doney}{D.}%
+     {Scott~C.}{S.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Friedlingstein}{F.}%
+     {Pierre}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gkritzalis}{G.}%
+     {Thanos}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Harris}{H.}%
+     {Ian}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hauck}{H.}%
+     {Judith}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haverd}{H.}%
+     {Vanessa}{V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hoppema}{H.}%
+     {Mario}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Goldewijk}{G.}%
+     {Kees~Klein}{K.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jain}{J.}%
+     {Atul~K.}{A.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kato}{K.}%
+     {Etsushi}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {K{\"o}rtzinger}{K.}%
+     {Arne}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Landsch{\"u}tzer}{L.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lef{\`{e}}vre}{L.}%
+     {Nathalie}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lenton}{L.}%
+     {Andrew}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lienert}{L.}%
+     {Sebastian}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lombardozzi}{L.}%
+     {Danica}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Melton}{M.}%
+     {Joe~R.}{J.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Metzl}{M.}%
+     {Nicolas}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Millero}{M.}%
+     {Frank}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Monteiro}{M.}%
+     {Pedro M.~S.}{P.~M.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Munro}{M.}%
+     {David~R.}{D.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nabel}{N.}%
+     {Julia E. M.~S.}{J.~E. M.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nakaoka}{N.}%
+     {Shinichiro}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {O'Brien}{O.}%
+     {Kevin}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Olsen}{O.}%
+     {Are}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Omar}{O.}%
+     {Abdirahman~M.}{A.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ono}{O.}%
+     {Tsuneo}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pierrot}{P.}%
+     {Denis}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Poulter}{P.}%
+     {Benjamin}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {R{\"o}denbeck}{R.}%
+     {Christian}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Salisbury}{S.}%
+     {Joe}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schuster}{S.}%
+     {Ute}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schwinger}{S.}%
+     {Jörg}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {S{\'{e}}f{\'{e}}rian}{S.}%
+     {Roland}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Skjelvan}{S.}%
+     {Ingunn}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stocker}{S.}%
+     {Benjamin~D.}{B.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sutton}{S.}%
+     {Adrienne~J.}{A.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Takahashi}{T.}%
+     {Taro}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tian}{T.}%
+     {Hanqin}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tilbrook}{T.}%
+     {Bronte}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Laan-Luijkx}{L.-L.}%
+     {Ingrid~T.}{I.~T.}%
+     {van~der}{v.~d.}%
+     {}{}}%
+    {{}%
+     {Werf}{W.}%
+     {Guido~R.}{G.~R.}%
+     {van~der}{v.~d.}%
+     {}{}}%
+    {{}%
+     {Viovy}{V.}%
+     {Nicolas}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Walker}{W.}%
+     {Anthony~P.}{A.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wiltshire}{W.}%
+     {Andrew~J.}{A.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zaehle}{Z.}%
+     {Sönke}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Copernicus {GmbH}}%
+  }
+  \strng{namehash}{LQC+1}
+  \strng{fullhash}{LQCARMCJGSSKJIPGPMACBTATPPHRAKRFASAODAPBLBLCFCLPCPCKDCDSCFPGTHIHJHVHMGKKJAKKEKALPLNLALSLDMJRMNMFMPMSMDRNJEMSNSOKOAOAMOTPDPBRCSJSUSJSRSISBDSAJTTTHTBLLITvdWGRvdVNWAPWAJZS1}
+  \field{labelyear}{2016}
+  \field{sortinit}{L}
+  \verb{doi}
+  \verb 10.5194/essd-8-605-2016
+  \endverb
+  \field{number}{2}
+  \field{pages}{605\bibrangedash 649}
+  \field{title}{Global Carbon Budget 2016}
+  \field{volume}{8}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/GlobalCarbonBudget2016paper.pdf:PDF
+  \endverb
+  \field{journaltitle}{Earth System Science Data}
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{Lovenduski2005}{article}{}
@@ -867,75 +3649,12 @@
   \field{number}{L11603}
   \field{title}{Impact of the Southern Annular Mode on Southern Ocean
   circulation and biology}
-  \verb{url}
-  \verb http://onlinelibrary.wiley.com/doi/10.1029/2005GL022727/pdf
-  \endverb
   \field{volume}{32}
   \verb{file}
   \verb :Lovenduski_etal2005_GRL_ImpactSAMonSOBGC_grl19747.pdf:PDF
   \endverb
   \field{journaltitle}{Geophys. Res. Lett.}
   \field{year}{2005}
-\endentry
-
-\entry{Lovenduski2008}{article}{}
-  \name{author}{3}{}{%
-    {{}%
-     {Lovenduski}{L.}%
-     {Nicole~S.}{N.~S.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Gruber}{G.}%
-     {Nicolas}{N.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Doney}{D.}%
-     {Scott~C.}{S.~C.}%
-     {}{}%
-     {}{}}%
-  }
-  \keyw{CarbonSink, SouternOcean, rank3}
-  \strng{namehash}{LNSGNDSC1}
-  \strng{fullhash}{LNSGNDSC1}
-  \field{labelyear}{2008}
-  \field{sortinit}{L}
-  \field{abstract}{%
-  We investigate the multidecadal and decadal trends in the flux of CO2 between
-  the atmosphere and the Southern Ocean using output from hindcast simulations
-  of an ocean circulation model with embedded biogeochemistry. The simulations
-  are run with NCEP-1 forcing under both preindustrial and historical
-  atmospheric CO2 concentrations so that we can separately analyze trends in
-  the natural and anthropogenic CO2 fluxes. We find that the Southern Ocean
-  (<35°S) CO2 sink has weakened by 0.1 Pg C aÀ1 from 1979–2004, relative to
-  the expected sink from rising atmospheric CO2 and fixed physical climate.
-  Although the magnitude of this trend is in agreement with prior studies (Le
-  Quere et al., 2007), its size may not be entirely robust because of
-  uncertainties associated with the trend in the NCEP-1 atmospheric forcing. We
-  attribute the weakening sink to an outgassing trend of natural CO2, driven by
-  enhanced upwelling and equatorward transport of carbon-rich water, which are
-  caused by a trend toward stronger and southward shifted winds over the
-  Southern Ocean (associated with the positive trend in the Southern Annular
-  Mode (SAM)). In contrast, the trend in the anthropogenic CO2 uptake is
-  largely unaffected by the trend in the wind and ocean circulation. We regard
-  this attribution of the trend as robust, and show that surface and interior
-  ocean observations may help to solidify our findings. As coupled climate
-  models consistently show a positive trend in the SAM in the coming century
-  [e.g., Meehl et al., 2007], these mechanistic results are useful for
-  projecting the future behavior of the Southern Ocean carbon sink.%
-  }
-  \verb{doi}
-  \verb 10.1029/2007GB003139
-  \endverb
-  \field{title}{Toward a mechanistic understanding of the decadal trends in the
-  Southern Ocean carbon sink}
-  \field{volume}{22}
-  \verb{file}
-  \verb :Lovenduski_etal-2008-GBC.pdf:PDF
-  \endverb
-  \field{journaltitle}{Global Biogeochem. Cycles}
-  \field{year}{2008}
 \endentry
 
 \entry{Lovenduski2007}{article}{}
@@ -999,12 +3718,8 @@
   \field{issn}{1944-9224}
   \field{note}{GB2026}
   \field{number}{2}
-  \field{pages}{n/a\bibrangedash n/a}
-  \field{title}{Enhanced CO2 outgassing in the Southern Ocean from a positive
-  phase of the Southern Annular Mode}
-  \verb{url}
-  \verb http://dx.doi.org/10.1029/2006GB002900
-  \endverb
+  \field{title}{Enhanced CO$_2$ outgassing in the Southern Ocean from a
+  positive phase of the Southern Annular Mode}
   \field{volume}{21}
   \verb{file}
   \verb :home/mpim/m300524/MSc_Thesis/Paper/Lovenduski_et_al2007_GBC.pdf:PDF
@@ -1013,58 +3728,825 @@
   \field{year}{2007}
 \endentry
 
-\entry{Marshall2012}{article}{}
-  \name{author}{2}{}{%
+\entry{Lovenduski2008}{article}{}
+  \name{author}{3}{}{%
     {{}%
-     {Marshall}{M.}%
-     {John}{J.}%
+     {Lovenduski}{L.}%
+     {Nicole~S.}{N.~S.}%
      {}{}%
      {}{}}%
     {{}%
-     {Speer}{S.}%
-     {Kevin}{K.}%
+     {Gruber}{G.}%
+     {Nicolas}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Doney}{D.}%
+     {Scott~C.}{S.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{CarbonSink, SouternOcean, rank3}
+  \strng{namehash}{LNS+1}
+  \strng{fullhash}{LNSGNDSC1}
+  \field{labelyear}{2008}
+  \field{sortinit}{L}
+  \field{abstract}{%
+  We investigate the multidecadal and decadal trends in the flux of CO2 between
+  the atmosphere and the Southern Ocean using output from hindcast simulations
+  of an ocean circulation model with embedded biogeochemistry. The simulations
+  are run with NCEP-1 forcing under both preindustrial and historical
+  atmospheric CO2 concentrations so that we can separately analyze trends in
+  the natural and anthropogenic CO2 fluxes. We find that the Southern Ocean
+  (<35°S) CO2 sink has weakened by 0.1 Pg C aÀ1 from 1979–2004, relative to
+  the expected sink from rising atmospheric CO2 and fixed physical climate.
+  Although the magnitude of this trend is in agreement with prior studies (Le
+  Quere et al., 2007), its size may not be entirely robust because of
+  uncertainties associated with the trend in the NCEP-1 atmospheric forcing. We
+  attribute the weakening sink to an outgassing trend of natural CO2, driven by
+  enhanced upwelling and equatorward transport of carbon-rich water, which are
+  caused by a trend toward stronger and southward shifted winds over the
+  Southern Ocean (associated with the positive trend in the Southern Annular
+  Mode (SAM)). In contrast, the trend in the anthropogenic CO2 uptake is
+  largely unaffected by the trend in the wind and ocean circulation. We regard
+  this attribution of the trend as robust, and show that surface and interior
+  ocean observations may help to solidify our findings. As coupled climate
+  models consistently show a positive trend in the SAM in the coming century
+  [e.g., Meehl et al., 2007], these mechanistic results are useful for
+  projecting the future behavior of the Southern Ocean carbon sink.%
+  }
+  \verb{doi}
+  \verb 10.1029/2007GB003139
+  \endverb
+  \field{title}{Toward a mechanistic understanding of the decadal trends in the
+  Southern Ocean carbon sink}
+  \field{volume}{22}
+  \verb{file}
+  \verb :Lovenduski_etal-2008-GBC.pdf:PDF
+  \endverb
+  \field{journaltitle}{Global Biogeochem. Cycles}
+  \field{year}{2008}
+\endentry
+
+\entry{Lovenduski2013}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Lovenduski}{L.}%
+     {Nicole~S.}{N.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Long}{L.}%
+     {Matthew~C.}{M.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gent}{G.}%
+     {Peter~R.}{P.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lindsay}{L.}%
+     {Keith}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LNS+1}
+  \strng{fullhash}{LNSLMCGPRLK1}
+  \field{labelyear}{2013}
+  \field{sortinit}{L}
+  \verb{doi}
+  \verb 10.1029/2012GL054483
+  \endverb
+  \field{title}{Multi-decadal trends in the advection and mixing of natural
+  carbon in the Southern Ocean}
+  \field{volume}{40}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Lovenduski_etal2013_GRL_SO_mixing_a
+  \verb dvection.pdf:PDF
+  \endverb
+  \field{journaltitle}{Geophys. Res. Lett.}
+  \field{year}{2013}
+\endentry
+
+\entry{Lovenduski2015}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Lovenduski}{L.}%
+     {Nicole~S.}{N.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fay}{F.}%
+     {Amanda~R.}{A.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McKinley}{M.}%
+     {Galen~A.}{G.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley-Blackwell}%
+  }
+  \keyw{SouternOcean, rank3}
+  \strng{namehash}{LNS+1}
+  \strng{fullhash}{LNSFARMGA1}
+  \field{labelyear}{2015}
+  \field{sortinit}{L}
+  \field{abstract}{%
+  We use output from a hindcast simulation (1958–2007) of an ocean
+  biogeochemical and ecological model to inform an observational strategy for
+  detection of a weakening Southern Ocean CO2 sink from surface ocean pCO2
+  data. Particular emphasis is placed on resolving disparate conclusions about
+  the Southern Ocean CO2 sink that have been drawn from surface ocean pCO2
+  observation studies in the past. We find that long-term trends in ΔpCO2
+  (pCOoc − pCOatm ) can be used as a proxy for changes in the strength of the
+  CO2 sink but must be interpreted with caution, as they are calculated from
+  small differences in the oceanic and atmospheric pCO2 trends. Large
+  interannual, decadal, and multidecadal variability in ΔpCO2 persists
+  throughout the simulation, suggesting that one must consider a range of start
+  and end years for trend analysis before drawing conclusions about changes in
+  the CO2 sink. Winter-mean CO2 flux trends are statistically indistinguishable
+  from annual-mean trends, arguing for inclusion of all available pCOoc data in
+  future analyses of the CO2 sink. The weakening of the CO2 sink emerges during
+  the observed period of our simulation (1981–2007) in the subpolar
+  seasonally stratified biome (4◦ C < average climatological temperature <
+  9◦ C); the weakening is most evident during periods with positive trends in
+  the Southern Annular Mode. With perfect temporal and spatial coverage, 13
+  years of pCOoc data would be required to detect a weakening CO2 sink in this
+  biome. Given available data, it is not yet possible to detect a weakening of
+  the Southern Ocean CO2 sink with much certainty, due to imperfect data
+  coverage and high variability in Southern Ocean surface pCO2 .%
+  }
+  \verb{doi}
+  \verb 10.1002/2014gb004933
+  \endverb
+  \field{number}{4}
+  \field{pages}{416\bibrangedash 426}
+  \field{title}{Observing multidecadal trends in Southern Ocean {CO}2 uptake:
+  What can we learn from an ocean model?}
+  \field{volume}{29}
+  \verb{file}
+  \verb :Lovenduski_etal-2015-GBC.pdf:PDF
+  \endverb
+  \field{journaltitle}{Global Biogeochem. Cycles}
+  \field{year}{2015}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Lovenduski2016}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Lovenduski}{L.}%
+     {Nicole~S.}{N.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McKinley}{M.}%
+     {Galen~A.}{G.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fay}{F.}%
+     {Amanda~R.}{A.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lindsay}{L.}%
+     {Keith}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Long}{L.}%
+     {Matthew~C.}{M.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley-Blackwell}%
+  }
+  \strng{namehash}{LNS+1}
+  \strng{fullhash}{LNSMGAFARLKLMC1}
+  \field{labelyear}{2016}
+  \field{sortinit}{L}
+  \verb{doi}
+  \verb 10.1002/2016gb005426
+  \endverb
+  \field{number}{9}
+  \field{pages}{1276\bibrangedash 1287}
+  \field{title}{Partitioning uncertainty in ocean carbon uptake projections:
+  Internal variability, emission scenario, and model structure}
+  \field{volume}{30}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Lovenduski_etal2016_IntVar_CESM_Oce
+  \verb an_Carbon_Uptake.pdf:PDF
+  \endverb
+  \field{journaltitle}{Global Biogeochemical Cycles}
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Lozier2011}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Lozier}{L.}%
+     {M.~Susan}{M.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dave}{D.}%
+     {Apurva~C.}{A.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Palter}{P.}%
+     {Jaime~B.}{J.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gerber}{G.}%
+     {Lisa~M.}{L.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Barber}{B.}%
+     {Richard~T.}{R.~T.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Physical and biogeochemical interactions; ocean color; oceanography;
+  primary productivity; stratification}
+  \strng{namehash}{LMS+1}
+  \strng{fullhash}{LMSDACPJBGLMBRT1}
+  \field{labelyear}{2011}
+  \field{sortinit}{L}
+  \field{abstract}{%
+  Recent observational studies linking variability in global ocean productivity
+  with upper ocean warming are based on the paradigm that warming produces a
+  more stable water column which, in turn, inhibits primary productivity for a
+  large fraction of the global ocean, namely the tropics and subtropics. Though
+  seemingly straightforward, this paradigm relies on the assumption that an
+  increase in the stratification of the upper ocean water column decreases the
+  vertical mixing or overturning of the surface waters such that the supply of
+  nutrients to the euphotic zone is reduced, and so too the primary
+  productivity. Here we show, using observational data in the North Atlantic
+  subtropical gyre, that while upper ocean stratification and primary
+  productivity are strongly linked on seasonal time scales, they have at most a
+  weak correlative relationship on interannual time scales over the modern
+  observational record. We suggest that interannual variability in ocean
+  biomass and primary productivity depends on a host of variables that are not
+  easily predicted from the expected temperature response to climate
+  variability and change. These variables include the strength of local and
+  remote wind and buoyancy forcing and the surface or subsurface advective
+  supply of nutrients.%
+  }
+  \verb{doi}
+  \verb 10.1029/2011GL049414
+  \endverb
+  \field{issn}{1944-8007}
+  \field{note}{L18609}
+  \field{number}{18}
+  \field{pages}{n/a\bibrangedash n/a}
+  \field{title}{{On the relationship between stratification and primary
+  productivity in the North Atlantic}}
+  \field{volume}{38}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Lozier_2011.pdf:PDF
+  \endverb
+  \field{journaltitle}{Geophysical Research Letters}
+  \field{year}{2011}
+\endentry
+
+\entry{Maier-Reimer1984}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Maier-Reimer}{M.-R.}%
+     {Ernst}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MRE1}
+  \strng{fullhash}{MRE1}
+  \field{labelyear}{1984}
+  \field{sortinit}{M}
+  \field{pages}{295\bibrangedash 310}
+  \field{title}{TToward a Global Ocean Carbon Model}
+  \field{volume}{3}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Maier-Reimer_1984.pdf:PDF
+  \endverb
+  \field{journaltitle}{Progress in Biometeorology}
+  \field{year}{1984}
+\endentry
+
+\entry{MaierReimer1993}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Maier-Reimer}{M.-R.}%
+     {Ernst}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MRE1}
+  \strng{fullhash}{MRE1}
+  \field{labelyear}{1993}
+  \field{sortinit}{M}
+  \field{number}{3}
+  \field{pages}{645\bibrangedash 677}
+  \field{title}{Geochemical Cycles in an Ocean General Circulaton Model
+  Preindustrial Tracer Distributions}
+  \field{volume}{7}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Maier-Reimer_1993.pdf:PDF
+  \endverb
+  \field{journaltitle}{Global Biogeochem. Cycles}
+  \field{year}{1993}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Mann1945}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mann}{M.}%
+     {H.~B.}{H.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MHB1}
+  \strng{fullhash}{MHB1}
+  \field{labelyear}{1945}
+  \field{sortinit}{M}
+  \field{pages}{163\bibrangedash 171}
+  \field{title}{Non-parametric tests against trend}
+  \field{volume}{13}
+  \field{journaltitle}{Econometrica}
+  \field{year}{1945}
+\endentry
+
+\entry{Marotzke2017}{article}{}
+  \name{author}{13}{}{%
+    {{}%
+     {Marotzke}{M.}%
+     {Jochem}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jakob}{J.}%
+     {Christian}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bony}{B.}%
+     {Sandrine}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dirmeyer}{D.}%
+     {Paul~A.}{P.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {O'Gorman}{O.}%
+     {Paul~A.}{P.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hawkins}{H.}%
+     {Ed}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Perkins-Kirkpatrick}{P.-K.}%
+     {Sarah}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Qu{\'e}r{\'e}}{Q.}%
+     {Corinne~Le}{C.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nowicki}{N.}%
+     {Sophie}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Paulavets}{P.}%
+     {Katsia}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Seneviratne}{S.}%
+     {Sonia~I.}{S.~I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stevens}{S.}%
+     {Bjorn}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tuma}{T.}%
+     {Matthias}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MJ+1}
+  \strng{fullhash}{MJJCBSDPAOPAHEPKSQCLNSPKSSISBTM1}
+  \field{labelyear}{2017}
+  \field{sortinit}{M}
+  \field{pages}{89\bibrangedash 91}
+  \field{title}{Climate research must sharpen its view}
+  \field{volume}{7}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Marotzke_etal2017_nclimate3206.pdf:
+  \verb PDF
+  \endverb
+  \field{journaltitle}{Nature Climate Change}
+  \field{year}{2017}
+\endentry
+
+\entry{Marshall2003}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Marshall}{M.}%
+     {Gareth~J.}{G.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MGJ1}
+  \strng{fullhash}{MGJ1}
+  \field{labelyear}{2003}
+  \field{sortinit}{M}
+  \field{abstract}{%
+  Abstract Several papers have described a significant trend toward the
+  positive phase of the Southern Hemisphere annular mode (SAM) in recent
+  decades. The SAM is the dominant mode of atmospheric variability in the
+  Southern Hemisphere (SH) so such a change implies a major shift in the
+  broadscale climate of this hemisphere. However, the majority of these studies
+  have used NCEP–NCAR reanalysis (NNR) data, which are known to have spurious
+  negative trends in SH high-latitude pressure. Thus, given that the SAM
+  describes the relative atmospheric anomalies at mid- and high southern
+  latitudes, these errors in the NNR data have the potential to invalidate the
+  published findings on changes in the SAM. Therefore, it is important that a
+  “true” benchmark of trends in the SAM is available against which future
+  climate scenarios as revealed through climate models can be examined. In this
+  paper this issue is addressed by employing an empirical definition of the SAM
+  so that station data can be utilized to evaluate true temporal changes: six
+  stations are used to calculate a proxy zonal mean sea level pressure (MSLP)
+  at both 40° and 65°S during 1958–2000. The observed increase in the
+  difference in zonal MSLP between 40° (increasing) and 65°S (decreasing) is
+  shown to be statistically significant, with the trend being most pronounced
+  since the mid-1970s. However, it is demonstrated that calculated trends in
+  the MSLP difference between 40° and 65°S and the SAM itself are exaggerated
+  by a factor of 3 and 2, respectively, in the NNR. The SH high-latitude errors
+  in the early part of this reanalysis are greatest in winter as are subsequent
+  improvements. As a result, the NNR shows the greatest seasonal trend in the
+  SAM to be in the austral winter, in marked contrast to observational data,
+  which reveal the largest real increase to be in summer. Equivalent data from
+  two ECMWF reanalyses, including part of the new ERA-40 reanalysis, are also
+  examined. It is demonstrated that ERA-40 provides an improved representation
+  of SH high-latitude atmospheric circulation variability that can be used with
+  high confidence at least as far back as 1973—and is therefore ideal for
+  examining the recent trend in the SAM—and with more confidence than the NNR
+  right back to 1958.%
+  }
+  \verb{doi}
+  \verb 10.1175/1520-0442(2003)016<4134:TITSAM>2.0.CO;2
+  \endverb
+  \verb{eprint}
+  \verb http://dx.doi.org/10.1175/1520-0442(2003)016<4134:TITSAM>2.0.CO;2
+  \endverb
+  \field{number}{24}
+  \field{pages}{4134\bibrangedash 4143}
+  \field{title}{Trends in the Southern Annular Mode from Observations and
+  Reanalyses}
+  \field{volume}{16}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Marshall_2003_JoC_SAM_trends.pdf:PD
+  \verb F
+  \endverb
+  \field{journaltitle}{Journal of Climate}
+  \field{year}{2003}
+\endentry
+
+\entry{Marsland2003}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Marsland}{M.}%
+     {S.J.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haak}{H.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jungclaus}{J.}%
+     {J.H.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Latif}{L.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Röske}{R.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{General circulation, rank2}
+  \strng{namehash}{MS+1}
+  \strng{fullhash}{MSHHJJLMRF1}
+  \field{labelyear}{2003}
+  \field{sortinit}{M}
+  \field{abstract}{%
+  The Hamburg Ocean Primitive Equation model has undergone significant
+  development in recent years. Most notable is the treatment of horizontal
+  discretisation which has undergone transition from a staggered E-grid to an
+  orthogonal curvilinear C-grid. The treatment of subgridscale mixing has been
+  improved by the inclusion of a new formulation of bottom boundary layer (BBL)
+  slope convection, an isopycnal diffusion scheme, and a Gent and McWilliams
+  style eddy-induced mixing parameterisation. The model setup described here
+  has a north pole over Greenland and a south pole on the coast of the Weddell
+  Sea. This gives relatively high resolution in the sinking regions associated
+  with the thermohaline circulation. Results are presented from a 450 year
+  climatologically forced integration. The forcing is a product of the German
+  Ocean Model Intercomparison Project and is derived from the European Centre
+  for Medium Range Weather Forecasting reanalysis. The main emphasis is on the
+  model’s representation of key quantities that are easily associated with
+  the ocean’s role in the global climate system. The global and Atlantic
+  northward poleward heat transports have peaks of 1.43 and 0.84 PW, at 18°
+  and 21° N respectively. The Atlantic meridional overturning streamfunction
+  has a peak of 15.7 Sv in the North Atlantic and an outflow of 11.9 Sv at 30°
+  S. Comparison with a simulation excluding \{BBL\} shows that the scheme is
+  responsible for up to a 25\% increase in North Atlantic heat transport, with
+  significant improvement of the depths of convection in the Greenland,
+  Labrador and Irminger Seas. Despite the improvements, comparison with
+  observations shows the heat transport still to be too weak. Other outstanding
+  problems include an incorrect Gulf Stream pathway, a too strong Antarctic
+  Circumpolar Current, and a too weak renewal of Antarctic Intermediate Water.
+  Nevertheless, the model has been coupled to the atmospheric \{GCM\}
+  \{ECHAM5\} and run successfully for over 250 years without any surface flux
+  corrections.%
+  }
+  \verb{doi}
+  \verb http://dx.doi.org/10.1016/S1463-5003(02)00015-X
+  \endverb
+  \field{issn}{1463-5003}
+  \field{number}{2}
+  \field{pages}{91 \bibrangedash  127}
+  \field{title}{The Max-Planck-Institute global ocean/sea ice model with
+  orthogonal curvilinear coordinates}
+  \field{volume}{5}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Marsland_etal2003_OceanModel_MPIOM.
+  \verb pdf:PDF
+  \endverb
+  \field{journaltitle}{Ocean Modelling}
+  \field{year}{2003}
+\endentry
+
+\entry{Martin1990}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Martin}{M.}%
+     {John~H.}{J.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Sedimentary petrology; 3670; 4267; Geochemistry; Cenozoic}
+  \strng{namehash}{MJH1}
+  \strng{fullhash}{MJH1}
+  \field{labelyear}{1990}
+  \field{sortinit}{M}
+  \field{abstract}{%
+  Several explanations for the 200 to 280 ppm glacial/interglacial change in
+  atmospheric CO2 concentrations deal with variations in southern ocean
+  phytoplankton productivity and the related use or nonuse of major plant
+  nutrients. An hypothesis is presented herein in which arguments are made that
+  new productivity in today's southern ocean (7.4 × 1013g yr−1) is limited
+  by iron deficiency, and hence the phytoplankton are unable to take advantage
+  of the excess surface nitrate/phosphate that, if used, could result in total
+  southern ocean new production of 2−3 × 1015 g C yr−1. As a consequence
+  of Fe-limited new productivity, Holocene interglacial CO2 levels
+  (preindustrial) are as high as they were during the last interglacial (≈
+  280 ppm). In contrast, atmospheric dust Fe supplies were 50 times higher
+  during the last glacial maximum (LGM). Because of this Fe enrichment,
+  phytoplankton growth may have been greatly enhanced, larger amounts of
+  upwelled nutrients may have been used, and the resulting stimulation of new
+  productivity may have contributed to the LGM drawdown of atmospheric CO2 to
+  levels of less than 200 ppm. Background information and arguments in support
+  of this hypothesis are presented.%
+  }
+  \verb{doi}
+  \verb 10.1029/PA005i001p00001
+  \endverb
+  \field{issn}{1944-9186}
+  \field{number}{1}
+  \field{pages}{1\bibrangedash 13}
+  \field{title}{{Glacial-interglacial CO2 change: The Iron Hypothesis}}
+  \field{volume}{5}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Martin_1990_iron_hypothesis_palo165
+  \verb .pdf:PDF
+  \endverb
+  \field{journaltitle}{Paleoceanography}
+  \field{year}{1990}
+\endentry
+
+\entry{Martin1990Nature}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Martin}{M.}%
+     {John~H.}{J.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gordon}{G.}%
+     {R.~Michael}{R.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fitzwater}{F.}%
+     {Steve~E.}{S.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MJH+1}
+  \strng{fullhash}{MJHGRMFSE1}
+  \field{labelyear}{1990}
+  \field{sortinit}{M}
+  \verb{doi}
+  \verb 10.1038/345156a0
+  \endverb
+  \field{pages}{156\bibrangedash 158}
+  \field{title}{Iron in Antarctic waters}
+  \field{volume}{345}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Martin_etal1990_Nature_iron.pdf:PDF
+  \endverb
+  \field{journaltitle}{Nature}
+  \field{year}{1990}
+\endentry
+
+\entry{McKinley2016}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {McKinley}{M.}%
+     {Galen~A.}{G.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pilcher}{P.}%
+     {Darren~J.}{D.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fay}{F.}%
+     {Amanda~R.}{A.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lindsay}{L.}%
+     {Keith}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Long}{L.}%
+     {Matthew~C.}{M.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lovenduski}{L.}%
+     {Nicole~S.}{N.~S.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
     {Nature Publishing Group}%
   }
-  \keyw{rank2, CarbonSink, SouternOcean}
-  \strng{namehash}{MJSK1}
-  \strng{fullhash}{MJSK1}
-  \field{labelyear}{2012}
+  \keyw{rank3, CarbonSink}
+  \strng{namehash}{MGA+1}
+  \strng{fullhash}{MGAPDJFARLKLMCLNS1}
+  \field{labelyear}{2016}
   \field{sortinit}{M}
   \field{abstract}{%
-  The meridional overturning circulation of the ocean plays a central role in
-  climate and climate variability by storing and transporting heat, fresh water
-  and carbon around the globe. Historically, the focus of research has been on
-  the North Atlantic Basin, a primary site where water sinks from the surface
-  to depth, triggered by loss of heat, and therefore buoyancy, to the
-  atmosphere. A key part of the overturning puzzle, however, is the return path
-  from the interior ocean to the surface through upwelling in the Southern
-  Ocean. This return path is largely driven by winds. It has become clear over
-  the past few years that the importance of Southern Ocean upwelling for our
-  understanding of climate rivals that of North Atlantic downwelling, because
-  it controls the rate at which ocean reservoirs of heat and carbon communicate
-  with the surface.%
+  The ocean has absorbed 41 per cent of all anthropogenic carbon emitted as a
+  result of fossil fuel burning and cement manufacture. The magnitude and the
+  large-scale distribution of the ocean carbon sink is well quantified for
+  recent decades. In contrast, temporal changes in the oceanic carbon sink
+  remain poorly understood. It has proved difficult to distinguish between
+  air-to-sea carbon flux trends that are due to anthropogenic climate change
+  and those due to internal climate variability. Here we use a modelling
+  approach that allows for this separation, revealing how the ocean carbon sink
+  may be expected to change throughout this century in different oceanic
+  regions. Our findings suggest that, owing to large internal climate
+  variability, it is unlikely that changes in the rate of anthropogenic carbon
+  uptake can be directly observed in most oceanic regions at present, but that
+  this may become possible between 2020 and 2050 in some regions.%
   }
   \verb{doi}
-  \verb 10.1038/ngeo1391
+  \verb 10.1038/nature16958
   \endverb
-  \field{number}{3}
-  \field{pages}{171\bibrangedash 180}
-  \field{title}{Closure of the meridional overturning circulation through
-  Southern Ocean upwelling}
-  \verb{url}
-  \verb http://dx.doi.org/10.1038/NGEO1391
-  \endverb
-  \field{volume}{5}
+  \field{number}{7591}
+  \field{pages}{469\bibrangedash 472}
+  \field{title}{Timescales for detection of trends in the ocean carbon sink}
+  \field{volume}{530}
   \verb{file}
-  \verb :MarshallSpeer_2012_NGeo_SOupwelling_ngeo1391.pdf:PDF
+  \verb :McKinley_etal2016_nature16958.pdf:PDF
   \endverb
-  \field{journaltitle}{Nature Geoscience}
-  \field{year}{2012}
+  \field{journaltitle}{Nature}
+  \field{year}{2016}
   \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{MichaelisMenten1913}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Michaelis}{M.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Menten}{M.}%
+     {M.~L.}{M.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MLMML1}
+  \strng{fullhash}{MLMML1}
+  \field{labelyear}{1913}
+  \field{sortinit}{M}
+  \field{pages}{333\bibrangedash 369}
+  \field{title}{Die Kinetik der Invertinwirking}
+  \field{volume}{49}
+  \field{journaltitle}{Biochem. Z.}
+  \field{year}{1913}
+\endentry
+
+\entry{Monterey1997}{report}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Monterey}{M.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Levitus}{L.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MGLS1}
+  \strng{fullhash}{MGLS1}
+  \field{labelyear}{1997}
+  \field{sortinit}{M}
+  \field{title}{Seasonal Variability of the Mixeed Layer Depth for the World
+  Ocean}
+  \list{institution}{1}{%
+    {NOAA Atlas NESDIS 14}%
+  }
+  \field{type}{resreport}
+  \field{year}{1997}
+\endentry
+
+\entry{Mood1974}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Mood}{M.}%
+     {A.~M.}{A.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Graybill}{G.}%
+     {F.~A.}{F.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Boes}{B.}%
+     {D.~C.}{D.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {McGraw-Hill}%
+  }
+  \strng{namehash}{MAM+1}
+  \strng{fullhash}{MAMGFABDC1}
+  \field{labelyear}{1974}
+  \field{sortinit}{M}
+  \field{title}{Introduction to the Theory of Statistics}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Resources/Books/Introduction_Statistics.p
+  \verb df:PDF
+  \endverb
+  \field{year}{1974}
 \endentry
 
 \entry{Nevison2016}{article}{}
@@ -1156,9 +4638,6 @@
   \field{title}{Evaluating {CMIP}5 ocean biogeochemistry and Southern Ocean
   carbon uptake using atmospheric potential oxygen: Present-day performance and
   future projection}
-  \verb{url}
-  \verb http://dx.doi.org/10.1002/2015GL067584
-  \endverb
   \field{volume}{43}
   \verb{file}
   \verb :Nevison_etal2016_GRL_CMIP5_SOuthern_Ocean.pdf:PDF
@@ -1168,123 +4647,693 @@
   \warn{\item Invalid format of field 'month'}
 \endentry
 
-\entry{Sabine2004}{article}{}
-  \name{author}{15}{}{%
+\entry{Orsi1995}{article}{}
+  \name{author}{3}{}{%
     {{}%
-     {Sabine}{S.}%
-     {Christopher~L.}{C.~L.}%
+     {Orsi}{O.}%
+     {Alejandro~H.}{A.~H.}%
      {}{}%
      {}{}}%
     {{}%
-     {Feely}{F.}%
-     {Richard~A.}{R.~A.}%
+     {Whitworth}{W.}%
+     {Thomas}{T.}%
      {}{}%
      {}{}}%
     {{}%
-     {Gruber}{G.}%
-     {Nicolas}{N.}%
+     {Nowlin}{N.}%
+     {Worth~D.}{W.~D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{OAH+1}
+  \strng{fullhash}{OAHWTNWD1}
+  \field{labelyear}{1995}
+  \field{sortinit}{O}
+  \field{abstract}{%
+  Large-scale features of the Antarctic Circumpolar Current (ACC) are described
+  using all historical hydrographic data available from the Southern Ocean. The
+  geopotential anomaly of the sea surface relative to 1000 db reveals the
+  highly-sheared eastward flow of the ACC and the strong steering of the
+  current by the ridge system around Antarctica. The near-surface property
+  distributions differentiate the ACC waters from the warmer and saltier waters
+  of the subtropical regimes. The Subtropical Front (STF), interrupted only by
+  South America, marks the northern- most extent of subantarctic waters.
+  Distributions of properties on isopycnal surfaces show an abrupt end to the
+  characteristic signal of the Upper Circumpolar Deep Water (UCDW), as this
+  water mass shoals southward and is entrained into the surface mixed layer.
+  This sharp water mass boundary nearly coincides with the southernmost
+  circumpolar streamline passing through Drake Passage. To its south are the
+  weakly-sheared circulations of the subpolar regime. Inspection of many
+  hydrographic crossings of this transition reveals that the poleward edge of
+  the UCDW signal is a reasonable definition of the southern boundary of the
+  ACC. At Drake Passage, three deep- reaching fronts account for most of the
+  ACC transport. Well-established indicators of the Subantarctic Front and
+  Polar Front are traced unbroken around Antarctica. The third deep- reaching
+  front observed to the south of the Polar Front at Drake Passage also
+  continues with similar characteristics as a circumpolar feature. It is called
+  here the southern ACC front. Stations from multiple synoptic transects of
+  these circumpolar fronts are used to describe the average property structure
+  within each ACC zone. Between the STF and the southern boundary of the ACC,
+  the shear transport of the circumpolar current above 3000 m is at all
+  longitudes about 100 Sv (1 Sv = 10h m3 s-‘) eastward.%
+  }
+  \verb{doi}
+  \verb http://dx.doi.org/10.1016/0967-0637(95)00021-W
+  \endverb
+  \field{issn}{0967-0637}
+  \field{number}{5}
+  \field{pages}{641\bibrangedash 673}
+  \field{title}{On the meridional extent and fronts of the Antarctic
+  Circumpolar Current}
+  \field{volume}{42}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Orsi_etal1995_DSR_fronts.pdf:PDF
+  \endverb
+  \field{journaltitle}{Deep Sea Research Part I: Oceanographic Research Papers}
+  \field{year}{1995}
+\endentry
+
+\entry{Pacanowski1981}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Pacanowski}{P.}%
+     {R.~C.}{R.~C.}%
      {}{}%
      {}{}}%
     {{}%
-     {Key}{K.}%
-     {Robert~M.}{R.~M.}%
+     {Philander}{P.}%
+     {S.~G.~H.}{S.~G.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PRCPSGH1}
+  \strng{fullhash}{PRCPSGH1}
+  \field{labelyear}{1981}
+  \field{sortinit}{P}
+  \field{abstract}{%
+  Abstract Measurements indicate that mixing processes are intense in the
+  surface layers of the ocean but weak below the thermocline, except for the
+  region below the core of the Equatorial Undercurrent where vertical
+  temperature gradients are small and the shear is large. Parameterization of
+  these mixing processes by means of coefficients of eddy mixing that are
+  Richardson-number dependent, leads to realistic simulations of the response
+  of the equatorial oceans to different windstress patterns. In the case of
+  eastward winds results agree well with measurements in the Indian Ocean. In
+  the case of westward winds it is of paramount importance that the nonzero
+  heat flux into the ocean be taken into account. This beat flux stabilizes the
+  upper layers and reduces the intensity of the mixing, especially in the cast.
+  With an appropriate surface boundary condition, the results are relatively
+  insensitive to values assigned to constants in the parameterization formula.%
+  }
+  \verb{doi}
+  \verb 10.1175/1520-0485(1981)011<1443:POVMIN>2.0.CO;2
+  \endverb
+  \verb{eprint}
+  \verb http://dx.doi.org/10.1175/1520-0485(1981)011<1443:POVMIN>2.0.CO;2
+  \endverb
+  \field{number}{11}
+  \field{pages}{1443\bibrangedash 1451}
+  \field{title}{{Parameterization of Vertical Mixing in Numerical Models of
+  Tropical Oceans}}
+  \field{volume}{11}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Pacanowksi_Philander_1981.pdf:PDF
+  \endverb
+  \field{journaltitle}{Journal of Physical Oceanography}
+  \field{year}{1981}
+\endentry
+
+\entry{PlattJassby1976}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Platt}{P.}%
+     {Trevor}{T.}%
      {}{}%
      {}{}}%
     {{}%
-     {Lee}{L.}%
-     {Kitack}{K.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Bullister}{B.}%
-     {John~L.}{J.~L.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Wanninkhof}{W.}%
-     {Rik}{R.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Wong}{W.}%
-     {C.~S.}{C.~S.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Wallace}{W.}%
-     {Douglas W.~R.}{D.~W.~R.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Tilbrook}{T.}%
-     {Bronte}{B.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Millero}{M.}%
-     {Frank~J.}{F.~J.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Peng}{P.}%
-     {Tsung-Hung}{T.-H.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Kozyr}{K.}%
-     {Alexander}{A.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Ono}{O.}%
-     {Tsueno}{T.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Rios}{R.}%
-     {Aida~F.}{A.~F.}%
+     {Jassby}{J.}%
+     {Alan~D.}{A.~D.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {American Association for the Advancement of Science}%
+    {Blackwell Science Inc}%
   }
-  \keyw{rank2}
-  \strng{namehash}{SCL+1}
-  \strng{fullhash}{SCLFRAGNKRMLKBJLWRWCSWDWRTBMFJPTHKAOTRAF1}
-  \field{labelyear}{2004}
-  \field{sortinit}{S}
+  \keyw{assimilation number; cell-size; initial slope; photosynthesis;
+  phytoplankton; primary productivity; respiration}
+  \strng{namehash}{PTJAD1}
+  \strng{fullhash}{PTJAD1}
+  \field{labelyear}{1976}
+  \field{sortinit}{P}
   \field{abstract}{%
-  Using inorganic carbon measurements from an international survey effort in
-  the 1990s and a tracer-based separation technique, we estimate a global
-  oceanic anthropogenic carbon dioxide (CO2) sink for the period from 1800 to
-  1994 of 118 {\textpm} 19 petagrams of carbon. The oceanic sink accounts for
-  \~{}48\% of the total fossil-fuel and cement-manufacturing emissions,
-  implying that the terrestrial biosphere was a net source of CO2 to the
-  atmosphere of about 39 {\textpm} 28 petagrams of carbon for this period. The
-  current fraction of total anthropogenic CO2 emissions stored in the ocean
-  appears to be about one-third of the long-term potential.%
+  In a series of 188 experiments on the, light-saturation curve for natural
+  assemblages of phytoplankton at 3 stations in Nova Scotia coastal waters, it
+  was found that both the initial slope (α) of the curve and the assimilation
+  number (PmB) varied about 5-fold throughout the year. No differences could be
+  detected between stations, but both α and PmB decreased with depth. The mean
+  value of α for all the experiments was 0.21 mg C[mg Chl a]−1· h−1·
+  W−1· m2 with a range from 0.03 to 0.63. An explanation is offered for the
+  nonconstancy of a in terms of the effect of cell-size and shape on
+  self-shading. An estimate is made from first principles of the physiological
+  maximum-attainable value of α. This estimate corresponds, within the limits
+  of experimental error, to the highest values of α observed in the study. It
+  is deduced that on the average the phytoplankton were photosynthesizing at
+  only 44\% maximum capacity. The mean value of PmB for all experiments was 4.9
+  mg C[mg Chl a]−1· h−1, with a range from 0.73 to 24.8. In the matrix of
+  partial correlation coefficients, α and PmB were positively correlated with
+  each other; α was correlated with mean solar radiation averaged over the 3
+  days prior to the experiment, but uncorrelated with temperature; PmB was
+  correlated strongly with temperature but uncorrelated with recent solar
+  radiation. The results show that PmB could be estimated from α and
+  temperature using an empirical multiple regression equation, independent of
+  depth. It is suggested that α and PmB are both correlated with some other
+  factor not measured in the study, perhaps the mean cell-size of the
+  populations, or the nutrient status of the cells. The predictability of
+  primary production is discussed in the light of this evidence.%
   }
   \verb{doi}
-  \verb 10.1126/science.1097403
+  \verb 10.1111/j.1529-8817.1976.tb02866.x
   \endverb
-  \verb{eprint}
-  \verb http://science.sciencemag.org/content/305/5682/367.full.pdf
+  \field{issn}{1529-8817}
+  \field{number}{4}
+  \field{pages}{421\bibrangedash 430}
+  \field{title}{{The relationship between photosynethsis and light for natural
+  asseblages of coastal marine phytoplankton}}
+  \field{volume}{12}
+  \field{journaltitle}{Journal of Phycology}
+  \field{year}{1976}
+\endentry
+
+\entry{Reick2013}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Reick}{R.}%
+     {C.~H.}{C.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Raddatz}{R.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brovkin}{B.}%
+     {V.}{V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gayler}{G.}%
+     {V.}{V.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Modeling; Earth system modeling; Land cover change; Global climate
+  models; land cover dynamics; Earth system modeling; land use change; dynamic
+  vegetation model}
+  \strng{namehash}{RCH+1}
+  \strng{fullhash}{RCHRTBVGV1}
+  \field{labelyear}{2013}
+  \field{sortinit}{R}
+  \field{abstract}{%
+  The purpose of this paper is to give a rather comprehensive description of
+  the models for natural and anthropogenically driven changes in biogeography
+  as implemented in the land component JSBACH of the Max Planck Institute Earth
+  system model (MPI-ESM). The model for natural land cover change (DYNVEG)
+  features two types of competition: between the classes of grasses and woody
+  types (trees, shrubs) controlled by disturbances (fire, windthrow) and within
+  those vegetation classes between different plant functional types based on
+  relative net primary productivity advantages. As part of this model, the
+  distribution of land unhospitable to vegetation (hot and cold deserts) is
+  determined dynamically from plant productivity under the prevailing climate
+  conditions. The model for anthropogenic land cover change implements the land
+  use transition approach by Hurtt et al. (2006). Our implementation is based
+  on the assumption that historically pastures have been preferentially
+  established on former grasslands (``pasture rule''). We demonstrate that due
+  to the pasture rule, deforestation reduces global forest area between 1850
+  and 2005 by 15\% less than without. Because of the pasture rule the land
+  cover distribution depends on the full history of land use transitions. This
+  has implications for the dynamics of natural land cover change because
+  assumptions must be made on how agriculturalists react to a changing natural
+  vegetation in their environment. A separate model representing this process
+  has been developed so that natural and anthropogenic land cover change can be
+  simulated consistently. Certain aspects of our model implementation are
+  illustrated by selected results from the recent CMIP5 simulations.%
+  }
+  \verb{doi}
+  \verb 10.1002/jame.20022
   \endverb
-  \field{issn}{0036-8075}
-  \field{number}{5682}
-  \field{pages}{367\bibrangedash 371}
-  \field{title}{The Oceanic Sink for Anthropogenic CO2}
+  \field{issn}{1942-2466}
+  \field{number}{3}
+  \field{pages}{459\bibrangedash 482}
+  \field{title}{{Representation of natural and anthropogenic land cover change
+  in MPI-ESM}}
   \verb{url}
-  \verb http://science.sciencemag.org/content/305/5682/367
+  \verb http://dx.doi.org/10.1002/jame.20022
   \endverb
-  \field{volume}{305}
+  \field{volume}{5}
+  \field{journaltitle}{Journal of Advances in Modeling Earth Systems}
+  \field{year}{2013}
+\endentry
+
+\entry{Resplandy2015}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Resplandy}{R.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {S{\'{e}}f{\'{e}}rian}{S.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bopp}{B.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley-Blackwell}%
+  }
+  \keyw{rank3}
+  \strng{namehash}{RL+1}
+  \strng{fullhash}{RLSRBL1}
+  \field{labelyear}{2015}
+  \field{sortinit}{R}
+  \verb{doi}
+  \verb 10.1002/2014jc010463
+  \endverb
+  \field{number}{1}
+  \field{pages}{384\bibrangedash 404}
+  \field{title}{Natural variability of {CO}2and O2fluxes: What can we learn
+  from centuries-long climate models simulations?}
+  \field{volume}{120}
   \verb{file}
-  \verb :home/mpim/m300524/MSc_Thesis/Paper/Sabine_etal2014_Science_oceanic_co2
-  \verb _sink_367.pdf:PDF
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Resplandy_etal2015_JGR_natural_vari
+  \verb ability_CO2_O2_flux.pdf:PDF
   \endverb
-  \field{journaltitle}{Science}
-  \field{year}{2004}
+  \field{journaltitle}{Journal of Geophysical Research: Oceans}
+  \field{year}{2015}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Roedenbeck2013}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {R{\"o}denbeck}{R.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Keeling}{K.}%
+     {R.~F.}{R.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bakker}{B.}%
+     {D.~C.~E.}{D.~C.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Metzl}{M.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Olsen}{O.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sabine}{S.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Heimann}{H.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Copernicus {GmbH}}%
+  }
+  \keyw{rank3}
+  \strng{namehash}{RC+2}
+  \strng{fullhash}{RCKRFBDCEMNOASCHM1}
+  \field{labelyear}{2013}
+  \field{sortinit}{R}
+  \field{abstract}{%
+  A temporally and spatially resolved estimate of the global surface-ocean CO2
+  partial pressure field and the sea–air CO2 flux is presented, obtained by
+  fitting a simple data-driven diagnostic model of ocean mixed-layer biogeo-
+  chemistry to surface-ocean CO2 partial pressure data from the SOCAT v1.5
+  database. Results include seasonal, interan- nual, and short-term (daily)
+  variations. In most regions, es- timated seasonality is well constrained from
+  the data, and compares well to the widely used monthly climatology by
+  Takahashi et al. (2009). Comparison to independent data ten- tatively
+  supports the slightly higher seasonal variations in our estimates in some
+  areas. We also fitted the diagnostic model to atmospheric CO2 data. The
+  results of this are less robust, but in those areas where atmospheric signals
+  are not strongly influenced by land flux variability, their seasonality is
+  nev- ertheless consistent with the results based on surface-ocean data. From
+  a comparison with an independent seasonal cli- matology of surface-ocean
+  nutrient concentration, the diag- nostic model is shown to capture relevant
+  surface-ocean bio- geochemical processes reasonably well. Estimated interan-
+  nual variations will be presented and discussed in a compan- ion paper.%
+  }
+  \verb{doi}
+  \verb 10.5194/os-9-193-2013
+  \endverb
+  \field{number}{2}
+  \field{pages}{193\bibrangedash 216}
+  \field{title}{Global surface-ocean CO2 and sea-air CO2 flux variability from
+  an observation-driven ocean mixed-layer scheme}
+  \field{volume}{9}
+  \verb{file}
+  \verb :Roedenbecket_al2013_OceanScience_zmld.pdf:PDF
+  \endverb
+  \field{journaltitle}{Ocean Sci.}
+  \field{year}{2013}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Roedenbeck2014}{article}{}
+  \name{author}{9}{}{%
+    {{}%
+     {R\"odenbeck}{R.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bakker}{B.}%
+     {D.~C.~E.}{D.~C.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Metzl}{M.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Olsen}{O.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sabine}{S.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cassar}{C.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Reum}{R.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Keeling}{K.}%
+     {R.~F.}{R.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Heimann}{H.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RC+3}
+  \strng{fullhash}{RCBDCEMNOASCCNRFKRFHM1}
+  \field{labelyear}{2014}
+  \field{sortinit}{R}
+  \verb{doi}
+  \verb 10.5194/bg-11-4599-2014
+  \endverb
+  \field{number}{17}
+  \field{pages}{4599\bibrangedash 4613}
+  \field{title}{Interannual sea–air CO$_{2}$ flux variability from an
+  observation-driven ocean mixed-layer scheme}
+  \field{volume}{11}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Roedenbeck_etal2014_BGS_bg-11-4599-
+  \verb 2014.pdf:PDF
+  \endverb
+  \field{journaltitle}{Biogeosciences}
+  \field{year}{2014}
+\endentry
+
+\entry{Roedenbeck2015}{article}{}
+  \name{author}{19}{}{%
+    {{}%
+     {R\"{o}denbeck}{R.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bakker}{B.}%
+     {D.~C.~E.}{D.~C.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gruber}{G.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Iida}{I.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jacobson}{J.}%
+     {A.~R.}{A.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jones}{J.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Landsch\"{u}tzer}{L.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Metzl}{M.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nakaoka}{N.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Olsen}{O.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Park}{P.}%
+     {G.-H.}{G.-H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Peylin}{P.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rodgers}{R.}%
+     {K.~B.}{K.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sasse}{S.}%
+     {T.~P.}{T.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schuster}{S.}%
+     {U.}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shutler}{S.}%
+     {J.~D.}{J.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Valsala}{V.}%
+     {V.}{V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wanninkhof}{W.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zeng}{Z.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Copernicus {GmbH}}%
+  }
+  \strng{namehash}{RC+1}
+  \strng{fullhash}{RCBDCEGNIYJARJSLPMNNSOAPGHPPRKBSTPSUSJDVVWRZJ1}
+  \field{labelyear}{2015}
+  \field{sortinit}{R}
+  \verb{doi}
+  \verb 10.5194/bg-12-7251-2015
+  \endverb
+  \field{number}{23}
+  \field{pages}{7251\bibrangedash 7278}
+  \field{title}{Data-based estimates of the ocean carbon sink variability
+  {\textendash} first results of the Surface Ocean {CO}$_2$ Mapping
+  intercomparison ({SOCOM})}
+  \field{volume}{12}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Roedenbeck_etal2015_BGS_SOCAT_uncer
+  \verb tainty-12-7251.pdf:PDF
+  \endverb
+  \field{journaltitle}{Biogeosciences}
+  \field{year}{2015}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Rodgers2015}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Rodgers}{R.}%
+     {K.~B.}{K.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lin}{L.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fr\"{o}licher}{F.}%
+     {T.~L.}{T.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Copernicus {GmbH}}%
+  }
+  \strng{namehash}{RKB+1}
+  \strng{fullhash}{RKBLJFTL1}
+  \field{labelyear}{2015}
+  \field{sortinit}{R}
+  \verb{doi}
+  \verb 10.5194/bg-12-3301-2015
+  \endverb
+  \field{number}{11}
+  \field{pages}{3301\bibrangedash 3320}
+  \field{title}{Emergence of multiple ocean ecosystem drivers in a large
+  ensemble suite with an Earth system model}
+  \verb{url}
+  \verb https://doi.org/10.5194%2Fbg-12-3301-2015
+  \endverb
+  \field{volume}{12}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Rodgers_etal2015_BGS.pdf:PDF
+  \endverb
+  \field{journaltitle}{Biogeosciences}
+  \field{year}{2015}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Sallee2008}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Sall{\'{e}}e}{S.}%
+     {J.~B.}{J.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Speer}{S.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Morrow}{M.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {American Meteorological Society}%
+  }
+  \strng{namehash}{SJB+1}
+  \strng{fullhash}{SJBSKMR1}
+  \field{labelyear}{2008}
+  \field{sortinit}{S}
+  \verb{doi}
+  \verb 10.1175/2007jcli1702.1
+  \endverb
+  \field{number}{12}
+  \field{pages}{3020\bibrangedash 3039}
+  \field{title}{Response of the Antarctic Circumpolar Current to Atmospheric
+  Variability}
+  \field{volume}{21}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Sallee_etal2008_jcli1702.1.pdf:PDF
+  \endverb
+  \field{journaltitle}{Journal of Climate}
+  \field{year}{2008}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Sallee2010}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Sall{\'{e}}e}{S.}%
+     {J.~B.}{J.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Speer}{S.}%
+     {K.~G.}{K.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rintoul}{R.}%
+     {S.~R.}{S.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer Nature}%
+  }
+  \strng{namehash}{SJB+1}
+  \strng{fullhash}{SJBSKGRSR1}
+  \field{labelyear}{2010}
+  \field{sortinit}{S}
+  \verb{doi}
+  \verb 10.1038/ngeo812
+  \endverb
+  \field{number}{4}
+  \field{pages}{273\bibrangedash 279}
+  \field{title}{Zonally asymmetric response of the Southern Ocean mixed-layer
+  depth to the Southern Annular Mode}
+  \field{volume}{3}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Sallee_etal2010_ngeo812.pdf:PDF
+  \endverb
+  \field{journaltitle}{Nature Geoscience}
+  \field{year}{2010}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{Sallee2013}{article}{}
@@ -1327,6 +5376,7 @@
   \strng{namehash}{SJB+1}
   \strng{fullhash}{SJBSEBNMAJSBTJWZ1}
   \field{labelyear}{2013}
+  \field{extrayear}{1}
   \field{sortinit}{S}
   \field{abstract}{%
   The development of the deep Southern Ocean winter mixed layer in the climate
@@ -1357,9 +5407,6 @@
   \field{pages}{1845\bibrangedash 1862}
   \field{title}{Assessment of Southern Ocean mixed-layer depths in
   {CMIP}5~{m}odels: Historical bias and forcing response}
-  \verb{url}
-  \verb http://dx.doi.org/10.1002/jgrc.20157
-  \endverb
   \field{volume}{118}
   \verb{file}
   \verb :Sallee_etal2013_JGR_CMIP5_ML.pdf:PDF
@@ -1369,49 +5416,114 @@
   \warn{\item Invalid format of field 'month'}
 \endentry
 
-\entry{Sarmiento1984}{article}{}
-  \name{author}{2}{}{%
+\entry{Sallee2013a}{article}{}
+  \name{author}{7}{}{%
     {{}%
-     {{Sarmiento J. L.}}{S.}%
-     {}{}%
+     {Sall{\'{e}}e}{S.}%
+     {J.-B.}{J.-B.}%
      {}{}%
      {}{}}%
     {{}%
-     {{Toggweiler J. R.}}{T.}%
+     {Shuckburgh}{S.}%
+     {E.}{E.}%
      {}{}%
+     {}{}}%
+    {{}%
+     {Bruneau}{B.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Meijers}{M.}%
+     {A.~J.~S.}{A.~J.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bracegirdle}{B.}%
+     {T.~J.}{T.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {Z.}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Roy}{R.}%
+     {T.}{T.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{ST1}
-  \strng{fullhash}{ST1}
-  \field{labelyear}{1984}
+  \keyw{Ocean/Earth/atmosphere/hydrosphere/cryosphere interactions, Oceans,
+  Coupled models of the climate system, Global climate models, Southern Ocean,
+  water mass, overturning, CMIP5, rank2}
+  \strng{namehash}{SJB+1}
+  \strng{fullhash}{SJBSEBNMAJSBTJWZRT1}
+  \field{labelyear}{2013}
+  \field{extrayear}{2}
   \field{sortinit}{S}
   \field{abstract}{%
-  Recent ice-core measurements have revealed that the atmospheric CO2 level
-  increased comparatively rapidly by about 70 p.p.m. at the end of the last ice
-  age1. Here we present an ocean–atmosphere model in which changes in the
-  productivity of high latitude surface waters (from which deep water is formed
-  and circulated around the world's ocean) and/or in the thermo-haline
-  overturning rate can lead to substantial changes in atmospheric partial
-  pressure of carbon dioxide (P CO 2), over a concentration range 163–425
-  p.p.m. A major contribution to the low P CO 2 of the last ice may have been
-  an increase in the net high latitude productivity, possibly coupled with a
-  decrease in the thermohaline overturning.%
+  The ability of the models contributing to the fifth Coupled Models
+  Intercomparison Project (CMIP5) to represent the Southern Ocean hydrological
+  properties and its overturning is investigated in a water mass framework.
+  Models have a consistent warm and light bias spread over the entire water
+  column. The greatest bias occurs in the ventilated layers, which are
+  volumetrically dominated by mode and intermediate layers. The ventilated
+  layers have been observed to have a strong fingerprint of climate change and
+  to impact climate by sequestrating a significant amount of heat and carbon
+  dioxide. The mode water layer is poorly represented in the models and both
+  mode and intermediate water have a significant fresh bias. Under increased
+  radiative forcing, models simulate a warming and lightening of the entire
+  water column, which is again greatest in the ventilated layers, highlighting
+  the importance of these layers for propagating the climate signal into the
+  deep ocean. While the intensity of the water mass overturning is relatively
+  consistent between models, when compared to observation-based
+  reconstructions, they exhibit a slightly larger rate of overturning at
+  shallow to intermediate depths, and a slower rate of overturning deeper in
+  the water column. Under increased radiative forcing, atmospheric fluxes
+  increase the rate of simulated upper cell overturning, but this increase is
+  counterbalanced by diapycnal fluxes, including mixed-layer horizontal mixing,
+  and mostly vanishes.%
   }
   \verb{doi}
-  \verb 10.1038/308621a0
+  \verb 10.1002/jgrc.20135
   \endverb
-  \field{number}{5960}
-  \field{pages}{621–624}
-  \field{title}{A new model for the role of the oceans in determining
-  atmospheric PCO2}
-  \field{volume}{308}
+  \field{issn}{2169-9291}
+  \field{number}{4}
+  \field{pages}{1830\bibrangedash 1844}
+  \field{title}{Assessment of Southern Ocean water mass circulation and
+  characteristics in CMIP5 models: Historical bias and forcing response}
+  \field{volume}{118}
   \verb{file}
-  \verb :home/mpim/m300524/MSc_Thesis/Paper/Sarmiento_et1984_Nature.pdf:PDF
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Sallee_etal2013_JGR_water_masses.pd
+  \verb f:PDF
   \endverb
-  \field{journaltitle}{Nature}
-  \field{year}{1984}
-  \warn{\item Invalid format of field 'month'}
+  \field{journaltitle}{Journal of Geophysical Research: Oceans}
+  \field{year}{2013}
+\endentry
+
+\entry{Sarmiento2006}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Sarmiento}{S.}%
+     {Jorge~L.}{J.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gruber}{G.}%
+     {Nicolas}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Princeton University Press}%
+  }
+  \strng{namehash}{SJLGN1}
+  \strng{fullhash}{SJLGN1}
+  \field{labelyear}{2006}
+  \field{sortinit}{S}
+  \field{title}{Ocean Biogeochemical Dynamics}
+  \field{year}{2006}
 \endentry
 
 \entry{Six1996}{article}{}
@@ -1453,15 +5565,86 @@
   \field{pages}{559\bibrangedash 583}
   \field{title}{{Effects of plankton dynamics on seasonal carbon fluxes in an
   ocean general circulation model}}
-  \verb{url}
-  \verb http://dx.doi.org/10.1029/96GB02561
-  \endverb
   \field{volume}{10}
   \verb{file}
   \verb :home/mpim/m300524/MSc_Thesis/Paper/Six_Maier-Reimer_1996.pdf:PDF
   \endverb
   \field{journaltitle}{Global Biogeochemical Cycles}
   \field{year}{1996}
+\endentry
+
+\entry{Smith1936}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Smith}{S.}%
+     {E.~L.}{E.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SEL1}
+  \strng{fullhash}{SEL1}
+  \field{labelyear}{1936}
+  \field{sortinit}{S}
+  \field{pages}{504\bibrangedash 511}
+  \field{title}{Photosynthesis in relation to light and carbon dioxide}
+  \field{volume}{22}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Smith_1936_PNAS.pdf:PDF
+  \endverb
+  \field{journaltitle}{Proc. Nat. Acad. Sci.}
+  \field{year}{1936}
+\endentry
+
+\entry{Speer2000}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Speer}{S.}%
+     {Kevin}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rintoul}{R.}%
+     {Stephen~R.}{S.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sloyan}{S.}%
+     {Bernadette}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{rank2}
+  \strng{namehash}{SK+1}
+  \strng{fullhash}{SKRSRSB1}
+  \field{labelyear}{2000}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  Abstract Southern Ocean air–sea fluxes from the COADS dataset are examined
+  for compatibility between buoyancy gain and northward Ekman transport. An
+  analysis in density classes points to an upwelling of Upper Circumpolar Deep
+  Water and subsequent buoyancy gain from air–sea exchange as water flows
+  northward in the Ekman layer. The Upper Circumpolar Deep Water layer is too
+  shallow to admit southward geostrophic flow along topography, and an eddy
+  mass flux mechanism for southward transport in this layer to replenish the
+  upwelling is advanced, based on observed large-scale potential vorticity
+  gradients. Estimates of the strength and vertical structure of the meridional
+  flow are given using repeated hydrographic sections and a new climatology.%
+  }
+  \verb{doi}
+  \verb 10.1175/1520-0485(2000)030<3212:TDDC>2.0.CO;2
+  \endverb
+  \verb{eprint}
+  \verb http://dx.doi.org/10.1175/1520-0485(2000)030<3212:TDDC>2.0.CO;2
+  \endverb
+  \field{number}{12}
+  \field{pages}{3212\bibrangedash 3222}
+  \field{title}{The Diabatic Deacon Cell}
+  \field{volume}{30}
+  \verb{file}
+  \verb :Speer_ etal2001_JPO_diabatic_deacon_cell.pdf:PDF
+  \endverb
+  \field{journaltitle}{Journal of Physical Oceanography}
+  \field{year}{2000}
 \endentry
 
 \entry{Stevens2013}{article}{}
@@ -1598,9 +5781,6 @@
   \field{pages}{146\bibrangedash 172}
   \field{title}{{Atmospheric component of the MPI-M Earth System Model:
   ECHAM6}}
-  \verb{url}
-  \verb http://dx.doi.org/10.1002/jame.20015
-  \endverb
   \field{volume}{5}
   \verb{file}
   \verb :home/mpim/m300524/MSc_Thesis/Paper/Stevens_etal2013_JAMES.pdf:PDF
@@ -1612,7 +5792,7 @@
 \entry{Stoessel2015}{article}{}
   \name{author}{6}{}{%
     {{}%
-     {Stössel}{S.}%
+     {St\"ossel}{S.}%
      {Achim}{A.}%
      {}{}%
      {}{}}%
@@ -1678,15 +5858,12 @@
   open-ocean convection.%
   }
   \verb{doi}
-  \verb http://dx.doi.org/10.1016/j.ocemod.2014.11.008
+  \verb 10.1016/j.ocemod.2014.11.008
   \endverb
   \field{issn}{1463-5003}
   \field{pages}{58 \bibrangedash  75}
   \field{title}{Controlling high-latitude Southern Ocean convection in climate
   models}
-  \verb{url}
-  \verb http://www.sciencedirect.com/science/article/pii/S1463500314001760
-  \endverb
   \field{volume}{86}
   \verb{file}
   \verb :home/mpim/m300524/MSc_Thesis/Paper/Stoessel_etal2015_OM_SO_ventilation
@@ -1718,6 +5895,512 @@
   \field{journaltitle}{Journal du Conseil International pour l'Exploration de
   la Mer}
   \field{year}{1953}
+\endentry
+
+\entry{Tagliabue2014}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Tagliabue}{T.}%
+     {Alessandro}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sall{\'{e}}e}{S.}%
+     {Jean-Baptiste}{J.-B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bowie}{B.}%
+     {Andrew~R.}{A.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {L{\'{e}}vy}{L.}%
+     {Marina}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Swart}{S.}%
+     {Sebastiaan}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Boyd}{B.}%
+     {Philip~W.}{P.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer Nature}%
+  }
+  \strng{namehash}{TA+1}
+  \strng{fullhash}{TASJBBARLMSSBPW1}
+  \field{labelyear}{2014}
+  \field{sortinit}{T}
+  \verb{doi}
+  \verb 10.1038/ngeo2101
+  \endverb
+  \field{number}{4}
+  \field{pages}{314\bibrangedash 320}
+  \field{title}{Surface-water iron supplies in the Southern Ocean sustained by
+  deep winter mixing}
+  \field{volume}{7}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Tagliabue_etal2014_ngeo2101.pdf:PDF
+  \endverb
+  \field{journaltitle}{Nature Geoscience}
+  \field{year}{2014}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Takahashi1993}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Takahashi}{T.}%
+     {Taro}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Olafsson}{O.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Goddard}{G.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chipman}{C.}%
+     {D.~W.}{D.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sutherland}{S.}%
+     {S.~C.}{S.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TT+1}
+  \strng{fullhash}{TTOJGJCDWSSC1}
+  \field{labelyear}{1993}
+  \field{sortinit}{T}
+  \field{pages}{843\bibrangedash 878}
+  \field{title}{Seasonal variation of CO$_2$ and nutrients in the high-latitude
+  surface oceans: a comparative study}
+  \field{volume}{7}
+  \field{journaltitle}{Global Biogeochem. Cycles}
+  \field{year}{1993}
+\endentry
+
+\entry{Takahashi2002}{article}{}
+  \name{author}{12}{}{%
+    {{}%
+     {Takahashi}{T.}%
+     {Taro}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sutherland}{S.}%
+     {Stewart~C.}{S.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sweeney}{S.}%
+     {Colm}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Poisson}{P.}%
+     {Alain}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Metzl}{M.}%
+     {Nicolas}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tilbrook}{T.}%
+     {Bronte}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bates}{B.}%
+     {Nicolas}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wanninkhof}{W.}%
+     {Rik}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Feely}{F.}%
+     {Richard~A.}{R.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sabine}{S.}%
+     {Christopher}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Olafsson}{O.}%
+     {Jon}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nojiri}{N.}%
+     {Yukihiro}{Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{rank3}
+  \strng{namehash}{TT+1}
+  \strng{fullhash}{TTSSCSCPAMNTBBNWRFRASCOJNY1}
+  \field{labelyear}{2002}
+  \field{sortinit}{T}
+  \field{title}{Global sea–air CO$_2$ ﬂux based on climatological surface
+  ocean and pCO and seasonal biological and temperature effects}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Takahashi_etal2012_Deep-sea-res.pdf
+  \verb :PDF
+  \endverb
+  \field{journaltitle}{Deep-Sea Research II}
+  \field{year}{2002}
+\endentry
+
+\entry{Takahashi2012}{article}{}
+  \name{author}{8}{}{%
+    {{}%
+     {Takahashi}{T.}%
+     {Taro}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sweeney}{S.}%
+     {Colm}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hales}{H.}%
+     {Burke}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chipman}{C.}%
+     {David~W.}{D.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Newberger}{N.}%
+     {Timothy}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Goddard}{G.}%
+     {John~G.}{J.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Iannuzzi}{I.}%
+     {Richard~A.}{R.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sutherland}{S.}%
+     {Stewart~C.}{S.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{rank2}
+  \strng{namehash}{TT+1}
+  \strng{fullhash}{TTSCHBCDWNTGJGIRASSC1}
+  \field{labelyear}{2012}
+  \field{sortinit}{T}
+  \field{abstract}{%
+  <p>Various human activities, including fossil fuel combustion and forest
+  clearing, emit about eight petagrams (or billion tons) of carbon in the form
+  of CO<span class="subscript">2</span> into the atmosphere annually. The
+  global ocean absorbs about two petagrams of CO<span
+  class="subscript">2</span>, and about a half of that amount is absorbed by
+  the Southern Ocean south of 30°S, thus slowing the rapid accumulation of
+  CO<span class="subscript">2</span> in the atmosphere. Partial pressure of
+  CO<span class="subscript">2</span> (<em>p</em>CO<span
+  class="subscript">2</span>) is a measure of the chemical driving force for
+  the CO<span class="subscript">2</span> exchange between the ocean and the
+  atmosphere. This paper discusses its space and time distribution over the
+  Southern Ocean. The major sink zone for atmospheric CO<span
+  class="subscript">2</span> is located in a latitude belt between 30°S and
+  50°S, where the biological utilization of CO<span class="subscript">2</span>
+  and cooling of warm subtropical waters flowing southward produce low seawater
+  <em>p</em>CO<span class="subscript">2</span>. Strong winds in this zone also
+  enhance the ocean’s uptake. Although the source-sink conditions vary over a
+  wide range through the seasons in the areas south of 50°S, this zone is a
+  small sink on an annual average. Winter observations show that surface water
+  <em>p</em>CO<span class="subscript">2</span> values in the source region for
+  Antarctic Intermediate Water have increased at a rate faster than the
+  atmospheric increase rate, suggesting that the ocean CO<span
+  class="subscript">2</span> sink intensity has been weakening for several
+  decades and has changed from a net sink to a net source since 2005. The
+  results of ocean general circulation-biogeochemistry model studies are found
+  to be consistent with the observations.</p>%
+  }
+  \verb{doi}
+  \verb 10.5670/oceanog.2012.71
+  \endverb
+  \field{title}{The Changing Carbon Cycle in the Southern Ocean}
+  \field{volume}{25}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Takahashi_etal2012_Changing_CC_SO.p
+  \verb df:PDF
+  \endverb
+  \field{journaltitle}{Oceanography}
+  \field{year}{2012}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Talley2013}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Talley}{T.}%
+     {Lynne~D.}{L.~D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TLD1}
+  \strng{fullhash}{TLD1}
+  \field{labelyear}{2013}
+  \field{sortinit}{T}
+  \field{abstract}{%
+  The overturning pathways for the surface-ventilated North Atlantic Deep Water
+  (NADW) and Antarctic Bottom Water (AABW) and the diffusively-formed Indian
+  Deep Water and Pacific Deep Water (IDW and PDW) are intertwined. The global
+  overturning circulation (GOC) includes both large wind-driven upwelling in
+  the Southern Ocean and important internal diapycnal transformation in the
+  deep Indian and Pacific Oceans. All three northern-source Deep Waters (NADW,
+  IDW, PDW) move southward and upwell in the Southern Ocean. AABW is produced
+  from the denser, salty NADW and a portion of the lighter, low oxygen IDW/PDW,
+  which upwells above and north of NADW. The remaining IDW/PDW stays at the
+  surface, moving into the subtropical thermoclines, and ultimately sources
+  about 1/3 of the NADW. Another third of the NADW comes from AABW in the
+  Atlantic. The remaining third comes from AABW upwelling to the thermocline in
+  the Indian-Pacific. Atlantic cooling associated with NADW formation (0.3 PW
+  north of 32°S) (1 PW = 1015 W) and Southern Ocean cooling associated with
+  AABW formation (0.4 PW south of 32°S) are balanced mostly by 0.6 PW of deep
+  diffusive heating in the Indian and Pacific Oceans; only 0.1 PW is gained at
+  the surface in the Southern Ocean. Thus, while an adiabatic model of NADW
+  global overturning driven by winds in the Southern Ocean, with buoyancy
+  addition only at the surface in the Southern Ocean, is a useful dynamical
+  idealization, the associated heat changes require full participation of the
+  diffusive Indian and Pacific Oceans, with a basin-averaged diffusivity on the
+  order of the Munk value of 10-4 m2/sec.%
+  }
+  \field{number}{1}
+  \field{pages}{80\bibrangedash 97}
+  \field{title}{Closure of the global overturning circulation through the
+  Indian, Pacific and Southern Oceans: schematics and transports}
+  \verb{url}
+  \verb http://pordlabs.ucsd.edu/ltalley/papers/2010s/talley_GOC_oceanography_f
+  \verb eb2013.pdf
+  \endverb
+  \field{volume}{26}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Talley_2013_GOC_oceanography.pdf:PD
+  \verb F
+  \endverb
+  \field{journaltitle}{Oceanography}
+  \field{year}{2013}
+\endentry
+
+\entry{Taucher2011}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Taucher}{T.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Oschlies}{O.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TJOA1}
+  \strng{fullhash}{TJOA1}
+  \field{labelyear}{2011}
+  \field{sortinit}{T}
+  \verb{doi}
+  \verb 10.1029/2010GL045934
+  \endverb
+  \field{title}{Can we predict the dirdirect of marine primary production
+  change under global warming?}
+  \field{volume}{38}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Taucher_2011.pdf:PDF
+  \endverb
+  \field{journaltitle}{Geophys. Res. Lett.}
+  \field{year}{2011}
+\endentry
+
+\entry{Taylor2012}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Taylor}{T.}%
+     {Karl~E.}{K.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stouffer}{S.}%
+     {Ronald~J.}{R.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Meehl}{M.}%
+     {Gerald~A.}{G.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {American Meteorological Society}%
+  }
+  \keyw{rank1}
+  \strng{namehash}{TKE+1}
+  \strng{fullhash}{TKESRJMGA1}
+  \field{labelyear}{2012}
+  \field{sortinit}{T}
+  \field{abstract}{%
+  The fifth phase of the Climate Model Intercomparison Project (CMIP5), now
+  underway, promises to produce a freely available state-of-the-art multimodel
+  dataset designed to advance our knowledge of climate variability and climate
+  change.%
+  }
+  \verb{doi}
+  \verb 10.1175/bams-d-11-00094.1
+  \endverb
+  \field{number}{4}
+  \field{pages}{485\bibrangedash 498}
+  \field{title}{An Overview of {CMIP}5 and the Experiment Design}
+  \verb{url}
+  \verb http://dx.doi.org/10.1175/BAMS-D-11-00094.1
+  \endverb
+  \field{volume}{93}
+  \verb{file}
+  \verb :Taylor_etal2011_BAMS_cmip5.pdf:PDF
+  \endverb
+  \field{journaltitle}{Bull. Amer. Meteor. Soc.}
+  \field{year}{2012}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Thompson2000}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Thompson}{T.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wallace}{W.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TDWJ1}
+  \strng{fullhash}{TDWJ1}
+  \field{labelyear}{2000}
+  \field{sortinit}{T}
+  \verb{doi}
+  \verb 10.1175/1520-0442(2000)013<1000:AMITEC>2.0.CO;2
+  \endverb
+  \field{number}{5}
+  \field{pages}{1000\bibrangedash 1016}
+  \field{title}{Annular Modes in the Extratropical Circulation. Part I:
+  Month-Month Variability}
+  \field{volume}{13}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Thompson_Wallace_2000.pdf:PDF
+  \endverb
+  \field{journaltitle}{Journal of Climate}
+  \field{year}{2000}
+\endentry
+
+\entry{Thompson2011}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Thompson}{T.}%
+     {David W.~J.}{D.~W.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Solomon}{S.}%
+     {Susan}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kushner}{K.}%
+     {Paul~J.}{P.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {England}{E.}%
+     {Matthew~H.}{M.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Grise}{G.}%
+     {Kevin~M.}{K.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Karoly}{K.}%
+     {David~J.}{D.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Nature Publishing Group}%
+  }
+  \keyw{rank1, SouternOcean}
+  \strng{namehash}{TDWJ+1}
+  \strng{fullhash}{TDWJSSKPJEMHGKMKDJ1}
+  \field{labelyear}{2011}
+  \field{sortinit}{T}
+  \field{abstract}{%
+  Anthropogenic emissions of carbon dioxide and other greenhouse gases have
+  driven and will continue to drive widespread climate change at the Earth’s
+  surface. But surface climate change is not limited to the effects of
+  increasing atmospheric greenhouse gas concentrations. Anthropogenic emissions
+  of ozone-depleting gases also lead to marked changes in surface climate,
+  through the radiative and dynamical effects of the Antarctic ozone hole. The
+  influence of the Antarctic ozone hole on surface climate is most pronounced
+  during the austral summer season and strongly resembles the most prominent
+  pattern of large-scale Southern Hemisphere climate variability, the Southern
+  Annular Mode. The influence of the ozone hole on the Southern Annular Mode
+  has led to a range of significant summertime surface climate changes not only
+  over Antarctica and the Southern Ocean, but also over New Zealand, Patagonia
+  and southern regions of Australia. Surface climate change as far equatorward
+  as the subtropical Southern Hemisphere may have also been affected by the
+  ozone hole. Over the next few decades, recovery of the ozone hole and
+  increases in greenhouse gases are expected to have significant but opposing
+  effects on the Southern Annular Mode and its attendant climate impacts during
+  summer.%
+  }
+  \verb{doi}
+  \verb 10.1038/ngeo1296
+  \endverb
+  \field{number}{11}
+  \field{pages}{741\bibrangedash 749}
+  \field{title}{Signatures of the Antarctic ozone hole in Southern Hemisphere
+  surface climate change}
+  \field{volume}{4}
+  \verb{file}
+  \verb :Thompson_etal_ngeo_2011_1296.pdf:PDF
+  \endverb
+  \field{journaltitle}{Nature Geoscience}
+  \field{year}{2011}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{Thompson2015}{article}{}
@@ -1783,9 +6466,6 @@
   \field{pages}{6443\bibrangedash 6456}
   \field{title}{Quantifying the Role of Internal Climate Variability in Future
   Climate Trends}
-  \verb{url}
-  \verb http://dx.doi.org/10.1175/JCLI-D-14-00830.1
-  \endverb
   \field{volume}{28}
   \verb{file}
   \verb :home/mpim/m300524/MSc_Thesis/Paper/Thompson_etal2015_JoC_internal_clim
@@ -1794,6 +6474,68 @@
   \field{journaltitle}{Journal of Climate}
   \field{year}{2015}
   \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{VolkHoffert1985}{inbook}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Volk}{V.}%
+     {Tyler}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hoffert}{H.}%
+     {Martin~I.}{M.~I.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {American Geophysical Union}%
+  }
+  \keyw{Carbon cycle (Biogeochemistry)—Congresses, Atmospheric carbon
+  dioxide—Congresses, Geological time—Congresses,
+  Paleothermometry—Congresses, Geology, Stratigraphic—Congresses, rank1}
+  \strng{namehash}{VTHMI1}
+  \strng{fullhash}{VTHMI1}
+  \field{labelyear}{1985}
+  \field{sortinit}{V}
+  \field{abstract}{%
+  An ocean carbon pump is defined as a process that depletes the ocean surface
+  of σCO2 relative to the deep-water σCO2. Three pumps are recognized: a
+  carbonate pump, a soft-tissue pump, and a solubility pump. The first two
+  result from the biological flux of organic and CaCO3 detritus from the
+  ocean's surface. The third results from the increased CO2 solubility in
+  downwelling cold water and is demonstrated by a one-dimensional
+  upwelling-diffusion model of an abiotic ocean. In the soft-tissue and
+  solubility pumps, working strengths are defined in terms of the ΔσCO2 each
+  creates between surface and deep-water. Efficiencies of each pump are
+  quantified as a ratio of working strength to potential maximum strength.
+  Using alkalinity, nitrate, and σCO2 to remove the carbonate pump signal from
+  ocean or model data, the individual working strengths of the soft-tissue and
+  solubility pumps can be calculated by scaling the soft-tissue's ΔσCO2 to
+  the surface-to-deep ΔPO4. This technique is applied to a three-box ocean
+  model known to demonstrate high-latitude control of atmospheric CO2 through a
+  variety of circulation and biological changes. Considering each pump
+  separately reveals that the various changes which lower pCO2atm in the model
+  are caused primarily by an increased solubility pump. Analysis of global
+  ocean data indicates a positive solubility pump signal, subject to
+  uncertainties in the C:P Redfield ratio and in the preindustrial pCO2atm. If
+  C:P = 105 and pCO2atm = 270 μatm, the efficiency of the solubility pump is
+  about 0.5. We suggest that this type of analysis of relative carbon pump
+  strengths will be an effective method for inter-model and intra-model
+  comparison and diagnosis of underlying oceanic mechanisms for pCO2atm
+  changes.%
+  }
+  \field{booktitle}{The Carbon Cycle and Atmospheric CO2: Natural Variations
+  Archean to Present}
+  \verb{doi}
+  \verb 10.1029/GM032p0099
+  \endverb
+  \field{isbn}{9781118664322}
+  \field{pages}{99\bibrangedash 110}
+  \field{title}{Ocean Carbon Pumps: Analysis of Relative Strengths and
+  Efficiencies in Ocean-Driven Atmospheric CO2 Changes}
+  \field{year}{1985}
 \endentry
 
 \entry{Wang2016}{article}{}
@@ -1832,13 +6574,10 @@
   \field{pages}{37548}
   \field{title}{Narrowing the spread in {CMIP}5~{m}odel projections of air-sea
   {CO}2 fluxes}
-  \verb{url}
-  \verb https://doi.org/10.1038%2Fsrep37548
-  \endverb
   \field{volume}{6}
   \verb{file}
   \verb :home/mpim/m300524/Wang_etal2016_Scientific_Reports_CMIP5_CO2flux.pdf:P
-  \verb DF
+  \verb DF;:home/mpim/m300524/MSc_Thesis/Paper/Wang_2016_srep37548.pdf:PDF
   \endverb
   \field{journaltitle}{Scientific Reports}
   \field{year}{2016}
@@ -1892,13 +6631,8 @@
   \endverb
   \field{issn}{1944-9224}
   \field{note}{GB1008}
-  \field{number}{1}
-  \field{pages}{n/a–n/a}
   \field{title}{{Variability of primary production and air-sea CO2 flux in the
   Southern Ocean}}
-  \verb{url}
-  \verb http://dx.doi.org/10.1029/2010GB003981
-  \endverb
   \field{volume}{26}
   \verb{file}
   \verb :home/mpim/m300524/MSc_Thesis/Paper/Wang_etal2012_GBC_SOCS_bio_vari.pdf
@@ -1906,6 +6640,113 @@
   \endverb
   \field{journaltitle}{Global Biogeochemical Cycles}
   \field{year}{2012}
+\endentry
+
+\entry{Wanninkhof1992}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wanninkhof}{W.}%
+     {Rik}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Air/sea interactions, General or miscellaneous, rank2}
+  \strng{namehash}{WR1}
+  \strng{fullhash}{WR1}
+  \field{labelyear}{1992}
+  \field{sortinit}{W}
+  \verb{doi}
+  \verb 10.1029/92JC00188
+  \endverb
+  \field{issn}{2156-2202}
+  \field{number}{C5}
+  \field{pages}{7373\bibrangedash 7382}
+  \field{title}{Relationship between wind speed and gas exchange over the
+  ocean}
+  \field{volume}{97}
+  \verb{file}
+  \verb :Wanninkhof_1992_GRL_Relationship_windspped_gasexchange.pdf:PDF
+  \endverb
+  \field{journaltitle}{Journal of Geophysical Research: Oceans}
+  \field{year}{1992}
+\endentry
+
+\entry{Weiss1974}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Weiss}{W.}%
+     {R.F.}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier Scientific Publishing Company, Amsterdam}%
+  }
+  \keyw{fundamentals, rank1, fundamental}
+  \strng{namehash}{WR2}
+  \strng{fullhash}{WR2}
+  \field{labelyear}{1974}
+  \field{sortinit}{W}
+  \field{abstract}{%
+  New measurements of the solubility of carbon dioxide in water and seawater
+  confirm the accuracy of the measurements of Murray and Riley, as opposed to
+  those of Li and Tsui. Corrections for non-ideal behavior in the gas phase and
+  for dissociation in distilled water are required to calculate solubility
+  coefficients from these sets of data. Equations for the solubilities of real
+  gases are presented and discussed. Solubility coefficients for carbon dioxide
+  in water and seawater are calculated for the data of Murray and Riley, and
+  are fitted to equations in temperature and salinity of the form used
+  previously to fit the solu- bilities of other gases.%
+  }
+  \field{booktitle}{Marine Chemistry 2}
+  \verb{doi}
+  \verb doi:10.1016/0304-4203(74)90015-2
+  \endverb
+  \field{pages}{203\bibrangedash 215}
+  \field{title}{Carbon dioxide in water and seawater: the solubility of a
+  non-ideal gas}
+  \verb{url}
+  \verb http://www.sciencedirect.com/science/article/pii/0304420374900152
+  \endverb
+  \field{volume}{2}
+  \verb{file}
+  \verb :Weiss_1974_MarineChemistry_solubilityco2.pdf:PDF
+  \endverb
+  \field{journaltitle}{Marine Chemistry 2}
+  \field{year}{1974}
+\endentry
+
+\entry{Yuan2004}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Yuan}{Y.}%
+     {Xiaojun}{X.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press ({CUP})}%
+  }
+  \strng{namehash}{YX1}
+  \strng{fullhash}{YX1}
+  \field{labelyear}{2004}
+  \field{sortinit}{Y}
+  \verb{doi}
+  \verb 10.1017/s0954102004002238
+  \endverb
+  \field{number}{4}
+  \field{pages}{415\bibrangedash 425}
+  \field{title}{{ENSO}-related impacts on Antarctic sea ice: a synthesis of
+  phenomenon and mechanisms}
+  \field{volume}{16}
+  \verb{file}
+  \verb :home/mpim/m300524/MSc_Thesis/Paper/Yuan_2004_Antarctic_Science_ensorel
+  \verb ated_impacts_on_antarctic_sea_ice_a_synthesis_of_phenomenon_and_mechani
+  \verb sms.pdf:PDF
+  \endverb
+  \field{journaltitle}{Antarctic Science}
+  \field{year}{2004}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \lossort

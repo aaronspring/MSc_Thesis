@@ -12,6 +12,21 @@
 %*******************************************************
 \input{classicthesis-config}
 
+\usepackage{graphicx}
+\usepackage{indentfirst}
+\graphicspath{{/home/mpim/m300524/MSc_Thesis/gfx/}}
+
+\newrobustcmd*{\parentexttrack}[1]{%
+  \begingroup
+  \blx@blxinit
+  \blx@setsfcodes
+  \blx@bibopenparen#1\blx@bibcloseparen
+  \endgroup}
+
+\AtEveryCite{%
+  \let\parentext=\parentexttrack%
+  \let\bibopenparen=\bibopenbracket%
+  \let\bibcloseparen=\bibclosebracket}
 
 %********************************************************************
 % Bibliographies
@@ -21,7 +36,7 @@
 %\bibliographystyle{apalike}
 %\addbibresource{SouthernOceanCarbonSink.bib}
 \bibliography{Paper/SouthernOceanCarbonSink_new.bib}
-
+%\bibliographystyle{abbrvnat}
 %********************************************************************
 % Hyphenation
 %*******************************************************
@@ -41,6 +56,7 @@
 %********************************************************************
 % Frontmatter
 %*******************************************************
+%\includegraphics[scale=1,page=2]{coffee.pdf}
 \include{FrontBackmatter/Titlepage}
 \cleardoublepage
 \include{FrontBackmatter/Abstract}
@@ -81,6 +97,7 @@
 % Other Stuff in the Back
 %*******************************************************
 \cleardoublepage\include{FrontBackmatter/Bibliography}
+\cleardoublepage\include{FrontBackmatter/Acknowledgments}
 \cleardoublepage\include{FrontBackmatter/Declaration}  
 %*******************************************************
 \end{document}

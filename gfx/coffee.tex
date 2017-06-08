@@ -1,0 +1,94 @@
+\documentclass{article}
+\usepackage{tikz}
+\usepackage{verbatim}
+\usetikzlibrary{arrows,shapes}
+
+\usepackage{coffee3}
+
+% 2. Personal data and user ad-hoc commands
+% ****************************************************************************************************
+\newcommand{\myTitle}{Decadal variations in the Southern Ocean carbon sink in MPI-ESM 100 ensemble simulations\xspace}
+\newcommand{\myName}{Aaron Spring\xspace}
+\newcommand{\myProf}{Prof. Dr. Norbert Frank\xspace}
+\newcommand{\mySecondProf}{Dr. Tatiana Ilyina\xspace}
+\newcommand{\mySecondProfInstitution}{Max-Planck-Institute for Meteorology, Hamburg, \\ {Marine Biogeochemistry} \xspace}
+\newcommand{\mySupervisor}{Dr. Tatiana Ilyina\xspace}
+\newcommand{\myFaculty}{Department of Physics and Astronomy\xspace}
+\newcommand{\myFacultyGerman}{Fakultät für Physik und Astronomie\xspace}
+\newcommand{\myDepartment}{Environmental Physics\xspace}
+\newcommand{\myDepartmentGerman}{Umweltphysik\xspace}
+\newcommand{\myUni}{University of Heidelberg\xspace}
+\newcommand{\myUniGerman}{Ruprecht-Karls-Universität Heidelberg\xspace}
+\newcommand{\myLocation}{Heidelberg\xspace}
+\newcommand{\myTime}{June 2017\xspace}
+\newcommand{\myThesisYear}{2017}
+\newcommand{\myBirthday}{14 February 1990\xspace}
+\newcommand{\myBirthdayGerman}{14. Februar 1990\xspace}
+\newcommand{\myBirthplace}{Frankfurt\xspace}
+
+\newcommand{\myVersion}{version 0.1\xspace}
+
+
+\begin{document}
+
+%
+% the first parameter is the transparency in the interval [0,1]
+% the second parameter is the scale.  normal scale is 1.
+% The third paramter is the angle in degrees in the interval [0,360]
+%
+\cofeA{0.7}{0.75}{2}
+\pagenumbering{gobble}
+    \begin{addmargin}%[-1cm]{-3cm}
+    \renewcommand{\baselinestretch}{2.00}
+    \begin{center}
+        \Large  
+
+		\myFaculty \\
+		\smallskip
+		
+		\large
+		\myUni
+
+        \hfill
+
+        \vfill
+
+    	\medskip
+		
+        \vfill
+		Master thesis \\ 
+		in Physics \\ 
+		submitted by \\ 
+		\myName \\ 
+		born in \myBirthplace  \\
+		\myThesisYear 
+        
+%        \vfill                      
+
+    \end{center}  
+  \end{addmargin}    
+
+  
+\clearpage
+\cofeA{0.7}{0.75}{2}  
+\begin{center}
+  \renewcommand{\baselinestretch}{2.00}
+  \Large \bfseries%\sffamily
+    \myTitle 
+    
+  \par
+  \vfill
+  \large\normalfont
+  This Master thesis has been carried out by \myName \\
+  at the institute of \myDepartment \\
+  under the supervision of \\
+  \myProf \\%(Frau/Herrn Prof./Priv.-Doz. Name Surname)
+  %% additionally insert second supervisor here if carrying out an
+  %% external diploma thesis. Reduce vspace in L. 44 accordingly.
+  and \\ 
+  \mySecondProf  \\ from \\ \mySecondProfInstitution 
+\end{center}\par
+\vspace{5\baselineskip}
+
+
+\end{document}
