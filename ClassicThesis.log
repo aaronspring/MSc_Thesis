@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2017.5.2)  8 JUN 2017 18:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2017.5.2)  26 JUN 2017 16:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -670,11 +670,11 @@ File: standard.bbx 2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
 \c@bbx:relatedcount=\count216
 \c@bbx:relatedtotal=\count217
 ))
-Package biblatex Info: Trying to load citation style 'authoryear-comp'...
-Package biblatex Info: ... file 'authoryear-comp.cbx' found.
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authoryear-comp.cbx
-File: authoryear-comp.cbx 2014/06/25 v2.9a biblatex citation style (PK/JW/AB)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
+File: authoryear.cbx 2014/06/25 v2.9a biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -682,11 +682,6 @@ Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
-Package biblatex Info: Redefining '\cites'.
-Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\footcites'.
-Package biblatex Info: Redefining '\footcitetexts'.
-Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -952,7 +947,7 @@ File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2014/09/06 1.5e listings configuration
 ))
-Package scrhack Info: loading listings hack on input line 168.
+Package scrhack Info: loading listings hack on input line 172.
 
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/listings.hak
 File: listings.hak 2013/12/19 v3.12 KOMA-Script package (hacking package listin
@@ -1091,7 +1086,7 @@ LaTeX Info: Redefining \pageref on input line 6369.
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of hyperref version, that doesn't
-(scrhack)             need that hack, on input line 197.
+(scrhack)             need that hack, on input line 201.
 
 
 Package hyperref Message: Driver: hpdftex.
@@ -1129,15 +1124,23 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \Gin@req@height=\dimen138
 \Gin@req@width=\dimen139
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 222.
-Package hyperref Info: Option `linktocpage' set `true' on input line 222.
-Package hyperref Info: Option `breaklinks' set `true' on input line 222.
-Package hyperref Info: Option `pageanchor' set `true' on input line 222.
-Package hyperref Info: Option `plainpages' set `false' on input line 222.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 222.
+Package hyperref Info: Option `colorlinks' set `true' on input line 226.
+Package hyperref Info: Option `linktocpage' set `true' on input line 226.
+Package hyperref Info: Option `breaklinks' set `true' on input line 226.
+Package hyperref Info: Option `pageanchor' set `true' on input line 226.
+Package hyperref Info: Option `plainpages' set `false' on input line 226.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 226.
 
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 222.
-Package hyperref Info: Option `hypertexnames' set `true' on input line 222.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 226.
+Package hyperref Info: Option `hypertexnames' set `true' on input line 226.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 226.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 226.
 
 (./classicthesis.sty
 Package: classicthesis 2015/09/06 v4.2 Typographic style for a classic-looking 
@@ -1410,11 +1413,6 @@ Package biblatex Info: ... file 'ClassicThesis.bbl' found.
  (./ClassicThesis.bbl
 
 Package biblatex Warning: BibTeX reported the following issues
-(biblatex)                with 'Abernathey2011':
-(biblatex)                - Invalid format of field 'month'.
-
-
-Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                with 'Bakker2014':
 (biblatex)                - Invalid format of field 'month'.
 
@@ -1430,7 +1428,17 @@ Package biblatex Warning: BibTeX reported the following issues
 
 
 Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Crutzen2002':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                with 'DeVries2017':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Deppeler2017':
 (biblatex)                - Invalid format of field 'month'.
 
 
@@ -1465,7 +1473,7 @@ Package biblatex Warning: BibTeX reported the following issues
 
 
 Package biblatex Warning: BibTeX reported the following issues
-(biblatex)                with 'Haumann2016':
+(biblatex)                with 'Hedemann2017':
 (biblatex)                - Invalid format of field 'month'.
 
 
@@ -1476,6 +1484,11 @@ Package biblatex Warning: BibTeX reported the following issues
 
 Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                with 'ilyinaletter2016':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Ito2010':
 (biblatex)                - Invalid format of field 'month'.
 
 
@@ -1495,12 +1508,17 @@ Package biblatex Warning: BibTeX reported the following issues
 
 
 Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Landschuetzer2013':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                with 'Landschuetzer2014':
 (biblatex)                - Invalid format of field 'month'.
 
 
 Package biblatex Warning: BibTeX reported the following issues
-(biblatex)                with 'Lauderdale2016':
+(biblatex)                with 'Landschuetzer2016':
 (biblatex)                - Invalid format of field 'month'.
 
 
@@ -1520,7 +1538,12 @@ Package biblatex Warning: BibTeX reported the following issues
 
 
 Package biblatex Warning: BibTeX reported the following issues
-(biblatex)                with 'MaierReimer1993':
+(biblatex)                with 'Maier-Reimer1993':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Marshall2012':
 (biblatex)                - Invalid format of field 'month'.
 
 
@@ -1530,12 +1553,22 @@ Package biblatex Warning: BibTeX reported the following issues
 
 
 Package biblatex Warning: BibTeX reported the following issues
-(biblatex)                with 'Nevison2016':
+(biblatex)                with 'Meredith2016':
 (biblatex)                - Invalid format of field 'month'.
 
 
 Package biblatex Warning: BibTeX reported the following issues
-(biblatex)                with 'Resplandy2015':
+(biblatex)                with 'Murphy2004':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Nevison2015':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Nevison2016':
 (biblatex)                - Invalid format of field 'month'.
 
 
@@ -1726,30 +1759,56 @@ Package microtype Info: Loading generic settings for font family
 \openout2 = `FrontBackmatter/Abstract.aux'.
 
 
-(./FrontBackmatter/Abstract.tex
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 23.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 23.
-) [5
+(./FrontBackmatter/Abstract.tex [5
 
-] [6
+
+
+]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 24.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 24.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 25.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 25.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 25.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 25.
+ [6
+
+
+
+]) [7] [8
 
 
 
 ]
 \openout2 = `FrontBackmatter/Contents.aux'.
 
- (./FrontBackmatter/Contents.tex
+
+(./FrontBackmatter/Contents.tex
 Package tocbasic Info: character protrusion at toc deactivated on input line 11
 .
-
-(./ClassicThesis.toc
+ (./ClassicThesis.toc
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/pplj/b/n' tried instead on input line 13.
+
+Overfull \hbox (2.46477pt too wide) in paragraph at lines 53--53
+ [][] []\T1/pplj/m/sc/10.95/80ls processes cor-re-spond-ing to multi-year trend
+s in 
+ []
+
+
+Overfull \hbox (10.88536pt too wide) in paragraph at lines 73--73
+ [][] []\T1/pplj/m/sc/10.95/80ls contribution of dif-fer-ent pro-cesses to mult
+i-year 
+ []
+
 )
 \tf@toc=\write6
 \openout6 = `ClassicThesis.toc'.
@@ -1759,11 +1818,11 @@ LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.95> not available
 1: chapter
 1: chapter
 1: section
-) [7
+) [9
 
 
 
-] [8
+] [10
 
 
 
@@ -1772,463 +1831,505 @@ LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.95> not available
 
  (./Chapters/Chapter01.tex
 Chapter 1.
-LaTeX Font Info:    Try loading font information for TS1+pplj on input line 21.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pplj.fd
-File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
-)
-Package acronym Info: Label `acro:SAM' newly defined as it shall be overridden
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+[1
+
+
+
+
+
+]
+Overfull \hbox (0.6553pt too wide) in paragraph at lines 28--30
+[]\T1/pplj/m/n/10.95 By forc-ing an ocean model with at-mo-spheric re-anal-y-si
+s data, []Loven-
+ []
+
+Package acronym Info: Label `acro:ESM' newly defined as it shall be overridden
 although it is yet undefined on input line 31.
- [1
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Overfull \hbox (1.881pt too wide) in paragraph at lines 34--35
+[]\T1/pplj/m/n/10.95 By us-ing a large en-sem-ble of 100 sim-u-la-tions based o
+n the [][]
+ []
+
+Package acronym Info: Label `acro:HAMOCC' newly defined as it shall be overridd
+en
+although it is yet undefined on input line 46.
+
+Overfull \hbox (0.3288pt too wide) in paragraph at lines 46--47
+\T1/pplj/m/n/10.95 in the South-ern Ocean car-bon sink in the ocean bio-geo-che
+m-i-cal model
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
+
+ []
+
+[2]) [3] [4
 
 
 
-
-
-]) [2]
+]
 \openout2 = `Chapters/Chapter02.aux'.
 
-
-(./Chapters/Chapter02.tex
+ (./Chapters/Chapter02.tex
 Chapter 2.
-LaTeX Font Info:    Try loading font information for T1+fvm on input line 12.
+Package acronym Info: Label `acro:MPI-ESM' newly defined as it shall be overrid
+den
+although it is yet undefined on input line 12.
+LaTeX Font Info:    Try loading font information for T1+fvm on input line 13.
 (/usr/share/texlive/texmf-dist/tex/latex/bera/t1fvm.fd
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 7.65005pt on input line 12.
+(Font)              scaled to size 7.65005pt on input line 13.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `fvm' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 6792) in paragraph at lines 12--12
+Underfull \hbox (badness 6792) in paragraph at lines 13--13
 [][]\T1/pplj/m/n/9 full source code: [][]$\T1/fvm/m/n/9 https : / / code . zmaw
  . de / projects / mpi-[]esm / repository / show /
  []
 
 
-Overfull \hbox (6.92885pt too wide) in paragraph at lines 11--13
-[]\T1/pplj/m/n/10.95 The Max-Planck-Institute for Me-te-o-rol-ogy Earth Sys-tem
- Model (MPI-
- []
-
-
-Overfull \hbox (1.8877pt too wide) in paragraph at lines 11--13
-[][] \T1/pplj/m/n/10.95 ver-sion 1.1.00p2 [] with a low-resolution con-fig-u-ra
--tion. Since
- []
-
-
-</home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf, id=215, 796.9775pt x 597.23125pt
+</home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf, id=234, 796.9775pt x 597.23125pt
 >
 File: /home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf Graphic file (type pdf)
  <use /home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf used on i
-nput line 20.
+nput line 21.
 (pdftex.def)             Requested size: 334.72826pt x 180.68852pt.
-Package acronym Info: Label `acro:MPI-ESM' newly defined as it shall be overrid
-den
-although it is yet undefined on input line 21.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (15.34874pt too wide) in paragraph at lines 29--33
-[][][] \T1/pplj/m/n/10.95 - a nam-ing com-bi-na-tion of Eu-ro-pean Cen-ter (EC)
- for Medium
+Overfull \hbox (8.42268pt too wide) in paragraph at lines 30--34
+[][][] \T1/pplj/m/n/10.95 is an gen-eral cir-cu-la-tion model for the at-mo-sph
+ere. [][]
  []
 
-
-Overfull \hbox (7.02374pt too wide) in paragraph at lines 29--33
-\T1/pplj/m/n/10.95 and mo-men-tum with [][]. The at-mo-sphere com-po-nent [][]6
-.3
- []
-
-[3
-
+[5
 
 
 
  </home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf>]
 Package acronym Info: Label `acro:MPIOM' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 38.
-Package acronym Info: Label `acro:HAMOCC' newly defined as it shall be overridd
-en
-although it is yet undefined on input line 49.
+although it is yet undefined on input line 39.
+Package acronym Info: Label `acro:MLD' newly defined as it shall be overridden
+although it is yet undefined on input line 44.
 
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
-LaTeX Warning: Citation 'Maier-Reimer1993' on page 4 undefined on input line 49
-.
-
-
-Overfull \hbox (42.35487pt too wide) in paragraph at lines 49--50
-\T1/pplj/m/n/10.95 model which sim-u-lates oceanic car-bon and nu-tri-ent cy-cl
-es [[];
  []
 
 
-Overfull \hbox (12.66936pt too wide) in paragraph at lines 49--50
-\T1/pplj/m/n/10.95 duce dis-tri-bu-tions of bio-geo-chem-i-cal pa-ram-e-ters ov
-er var-i-ous timescales
- []
-
-[4]
-</home/mpim/m300524/MSc_Thesis/gfx/HAMOCC_scheme_feedback_new.pdf, id=300, page
+</home/mpim/m300524/MSc_Thesis/gfx/HAMOCC_scheme_feedback_new.pdf, id=295, page
 =2, 722.7pt x 542.025pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/HAMOCC_scheme_feedback_new.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/HAMOCC_scheme_feedback_new.pdf, page 2>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/HAMOCC_scheme_feedba
-ck_new.pdf, page2 used on input line 65.
-(pdftex.def)             Requested size: 322.3101pt x 287.89658pt.
+ck_new.pdf, page2 used on input line 57.
+(pdftex.def)             Requested size: 327.77835pt x 292.78098pt.
+Package acronym Info: Label `acro:DIC' newly defined as it shall be overridden
+although it is yet undefined on input line 59.
+Package acronym Info: Label `acro:DOC' newly defined as it shall be overridden
+although it is yet undefined on input line 59.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[5] [6 </home/mpim/m300524/MSc_Thesis/gfx/HAMOCC_scheme_feedback_new.pdf>]
-Overfull \hbox (3.01978pt too wide) in paragraph at lines 90--91
-[]\T1/pplj/m/n/10.95 The chem-istry in [][] mod-els the car-bon-ate sys-tem and
- keeps
+[6] [7 </home/mpim/m300524/MSc_Thesis/gfx/HAMOCC_scheme_feedback_new.pdf>]
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
+
  []
 
-[7] [8]
-Overfull \hbox (10.44377pt too wide) in paragraph at lines 123--124
-[]\T1/pplj/m/n/10.95 The ini-tial state of the at-mo-sphere was slightly per-tu
-rbed by roundoff-
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
  []
 
+Package acronym Info: Label `acro:CESM' newly defined as it shall be overridden
+
+although it is yet undefined on input line 148.
+[9]
+Package acronym Info: Label `acro:GFDL' newly defined as it shall be overridden
+
+although it is yet undefined on input line 150.
 Package acronym Info: Label `acro:SOM-FFN' newly defined as it shall be overrid
 den
-although it is yet undefined on input line 142.
+although it is yet undefined on input line 167.
+Package acronym Info: Label `acro:SOCAT' newly defined as it shall be overridde
+n
+although it is yet undefined on input line 167.
 
-Overfull \hbox (3.63155pt too wide) in paragraph at lines 144--145
+Overfull \hbox (3.63155pt too wide) in paragraph at lines 169--170
 \T1/pplj/m/n/10.95 [[][]Rö-den-beck et al., [][]2015[][]]. Both those data prod
 -ucts agree on the decadal
  []
 
-[9]
-Overfull \hbox (19.53793pt too wide) in paragraph at lines 162--163
-[] []\T1/pplj/m/sc/10.95/80ls man-n-k-endall test for mono-tonic trends[] \T1/p
-plj/m/n/10.95 The Mann-Kendall
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
  []
 
-[10] [11]) [12]
-\openout2 = `Chapters/Chapter03.aux'.
+[10] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
 
- (./Chapters/Chapter03.tex
-Chapter 3.
-[13
+ []
 
+Package acronym Info: Label `acro:MPI-ESM LE' newly defined as it shall be over
+ridden
+although it is yet undefined on input line 219.
+Package acronym Info: Label `acro:SAM' newly defined as it shall be overridden
+although it is yet undefined on input line 235.
+Package acronym Info: Label `acro:SST' newly defined as it shall be overridden
+although it is yet undefined on input line 241.
+[12]) [13] [14
 
 
 
 ]
+\openout2 = `Chapters/Chapter03.aux'.
+
+ (./Chapters/Chapter03.tex
+Chapter 3.
+Package acronym Info: Label `acro:CMIP5' newly defined as it shall be overridde
+n
+although it is yet undefined on input line 13.
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Overfull \hbox (4.81819pt too wide) in paragraph at lines 30--34
+\T1/pplj/m/n/10.95 of car-bon up-take and out-gassing but in lower ab-so-lute v
+al-ues ([][]fig. 3.1c[][][]).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+[15
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+
 </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf, id
-=525, page=1, 614.295pt x 794.97pt>
+=605, page=1, 614.295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
 f Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
 , page 1>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
-intpp_ens_t1990s.pdf, page1 used on input line 49.
-(pdftex.def)             Requested size: 368.48831pt x 126.4998pt.
+intpp_ens_t1990s.pdf, page1 used on input line 54.
+(pdftex.def)             Requested size: 165.9641pt x 122.7162pt.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplj/m/sc/9'.
+(microtype)             Ignoring protrusion settings for this character.
 File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
 f Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
 , page 1>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
-intpp_ens_t1990s.pdf, page1 used on input line 49.
-(pdftex.def)             Requested size: 368.48831pt x 126.4998pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
-f Graphic file (type pdf)
+intpp_ens_t1990s.pdf, page1 used on input line 57.
+(pdftex.def)             Requested size: 160.55817pt x 122.7162pt.
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
-, page 1>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
-intpp_ens_t1990s.pdf, page1 used on input line 49.
-(pdftex.def)             Requested size: 368.48831pt x 126.4998pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
-f Graphic file (type pdf)
+Underfull \hbox (badness 7796) in paragraph at lines 57--57
+[][]|[][] $\U/zeur/m/n/9 ^^[[]$ \T1/pplj/m/n/9 CO$[]$ flux [] []
+ []
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
-, page 1>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
-intpp_ens_t1990s.pdf, page1 used on input line 49.
-(pdftex.def)             Requested size: 368.48831pt x 126.4998pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--58
+
+ []
+
 
 </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf, id
-=530, page=2, 614.295pt x 794.97pt>
+=610, page=2, 614.295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
 f Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
 , page 2>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
-intpp_ens_t1990s.pdf, page2 used on input line 50.
-(pdftex.def)             Requested size: 368.48831pt x 126.4998pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
-f Graphic file (type pdf)
+intpp_ens_t1990s.pdf, page2 used on input line 61.
+(pdftex.def)             Requested size: 165.9641pt x 122.7162pt.
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
-, page 2>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
-intpp_ens_t1990s.pdf, page2 used on input line 50.
-(pdftex.def)             Requested size: 368.48831pt x 126.4998pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
-f Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
-, page 2>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
-intpp_ens_t1990s.pdf, page2 used on input line 50.
-(pdftex.def)             Requested size: 368.48831pt x 126.4998pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
-f Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
-, page 2>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
-intpp_ens_t1990s.pdf, page2 used on input line 50.
-(pdftex.def)             Requested size: 368.48831pt x 126.4998pt.
-
-Overfull \hbox (32.48831pt too wide) in paragraph at lines 49--51
- [][] 
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[][]|[][] \T1/pplj/m/n/9 mean CO$[]$ flux [] []
  []
 
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
+f Graphic file (type pdf)
 
-Overfull \hbox (32.48831pt too wide) in paragraph at lines 49--51
- [] 
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
+, page 2>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
+intpp_ens_t1990s.pdf, page2 used on input line 64.
+(pdftex.def)             Requested size: 160.55817pt x 122.7162pt.
+
+Underfull \hbox (badness 6125) in paragraph at lines 64--64
+[][]|[][] $\U/zeur/m/n/9 ^^[[]$ \T1/pplj/m/n/9 CO$[]$ flux [] []
  []
 
-
-Overfull \hbox (5.58777pt too wide) in paragraph at lines 57--58
-[] []\T1/pplj/m/sc/10.95/80ls tem-po-ral evo-lu-tion of the mean state and in-t
-er-nal vari-
- []
-
-[14 </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
+[16 </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
 > </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf>]
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 63.
-
-
-Overfull \hbox (32.17416pt too wide) in paragraph at lines 62--64
-[] []\T1/pplj/m/sc/10.95/80ls tem-po-ral com-par-i-son to ob-ser-va-tional data
-[] \T1/pplj/m/n/10.95 The observational-
- []
-
-
-Overfull \hbox (5.64778pt too wide) in paragraph at lines 65--66
-[]\T1/pplj/m/n/10.95 The mod-eled in-ter-nal vari-abil-ity of an in-ter-ac-tive
- car-bon cy-cle would
- []
-
-
 </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015_tre
-nd_8.pdf, id=551, page=2, 614.295pt x 794.97pt>
+nd_8.pdf, id=638, page=2, 614.295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_201
 5_trend_8.pdf Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015
 _trend_8.pdf, page 2>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeserie
-s_ymjm_35S_1980_2015_trend_8.pdf, page2 used on input line 69.
-(pdftex.def)             Requested size: 174.00122pt x 332.12596pt.
- [15] [16 </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_198
-0_2015_trend_8.pdf>]
-Overfull \hbox (4.05774pt too wide) in paragraph at lines 105--106
-[] []\T1/pplj/m/sc/10.95/80ls spa-tial mean com-par-i-son to ob-ser-va-tional d
-ata[] \T1/pplj/m/n/10.95 The spa-
+s_ymjm_35S_1980_2015_trend_8.pdf, page2 used on input line 73.
+(pdftex.def)             Requested size: 178.77232pt x 331.0498pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
  []
 
 
-Overfull \hbox (1.3829pt too wide) in paragraph at lines 108--109
-[] []\T1/pplj/m/sc/10.95/80ls spa-tial dis-tri-bu-tion of in-ter-nal vari-abil-
-ity[] \T1/pplj/m/n/10.95 The decadal
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
  []
 
 
-Overfull \hbox (11.33827pt too wide) in paragraph at lines 111--112
-[] []\T1/pplj/m/sc/10.95/80ls spa-tial in-ter-nal vari-abil-ity com-par-i-son t
-o ob-ser-va-tional
+Overfull \hbox (13.08972pt too wide) in paragraph at lines 86--103
+[][] 
  []
 
 
-</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf, id=587, 614.
-295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf Graphic 
-file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_
-t1990s.pdf used on input line 117.
-(pdftex.def)             Requested size: 365.92743pt x 126.24387pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf Graphic 
-file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_
-t1990s.pdf used on input line 117.
-(pdftex.def)             Requested size: 365.92743pt x 126.24387pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf Graphic 
-file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_
-t1990s.pdf used on input line 117.
-(pdftex.def)             Requested size: 365.92743pt x 126.24387pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf Graphic 
-file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_
-t1990s.pdf used on input line 117.
-(pdftex.def)             Requested size: 365.92743pt x 126.24387pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf Graphic 
-file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_
-t1990s.pdf used on input line 118.
-(pdftex.def)             Requested size: 365.92743pt x 123.93893pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf Graphic 
-file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_
-t1990s.pdf used on input line 118.
-(pdftex.def)             Requested size: 365.92743pt x 123.93893pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf Graphic 
-file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_
-t1990s.pdf used on input line 118.
-(pdftex.def)             Requested size: 365.92743pt x 123.93893pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf Graphic 
-file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_
-t1990s.pdf used on input line 118.
-(pdftex.def)             Requested size: 365.92743pt x 123.93893pt.
-
-Overfull \hbox (29.92743pt too wide) in paragraph at lines 117--119
- [][] 
- []
-
-
-Overfull \hbox (29.92743pt too wide) in paragraph at lines 117--119
- [] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Overfull \hbox (5.58777pt too wide) in paragraph at lines 124--125
-[] []\T1/pplj/m/sc/10.95/80ls tem-po-ral evo-lu-tion of the mean state and in-t
-er-nal vari-
+Overfull \hbox (6.79507pt too wide) in paragraph at lines 108--109
+\T1/pplj/m/n/10.95 decade. Com-pared to [][]'s $\U/zeur/m/n/10.95 ^^[[]$\T1/ppl
+j/m/n/10.95 , both observation-based trends
  []
 
 [17
 
-]
-Overfull \hbox (2.50854pt too wide) in paragraph at lines 130--131
-\T1/pplj/m/n/10.95 strength-en-ing winds in-crease up-welling (see sec-tion [][
-]3.4[][]), which brings
+ </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015_tr
+end_8.pdf>]
+Overfull \hbox (4.13666pt too wide) in paragraph at lines 110--111
+[]\T1/pplj/m/n/10.95 As [][] sim-u-la-tions are forced with pre-scribed at-mo-s
+pheric
  []
 
 
-Overfull \hbox (13.26523pt too wide) in paragraph at lines 130--131
-\T1/pplj/m/n/10.95 gassing anoma-lies. This weak-ens the car-bon sink and vice 
-versa strength-
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+
+Overfull \hbox (6.52654pt too wide) in paragraph at lines 120--122
+\T1/pplj/m/n/10.95 high-lighted ex-treme CO$[]$ flux trends with mono-tonic be-
+hav-ior ([][]fig. 3.2[][][]).
+ []
+
+
+Overfull \hbox (2.45302pt too wide) in paragraph at lines 120--122
+\T1/pplj/m/n/10.95 those de-rived from observation-based es-ti-mates in the 199
+0s and 2000s
+ []
+
+
+Overfull \hbox (4.34729pt too wide) in paragraph at lines 120--122
+\T1/pplj/m/n/10.95 more strongly ex-posed to the forced trend and likely dom-i-
+nated strong
+ []
+
+[18] [19]
+Package acronym Info: Label `acro:SLP' newly defined as it shall be overridden
+although it is yet undefined on input line 143.
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+Package acronym Info: Label `acro:NCEP' newly defined as it shall be overridden
+
+although it is yet undefined on input line 146.
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+Package acronym Info: Label `acro:ENSO' newly defined as it shall be overridden
+
+although it is yet undefined on input line 151.
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf, id=714, page
+=1, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf Graphic 
+file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf, page 1>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_
+t1990s.pdf, page1 used on input line 159.
+(pdftex.def)             Requested size: 174.69962pt x 126.32997pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf Graphic 
+file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf, page 1>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_
+t1990s.pdf, page1 used on input line 162.
+(pdftex.def)             Requested size: 161.89598pt x 126.32997pt.
+
+Overfull \hbox (0.5956pt too wide) in paragraph at lines 159--163
+[][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--163
+
+ []
+
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf Graphic 
+file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf, page 1>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_
+t1990s.pdf, page1 used on input line 166.
+(pdftex.def)             Requested size: 171.85417pt x 133.44312pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf Graphic 
+file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf, page 1>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_
+t1990s.pdf, page1 used on input line 169.
+(pdftex.def)             Requested size: 161.89598pt x 133.44312pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
  []
 
 
 </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015_tre
-nd_8.pdf, id=614, page=4, 614.295pt x 794.97pt>
+nd_8.pdf, id=748, page=4, 614.295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_201
 5_trend_8.pdf Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015
 _trend_8.pdf, page 4>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeserie
-s_ymjm_35S_1980_2015_trend_8.pdf, page4 used on input line 139.
-(pdftex.def)             Requested size: 174.00122pt x 332.12596pt.
+s_ymjm_35S_1980_2015_trend_8.pdf, page4 used on input line 182.
+(pdftex.def)             Requested size: 178.77232pt x 331.0498pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[18 </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf>]
-[19 </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015
-_trend_8.pdf>]
-Overfull \hbox (0.32378pt too wide) in paragraph at lines 163--165
-[] []\T1/pplj/m/sc/10.95/80ls spa-tial mean com-par-i-son to ob-ser-va-tional d
-ata[] \T1/pplj/m/n/10.95 To eval-
- []
-
-
-Overfull \hbox (2.57803pt too wide) in paragraph at lines 163--165
-[][] \T1/pplj/m/n/10.95 un-der-es-ti-mates the phos-phate con-cen-tra-tion by 2
-5%. These
- []
-
-
-Overfull \hbox (21.4761pt too wide) in paragraph at lines 167--168
-[] []\T1/pplj/m/sc/10.95/80ls spa-tial dis-tri-bu-tion of in-ter-nal vari-abil-
-ity[] \T1/pplj/m/n/10.95 In-ter-nal decadal
  []
 
 [20
 
-]
-</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf, id
-=662, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
-f Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
->
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
-intpp_ens_t1990s.pdf used on input line 171.
-(pdftex.def)             Requested size: 368.48831pt x 144.42479pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
-f Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
->
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
-intpp_ens_t1990s.pdf used on input line 171.
-(pdftex.def)             Requested size: 368.48831pt x 144.42479pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
-f Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
->
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
-intpp_ens_t1990s.pdf used on input line 171.
-(pdftex.def)             Requested size: 368.48831pt x 144.42479pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
-f Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
->
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
-intpp_ens_t1990s.pdf used on input line 171.
-(pdftex.def)             Requested size: 368.48831pt x 144.42479pt.
-
-Overfull \hbox (32.48831pt too wide) in paragraph at lines 171--172
- [][] 
+] [21 </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf>]
+[22 </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015
+_trend_8.pdf>]
+Overfull \hbox (0.7776pt too wide) in paragraph at lines 202--203
+\T1/pplj/m/n/10.95 to-pog-ra-phy leads to first-order zon-ally sym-met-ric con-
+straints for light
  []
 
 
-</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, id=667,
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+
+ []
+
+Package acronym Info: Label `acro:WOA' newly defined as it shall be overridden
+although it is yet undefined on input line 209.
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+
+ []
+
+[23
+
+]
+</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf, id
+=840, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
+f Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
+>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
+intpp_ens_t1990s.pdf used on input line 219.
+(pdftex.def)             Requested size: 169.45883pt x 133.57968pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
+f Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
+>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
+intpp_ens_t1990s.pdf used on input line 222.
+(pdftex.def)             Requested size: 166.69873pt x 133.57968pt.
+
+Underfull \hbox (badness 6978) in paragraph at lines 222--222
+[][]|[][] [][] $\U/zeur/m/n/9 ^^[[]$ [] [] [] []
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, id=849,
  page=3, 614.295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf Gra
 phic file (type pdf)
@@ -2236,182 +2337,201 @@ phic file (type pdf)
 <use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, pag
 e 3>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient
-_comparison.pdf, page3 used on input line 178.
-(pdftex.def)             Requested size: 343.81377pt x 143.59384pt.
+_comparison.pdf, page3 used on input line 230.
+(pdftex.def)             Requested size: 153.79884pt x 152.86002pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf Gra
 phic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, pag
 e 3>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient
-_comparison.pdf, page3 used on input line 178.
-(pdftex.def)             Requested size: 343.81377pt x 143.59384pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf Gra
-phic file (type pdf)
+_comparison.pdf, page3 used on input line 233.
+(pdftex.def)             Requested size: 189.47888pt x 152.86002pt.
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, pag
-e 3>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient
-_comparison.pdf, page3 used on input line 178.
-(pdftex.def)             Requested size: 343.81377pt x 143.59384pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf Gra
-phic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, pag
-e 3>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient
-_comparison.pdf, page3 used on input line 178.
-(pdftex.def)             Requested size: 343.81377pt x 143.59384pt.
-
-Overfull \hbox (7.81377pt too wide) in paragraph at lines 178--179
- [][] 
+Underfull \hbox (badness 3792) in paragraph at lines 233--233
+[][]|[][] \T1/pplj/m/n/9 sur-face ni-trate mean [] [] [] [] []
  []
 
 
-Overfull \hbox (5.58777pt too wide) in paragraph at lines 186--187
-[] []\T1/pplj/m/sc/10.95/80ls tem-po-ral evo-lu-tion of the mean state and in-t
-er-nal vari-
+Overfull \hbox (7.27773pt too wide) in paragraph at lines 230--233
+ [][][][] 
  []
 
-[21 </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
+[24 </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
 > </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf>]
-Overfull \hbox (2.18245pt too wide) in paragraph at lines 191--192
-[] []\T1/pplj/m/sc/10.95/80ls tem-po-ral evo-lu-tion of ex-treme co$[]$ flux tr
-ends[] \T1/pplj/m/n/10.95 The neg-
- []
-
-
 </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015_tre
-nd_8.pdf, id=700, page=3, 614.295pt x 794.97pt>
+nd_8.pdf, id=883, page=3, 614.295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_201
 5_trend_8.pdf Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015
 _trend_8.pdf, page 3>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeserie
-s_ymjm_35S_1980_2015_trend_8.pdf, page3 used on input line 205.
-(pdftex.def)             Requested size: 174.00122pt x 332.12596pt.
+s_ymjm_35S_1980_2015_trend_8.pdf, page3 used on input line 244.
+(pdftex.def)             Requested size: 178.77232pt x 331.0498pt.
+Package acronym Info: Label `acro:INTPP' newly defined as it shall be overridde
+n
+although it is yet undefined on input line 244.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[22] [23 </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980
-_2015_trend_8.pdf>]
-Overfull \hbox (6.31049pt too wide) in paragraph at lines 219--222
-[] []\T1/pplj/m/sc/10.95/80ls spa-tial dis-tri-bu-tion in the mean state and in
--ter-nal vari-
+Underfull \hbox (badness 2617) in paragraph at lines 245--245
+[][]|\T1/pplj/m/n/10 Tem-po-ral evo-lu-tion of the in-te-grated pri-mary pro-du
+c-tion
  []
 
 
-</home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, id=726, page=4, 845.1575pt x 597.2
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+[25 </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015
+_trend_8.pdf>] [26]
+Package acronym Info: Label `acro:CDW' newly defined as it shall be overridden
+although it is yet undefined on input line 274.
+Package acronym Info: Label `acro:AAIW' newly defined as it shall be overridden
+
+although it is yet undefined on input line 274.
+Package acronym Info: Label `acro:SAMW' newly defined as it shall be overridden
+
+although it is yet undefined on input line 274.
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
+
+
+Overfull \hbox (6.53093pt too wide) in paragraph at lines 279--280
+\T1/pplj/m/n/10.95 ocean over-turn-ing cir-cu-la-tion. Due to dif-fer-ent ver-t
+i-cal ve-loc-ity regimes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, id=938, page=4, 845.1575pt x 597.2
 3125pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf Graphic file (type pdf)
  <use /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page 4>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page4 used
- on input line 232.
-(pdftex.def)             Requested size: 362.39238pt x 188.08875pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page 4>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page4 used
- on input line 232.
+ on input line 287.
 (pdftex.def)             Requested size: 362.39238pt x 188.08875pt.
 
-</home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, id=729, page=1, 845.1575pt x 597.2
+</home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, id=941, page=1, 845.1575pt x 597.2
 3125pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf Graphic file (type pdf)
  <use /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page 1>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page1 used
- on input line 233.
-(pdftex.def)             Requested size: 370.07443pt x 188.08875pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page 1>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page1 used
- on input line 233.
+ on input line 290.
 (pdftex.def)             Requested size: 370.07443pt x 188.08875pt.
 
-Overfull \hbox (26.39238pt too wide) in paragraph at lines 232--235
+Overfull \hbox (26.39238pt too wide) in paragraph at lines 287--290
  [][] 
  []
 
 
-Overfull \hbox (34.07443pt too wide) in paragraph at lines 232--235
- [] 
+Overfull \hbox (34.07443pt too wide) in paragraph at lines 287--290
+ [][] 
  []
 
+Package acronym Info: Label `acro:AABW' newly defined as it shall be overridden
+
+although it is yet undefined on input line 291.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[24
 
-] [25 </home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf> </home/mpim/m300524/MSc_Thes
-is/gfx/UOOC.pdf>]
-</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, id=786, pa
-ge=1, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf Graphi
-c file (type pdf)
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, page 1
->
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_co
-mparison.pdf, page1 used on input line 263.
-(pdftex.def)             Requested size: 347.62323pt x 148.22693pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf Graphi
-c file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, page 1
->
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_co
-mparison.pdf, page1 used on input line 263.
-(pdftex.def)             Requested size: 347.62323pt x 148.22693pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf Graphi
-c file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, page 1
->
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_co
-mparison.pdf, page1 used on input line 263.
-(pdftex.def)             Requested size: 347.62323pt x 148.22693pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf Graphi
-c file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, page 1
->
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_co
-mparison.pdf, page1 used on input line 263.
-(pdftex.def)             Requested size: 347.62323pt x 148.22693pt.
-
-Overfull \hbox (11.62323pt too wide) in paragraph at lines 263--264
- [][] 
  []
 
-) [26 </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf>]
+[27
+
+] [28 </home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf> </home/mpim/m300524/MSc_Thes
+is/gfx/UOOC.pdf>]
+Package acronym Info: Label `acro:ACC' newly defined as it shall be overridden
+although it is yet undefined on input line 315.
+
+</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, id=1033, p
+age=1, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf Graphi
+c file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, page 1
+>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_co
+mparison.pdf, page1 used on input line 323.
+(pdftex.def)             Requested size: 155.1135pt x 152.86002pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf Graphi
+c file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, page 1
+>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_co
+mparison.pdf, page1 used on input line 326.
+(pdftex.def)             Requested size: 189.47888pt x 152.86002pt.
+
+Overfull \hbox (8.59238pt too wide) in paragraph at lines 323--326
+ [][][][] 
+ []
+
+) [29 </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf>]
+[30
+
+
+
+]
 \openout2 = `Chapters/Chapter04.aux'.
 
-
-(./Chapters/Chapter04.tex
+ (./Chapters/Chapter04.tex
 Chapter 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 2.
+(hyperref)                removing `math shift' on input line 3.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 2.
+(hyperref)                removing `subscript' on input line 3.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 2.
+(hyperref)                removing `math shift' on input line 3.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
+ []
+
+
+Overfull \hbox (5.85503pt too wide) in paragraph at lines 20--21
+[]\T1/pplj/m/n/10.95 In [][] I also find the re-verse case of weak-en-ing and n
+orthward-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+[31
+
+
+
+]
+Overfull \hbox (1.39551pt too wide) in paragraph at lines 22--23
+\T1/pplj/m/n/10.95 on ocean cir-cu-la-tion. Though the parametrized ed-dies in 
+[][]
  []
 
 
 </home/mpim/m300524/MSc_Thesis/gfx/EGU_new_SAM_Scatter_trends_bands_ensanom_co2
-flux_vs_SAM_n1800_1980_1997_trend8.pdf, id=818, page=1, 614.295pt x 794.97pt>
+flux_vs_SAM_n1800_1980_1997_trend8.pdf, id=1116, page=1, 614.295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/EGU_new_SAM_Scatter_trends_bands_ensano
 m_co2flux_vs_SAM_n1800_1980_1997_trend8.pdf Graphic file (type pdf)
 
@@ -2419,808 +2539,756 @@ m_co2flux_vs_SAM_n1800_1980_1997_trend8.pdf Graphic file (type pdf)
 _co2flux_vs_SAM_n1800_1980_1997_trend8.pdf, page 1>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/EGU_new_SAM_Scatter_
 trends_bands_ensanom_co2flux_vs_SAM_n1800_1980_1997_trend8.pdf, page1 used on i
-nput line 21.
+nput line 30.
 (pdftex.def)             Requested size: 281.51366pt x 369.4334pt.
 
-Overfull \hbox (33.4334pt too wide) in paragraph at lines 21--22
+Overfull \hbox (36.61984pt too wide) in paragraph at lines 30--33
  [][] 
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Overfull \hbox (27.89821pt too wide) has occurred while \output is active
+[]|[]|  
+ []
 
-[27
-
-
-
-
-]
-Overfull \hbox (3.64383pt too wide) in paragraph at lines 31--32
+[32 </home/mpim/m300524/MSc_Thesis/gfx/EGU_new_SAM_Scatter_trends_bands_ensanom
+_co2flux_vs_SAM_n1800_1980_1997_trend8.pdf>]
+Overfull \hbox (3.64383pt too wide) in paragraph at lines 39--40
 []\T1/pplj/m/n/10.95 The anal-y-sis pre-sented here in-volves 8-year trends for
  rea-sons stated
  []
 
-[28 </home/mpim/m300524/MSc_Thesis/gfx/EGU_new_SAM_Scatter_trends_bands_ensanom
-_co2flux_vs_SAM_n1800_1980_1997_trend8.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
+Overfull \hbox (50.90381pt too wide) has occurred while \output is active
+ []|[]|
+ []
+
+[33]
+Overfull \hbox (1.67484pt too wide) in paragraph at lines 50--52
+\T1/pplj/m/n/10.95 dent of wind speed and sol-u-bil-ity [[][]Loven-duski et al.
+, [][]2015[][]]. pCO$[]$
  []
 
 
-</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetze
-r_overview.pdf, id=849, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 53.
-(pdftex.def)             Requested size: 158.77652pt x 115.79843pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 53.
-(pdftex.def)             Requested size: 158.77652pt x 115.79843pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 54.
-(pdftex.def)             Requested size: 161.96693pt x 116.08698pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 54.
-(pdftex.def)             Requested size: 161.96693pt x 116.08698pt.
- [29
-
- </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetz
-er_overview.pdf>]
-Overfull \hbox (22.49345pt too wide) in paragraph at lines 69--70
-[]\T1/pplj/m/n/10.95 The dif-fer-ence be-tween the par-tial pres-sure of CO$[]$
- in oceanic pCO$[]$
- []
-
-
-Overfull \hbox (1.94946pt too wide) in paragraph at lines 69--70
-\T1/pplj/m/n/10.95 non-thermal trend ap-prox-i-mately add up to the trends in p
-CO$[]$ [[][]Land-
- []
-
-
-Overfull \hbox (3.55974pt too wide) in paragraph at lines 71--73
-\T1/pplj/m/n/10.95 changes are stronger in the sum-mer sea-son, es-pe-cially th
-e non-thermal
- []
-
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 76.
-(pdftex.def)             Requested size: 351.98297pt x 129.82416pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 76.
-(pdftex.def)             Requested size: 351.98297pt x 129.82416pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 76.
-(pdftex.def)             Requested size: 351.98297pt x 129.82416pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 76.
-(pdftex.def)             Requested size: 351.98297pt x 129.82416pt.
-
-Overfull \hbox (15.98297pt too wide) in paragraph at lines 76--77
- [][] 
- []
-
-[30
-
-]
-Overfull \hbox (8.34224pt too wide) in paragraph at lines 88--89
-\T1/pplj/m/n/10.95 along its over-turn-ing path-way (fig. [][]4.5[][]). In-ten-
-si-fied up-welling of carbon-
- []
-
-
-</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_overvi
-ew.pdf, id=900, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_o
-verview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_ov
-erview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_ekman_overview.pdf used on input line 95.
-(pdftex.def)             Requested size: 170.18523pt x 97.11824pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_o
-verview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_ov
-erview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_ekman_overview.pdf used on input line 95.
-(pdftex.def)             Requested size: 170.18523pt x 97.11824pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_o
-verview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_ov
-erview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_ekman_overview.pdf used on input line 96.
-(pdftex.def)             Requested size: 162.57408pt x 86.46292pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_o
-verview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_ov
-erview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_ekman_overview.pdf used on input line 96.
-(pdftex.def)             Requested size: 162.57408pt x 86.46292pt.
-
-</home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, id=905, page=2, 845.1575pt x 597.2
-3125pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf Graphic file (type pdf)
- <use /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page 2>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page2 used
- on input line 105.
-(pdftex.def)             Requested size: 351.3787pt x 175.54991pt.
-
-Overfull \hbox (15.3787pt too wide) in paragraph at lines 105--107
- [][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[31
-
- </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_overv
-iew.pdf>] [32 </home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 123--126
-
- []
-
-[33
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 136--138
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
 
 </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overvie
-w_summer.pdf, id=984, 614.295pt x 794.97pt>
+w_co2.pdf, id=1157, 614.295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
+erview_co2.pdf Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_summer.pdf>
+rview_co2.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 146.
-(pdftex.def)             Requested size: 163.27522pt x 94.56192pt.
+ive_trend_8_obgc_overview_co2.pdf used on input line 62.
+(pdftex.def)             Requested size: 171.55597pt x 127.45395pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
+erview_co2.pdf Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_summer.pdf>
+rview_co2.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 146.
-(pdftex.def)             Requested size: 163.27522pt x 94.56192pt.
+ive_trend_8_obgc_overview_co2.pdf used on input line 65.
+(pdftex.def)             Requested size: 171.55597pt x 124.14647pt.
+
+Overfull \hbox (7.11194pt too wide) in paragraph at lines 62--65
+ [][][][] 
+ []
+
 File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
+erview_co2.pdf Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_summer.pdf>
+rview_co2.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 147.
-(pdftex.def)             Requested size: 163.27522pt x 92.108pt.
+ive_trend_8_obgc_overview_co2.pdf used on input line 69.
+(pdftex.def)             Requested size: 171.55597pt x 125.24942pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
+erview_co2.pdf Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_summer.pdf>
+rview_co2.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 147.
-(pdftex.def)             Requested size: 163.27522pt x 92.108pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
+ive_trend_8_obgc_overview_co2.pdf used on input line 72.
+(pdftex.def)             Requested size: 172.43816pt x 124.14645pt.
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 148.
-(pdftex.def)             Requested size: 163.27522pt x 92.10799pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 148.
-(pdftex.def)             Requested size: 163.27522pt x 92.10799pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 149.
-(pdftex.def)             Requested size: 163.27522pt x 91.29019pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 149.
-(pdftex.def)             Requested size: 163.27522pt x 91.29019pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 150.
-(pdftex.def)             Requested size: 163.27522pt x 93.74411pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 150.
-(pdftex.def)             Requested size: 163.27522pt x 93.74411pt.
-
-</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpunkt_
-mixing_overview.pdf, id=995, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerp
-unkt_mixing_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpu
-nkt_mixing_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 151.
-(pdftex.def)             Requested size: 163.27522pt x 92.92632pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerp
-unkt_mixing_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpu
-nkt_mixing_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 151.
-(pdftex.def)             Requested size: 163.27522pt x 92.92632pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerp
-unkt_mixing_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpu
-nkt_mixing_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 152.
-(pdftex.def)             Requested size: 163.27522pt x 93.58035pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerp
-unkt_mixing_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpu
-nkt_mixing_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 152.
-(pdftex.def)             Requested size: 163.27522pt x 93.58035pt.
-
-Underfull \hbox (badness 3482) in paragraph at lines 146--153
-[][] []
+Overfull \hbox (7.99413pt too wide) in paragraph at lines 69--72
+ [][][][] 
  []
 
 
-Underfull \hbox (badness 3482) in paragraph at lines 146--153
-[] []
+Overfull \hbox (27.89821pt too wide) has occurred while \output is active
+[]|[]|  
  []
 
+[34
 
-Underfull \hbox (badness 3482) in paragraph at lines 146--153
-[] []
+ </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overvi
+ew_co2.pdf>]
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_co2.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_co2.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_co2.pdf used on input line 93.
+(pdftex.def)             Requested size: 171.55597pt x 125.91022pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_co2.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_co2.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_co2.pdf used on input line 96.
+(pdftex.def)             Requested size: 175.96645pt x 123.0442pt.
+
+Overfull \hbox (11.52242pt too wide) in paragraph at lines 93--96
+ [][][][] 
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[34] [35 </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obg
-c_overview_summer.pdf> </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positi
-ve_trend_8_schwerpunkt_mixing_overview.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 167--168
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--173
-
- []
-
-
-</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetze
-r_overview.pdf, id=1029, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 182.
-(pdftex.def)             Requested size: 158.77652pt x 115.79843pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 182.
-(pdftex.def)             Requested size: 158.77652pt x 115.79843pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 183.
-(pdftex.def)             Requested size: 161.96693pt x 116.08698pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 183.
-(pdftex.def)             Requested size: 161.96693pt x 116.08698pt.
- [36
-
- </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetz
-er_overview.pdf>]
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 199.
-(pdftex.def)             Requested size: 351.98297pt x 129.82416pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 199.
-(pdftex.def)             Requested size: 351.98297pt x 129.82416pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 199.
-(pdftex.def)             Requested size: 351.98297pt x 129.82416pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 199.
-(pdftex.def)             Requested size: 351.98297pt x 129.82416pt.
-
-Overfull \hbox (15.98297pt too wide) in paragraph at lines 199--200
-[][] 
- []
-
-[37
+[35
 
 ]
-</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_overvi
-ew.pdf, id=1071, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_o
+Overfull \hbox (5.5416pt too wide) in paragraph at lines 108--109
+\T1/pplj/m/n/10.95 45$[]$S, whereas open-ocean con-vec-tion causes the un-re-al
+-is-tic zonal [][]
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_overvi
+ew.pdf, id=1238, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_o
 verview.pdf Graphic file (type pdf)
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_ov
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_ov
 erview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_ekman_overview.pdf used on input line 219.
-(pdftex.def)             Requested size: 170.18523pt x 97.11824pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_o
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_ekman_overview.pdf used on input line 116.
+(pdftex.def)             Requested size: 170.28911pt x 119.92787pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_o
 verview.pdf Graphic file (type pdf)
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_ov
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_ov
 erview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_ekman_overview.pdf used on input line 219.
-(pdftex.def)             Requested size: 170.18523pt x 97.11824pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_o
-verview.pdf Graphic file (type pdf)
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_ekman_overview.pdf used on input line 119.
+(pdftex.def)             Requested size: 180.95885pt x 121.20888pt.
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_ov
-erview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_ekman_overview.pdf used on input line 220.
-(pdftex.def)             Requested size: 162.57408pt x 86.46292pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_o
-verview.pdf Graphic file (type pdf)
+Overfull \hbox (15.24796pt too wide) in paragraph at lines 116--119
+ [][][][] 
+ []
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_ov
-erview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_ekman_overview.pdf used on input line 220.
-(pdftex.def)             Requested size: 162.57408pt x 86.46292pt.
 
-</home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, id=1076, page=3, 845.1575pt x 597.
+</home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, id=1241, page=2, 845.1575pt x 597.
 23125pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf Graphic file (type pdf)
- <use /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page 3>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page3 used
- on input line 229.
-(pdftex.def)             Requested size: 351.3787pt x 182.72003pt.
+ <use /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page 2>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page2 used
+ on input line 128.
+(pdftex.def)             Requested size: 351.3787pt x 175.54991pt.
 
-Overfull \hbox (15.3787pt too wide) in paragraph at lines 229--232
+Overfull \hbox (18.56514pt too wide) in paragraph at lines 128--130
  [][] 
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Overfull \hbox (27.89821pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+[36
+
+ </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_overv
+iew.pdf>] [37 </home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--152
+
+ []
+
+
+Overfull \hbox (27.89821pt too wide) has occurred while \output is active
+[]|[]|  
+ []
 
 [38
 
- </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_overv
-iew.pdf>] [39 </home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 251--254
+]
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
 
  []
 
 
-Overfull \hbox (11.2182pt too wide) in paragraph at lines 261--265
-\T1/pplj/m/n/10.95 Ad-di-tion-ally, the cool-ing slows down phy-to-plank-ton gr
-owth (fig. [][]4.11[][]d). 
+</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overvie
+w_summer.pdf, id=1345, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 169.
+(pdftex.def)             Requested size: 175.96645pt x 124.14647pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 172.
+(pdftex.def)             Requested size: 175.96645pt x 124.14645pt.
+
+Overfull \hbox (15.93289pt too wide) in paragraph at lines 169--172
+ [][][][] 
+ []
+
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 176.
+(pdftex.def)             Requested size: 175.96645pt x 123.0442pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 179.
+(pdftex.def)             Requested size: 175.96645pt x 126.35168pt.
+
+Overfull \hbox (15.93289pt too wide) in paragraph at lines 176--179
+ [][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 261--265
+</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpunkt_
+mixing_overview.pdf, id=1351, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerp
+unkt_mixing_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpu
+nkt_mixing_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 183.
+(pdftex.def)             Requested size: 175.96645pt x 125.24942pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerp
+unkt_mixing_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpu
+nkt_mixing_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 186.
+(pdftex.def)             Requested size: 175.96645pt x 126.13097pt.
+
+Overfull \hbox (15.93289pt too wide) in paragraph at lines 183--186
+ [][][][] 
+ []
+
+[39]
+Overfull \hbox (27.89821pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+[40 </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_summer.pdf> </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_tr
+end_8_schwerpunkt_mixing_overview.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
 
  []
 
 
 </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overvie
-w_summer.pdf, id=1132, 614.295pt x 794.97pt>
+w_co2.pdf, id=1390, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2.pdf used on input line 213.
+(pdftex.def)             Requested size: 171.55597pt x 127.45395pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2.pdf used on input line 216.
+(pdftex.def)             Requested size: 171.55597pt x 124.14647pt.
+
+Overfull \hbox (7.11194pt too wide) in paragraph at lines 213--216
+ [][][][] 
+ []
+
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2.pdf used on input line 220.
+(pdftex.def)             Requested size: 171.55597pt x 125.24942pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2.pdf used on input line 223.
+(pdftex.def)             Requested size: 172.43816pt x 124.14645pt.
+
+Overfull \hbox (7.99413pt too wide) in paragraph at lines 220--223
+ [][][][] 
+ []
+
+[41
+
+ </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overvi
+ew_co2.pdf>]
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2.pdf used on input line 242.
+(pdftex.def)             Requested size: 171.55597pt x 125.91022pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2.pdf used on input line 245.
+(pdftex.def)             Requested size: 175.96645pt x 123.0442pt.
+
+Overfull \hbox (11.52242pt too wide) in paragraph at lines 242--245
+ [][][][] 
+ []
+
+
+Overfull \hbox (27.89821pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+[42
+
+]
+</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_overvi
+ew.pdf, id=1454, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_o
+verview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_ov
+erview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_ekman_overview.pdf used on input line 264.
+(pdftex.def)             Requested size: 170.28911pt x 119.92787pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_o
+verview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_ov
+erview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_ekman_overview.pdf used on input line 267.
+(pdftex.def)             Requested size: 180.95885pt x 121.20888pt.
+
+Overfull \hbox (15.24796pt too wide) in paragraph at lines 264--267
+ [][][][] 
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, id=1457, page=3, 845.1575pt x 597.
+23125pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf Graphic file (type pdf)
+ <use /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page 3>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page3 used
+ on input line 276.
+(pdftex.def)             Requested size: 351.3787pt x 182.72003pt.
+
+Overfull \hbox (18.56514pt too wide) in paragraph at lines 276--279
+ [][] 
+ []
+
+
+Overfull \hbox (0.66417pt too wide) in paragraph at lines 284--285
+\T1/pplj/m/n/10.95 al-ized wind-change stud-ies [[][]Laud-erdale et al., [][]20
+13[][]]. The in-verse mod-
+ []
+
+[43
+
+ </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_overv
+iew.pdf>]
+Overfull \hbox (27.89821pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+[44 </home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 307--309
+
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overvie
+w_summer.pdf, id=1518, 614.295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
 erview_summer.pdf Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
 rview_summer.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 270.
-(pdftex.def)             Requested size: 163.27522pt x 94.56192pt.
+ive_trend_8_obgc_overview_summer.pdf used on input line 319.
+(pdftex.def)             Requested size: 175.96645pt x 124.14647pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
 erview_summer.pdf Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
 rview_summer.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 270.
-(pdftex.def)             Requested size: 163.27522pt x 94.56192pt.
+ive_trend_8_obgc_overview_summer.pdf used on input line 322.
+(pdftex.def)             Requested size: 175.96645pt x 124.14645pt.
+
+Overfull \hbox (15.93289pt too wide) in paragraph at lines 319--322
+ [][][][] 
+ []
+
 File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
 erview_summer.pdf Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
 rview_summer.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 271.
-(pdftex.def)             Requested size: 163.27522pt x 92.108pt.
+ive_trend_8_obgc_overview_summer.pdf used on input line 326.
+(pdftex.def)             Requested size: 175.96645pt x 123.0442pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
 erview_summer.pdf Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
 rview_summer.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 271.
-(pdftex.def)             Requested size: 163.27522pt x 92.108pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
+ive_trend_8_obgc_overview_summer.pdf used on input line 329.
+(pdftex.def)             Requested size: 175.96645pt x 126.35168pt.
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 272.
-(pdftex.def)             Requested size: 163.27522pt x 92.10799pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
+Overfull \hbox (15.93289pt too wide) in paragraph at lines 326--329
+ [][][][] 
+ []
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 272.
-(pdftex.def)             Requested size: 163.27522pt x 92.10799pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 273.
-(pdftex.def)             Requested size: 163.27522pt x 91.29019pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 273.
-(pdftex.def)             Requested size: 163.27522pt x 91.29019pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 274.
-(pdftex.def)             Requested size: 163.27522pt x 93.74411pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 274.
-(pdftex.def)             Requested size: 163.27522pt x 93.74411pt.
 
 </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerpunkt_
-mixing_overview.pdf, id=1143, 614.295pt x 794.97pt>
+mixing_overview.pdf, id=1524, 614.295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerp
 unkt_mixing_overview.pdf Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerpu
 nkt_mixing_overview.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 275.
-(pdftex.def)             Requested size: 163.27522pt x 92.92632pt.
+ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 333.
+(pdftex.def)             Requested size: 175.96645pt x 125.24942pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerp
 unkt_mixing_overview.pdf Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerpu
 nkt_mixing_overview.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 275.
-(pdftex.def)             Requested size: 163.27522pt x 92.92632pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerp
-unkt_mixing_overview.pdf Graphic file (type pdf)
+ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 336.
+(pdftex.def)             Requested size: 175.96645pt x 126.13097pt.
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerpu
-nkt_mixing_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 276.
-(pdftex.def)             Requested size: 163.27522pt x 93.58035pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerp
-unkt_mixing_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerpu
-nkt_mixing_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 276.
-(pdftex.def)             Requested size: 163.27522pt x 93.58035pt.
-
-Underfull \hbox (badness 3482) in paragraph at lines 270--277
-[][] []
+Overfull \hbox (15.93289pt too wide) in paragraph at lines 333--336
+ [][][][] 
  []
 
+) [45
 
-Underfull \hbox (badness 3482) in paragraph at lines 270--277
-[] []
+]
+Overfull \hbox (27.89821pt too wide) has occurred while \output is active
+[]|[]|  
  []
 
-
-Underfull \hbox (badness 3482) in paragraph at lines 270--277
-[] []
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [40
-
-] [41 </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_o
-verview_summer.pdf> </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_
-trend_8_schwerpunkt_mixing_overview.pdf>]
+[46 </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_summer.pdf> </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_tr
+end_8_schwerpunkt_mixing_overview.pdf>]
 \openout2 = `Chapters/Chapter05.aux'.
 
  (./Chapters/Chapter05.tex
-[42
-
-
-
-
-]
 Chapter 5.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 2.
+(hyperref)                removing `math shift' on input line 3.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 2.
+(hyperref)                removing `subscript' on input line 3.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 2.
+(hyperref)                removing `math shift' on input line 3.
 
 
-</home/mpim/m300524/MSc_Thesis/gfx/co2sep.pdf, id=1175, page=2, 845.1575pt x 59
+Overfull \hbox (3.64656pt too wide) in paragraph at lines 16--17
+\T1/pplj/m/n/10.95 changes as-so-ci-ated with dif-fer-ent pro-cesses are cal-cu
+-lated from month-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/co2sep.pdf, id=1559, page=2, 845.1575pt x 59
 7.23125pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/co2sep.pdf Graphic file (type pdf)
  <use /home/mpim/m300524/MSc_Thesis/gfx/co2sep.pdf, page 2>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/co2sep.pdf, page2 us
-ed on input line 14.
-(pdftex.def)             Requested size: 319.29219pt x 217.51964pt.
- [43 </home/mpim/m300524/MSc_Thesis/gfx/co2sep.pdf>]
-Overfull \hbox (38.30731pt too wide) in paragraph at lines 24--24
-[] 
+ed on input line 20.
+(pdftex.def)             Requested size: 319.29219pt x 188.49821pt.
+ [47
+
+
+
+
+
+
+ </home/mpim/m300524/MSc_Thesis/gfx/co2sep.pdf>]
+Overfull \hbox (12.5954pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+[48] [49]
+Overfull \hbox (6.71382pt too wide) in paragraph at lines 107--108
+[]\T1/pplj/m/n/10.95 These con-cen-tra-tion changes in [][] and al-ka-lin-ity m
+od-ify pCO$[]$
  []
 
 
-Overfull \hbox (5.00435pt too wide) in paragraph at lines 31--32
-\T1/pplj/m/n/10.95 The salin-ity, DIC and al-ka-lin-ity con-tri-bu-tions are ta
-ken from [][]Sarmiento
- []
-
-[44] [45]
-Overfull \hbox (7.72pt too wide) in paragraph at lines 76--77
-\T1/pplj/m/n/10.95 cell mi-grated north-wards and thus in-creased the en-train-
-ment of carbon-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--117
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
 
  []
 
-[46
+
+Overfull \hbox (12.5954pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+[51
 
 ]
-</home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, id=1239, page=17, 845.157
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+
+Overfull \hbox (12.5954pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 198--200
+
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, id=1725, page=17, 845.157
 5pt x 597.23125pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf Graphic file (type pd
 f)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, page 17>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, p
-age17 used on input line 121.
-(pdftex.def)             Requested size: 337.21967pt x 277.27539pt.
+age17 used on input line 203.
+(pdftex.def)             Requested size: 345.91109pt x 332.71352pt.
 
-Overfull \hbox (1.21967pt too wide) in paragraph at lines 121--122
+Overfull \hbox (9.91109pt too wide) in paragraph at lines 203--204
  [][] 
  []
 
-[47 </home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf>]
-</home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, id=1257, page=18, 845.157
+[53]
+Overfull \hbox (12.5954pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+[54 </home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+
+ []
+
+
+Overfull \hbox (0.55681pt too wide) in paragraph at lines 230--231
+[]\T1/pplj/m/n/10.95 Weaker winds warm the high-latitude South-ern Ocean, which
+ leads
+ []
+
+
+Overfull \hbox (3.38376pt too wide) in paragraph at lines 230--231
+\T1/pplj/m/n/10.95 creased Ek-man trans-port [][] sup-ply and in-creased northw
+ard-shifted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, id=1768, page=18, 845.157
 5pt x 597.23125pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf Graphic file (type pd
 f)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, page 18>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, p
-age18 used on input line 137.
-(pdftex.def)             Requested size: 337.21967pt x 277.27539pt.
+age18 used on input line 238.
+(pdftex.def)             Requested size: 345.91109pt x 332.71352pt.
 
-Overfull \hbox (1.21967pt too wide) in paragraph at lines 137--138
+Overfull \hbox (9.91109pt too wide) in paragraph at lines 238--239
  [][] 
  []
 
-) [48 </home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf>]
+[55
+
+]
+Overfull \hbox (12.5954pt too wide) has occurred while \output is active
+[]|[]|  
+ []
+
+[56 </home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+ []
+
+) [57
+
+] [58
+
+
+
+]
 \openout2 = `Chapters/Chapter06.aux'.
 
-
-(./Chapters/Chapter06.tex
+ (./Chapters/Chapter06.tex
 Chapter 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
 
-Overfull \hbox (4.26805pt too wide) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+[59
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Overfull \hbox (1.67366pt too wide) in paragraph at lines 29--30
+[]\T1/pplj/m/n/10.95 For in-ten-si-fy-ing and south-ward shift-ing west-erly wi
+nds, sea-surface
+ []
+
+
+Overfull \hbox (7.05202pt too wide) in paragraph at lines 31--32
+\T1/pplj/m/n/10.95 crease the South-ern Ocean car-bon sink in-creases (sum-ma-r
+iz-ing [][]fig. 5.3[][][]). 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Overfull \hbox (4.26805pt too wide) in paragraph at lines 43--45
 []\T1/pplj/m/n/10.95 The strong trends dis-cussed in this the-sis orig-i-nate i
 n strong changes
  []
 
 
-Overfull \hbox (3.5371pt too wide) in paragraph at lines 14--15
+Overfull \hbox (3.5371pt too wide) in paragraph at lines 43--45
 \T1/pplj/m/n/10.95 ed-dies in [][] might al-low deeper mix-ing to sus-tain on l
 onger
  []
 
 
-Overfull \hbox (0.493pt too wide) in paragraph at lines 14--15
-\T1/pplj/m/n/10.95 ni-tion of isopy-n-cal thick-ness dif-fu-sion could parametr
-ize the ex-pected
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
  []
 
-[49
+[60]
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
-
-
-
-]
-Overfull \hbox (3.29614pt too wide) in paragraph at lines 18--19
-\T1/pplj/m/n/10.95 by mea-sure-ments and eval-u-ated by sci-en-tists and politi
--cians [[][]Hawkins
  []
 
-) [50]
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+[61]) [62]
 \openout2 = `Chapters/Chapter0A.aux'.
 
  (./Chapters/Chapter0A.tex
 Appendix A.
 
-</home/mpim/m300524/MSc_Thesis/gfx/new_SOCS_co2flux_Distribution_n24.png, id=13
-17, 578.16pt x 433.62pt>
+</home/mpim/m300524/MSc_Thesis/gfx/new_SOCS_co2flux_Distribution_n24.png, id=19
+04, 578.16pt x 433.62pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/new_SOCS_co2flux_Distribution_n24.png G
 raphic file (type png)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/new_SOCS_co2flux_Distribution_n24.png>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/new_SOCS_co2flux_Dis
-tribution_n24.png used on input line 15.
-(pdftex.def)             Requested size: 317.98898pt x 238.49173pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/new_SOCS_co2flux_Distribution_n24.png G
-raphic file (type png)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/new_SOCS_co2flux_Distribution_n24.png>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/new_SOCS_co2flux_Dis
-tribution_n24.png used on input line 15.
-(pdftex.def)             Requested size: 317.98898pt x 238.49173pt.
+tribution_n24.png used on input line 19.
+(pdftex.def)             Requested size: 306.42334pt x 214.73761pt.
 
 </home/mpim/m300524/MSc_Thesis/gfx/new_SO_co2flux_Spatial_Distribution_n24.png,
- id=1319, 578.16pt x 433.62pt>
+ id=1907, 578.16pt x 433.62pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/new_SO_co2flux_Spatial_Distribution_n24
 .png Graphic file (type png)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/new_SO_co2flux_Spatial_Distribution_n24.
 png>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/new_SO_co2flux_Spati
-al_Distribution_n24.png used on input line 16.
-(pdftex.def)             Requested size: 317.98898pt x 238.49173pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/new_SO_co2flux_Spatial_Distribution_n24
-.png Graphic file (type png)
+al_Distribution_n24.png used on input line 22.
+(pdftex.def)             Requested size: 306.42334pt x 214.73761pt.
+ [63
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/new_SO_co2flux_Spatial_Distribution_n24.
-png>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/new_SO_co2flux_Spati
-al_Distribution_n24.png used on input line 16.
-(pdftex.def)             Requested size: 317.98898pt x 238.49173pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--17
-[][]
- []
-
-[51
 
 
 
@@ -3229,148 +3297,148 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
  </home/mpim/m300524/MSc_Thesis/gfx/new_SOCS_co2flux_Distribution_n24.png> </ho
 me/mpim/m300524/MSc_Thesis/gfx/new_SO_co2flux_Spatial_Distribution_n24.png>]
-</home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf, id=1327, 614
+</home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf, id=1920, 614
 .295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 25.
+rended.pdf used on input line 29.
 (pdftex.def)             Requested size: 409.50545pt x 525.8056pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 25.
+rended.pdf used on input line 29.
 (pdftex.def)             Requested size: 409.50545pt x 525.8056pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 25.
+rended.pdf used on input line 29.
 (pdftex.def)             Requested size: 409.50545pt x 525.8056pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 25.
+rended.pdf used on input line 29.
 (pdftex.def)             Requested size: 409.50545pt x 525.8056pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 25.
+rended.pdf used on input line 29.
 (pdftex.def)             Requested size: 409.50545pt x 525.8056pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 25.
+rended.pdf used on input line 29.
 (pdftex.def)             Requested size: 409.50545pt x 525.8056pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 25.
+rended.pdf used on input line 29.
 (pdftex.def)             Requested size: 409.50545pt x 525.8056pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 25.
+rended.pdf used on input line 29.
 (pdftex.def)             Requested size: 409.50545pt x 525.8056pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 25.
+rended.pdf used on input line 29.
 (pdftex.def)             Requested size: 409.50545pt x 525.8056pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 25.
+rended.pdf used on input line 29.
 (pdftex.def)             Requested size: 409.50545pt x 525.8056pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 25.
+rended.pdf used on input line 29.
 (pdftex.def)             Requested size: 409.50545pt x 525.8056pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 25.
+rended.pdf used on input line 29.
 (pdftex.def)             Requested size: 409.50545pt x 525.8056pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 25.
+rended.pdf used on input line 29.
 (pdftex.def)             Requested size: 409.50545pt x 525.8056pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 25.
+rended.pdf used on input line 29.
 (pdftex.def)             Requested size: 409.50545pt x 525.8056pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 25.
+rended.pdf used on input line 29.
 (pdftex.def)             Requested size: 409.50545pt x 525.8056pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 25.
+rended.pdf used on input line 29.
 (pdftex.def)             Requested size: 409.50545pt x 525.8056pt.
 
-Overfull \hbox (73.50545pt too wide) in paragraph at lines 25--27
+Overfull \hbox (73.50545pt too wide) in paragraph at lines 29--31
 [][] 
  []
 
 
-</home/mpim/m300524/MSc_Thesis/gfx/heatmap_de-ens-trended.pdf, id=1346, 614.295
+</home/mpim/m300524/MSc_Thesis/gfx/heatmap_de-ens-trended.pdf, id=1939, 614.295
 pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_de-ens-trended.pdf Graphic file
  (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_de-ens-trend
-ed.pdf used on input line 33.
+ed.pdf used on input line 37.
 (pdftex.def)             Requested size: 409.50545pt x 547.14513pt.
 
-Overfull \hbox (73.50545pt too wide) in paragraph at lines 33--34
+Overfull \hbox (73.50545pt too wide) in paragraph at lines 37--38
 [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[52
+[64
 
  </home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>]
-[53 </home/mpim/m300524/MSc_Thesis/gfx/heatmap_de-ens-trended.pdf>]
-</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, id=1365
+[65 </home/mpim/m300524/MSc_Thesis/gfx/heatmap_de-ens-trended.pdf>]
+</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, id=1958
 , page=2, 614.295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf Gra
 phic file (type pdf)
@@ -3378,39 +3446,26 @@ phic file (type pdf)
 <use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, pag
 e 2>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient
-_comparison.pdf, page2 used on input line 45.
-(pdftex.def)             Requested size: 341.29826pt x 145.91216pt.
+_comparison.pdf, page2 used on input line 50.
+(pdftex.def)             Requested size: 153.79884pt x 152.86002pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf Gra
 phic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, pag
 e 2>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient
-_comparison.pdf, page2 used on input line 45.
-(pdftex.def)             Requested size: 341.29826pt x 145.91216pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf Gra
-phic file (type pdf)
+_comparison.pdf, page2 used on input line 53.
+(pdftex.def)             Requested size: 189.47888pt x 152.86002pt.
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, pag
-e 2>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient
-_comparison.pdf, page2 used on input line 45.
-(pdftex.def)             Requested size: 341.29826pt x 145.91216pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf Gra
-phic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, pag
-e 2>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient
-_comparison.pdf, page2 used on input line 45.
-(pdftex.def)             Requested size: 341.29826pt x 145.91216pt.
-
-Overfull \hbox (5.29826pt too wide) in paragraph at lines 45--46
- [][] 
+Overfull \hbox (7.27773pt too wide) in paragraph at lines 50--53
+ [][][][] 
  []
 
+Package acronym Info: Label `acro:GLODAP' newly defined as it shall be overridd
+en
+although it is yet undefined on input line 54.
 
-</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, id=1372
+</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, id=1973
 , page=1, 614.295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf Gra
 phic file (type pdf)
@@ -3418,34 +3473,28 @@ phic file (type pdf)
 <use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, pag
 e 1>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient
-_comparison.pdf, page1 used on input line 54.
-(pdftex.def)             Requested size: 330.46117pt x 141.27907pt.
+_comparison.pdf, page1 used on input line 61.
+(pdftex.def)             Requested size: 153.79884pt x 152.86002pt.
+
+Underfull \hbox (badness 2073) in paragraph at lines 61--61
+[][]|[][] \T1/pplj/m/n/9 sur-face phos-phate en-
+ []
+
 File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf Gra
 phic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, pag
 e 1>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient
-_comparison.pdf, page1 used on input line 54.
-(pdftex.def)             Requested size: 330.46117pt x 141.27907pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf Gra
-phic file (type pdf)
+_comparison.pdf, page1 used on input line 64.
+(pdftex.def)             Requested size: 189.47888pt x 152.86002pt.
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, pag
-e 1>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient
-_comparison.pdf, page1 used on input line 54.
-(pdftex.def)             Requested size: 330.46117pt x 141.27907pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf Gra
-phic file (type pdf)
+Overfull \hbox (7.27773pt too wide) in paragraph at lines 61--64
+ [][][][] 
+ []
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, pag
-e 1>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient
-_comparison.pdf, page1 used on input line 54.
-(pdftex.def)             Requested size: 330.46117pt x 141.27907pt.
 
-</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, id=1379, p
+</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, id=1984, p
 age=2, 614.295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf Graphi
 c file (type pdf)
@@ -3453,241 +3502,359 @@ c file (type pdf)
 <use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, page 2
 >
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_co
-mparison.pdf, page2 used on input line 61.
-(pdftex.def)             Requested size: 341.29826pt x 145.91216pt.
+mparison.pdf, page2 used on input line 72.
+(pdftex.def)             Requested size: 153.79884pt x 152.86002pt.
 File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf Graphi
 c file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, page 2
 >
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_co
-mparison.pdf, page2 used on input line 61.
-(pdftex.def)             Requested size: 341.29826pt x 145.91216pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf Graphi
-c file (type pdf)
+mparison.pdf, page2 used on input line 75.
+(pdftex.def)             Requested size: 189.47888pt x 152.86002pt.
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, page 2
->
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_co
-mparison.pdf, page2 used on input line 61.
-(pdftex.def)             Requested size: 341.29826pt x 145.91216pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf Graphi
-c file (type pdf)
+Overfull \hbox (7.27773pt too wide) in paragraph at lines 72--75
+ [][][][] 
+ []
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, page 2
->
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_co
-mparison.pdf, page2 used on input line 61.
-(pdftex.def)             Requested size: 341.29826pt x 145.91216pt.
+[66
 
-Overfull \hbox (5.29826pt too wide) in paragraph at lines 61--62
+ </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf> </home
+/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf>] [67 </home/m
+pim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf>]
+</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overvie
+w_co2_summer.pdf, id=2028, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_co2_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_co2_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_co2_summer.pdf used on input line 87.
+(pdftex.def)             Requested size: 171.55597pt x 127.45395pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_co2_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_co2_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_co2_summer.pdf used on input line 90.
+(pdftex.def)             Requested size: 171.55597pt x 124.14647pt.
+
+Overfull \hbox (7.11194pt too wide) in paragraph at lines 87--90
+ [][][][] 
+ []
+
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_co2_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_co2_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_co2_summer.pdf used on input line 94.
+(pdftex.def)             Requested size: 171.55597pt x 125.24942pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_co2_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_co2_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_co2_summer.pdf used on input line 97.
+(pdftex.def)             Requested size: 172.43816pt x 124.14645pt.
+
+Overfull \hbox (7.99413pt too wide) in paragraph at lines 94--97
+ [][][][] 
+ []
+
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_co2_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_co2_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_co2_summer.pdf used on input line 101.
+(pdftex.def)             Requested size: 171.55597pt x 125.91022pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_co2_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_co2_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_co2_summer.pdf used on input line 104.
+(pdftex.def)             Requested size: 175.96645pt x 123.0442pt.
+
+Overfull \hbox (11.52242pt too wide) in paragraph at lines 101--105
+ [][][][] 
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 105--105
+\T1/pplj/m/n/10 mono-tonic 8-year air-sea CO$[]$ flux trend: (a) sea-air CO$[]$
+
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overvie
+w_co2_winter.pdf, id=2041, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_co2_winter.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_co2_winter.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_co2_winter.pdf used on input line 114.
+(pdftex.def)             Requested size: 171.55597pt x 127.45395pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_co2_winter.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_co2_winter.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_co2_winter.pdf used on input line 117.
+(pdftex.def)             Requested size: 171.55597pt x 124.14647pt.
+
+Overfull \hbox (7.11194pt too wide) in paragraph at lines 114--117
+ [][][][] 
+ []
+
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_co2_winter.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_co2_winter.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_co2_winter.pdf used on input line 121.
+(pdftex.def)             Requested size: 171.55597pt x 125.24942pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_co2_winter.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_co2_winter.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_co2_winter.pdf used on input line 124.
+(pdftex.def)             Requested size: 172.43816pt x 124.14645pt.
+
+Overfull \hbox (7.99413pt too wide) in paragraph at lines 121--124
+ [][][][] 
+ []
+
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_co2_winter.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_co2_winter.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_co2_winter.pdf used on input line 128.
+(pdftex.def)             Requested size: 171.55597pt x 125.91022pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_co2_winter.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_co2_winter.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_co2_winter.pdf used on input line 131.
+(pdftex.def)             Requested size: 175.96645pt x 123.0442pt.
+
+Overfull \hbox (11.52242pt too wide) in paragraph at lines 128--132
+ [][][][] 
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 132--132
+[][]|\T1/pplj/m/n/10 Lin-ear trends in aus-tral win-ter dur-ing the most pos-i-
+tive
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 132--132
+\T1/pplj/m/n/10 mono-tonic 8-year sea-air CO$[]$ flux trend: (a) sea-air CO$[]$
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[68
+
+ </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overvi
+ew_co2_summer.pdf>] [69 </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_co2_winter.pdf>]
+</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overvie
+w_co2_summer.pdf, id=2093, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2_summer.pdf used on input line 142.
+(pdftex.def)             Requested size: 171.55597pt x 127.45395pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2_summer.pdf used on input line 145.
+(pdftex.def)             Requested size: 171.55597pt x 124.14647pt.
+
+Overfull \hbox (7.11194pt too wide) in paragraph at lines 142--145
+ [][][][] 
+ []
+
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2_summer.pdf used on input line 149.
+(pdftex.def)             Requested size: 171.55597pt x 125.24942pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2_summer.pdf used on input line 152.
+(pdftex.def)             Requested size: 172.43816pt x 124.14645pt.
+
+Overfull \hbox (7.99413pt too wide) in paragraph at lines 149--152
+ [][][][] 
+ []
+
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2_summer.pdf used on input line 156.
+(pdftex.def)             Requested size: 171.55597pt x 125.91022pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2_summer.pdf used on input line 159.
+(pdftex.def)             Requested size: 175.96645pt x 123.0442pt.
+
+Overfull \hbox (11.52242pt too wide) in paragraph at lines 156--160
+ [][][][] 
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 160--160
+\T1/pplj/m/n/10 mono-tonic sea-air 8-year CO$[]$ flux trend: (a) sea-air CO$[]$
+
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overvie
+w_co2_winter.pdf, id=2106, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2_winter.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2_winter.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2_winter.pdf used on input line 169.
+(pdftex.def)             Requested size: 171.55597pt x 127.45395pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2_winter.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2_winter.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2_winter.pdf used on input line 172.
+(pdftex.def)             Requested size: 171.55597pt x 124.14647pt.
+
+Overfull \hbox (7.11194pt too wide) in paragraph at lines 169--172
+ [][][][] 
+ []
+
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2_winter.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2_winter.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2_winter.pdf used on input line 176.
+(pdftex.def)             Requested size: 171.55597pt x 125.24942pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2_winter.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2_winter.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2_winter.pdf used on input line 179.
+(pdftex.def)             Requested size: 172.43816pt x 124.14645pt.
+
+Overfull \hbox (7.99413pt too wide) in paragraph at lines 176--179
+ [][][][] 
+ []
+
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2_winter.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2_winter.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2_winter.pdf used on input line 183.
+(pdftex.def)             Requested size: 171.55597pt x 125.91022pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_co2_winter.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_co2_winter.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2_winter.pdf used on input line 186.
+(pdftex.def)             Requested size: 175.96645pt x 123.0442pt.
+
+Overfull \hbox (11.52242pt too wide) in paragraph at lines 183--187
+ [][][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[70
+
+ </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overvi
+ew_co2_summer.pdf>] [71 </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_co2_winter.pdf>]
+</home/mpim/m300524/MSc_Thesis/gfx/limf.png, id=2157, 578.16pt x 433.62pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/limf.png Graphic file (type png)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/limf.png>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/limf.png used on inp
+ut line 196.
+(pdftex.def)             Requested size: 381.02345pt x 192.29572pt.
+
+Overfull \hbox (45.02345pt too wide) in paragraph at lines 196--197
  [][] 
  []
 
-[54
 
- </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf> </home
-/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf> </home/mpim/m
-300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf>]
-</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overvie
-w_winter.pdf, id=1400, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_winter.pdf Graphic file (type pdf)
+</home/mpim/m300524/MSc_Thesis/gfx/dic_alk_pco2_processes.png, id=2159, 578.16p
+t x 433.62pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/dic_alk_pco2_processes.png Graphic file
+ (type png)
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_winter.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_winter.pdf used on input line 70.
-(pdftex.def)             Requested size: 283.95844pt x 161.61185pt.
+<use /home/mpim/m300524/MSc_Thesis/gfx/dic_alk_pco2_processes.png>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/dic_alk_pco2_process
+es.png used on input line 205.
+(pdftex.def)             Requested size: 364.24272pt x 273.18204pt.
 
-</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overvie
-w_winter.pdf, id=1402, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
-erview_winter.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
-rview_winter.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_winter.pdf used on input line 77.
-(pdftex.def)             Requested size: 283.95844pt x 161.61185pt.
- [55
-
- </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overvi
-ew_winter.pdf> </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend
-_8_obgc_overview_winter.pdf>]
-</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetze
-r_summer_overview.pdf, id=1415, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
-uetzer_summer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
-etzer_summer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_Landschuetzer_summer_overview.pdf used on input line 88.
-(pdftex.def)             Requested size: 162.28198pt x 139.57712pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
-uetzer_summer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
-etzer_summer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_Landschuetzer_summer_overview.pdf used on input line 89.
-(pdftex.def)             Requested size: 218.3098pt x 145.96834pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
-uetzer_summer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
-etzer_summer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_Landschuetzer_summer_overview.pdf used on input line 90.
-(pdftex.def)             Requested size: 415.4939pt x 147.04355pt.
-
-Overfull \hbox (47.01173pt too wide) in paragraph at lines 88--91
-[][] []
+Overfull \hbox (31.42917pt too wide) in paragraph at lines 205--206
+ [][] 
  []
 
+) [72
 
-Overfull \hbox (79.4939pt too wide) in paragraph at lines 88--91
-[] 
- []
-
-
-</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetze
-r_winter_overview.pdf, id=1419, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
-uetzer_winter_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
-etzer_winter_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_Landschuetzer_winter_overview.pdf used on input line 97.
-(pdftex.def)             Requested size: 162.28198pt x 139.57712pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
-uetzer_winter_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
-etzer_winter_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_Landschuetzer_winter_overview.pdf used on input line 98.
-(pdftex.def)             Requested size: 218.3098pt x 145.96834pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
-uetzer_winter_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
-etzer_winter_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_Landschuetzer_winter_overview.pdf used on input line 99.
-(pdftex.def)             Requested size: 415.4939pt x 147.04355pt.
-
-Overfull \hbox (47.01173pt too wide) in paragraph at lines 97--100
-[][] []
- []
-
-
-Overfull \hbox (79.4939pt too wide) in paragraph at lines 97--100
-[] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[56
-
- </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetz
-er_summer_overview.pdf>] [57 </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_
-positive_trend_8_Landschuetzer_winter_overview.pdf>]
-</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetze
-r_summer_overview.pdf, id=1443, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
-uetzer_summer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
-etzer_summer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_Landschuetzer_summer_overview.pdf used on input line 108.
-(pdftex.def)             Requested size: 162.28198pt x 139.57712pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
-uetzer_summer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
-etzer_summer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_Landschuetzer_summer_overview.pdf used on input line 109.
-(pdftex.def)             Requested size: 218.3098pt x 145.96834pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
-uetzer_summer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
-etzer_summer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_Landschuetzer_summer_overview.pdf used on input line 110.
-(pdftex.def)             Requested size: 415.4939pt x 147.04355pt.
-
-Overfull \hbox (47.01173pt too wide) in paragraph at lines 108--111
-[][] []
- []
-
-
-Overfull \hbox (79.4939pt too wide) in paragraph at lines 108--111
-[] 
- []
-
-
-</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetze
-r_winter_overview.pdf, id=1447, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
-uetzer_winter_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
-etzer_winter_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_Landschuetzer_winter_overview.pdf used on input line 117.
-(pdftex.def)             Requested size: 162.28198pt x 139.57712pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
-uetzer_winter_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
-etzer_winter_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_Landschuetzer_winter_overview.pdf used on input line 118.
-(pdftex.def)             Requested size: 218.3098pt x 145.96834pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
-uetzer_winter_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
-etzer_winter_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_Landschuetzer_winter_overview.pdf used on input line 119.
-(pdftex.def)             Requested size: 415.4939pt x 147.04355pt.
-
-Overfull \hbox (47.01173pt too wide) in paragraph at lines 117--120
-[][] []
- []
-
-
-Overfull \hbox (79.4939pt too wide) in paragraph at lines 117--120
-[] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[58
-
- </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetz
-er_summer_overview.pdf>] [59 </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_
-positive_trend_8_Landschuetzer_winter_overview.pdf>]
-</home/mpim/m300524/MSc_Thesis/gfx/lighttemplimf.png, id=1471, 507.39563pt x 31
-9.62712pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/lighttemplimf.png Graphic file (type pn
-g)
- <use /home/mpim/m300524/MSc_Thesis/gfx/lighttemplimf.png>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/lighttemplimf.png us
-ed on input line 128.
-(pdftex.def)             Requested size: 334.31883pt x 210.95454pt.
-) [60
-
- </home/mpim/m300524/MSc_Thesis/gfx/lighttemplimf.png>]
+ </home/mpim/m300524/MSc_Thesis/gfx/limf.png> </home/mpim/m300524/MSc_Thesis/gf
+x/dic_alk_pco2_processes.png>]
 \openout2 = `FrontBackmatter/ListofFiguresAndTables.aux'.
 
 
@@ -3717,224 +3884,204 @@ Overfull \hbox (11.61942pt too wide) in paragraph at lines 23--23
  []
 
 
-Overfull \hbox (3.23172pt too wide) in paragraph at lines 23--23
- \T1/pplj/m/n/10.95 decadal in-ter-nal vari-abil-ity $\U/zeur/m/n/10.95 ^^[[]$ 
-\T1/pplj/m/n/10.95 (b), SOM-FFN 
+Overfull \hbox (14.57591pt too wide) in paragraph at lines 23--23
+ \T1/pplj/m/n/10.95 as decadal in-ter-nal vari-abil-ity $\U/zeur/m/n/10.95 ^^[[
+]$\T1/pplj/m/n/10.95 , (c) [][] 
  []
 
 
-Overfull \hbox (6.63571pt too wide) in paragraph at lines 25--25
- \T1/pplj/m/n/10.95 green line rep-re-sents the SOM-FFN observation- 
+Overfull \hbox (3.22441pt too wide) in paragraph at lines 23--23
+ \T1/pplj/m/n/10.95 vari-abil-ity $\U/zeur/m/n/10.95 ^^[[]$\T1/pplj/m/n/10.95 ;
+ neg-a-tive val-ues in-di-cate ocean 
  []
 
 
-Overfull \hbox (0.1031pt too wide) in paragraph at lines 25--25
+Overfull \hbox (6.63647pt too wide) in paragraph at lines 33--33
+ \T1/pplj/m/n/10.95 green line rep-re-sents the [][] observation- 
+ []
+
+
+Overfull \hbox (0.1031pt too wide) in paragraph at lines 33--33
  \T1/pplj/m/n/10.95 based es-ti-mate [Land-schützer et al., [][]2015[][]]; neg-
  
  []
 
 
-Overfull \hbox (9.01277pt too wide) in paragraph at lines 27--27
- \T1/pplj/m/n/10.95 to 2004 (a) as forced sig-nal and en-sem-ble decadal 
+Overfull \hbox (12.08238pt too wide) in paragraph at lines 33--33
+ \T1/pplj/m/n/10.95 a-tive val-ues in-di-cate car-bon up-take; [][] 
  []
 
-[61
+[73
 
 
 
 
 
 ]
-Overfull \hbox (1.7857pt too wide) in paragraph at lines 29--29
+Overfull \hbox (1.7857pt too wide) in paragraph at lines 47--47
  [][] []\T1/pplj/m/n/10.95 Temporal evo-lu-tion of the an-nual South-ern An- 
  []
 
 
-Overfull \hbox (0.98637pt too wide) in paragraph at lines 31--31
- \T1/pplj/m/n/10.95 pri-mary pro-duc-tion in the South-ern Ocean: cli- 
+Overfull \hbox (6.57104pt too wide) in paragraph at lines 47--47
+ \T1/pplj/m/n/10.95 the blue line dur-ing the neg-a-tive CO$[]$ flux trend; 
  []
 
 
-Overfull \hbox (17.38951pt too wide) in paragraph at lines 31--31
- \T1/pplj/m/n/10.95 (a) as forced sig-nal and en-sem-ble decadal anomaly 
+Overfull \hbox (2.46466pt too wide) in paragraph at lines 51--51
+ \T1/pplj/m/n/10.95 decadal anomaly stan-dard de-vi-a-tion as decadal 
  []
 
 
-Overfull \hbox (0.15344pt too wide) in paragraph at lines 33--33
- \T1/pplj/m/n/10.95 face ni-trate (a) com-pared with WOA data [Gar- 
+Overfull \hbox (14.4877pt too wide) in paragraph at lines 57--57
+ [][] []\T1/pplj/m/n/10.95 Spatial dis-tri-bu-tion of sur-face ni-trate in the 
+South- 
  []
 
 
-Overfull \hbox (9.385pt too wide) in paragraph at lines 35--35
- \T1/pplj/m/n/10.95 pri-mary pro-duc-tion in the South-ern Ocean south 
+Overfull \hbox (9.59306pt too wide) in paragraph at lines 63--63
+ \T1/pplj/m/n/10.95 pro-duc-tion ([])[] in the South-ern Ocean south 
  []
 
 
-Overfull \hbox (5.26843pt too wide) in paragraph at lines 35--35
+Overfull \hbox (5.26843pt too wide) in paragraph at lines 63--63
  \T1/pplj/m/n/10.95 of 35$[]$S. Grey lines show the 100 en-sem-ble mem- 
  []
 
-
-Overfull \hbox (7.95053pt too wide) in paragraph at lines 37--37
+[74]
+Overfull \hbox (7.95053pt too wide) in paragraph at lines 67--67
  [][] []\T1/pplj/m/n/10.95 Zonally av-er-aged tran-sect of the South-ern Ocean 
 
  []
 
 
-Overfull \hbox (3.95375pt too wide) in paragraph at lines 37--37
+Overfull \hbox (3.95375pt too wide) in paragraph at lines 67--67
  \T1/pplj/m/n/10.95 black ar-rows show yearly mean ad-vec-tive trans- 
  []
 
 
-Overfull \hbox (19.36041pt too wide) in paragraph at lines 37--37
- \T1/pplj/m/n/10.95 white lines are isopy-n-cals sep-a-rat-ing Sub-Antarctic 
+Overfull \hbox (3.59401pt too wide) in paragraph at lines 67--67
+ \T1/pplj/m/n/10.95 ten-tial den-sity $\U/zeur/m/n/10.95 ^^Z[] \U/zeus/m/n/10.9
+5 ½ \U/zeur/m/n/10.95 1026\T1/pplj/m/n/10.95 .\U/zeur/m/n/10.95 5$ \T1/pplj/m/n
+/10.95 kg m$[]$ from [][], 
  []
 
 
-Overfull \hbox (2.58522pt too wide) in paragraph at lines 37--37
- \U/zeur/m/n/10.95 1026\T1/pplj/m/n/10.95 .\U/zeur/m/n/10.95 5$ \T1/pplj/m/n/10
-.95 kg m$[]$ from Antarc-tic In-ter-me-di-ate Wa- 
- []
+Overfull \hbox (5.09264pt too wide) in paragraph at lines 73--73
+ [][] []\T1/pplj/m/n/10.95 Spatial dis-tri-bu-tion of mixed-layer depth ([])[] 
 
-[62]
-Overfull \hbox (2.35435pt too wide) in paragraph at lines 39--39
- \T1/pplj/m/n/10.95 (MLD) (left) com-pared with Mon-terey and Lev- 
  []
 
 
-Overfull \hbox (6.08923pt too wide) in paragraph at lines 45--45
- [][] []\T1/pplj/m/n/10.95 Linear trends in $\U/zeur/m/n/10.95 ^^A$\T1/pplj/m/n
-/10.95 pCO$[]$ (left) and sea-level pres- 
+Overfull \hbox (5.42474pt too wide) in paragraph at lines 85--85
+ \T1/pplj/m/n/10.95 a-ture ([])[]; hatched ar-eas in-di-cate where trends 
  []
 
 
-Overfull \hbox (3.51576pt too wide) in paragraph at lines 45--45
- \T1/pplj/m/n/10.95 sure and wind vec-tors over-lain as ar-rows (right) 
+Overfull \hbox (18.51765pt too wide) in paragraph at lines 95--95
+ \T1/pplj/m/n/10.95 tonic 8-year sea-air CO$[]$ flux trend: (a) pCO$[]$ 
+ []
+
+[75]
+Overfull \hbox (7.53448pt too wide) in paragraph at lines 111--111
+ \T1/pplj/m/n/10.95 ture & lim-i-ta-tion func-tion, (d) mixed-layer depth 
  []
 
 
-Overfull \hbox (32.01471pt too wide) in paragraph at lines 47--47
- [][] []\T1/pplj/m/n/10.95 Linear trends in pCO$[]$ (a) and $\U/zeur/m/n/10.95 
-^^A$\T1/pplj/m/n/10.95 pCO$[]$ 
- []
-
-[63]
-Overfull \hbox (11.25749pt too wide) in paragraph at lines 53--53
- \T1/pplj/m/n/10.95 face tem-per-a-ture & lim-i-ta-tion func-tion (d), mixed 
+Overfull \hbox (5.42474pt too wide) in paragraph at lines 125--125
+ \T1/pplj/m/n/10.95 a-ture ([])[]; hatched ar-eas in-di-cate where trends 
  []
 
 
-Overfull \hbox (32.01471pt too wide) in paragraph at lines 57--57
- [][] []\T1/pplj/m/n/10.95 Linear trends in pCO$[]$ (a) and $\U/zeur/m/n/10.95 
-^^A$\T1/pplj/m/n/10.95 pCO$[]$ 
- []
-
-[64]
-Overfull \hbox (7.19135pt too wide) in paragraph at lines 69--69
- \T1/pplj/m/n/10.95 crease. Stronger winds en-hance the upper-ocean 
+Overfull \hbox (18.51765pt too wide) in paragraph at lines 135--135
+ \T1/pplj/m/n/10.95 tonic 8-year sea-air CO$[]$ flux trend: (a) pCO$[]$ 
  []
 
 
-Overfull \hbox (0.80022pt too wide) in paragraph at lines 71--71
+Overfull \hbox (1.5886pt too wide) in paragraph at lines 147--147
+ \T1/pplj/m/n/10.95 ad-vec-tive car-bon trans-port trends en-forc-ing the 
+ []
+
+[76]
+Overfull \hbox (1.47913pt too wide) in paragraph at lines 169--169
+ \T1/pplj/m/n/10.95 in-di-cates a rel-a-tive in-crease of the re-lated quan- 
+ []
+
+
+Overfull \hbox (0.80022pt too wide) in paragraph at lines 171--171
  \T1/pplj/m/n/10.95 un-der the con-text of de-creas-ing west-erly winds 
  []
 
 
-Overfull \hbox (0.30745pt too wide) in paragraph at lines 71--71
+Overfull \hbox (0.30745pt too wide) in paragraph at lines 171--171
  \T1/pplj/m/n/10.95 upper-ocean cir-cu-la-tion lead-ing to-wards a neg- 
  []
 
 
-Overfull \hbox (22.71106pt too wide) in paragraph at lines 71--71
- \T1/pplj/m/n/10.95 welling low-ers out-gassing of over-saturated carbon- 
+Overfull \hbox (1.47913pt too wide) in paragraph at lines 171--171
+ \T1/pplj/m/n/10.95 in-di-cates a rel-a-tive in-crease of the re-lated quan- 
+ []
+
+[77]
+Overfull \hbox (4.59988pt too wide) in paragraph at lines 177--177
+ \T1/pplj/m/n/10.95 sem-ble space and tem-po-ral space be-tween 1980- 
  []
 
 
-Overfull \hbox (1.2265pt too wide) in paragraph at lines 71--71
- \T1/pplj/m/n/10.95 ad-vects less DIC to the north, warms the higher 
+Overfull \hbox (39.97932pt too wide) in paragraph at lines 187--187
+ \T1/pplj/m/n/10.95 face dis-solved in-or-ganic car-bon ([])[]: (a) [][] 
  []
 
 
-Overfull \hbox (6.83362pt too wide) in paragraph at lines 71--71
- \T1/pplj/m/n/10.95 lat-i-tudes in-creases pri-mary pro-duc-tion, whereas 
- []
-
-[65]
-Overfull \hbox (23.6309pt too wide) in paragraph at lines 79--79
- [][] []\T1/pplj/m/n/10.95 Southern Ocean car-bon sink trends per trendlength; 
-
+Overfull \hbox (1.3149pt too wide) in paragraph at lines 199--199
+ \T1/pplj/m/n/10.95 surface tem-per-a-ture ([])[]: (a) [][] cli- 
  []
 
 
-Overfull \hbox (7.76437pt too wide) in paragraph at lines 79--79
- \T1/pplj/m/n/10.95 * in-di-cate the strongest 8-year and 10-year trends 
+Overfull \hbox (4.82996pt too wide) in paragraph at lines 205--205
+ \T1/pplj/m/n/10.95 most pos-i-tive mono-tonic 8-year air-sea CO$[]$ flux 
  []
 
 
-Overfull \hbox (23.6309pt too wide) in paragraph at lines 81--81
- [][] []\T1/pplj/m/n/10.95 Southern Ocean car-bon sink trends per trendlength; 
-
+Overfull \hbox (14.88142pt too wide) in paragraph at lines 205--205
+ \T1/pplj/m/n/10.95 (f) $\U/zeur/m/n/10.95 ^^A$\T1/pplj/m/n/10.95 pCO$[]$; hatc
+hed ar-eas in-di-cate where 
  []
 
 
-Overfull \hbox (17.99176pt too wide) in paragraph at lines 85--85
- \T1/pplj/m/n/10.95 2004 (a) com-pared with World Ocean At-las (WOA) 
+Overfull \hbox (10.05309pt too wide) in paragraph at lines 219--219
+ \T1/pplj/m/n/10.95 pos-i-tive mono-tonic 8-year sea-air CO$[]$ flux trend: 
  []
 
 
-Overfull \hbox (1.98663pt too wide) in paragraph at lines 91--91
- \T1/pplj/m/n/10.95 a-tive mono-tonic 8-year CO$[]$ flux trend; hatched 
- []
-
-[66]
-Overfull \hbox (14.57924pt too wide) in paragraph at lines 93--93
- \T1/pplj/m/n/10.95 pos-i-tive mono-tonic 8-year CO$[]$ flux trend; $\U/zeur/m/
-n/10.95 ^^A$\T1/pplj/m/n/10.95 pCO$[]$ 
+Overfull \hbox (1.64334pt too wide) in paragraph at lines 219--219
+ \T1/pplj/m/n/10.95 wind vec-tors over-lain as ar-rows, (d) sea-surface 
  []
 
 
-Overfull \hbox (18.2474pt too wide) in paragraph at lines 93--93
- \T1/pplj/m/n/10.95 (a) and sea-level pres-sure & winds (b); pCO$[]$ 
+Overfull \hbox (62.00667pt too wide) in paragraph at lines 219--219
+ \T1/pplj/m/n/10.95 tem-per-a-ture ([])[], (e) pCO$[]$ and (f) $\U/zeur/m/n/10.
+95 ^^A$\T1/pplj/m/n/10.95 pCO$[]$; 
+ []
+
+[78]
+Overfull \hbox (12.84534pt too wide) in paragraph at lines 247--247
+ \T1/pplj/m/n/10.95 neg-a-tive mono-tonic 8-year sea-air CO$[]$ flux trend: 
  []
 
 
-Overfull \hbox (14.57924pt too wide) in paragraph at lines 95--95
- \T1/pplj/m/n/10.95 pos-i-tive mono-tonic 8-year CO$[]$ flux trend; $\U/zeur/m/
-n/10.95 ^^A$\T1/pplj/m/n/10.95 pCO$[]$ 
+Overfull \hbox (1.64334pt too wide) in paragraph at lines 247--247
+ \T1/pplj/m/n/10.95 wind vec-tors over-lain as ar-rows, (d) sea-surface 
  []
 
 
-Overfull \hbox (40.34033pt too wide) in paragraph at lines 95--95
- \T1/pplj/m/n/10.95 lain as ar-rows (b); pCO$[]$ (c) and $\U/zeur/m/n/10.95 ^^A
-$\T1/pplj/m/n/10.95 pCO$[]$ 
+Overfull \hbox (59.11588pt too wide) in paragraph at lines 247--247
+ \T1/pplj/m/n/10.95 tem-per-a-ture ([])[] (e) pCO$[]$ and (f) $\U/zeur/m/n/10.9
+5 ^^A$\T1/pplj/m/n/10.95 pCO$[]$; 
  []
 
 
-Overfull \hbox (17.37149pt too wide) in paragraph at lines 97--97
- \T1/pplj/m/n/10.95 neg-a-tive mono-tonic 8-year CO$[]$ flux trend; $\U/zeur/m/
-n/10.95 ^^A$\T1/pplj/m/n/10.95 pCO$[]$ 
- []
-
-
-Overfull \hbox (40.34033pt too wide) in paragraph at lines 97--97
- \T1/pplj/m/n/10.95 lain as ar-rows (b); pCO$[]$ (c) and $\U/zeur/m/n/10.95 ^^A
-$\T1/pplj/m/n/10.95 pCO$[]$ 
- []
-
-
-Overfull \hbox (17.37149pt too wide) in paragraph at lines 99--99
- \T1/pplj/m/n/10.95 neg-a-tive mono-tonic 8-year CO$[]$ flux trend; $\U/zeur/m/
-n/10.95 ^^A$\T1/pplj/m/n/10.95 pCO$[]$ 
- []
-
-
-Overfull \hbox (40.34033pt too wide) in paragraph at lines 99--99
- \T1/pplj/m/n/10.95 lain as ar-rows (b); pCO$[]$ (c) and $\U/zeur/m/n/10.95 ^^A
-$\T1/pplj/m/n/10.95 pCO$[]$ 
- []
-
-
-Overfull \hbox (3.84433pt too wide) in paragraph at lines 101--101
+Overfull \hbox (3.84433pt too wide) in paragraph at lines 261--261
  [][] []\T1/pplj/m/n/10.95 Combined light- & tem-per-a-ture lim-i-ta-tion func-
  
  []
@@ -3945,153 +4092,215 @@ Overfull \hbox (3.84433pt too wide) in paragraph at lines 101--101
 
 Package tocbasic Info: character protrusion at lot deactivated on input line 29
 .
- (./ClassicThesis.lot)
+ (./ClassicThesis.lot
+Overfull \hbox (20.32394pt too wide) in paragraph at lines 19--19
+ \T1/pplj/m/n/10.95 ern Ocean south of 35$[]$S from Max Planck Institute- 
+ []
+
+
+Overfull \hbox (24.62741pt too wide) in paragraph at lines 19--19
+ \T1/pplj/m/n/10.95 Earth Sys-tem Model Large En-sem-ble ([])[] 
+ []
+
+
+Overfull \hbox (5.52327pt too wide) in paragraph at lines 19--19
+ \T1/pplj/m/n/10.95 trends are due to in-ter-nal vari-abil-ity; 8-yr trends 
+ []
+
+[79])
 \tf@lot=\write8
 \openout8 = `ClassicThesis.lot'.
 
- [67]) [68]
+ [80]) [81] [82
+
+
+
+]
 \openout2 = `FrontBackmatter/Bibliography.aux'.
 
  (./FrontBackmatter/Bibliography.tex)
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
 (Font)              scaled to size 9.30756pt on input line 13.
 
-Overfull \hbox (2.40744pt too wide) in paragraph at lines 99--99
+Overfull \hbox (2.40744pt too wide) in paragraph at lines 105--105
 [][]\T1/pplj/m/n/10.95 Bittner, Matthias, Hauke Schmidt, Clau-dia Timm-reck, an
 d Frank Sienz
  []
 
 
-Overfull \hbox (0.7219pt too wide) in paragraph at lines 99--99
+Overfull \hbox (0.7219pt too wide) in paragraph at lines 105--105
 \T1/pplj/m/n/10.95 (2016). ^^P  Us-ing a large en-sem-ble of sim-u-la-tions to 
 as-sess the North-
  []
 
-[69
 
+Overfull \hbox (14.32935pt too wide) in paragraph at lines 105--105
+\T1/pplj/m/it/10.95 ters \T1/pplj/m/n/10.95 43.17. 2016GL070587, pp. 9324^^U933
+2. \T1/pplj/m/sc/10.95 doi\T1/pplj/m/n/10.95 : [][]$\T1/fvm/m/n/10.95 10 . 1002
+ / 2016GL070587$[][]
+ []
 
-
+[83
 
 
 
 ]
-Overfull \hbox (0.27667pt too wide) in paragraph at lines 99--99
+Overfull \hbox (0.27667pt too wide) in paragraph at lines 105--105
 \T1/pplj/m/n/10.95 ports in Ocean Cir-cu-la-tion Mod-els.^^Q In: \T1/pplj/m/it/
 10.95 Jour-nal of Phys-i-cal Oceanog-
  []
 
 
-Overfull \hbox (0.89253pt too wide) in paragraph at lines 99--99
+Overfull \hbox (0.89253pt too wide) in paragraph at lines 105--105
 \T1/pplj/m/n/10.95 from 1850 to 2100 in MPI-ESM sim-u-la-tions for the Cou-pled
  Model
  []
 
 
-Overfull \hbox (13.42087pt too wide) in paragraph at lines 99--99
+Overfull \hbox (13.42087pt too wide) in paragraph at lines 105--105
 [][]\T1/pplj/m/n/10.95 Gnanadesikan, Anand, Marie-Aude Pradal, and Ryan Aber-na
 they (2015).
  []
 
 
-Overfull \hbox (11.13075pt too wide) in paragraph at lines 99--99
+Overfull \hbox (11.13075pt too wide) in paragraph at lines 105--105
 \T1/pplj/m/n/10.95 ^^P  Isopy-c-nal mix-ing by mesoscale ed-dies sig-nif-i-cant
 ly im-pacts oceanic
  []
 
 
-Overfull \hbox (7.16415pt too wide) in paragraph at lines 99--99
+Overfull \hbox (7.16415pt too wide) in paragraph at lines 105--105
 \T1/pplj/m/n/10.95 an-thro-pogenic car-bon up-take.^^Q In: \T1/pplj/m/it/10.95 
 Geo-phys-i-cal Re-search Let-ters \T1/pplj/m/n/10.95 42.11,
  []
 
-[70]
-Overfull \hbox (13.39485pt too wide) in paragraph at lines 99--99
-[][]\T1/pplj/m/n/10.95 Haumann, F. Alexan-der, Nico-las Gru-ber, Matthias Mün-n
-ich, Ivy Frenger,
- []
-
-
-Overfull \hbox (3.18562pt too wide) in paragraph at lines 99--99
-\T1/pplj/m/n/10.95 and Ste-fan Kern (2016). ^^P  Sea-ice trans-port driv-ing So
-uth-ern Ocean
- []
-
-
-Overfull \hbox (16.65195pt too wide) in paragraph at lines 99--99
-\T1/fvm/m/n/10.95 2009BAMS2607 . 1$[][]\T1/pplj/m/n/10.95 . eprint: [][]$\T1/fv
-m/m/n/10.95 http : / / dx . doi . org / 10 . 1175 / 2009BAMS2607 .
- []
-
-
-Overfull \hbox (14.03706pt too wide) in paragraph at lines 99--99
+[84]
+Overfull \hbox (14.03706pt too wide) in paragraph at lines 105--105
 \T1/pplj/m/n/10.95 (2013). ^^P  South-ern Ocean bot-tom wa-ter char-ac-ter-is-t
 ics in CMIP5 mod-
  []
 
 
-Overfull \hbox (0.21742pt too wide) in paragraph at lines 99--99
+Overfull \hbox (0.21742pt too wide) in paragraph at lines 105--105
 \T1/pplj/m/n/10.95 ocean bio-geo-chem-istry model HAMOCC: Model ar-chi-tec-ture
  and
  []
 
-[71]
-Overfull \hbox (3.11409pt too wide) in paragraph at lines 99--99
+
+Overfull \hbox (9.97212pt too wide) in paragraph at lines 105--105
+\T1/pplj/m/it/10.95 Mod-el-ing Earth Sys-tems \T1/pplj/m/n/10.95 5.2, pp. 287^^
+U315. \T1/pplj/m/sc/10.95 doi\T1/pplj/m/n/10.95 : [][]$\T1/fvm/m/n/10.95 10 . 1
+029 / 2012MS000178$[][]
+ []
+
+[85]
+Overfull \hbox (3.11409pt too wide) in paragraph at lines 105--105
 \T1/pplj/m/n/10.95 Matei, U. Miko-la-jew-icz, D. Notz, and J. S. von Storch (20
 13). ^^P  Char-
  []
 
 
-Overfull \hbox (5.14552pt too wide) in paragraph at lines 99--99
+Overfull \hbox (5.14552pt too wide) in paragraph at lines 105--105
 [][]\T1/pplj/m/n/10.95 Kalnay, E. et al. (1996). ^^P  The NCEP/N-CAR 40-Year Re
 -anal-y-sis Project.^^Q
  []
 
-
-Overfull \hbox (7.40149pt too wide) in paragraph at lines 99--99
-\T1/pplj/m/n/10.95 0036-8075. \T1/pplj/m/sc/10.95 doi\T1/pplj/m/n/10.95 : [][]$
-\T1/fvm/m/n/10.95 10 . 1126 / science . aab2620$[][]\T1/pplj/m/n/10.95 . eprint
-: [][]$\T1/fvm/m/n/10.95 http : / / science .
+[86]
+Overfull \hbox (1.72139pt too wide) in paragraph at lines 105--105
+[][]\T1/pplj/m/n/10.95 Landschützer, Pe-ter, Nico-las Gru-ber, and Dorothee C. 
+E. Bakker (2016).
  []
 
-[72]
-Overfull \hbox (0.9267pt too wide) in paragraph at lines 99--99
+
+Overfull \hbox (0.9267pt too wide) in paragraph at lines 105--105
 \T1/pplj/m/n/10.95 Oliver, Michael J. Fol-lows, and Richard G. Williams (2013).
  ^^P  Wind-
  []
 
 
-Overfull \hbox (0.12953pt too wide) in paragraph at lines 99--99
+Overfull \hbox (0.12953pt too wide) in paragraph at lines 105--105
 \T1/pplj/m/n/10.95 ogy.^^Q In: \T1/pplj/m/it/10.95 Geo-phys. Res. Lett. \T1/ppl
 j/m/n/10.95 32.L11603. \T1/pplj/m/sc/10.95 doi\T1/pplj/m/n/10.95 : [][]$\T1/fvm
 /m/n/10.95 10 . 1029 / 2005GL022727$[][]
  []
 
-[73]
-Overfull \hbox (2.64583pt too wide) in paragraph at lines 99--99
-[][]\T1/pplj/m/n/10.95 Maier-Reimer, Ernst (1984). ^^P  TTo-ward a Global Ocean
- Car-bon Model.^^Q
- []
-
-
-Overfull \hbox (10.63544pt too wide) in paragraph at lines 99--99
+[87] [88]
+Overfull \hbox (10.63544pt too wide) in paragraph at lines 105--105
 \T1/pplj/m/n/10.95 for de-tec-tion of trends in the ocean car-bon sink.^^Q In: 
 \T1/pplj/m/it/10.95 Na-ture \T1/pplj/m/n/10.95 530.7591,
  []
 
 
-Overfull \hbox (16.71803pt too wide) in paragraph at lines 99--99
+! Package inputenc Error: Unicode char \u8:Â  not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105 ...age\include{FrontBackmatter/Bibliography}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char \u8:Â  not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105 ...age\include{FrontBackmatter/Bibliography}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char \u8:Â  not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105 ...age\include{FrontBackmatter/Bibliography}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (25.313pt too wide) in paragraph at lines 105--105
+\T1/pplj/m/n/10.95 sem-ble of cli-mate change sim-u-la-tions.^^Q In: \T1/pplj/m
+/it/10.95 Na-ture \T1/pplj/m/n/10.95 430.7001. 10.1038/na-
+ []
+
+
+Overfull \hbox (8.9355pt too wide) in paragraph at lines 105--105
+\T1/pplj/m/n/10.95 ture02771, 768^^U772. \T1/pplj/m/sc/10.95 doi\T1/pplj/m/n/10
+.95 : [][]$\T1/fvm/m/n/10.95 http : / / dx . doi . org / 10 . 1038 / nature0277
+1$[][]
+ []
+
+
+Overfull \hbox (16.71803pt too wide) in paragraph at lines 105--105
 \T1/pplj/m/n/10.95 In: \T1/pplj/m/it/10.95 Geo-phys. Res. Lett. \T1/pplj/m/n/10
 .95 43.5, pp. 2077^^U2085. \T1/pplj/m/sc/10.95 doi\T1/pplj/m/n/10.95 : [][]$\T1
 /fvm/m/n/10.95 10 . 1002 / 2015gl067584$[][]
  []
 
-[74] [75]
-Overfull \hbox (8.41235pt too wide) in paragraph at lines 99--99
+[89] [90]
+Overfull \hbox (17.6937pt too wide) in paragraph at lines 105--105
+[][]\T1/pplj/m/n/10.95 Schultzweida, Uwe, Luis Ko-rn-blueh, Ralf Müller, Karl-H
+ermann Wieners,
+ []
+
+
+Overfull \hbox (8.41235pt too wide) in paragraph at lines 105--105
 \T1/pplj/m/n/10.95 Phy-to-plank-ton.^^Q In: \T1/pplj/m/it/10.95 Jour-nal du Con
 -seil In-ter-na-tional pour l'Exploration
  []
 
-[76]
 
 ! Package inputenc Error: Unicode char \u8:ï¬‚ not set up for use with LaTeX.
 
@@ -4099,55 +4308,67 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.99 ...page\include{FrontBackmatter/Bibliography}
+l.105 ...age\include{FrontBackmatter/Bibliography}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[77]
-Overfull \hbox (1.75267pt too wide) in paragraph at lines 99--99
-\T1/pplj/m/n/10.95 Union, pp. 99^^U110. \T1/pplj/m/sc/10.95 isbn\T1/pplj/m/n/10
-.95 : 9781118664322. \T1/pplj/m/sc/10.95 doi\T1/pplj/m/n/10.95 : [][]$\T1/fvm/m
-/n/10.95 10 . 1029 / GM032p0099$[][]
- []
-
-
-Overfull \hbox (3.77332pt too wide) in paragraph at lines 99--99
+[91]
+Overfull \hbox (3.77332pt too wide) in paragraph at lines 105--105
 \T1/pplj/m/n/10.95 ex-change over the ocean.^^Q In: \T1/pplj/m/it/10.95 Jour-na
 l of Geo-phys-i-cal Re-search: Oceans
  []
 
-[78]
+[92]
+Overfull \hbox (17.58142pt too wide) in paragraph at lines 105--105
+\T1/pplj/m/n/10.95 anal-y-sis.^^Q In: \T1/pplj/m/it/10.95 Global Bio-geo-chem-i
+-cal Cy-cles\T1/pplj/m/n/10.95 . \T1/pplj/m/sc/10.95 doi\T1/pplj/m/n/10.95 : []
+[]$\T1/fvm/m/n/10.95 10 . 1002 / 2016gb005541$[][]
+ []
+
+[93] [94
+
+
+
+]
 \openout2 = `FrontBackmatter/Acknowledgments.aux'.
 
  (./FrontBackmatter/Acknowledgments.tex
-Overfull \hbox (8.83846pt too wide) in paragraph at lines 23--25
-\T1/pplj/m/n/10.95 also Irene, Tinka, Jo-eran MPI, cdo, DKRZ Luis for run-ning 
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
  []
 
-) [79
+Package acronym Info: Label `acro:MPI' newly defined as it shall be overridden
+although it is yet undefined on input line 21.
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+) [95
 
 
 
-
-
-
-] [80
+] [96
 
 
 
 ]
 \openout2 = `FrontBackmatter/Declaration.aux'.
 
- (./FrontBackmatter/Declaration.tex) [81
+ (./FrontBackmatter/Declaration.tex) [97
 
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 103.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 103.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
  (./ClassicThesis.aux
 (./FrontBackmatter/Titlepage.aux) (./FrontBackmatter/Abstract.aux)
 (./FrontBackmatter/Contents.aux) (./Chapters/Chapter01.aux)
@@ -4156,7 +4377,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 103.
 (./Chapters/Chapter0A.aux) (./FrontBackmatter/ListofFiguresAndTables.aux)
 (./FrontBackmatter/Bibliography.aux) (./FrontBackmatter/Acknowledgments.aux)
 (./FrontBackmatter/Declaration.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 103.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
 
 
  *File List*
@@ -4203,7 +4424,7 @@ biblatex.def
 blx-natbib.def    2014/06/25 v2.9a biblatex compatibility (PK/JW/AB)
 standard.bbx    2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
 authoryear.bbx    2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
-authoryear-comp.cbx    2014/06/25 v2.9a biblatex citation style (PK/JW/AB)
+authoryear.cbx    2014/06/25 v2.9a biblatex citation style (PK/JW/AB)
 biblatex.cfg    
  amsmath.sty    2013/01/14 v2.14 AMS math features
  amstext.sty    2000/06/29 v2.01
@@ -4325,7 +4546,6 @@ FrontBackmatter/Titlepage.tex
 FrontBackmatter/Abstract.tex
 FrontBackmatter/Contents.tex
 Chapters/Chapter01.tex
- ts1pplj.fd    2004/09/06 font definitions for TS1/pplj.
 Chapters/Chapter02.tex
    t1fvm.fd    2004/09/07 scalable font definitions for T1/fvm.
 /home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf
@@ -4335,16 +4555,8 @@ Chapters/Chapter03.tex
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015_tren
 d_8.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf
@@ -4353,45 +4565,29 @@ d_8.pdf
 d_8.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015_tren
 d_8.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf
 Chapters/Chapter04.tex
 /home/mpim/m300524/MSc_Thesis/gfx/EGU_new_SAM_Scatter_trends_bands_ensanom_co2f
 lux_vs_SAM_n1800_1980_1997_trend8.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetzer
-_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetzer
-_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetzer
-_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetzer
-_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetzer
-_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetzer
-_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetzer
-_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetzer
-_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_overvie
-w.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_overvie
-w.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_overvie
 w.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_overvie
@@ -4405,46 +4601,22 @@ _summer.pdf
 _summer.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
 _summer.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
-_summer.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
-_summer.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
-_summer.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
-_summer.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
-_summer.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
-_summer.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpunkt_m
 ixing_overview.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpunkt_m
 ixing_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpunkt_m
-ixing_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpunkt_m
-ixing_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetzer
-_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetzer
-_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetzer
-_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetzer
-_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetzer
-_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetzer
-_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetzer
-_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetzer
-_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_overvie
-w.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_overvie
-w.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_overvie
 w.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_overvie
@@ -4458,22 +4630,6 @@ _summer.pdf
 _summer.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
 _summer.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
-_summer.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
-_summer.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
-_summer.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
-_summer.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
-_summer.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
-_summer.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerpunkt_m
-ixing_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerpunkt_m
-ixing_overview.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerpunkt_m
 ixing_overview.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerpunkt_m
@@ -4485,8 +4641,6 @@ Chapters/Chapter05.tex
 Chapters/Chapter06.tex
 Chapters/Chapter0A.tex
 /home/mpim/m300524/MSc_Thesis/gfx/new_SOCS_co2flux_Distribution_n24.png
-/home/mpim/m300524/MSc_Thesis/gfx/new_SOCS_co2flux_Distribution_n24.png
-/home/mpim/m300524/MSc_Thesis/gfx/new_SO_co2flux_Spatial_Distribution_n24.png
 /home/mpim/m300524/MSc_Thesis/gfx/new_SO_co2flux_Spatial_Distribution_n24.png
 /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf
@@ -4509,72 +4663,79 @@ Chapters/Chapter0A.tex
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
-_winter.pdf
+_co2_summer.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2_summer.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2_summer.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2_summer.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2_summer.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2_summer.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2_winter.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2_winter.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2_winter.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2_winter.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2_winter.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overview
+_co2_winter.pdf
 /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
-_winter.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetzer
-_summer_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetzer
-_summer_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetzer
-_summer_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetzer
-_winter_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetzer
-_winter_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetzer
-_winter_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetzer
-_summer_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetzer
-_summer_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetzer
-_summer_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetzer
-_winter_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetzer
-_winter_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetzer
-_winter_overview.pdf
-/home/mpim/m300524/MSc_Thesis/gfx/lighttemplimf.png
+_co2_summer.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2_summer.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2_summer.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2_summer.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2_summer.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2_summer.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2_winter.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2_winter.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2_winter.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2_winter.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2_winter.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overview
+_co2_winter.pdf
+/home/mpim/m300524/MSc_Thesis/gfx/limf.png
+/home/mpim/m300524/MSc_Thesis/gfx/dic_alk_pco2_processes.png
 FrontBackmatter/ListofFiguresAndTables.tex
 FrontBackmatter/Bibliography.tex
 FrontBackmatter/Acknowledgments.tex
 FrontBackmatter/Declaration.tex
  ***********
 
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 103.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
 Package rerunfilecheck Info: File `ClassicThesis.out' has not changed.
-(rerunfilecheck)             Checksum: 621D09475068F20B0E457C33D783689D;638.
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                ClassicThesis
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: 6075DDF6D9C63D2E91CD0CD7AE40EEC3;724.
 Package logreq Info: Writing requests to 'ClassicThesis.run.xml'.
 \openout1 = `ClassicThesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24033 strings out of 494404
- 426756 string characters out of 6163654
- 946789 words of memory out of 5000000
- 26340 multiletter control sequences out of 15000+600000
- 105362 words of font info for 184 fonts, out of 8000000 for 9000
+ 24703 strings out of 494404
+ 438076 string characters out of 6163654
+ 949421 words of memory out of 5000000
+ 26826 multiletter control sequences out of 15000+600000
+ 113093 words of font info for 198 fonts, out of 8000000 for 9000
  354 hyphenation exceptions out of 8191
- 73i,24n,96p,1481b,3443s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,24n,95p,2420b,3443s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
@@ -4593,10 +4754,10 @@ onts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/u
 plri8a.pfb>
-Output written on ClassicThesis.pdf (89 pages, 38746300 bytes).
+Output written on ClassicThesis.pdf (107 pages, 31912425 bytes).
 PDF statistics:
- 2100 PDF objects out of 2487 (max. 8388607)
- 1704 compressed objects within 18 object streams
- 318 named destinations out of 1000 (max. 500000)
- 36464 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 2929 PDF objects out of 2984 (max. 8388607)
+ 2447 compressed objects within 25 object streams
+ 494 named destinations out of 1000 (max. 500000)
+ 36261 words of extra memory for PDF output out of 42996 (max. 10000000)
 

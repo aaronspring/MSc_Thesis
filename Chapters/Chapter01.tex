@@ -1,18 +1,61 @@
+%\documentclass[class=article,crop=false, multi=true]{standalone}
+%\input{../ClassicThesis}
+%\input{../classicthesis-config}
+
+%\begin{document}
+
 %************************************************
 \chapter{Introduction}\label{ch:introduction}
 %************************************************
+%where to cite Landschuetzer2016
 
-\citep{Sabine2004} \\
-\citep{landschuetzer2015}\\
-\citep{LeQuere2007}\\
-\citep{Sarmiento1984}\\
-\citep{Lovenduski2005}\\
-\citep{Lovenduski2007}\\
-\citep{Lovenduski2008}\\
-\citep{Hauck2013}\\
-\citep{wang2012}\\
-\citep{Wang2016}\\
+%\paragraph{Why the Southern Ocean is important} 
+%The global Carbon cycle
 
 
+The increasing atmospheric concentrations of carbon dioxide (CO$_2$) drive anthropogenic climate change, which alters the Earth's climate system at a soaring rate \citep{Crutzen2002}. While roughly half of the anthropogenic CO$_2$ emissions remain in the atmosphere, the carbon reservoirs in oceans and on land modulate the global carbon cycle and hence the climate \citep{Quere2016}. The oceans currently take up about 25-30\% of the anthropogenic carbon emissions \citep{Sabine2004}. As a key region, the Southern Ocean is estimated to contribute about 50\% to the global ocean carbon sink \citep{Takahashi2012}. The large uptake ability of the Southern Ocean arises from its unique position in the global overturning circulation \citep{Talley2013}. Deep waters, which have not been exposed to the atmosphere of higher CO$_2$, take up additional anthropogenic CO$_2$ and sink back into the ocean as intermediate waters \citep{Morrison2015}. Additionally, pronounced primary production in the Southern Ocean sequesters carbon into the deep ocean \citep{Falkowski1998}. Moreover, high solubility of pCO$_2$ in the Southern Ocean due to low sea-surface temperature permits the waters to hold higher oceanic pCO$_2$ concentrations than in the tropical oceans \citep{Heinze2015}.\newline %umscchreiben der prozesse
+ 
+The extreme conditions of the Southern Ocean result in sparse spatial and temporal coverage of observations, so even various obser-vation-based CO$_2$ flux products yield large uncertainties \citep{Roedenbeck2015}. Also modeling results have a large spread \citep{Wang2016} but claim the Southern Ocean as a constraint to reduce model uncertainties in future projections \citep{Kessler2016}.
+%\paragraph{Southern Ocean observations and demand for models}
+
+Recent observations suggest pronounced decadal variations in the Southern Ocean carbon sink \citep{Roedenbeck2013,landschuetzer2015}. Understanding internal variability is important to recognize whether the climate changes due to external forcing or natural fluctuations of the earth system \citep{Murphy2004}. Contrasting the expected increasing Southern Ocean carbon sink due to the increasing atmospheric forcing, \citeauthor{landschuetzer2015} [{\color{RoyalBlue}2015}] even reported a decadal declining trend. %why is int var so important
+Due to sparse measurement data, it is challenging to discern the dynamics of internally varying processes, which demands for the evaluation and can be provided by models. Models, numerical representations of the climate system based on physical, biological and chemical principles, are a useful tool to analyze processes that contribute to variability.\newline
+
+%processes
+%The \ac{SAM}, characterizing the strength and position of the westerly winds, is known to be the dominant mode of climate variability in the Southern hemisphere [\cite{Thompson2000}; {\color{RoyalBlue}2011}]. 
+Supposing the strength and position of the westerly winds as the major reason for climate variability for the Southern Ocean [\citeauthor{Thompson2011},  {\color{RoyalBlue}2000}; {\color{RoyalBlue}2011}], the carbon cycle responds in the thermal pCO$_2$ effect, advection of carbon and biological production.\newline
+
+By forcing an ocean model with atmospheric reanalysis data, \citeauthor{Lovenduski2007} [{\color{RoyalBlue}2007}; {\color{RoyalBlue}2008}] demonstrated that increased upwelling due to stronger and southward shifted westerly winds in the Southern hemisphere cause a decline in the Southern Ocean carbon sink. %\paragraph{Working hypothesis}
+%The \acf{SAM}, characterizing the strength and position of the westerly winds, is known to be the dominant mode of climate variability in the Southern hemisphere \citep{Thompson2000,Thompson2011}. Supposing \acs{SAM} as the major reason for climate variability for the Southern Ocean, how does the carbon system respond? Changes in westerly winds alter circulation patterns, which directly effect the carbon sink via the thermal pCO$_2$ effect, circulation of carbon and biological production.\newline
+
+Yet, \acp{ESM} containing a freely evolving coupled atmospheric and ocean component have challenges in capturing the decadal variations in sea-air CO$_2$ flux as suggest by observations \citep{Wang2016}. Advances in computing power now enable simulating a larger number of model realizations, which increases the likelihood of capturing pronounced decadal trends. Using a large ensemble of simulations with perturbed initial conditions but identical forcing and model allows to separate trends into an ensemble mean trend, the forced signal, and the residual, the internal variability [\cite{McKinley2016}; {\color{RoyalBlue}2017}].\newline
+
+%\paragraph{What I do and research questions}
+By using a large ensemble of 100 simulations based on the \acs{MPI-ESM} (hereafter \acs{MPI-ESM LE}) I investigate the decadal internal variability of oceanic carbon uptake to answer the following research questions: 
+\begin{itemize}
+\item[-] What is the modeled internal variability of the Southern Ocean carbon sink? 
+\item[-] What are the sources of this internal variability?
+%\item How does variability in biological and physical processes influence the carbon sink?
+\item[-] What are the contributions of different processes to multi-year trends in sea-air CO$_2$ flux in the Southern Ocean?
+\end{itemize} 
+
+%why did Tatiana want me to do this:
+%all coupled models fail to reproduce SO variability, ocean-only models with NCEP forcing catch it, so its probably the winds and need coupled ensemble simulation
+\vspace{15mm}
+%\paragraph{Revisit processes}
+My thesis  revisits the dominant processes leading to strong trends in the Southern Ocean carbon sink in the ocean biogeochemical model \acf{HAMOCC} of \acs{MPI-ESM} [similar to \cite{Lovenduski2007}; {\color{RoyalBlue} 2008}].
+
+This revisit is particularly interesting as other large ensembles of perturbed initial conditions \acs{ESM} simulations do not capture strong decadal variations in the Southern Ocean carbon sink whereas \acs{MPI}{\color{RoyalBlue}-ESM LE} does [private communication N. Lovenduski (\acs{NCAR}) and S. Schlunegger (\acs{GFDL})].\newline%, see section \ref{sec:PICLE} for details].\newline
+
+\vspace{15mm}
+Working on my research questions builds the outline for this thesis: 
+I describe the large ensemble of \acs{MPI-ESM} simulations in \autoref{ch:methods} and evaluate the model in the key features related to the Southern Ocean carbon sink variability in \autoref{ch:eval}. Hereafter I qualitatively describe the response of individual processes related to changes in Southern Hemisphere winds in \autoref{ch:trends}. %, which are already discussed in the literature, \eg pCO$_2$ temperature effect \citep{Takahashi1993,Lovenduski2007}, circulation \citep{Abernathey2011,Hauck2013,Lauderdale2013,Lovenduski2008} and biology \citep{Lovenduski2005,Hauck2013,Tagliabue2014}. 
+In \autoref{ch:pCO2separation} I quantitatively assess the individual responses of different processes on oceanic pCO$_2$.  Finally,  I draw my main conclusions and % on the driving processes for strong multi-year sea-air CO$_2$ flux trends and Understanding the response of the carbon system helps to evaluate the strong trends in \acs{MPI-ESM LE} and 
+%Furthermore, I
+evaluate how relatable perturbed initial conditions large ensembles are for internal variability in observations and give an outlook on possible future research in \autoref{ch:conclusions}.\newline %obs?!
 
 
+
+%\end{document}
+
+\nocite{WilliamsFollows2011}

@@ -3,44 +3,48 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: outline.aux
 The style file: abbrvnat.bst
 Database file #1: ../Paper/SouthernOceanCarbonSink_new.bib
-You've used 49 entries,
+Warning--I didn't find a database entry for "Sallee2008"
+Warning--can't use both author and editor fields in WOA2013
+Warning--can't use both author and editor fields in IPCC
+You've used 96 entries,
             2773 wiz_defined-function locations,
-            1038 strings with 20931 characters,
-and the built_in function-call counts, 35782 in all, are:
-= -- 3132
-> -- 3157
-< -- 17
-+ -- 1057
-- -- 1008
-* -- 3607
-:= -- 5818
-add.period$ -- 258
-call.type$ -- 49
-change.case$ -- 482
-chr.to.int$ -- 49
-cite$ -- 98
-duplicate$ -- 1014
-empty$ -- 2009
-format.name$ -- 1075
-if$ -- 7146
-int.to.chr$ -- 1
+            1387 strings with 32859 characters,
+and the built_in function-call counts, 64329 in all, are:
+= -- 5614
+> -- 5427
+< -- 37
++ -- 1822
+- -- 1725
+* -- 6362
+:= -- 10437
+add.period$ -- 472
+call.type$ -- 96
+change.case$ -- 857
+chr.to.int$ -- 95
+cite$ -- 194
+duplicate$ -- 1979
+empty$ -- 3831
+format.name$ -- 1855
+if$ -- 12909
+int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 49
-newline$ -- 364
-num.names$ -- 196
-pop$ -- 779
+missing$ -- 102
+newline$ -- 672
+num.names$ -- 384
+pop$ -- 1406
 preamble$ -- 1
-purify$ -- 434
+purify$ -- 767
 quote$ -- 0
-skip$ -- 932
+skip$ -- 1725
 stack$ -- 0
-substring$ -- 1342
-swap$ -- 75
-text.length$ -- 1
+substring$ -- 2341
+swap$ -- 144
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 534
-warning$ -- 0
-while$ -- 233
+type$ -- 1021
+warning$ -- 2
+while$ -- 431
 width$ -- 0
-write$ -- 864
+write$ -- 1616
+(There were 3 warnings)

@@ -14,88 +14,254 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Schematic overview on the different components in \ac {MPI-ESM} with prescribed atmospheric partial pressure pCO$_{\text {2,atm}}$ \citep {Giorgetta2013}\relax }}{3}{figure.caption.5}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Schematic overview on the different components in \ac {MPI-ESM} with prescribed atmospheric partial pressure pCO$_{\text {2,atm}}$ \citep {Giorgetta2013}\relax }}{5}{figure.caption.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Schematic overview of the global ocean biogeochemistry model \acs {HAMOCC} \citep {Ilyina2013} which is coupled to the atmospheric model component \acs {ECHAM} and the ocean model \acs {MPIOM}. The ocean model provides state variables of physical oceanography, i.e. ice cover, temperature (T), salinity (S) and the advective velocities ($\mathaccentV {bar}009{v}$). The water column holds tracers of gases, i.e. oxygen (O$_2$), nitrogen (N$_2$), laughing gas (N$_2$O), and dimethyl sulfide (DMS); nutrients, i.e. iron (Fe), phosphate (PO$_4$), nitrate (NO$_3$) and silicic acid Si(OH)$_4$; and tracers of carbonate chemistry, i.e. dissolved inorganic carbon (TCO$_2$) and total alkalinity (TA). Photosynthesis converts \acs {DIC} and nutrients to organic carbon, which produces calcium carbon (CaCO$_3$) or opal shells.\relax }}{6}{figure.caption.9}
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Spatial distribution of the climatology (a,c) and decadal internal variability $\sigma _{DIV}$ (b,d) from 1980-2004 of the Southern Ocean air-sea CO$_2$ flux: MPI-ESM LE ensemble mean as forced signal (a), ensemble decadal standard deviation as decadal internal variability $\sigma _{DIV}$ (b), SOM-FFN climatology 1982-2004 (c), SOM-FFN decadal variability $\sigma _{DIV}$ (d); negative values indicate ocean uptake.\relax }}{14}{figure.caption.11}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Temporal evolution of the Southern Ocean air-sea CO$_2$ flux south of 35$^\circ $S. Grey lines show the 100 ensemble members, the black line the ensemble mean, the blue shading is the ensemble decadal internal variability $\sigma _{DIV}$, the red line shows a positive CO$_2$ flux trend, the blue line shows a negative CO$_2$ flux trend, the green line represents the SOM-FFN observation-based estimate \citep {landschuetzer2015}; negative values indicate carbon uptake\relax }}{16}{figure.caption.12}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Spatial distribution of the Southern Ocean sea-level pressure and wind vectors overlain as arrows: ensemble mean climatology from 1980 to 2004 (a) as forced signal and ensemble decadal standard deviation (b) as decadal internal variability $\sigma _{DIV}$; and the difference between MPI-ESM and reanalysis data from NCEP climatology \citep {Kalnay1996} (c), and decadal internal variability $\sigma _{DIV}$ from NCEP climatology (d).\relax }}{18}{figure.caption.13}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Temporal evolution of the annual Southern Annular Mode (SAM) index according to \citep {Gong1999}. Grey lines show the 100 ensemble members; the black line the ensemble mean; the blue shading is the decadal internal variability $\sigma _{DIV}$; the red line reprensents positive CO$_2$ flux trend; the blue line shows the negative CO$_2$ flux trend; the green line shows the station-based SAM from \cite {Marshall2003}\relax }}{19}{figure.caption.14}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Spatial distribution of the vertically integrated primary production in the Southern Ocean: climatological ensemble mean from 1980 to 2004 (a) as forced signal and ensemble decadal anomaly standard deviation (b) as decadal internal variability $\sigma _{DIV}$\relax }}{21}{figure.caption.15}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Spatial distribution of the climatology of surface nitrate (a) compared with WOA data \citep {WOA2013} (b)\relax }}{21}{figure.caption.16}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Temporal evolution of the vertically integrated primary production in the Southern Ocean south of 35$^\circ $S. Grey lines show the 100 ensemble members, the black line the ensemble mean, the blue shading is the decadal internal variability $\sigma _{DIV}$, the red line reprensents the positive CO$_2$ flux trend, the blue line represents negative CO$_2$ flux trend\relax }}{23}{figure.caption.17}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Zonally averaged transect of the Southern Ocean and the upper-ocean overturning circulation; black arrows show yearly mean advective transports of water in Sv (a) and carbon in PgC/yr (b) and its decadal internal variability $\sigma _{DIV}$; white lines are isopyncals separating Sub-Antarctic Mode Water (SAMW) at potential density $\rho _{\theta \text {}}=1026.5$ kg m$^{-3}$ from Antarctic Intermediate Water (AAIW), at $\rho _{\theta \text {}}=1027.2$ kg m$^{-3}$ from Circumpolar Deep Water (CDW), at $\rho _{\theta \text {}}=1027.7$ kg m$^{-3}$ from Antarctic Bottom Water (AABW); the black line is the mixed-layer depth (MLD); the colored contours show the distribution of dissolved inorganic carbon (DIC)\relax }}{25}{figure.caption.18}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Spatial distribution of the ensemble mean climatology (1980-2004) of the mixed-layer depth (MLD) (left) compared with \cite {Monterey1997}\relax }}{26}{figure.caption.19}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Schematic overview of the global ocean biogeochemistry model \acs {HAMOCC} \citep {Ilyina2013} which is coupled to the atmospheric model component \acs {ECHAM} and the ocean model \acs {MPIOM}. The ocean model provides state variables of physical oceanography, i.e. ice cover, temperature (T), salinity (S) and the advective velocities ($\mathaccentV {bar}009{v}$). The water column holds tracers of gases, i.e. oxygen (O$_2$), nitrogen (N$_2$), laughing gas (N$_2$O), and dimethyl sulfide (DMS); nutrients, i.e. iron (Fe), phosphate (PO$_4$), nitrate (NO$_3$) and silicic acid Si(OH)$_4$; and tracers of carbonate chemistry, i.\tmspace +\thinmuskip {.1667em}e.\tmspace +\thinmuskip {.1667em}\acf {DIC} and alkalinity (Alk). Photosynthesis converts \ac {DIC} and nutrients to \acf {DOC}, which produces calcium carbonate (CaCO$_3$) or opal shells.\relax }}{7}{figure.caption.10}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Linear trends in the Southern Annular Mode (SAM) as indicator of wind strength vs. CO$_2$ flux at 50-60$^\circ $S; each data point represents 8-year trends of a single realization normalized for the ensemble mean trend between 1980 and 2005; the blue dot is the most negative monotonic CO$_2$ flux trend; the red dot is positive monotonic CO$_2$ flux trend.\relax }}{28}{figure.caption.20}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Spatial distribution of the climatology (a,c) and decadal internal variability $\sigma _{DIV}$ (b,d) from 1980-2004 of the Southern Ocean sea-air CO$_2$ flux: (a) \acs {MPI-ESM LE} ensemble mean as forced signal, (b) ensemble decadal standard deviation as decadal internal variability $\sigma _{DIV}$, (c) \acs {SOM-FFN} climatology 1982-2004, (d) \acs {SOM-FFN} decadal variability $\sigma _{DIV}$; negative values indicate ocean uptake.\relax }}{16}{figure.caption.21}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Linear trends in $\Delta $pCO$_2$ (left) and sea-level pressure and wind vectors overlain as arrows (right) for the case of the most positive monotonic 8-year CO$_2$ flux trend; hatched areas indicate where trends are outside the 5\% significance level\relax }}{29}{figure.caption.21}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\acs {MPI-ESM} ensemble mean CO$_2$ flux \text { } \text {[kgC m$^{-2}$yr$^{-1}$ /8yrs]}}}}{16}{subfigure.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Linear trends in pCO$_{2,\text {thermal}}$ (a) and $\Delta $pCO$_{2,\text {non-thermal}}$ (b) for the case of the most positive monotonic 8-year CO$_2$ flux trend; hatched areas indicate where trends are outside the 5\% significance level\relax }}{30}{figure.caption.22}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\acs {MPI-ESM} $\sigma _{DIV}$ CO$_2$ flux \text { } \text { } \text {[kgC m$^{-2}$yr$^{-1}$ /8yrs]}}}}{16}{subfigure.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Linear trends in Ekman transport (a) and Ekman pumping (b) in the case of the most positive 8-years CO$_2$ flux trend; hatched areas indicate where trends are outside the 5\% significance level\relax }}{31}{figure.caption.23}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\acs {SOM-FFN} mean CO$_2$ flux \text { } \text { } \text {[kgC m$^{-2}$yr$^{-1}$ /8yrs]}}}}{16}{subfigure.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Zonally averaged upper-ocean overturning circulation in the case of the most positive 8-year CO$_2$ flux trend; black arrows show mean advective carbon transport, red arrows show advective carbon transport trends enforcing the upper-ocean overturning circulation; blue arrows show advective carbon transport trends weakening the upper-ocean overturning circulation; black numbers quantify the trends in advective carbon transport in PgC/8yrs; white lines are isopyncals as in fig. \ref {fig:UOOC_mean}; grey line is mixed-layer depth (MLD) in the beginning and the black line MLD in the end of the period.\relax }}{32}{figure.caption.24}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\acs {SOM-FFN} $\sigma _{DIV}$ CO$_2$ flux \text { } \text { } \text {[kgC m$^{-2}$yr$^{-1}$ /8yrs]}}}}{16}{subfigure.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Southern Ocean austral summer trends for the case of the most positive 8-year CO$_2$ flux trend: CO$_2$ flux (a), vertically integrated primary production (b), nutrient availability factor (c), surface temperature \& limitation function (d), mixed layer depth (e); average depth of vertical diffusivity due to wind (f) and phytoplankton average depth (g); hatched areas indicate where trends are outside the 5\% significance level\relax }}{35}{figure.caption.25}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Temporal evolution of the Southern Ocean sea-air CO$_2$ flux anomaly south of 35$^\circ $S with respect to the 1980s. Grey lines show the 100 ensemble members, the black line the ensemble mean, the blue shading is the ensemble decadal internal variability $\sigma _{DIV}$, the red line shows the most positive 8-year trend, the blue line shows the most negative 8-year trend, the green line represents the \acs {SOM-FFN} observation-based estimate \citep {landschuetzer2015}; negative values indicate carbon uptake; \acs {MPI-ESM LE} is extended under \acs {RCP}4.5 forcing from 2005 to 2015.\relax }}{17}{figure.caption.22}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Linear trends in $\Delta $pCO$_2$ (a) and sea-level pressure and wind vectors overlain as arrows (b) for the case of the most negative monotonic 8-year CO$_2$ flux trend; hatched areas indicate where trends are outside the 5\% significance level\relax }}{36}{figure.caption.26}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Annual sea-Air CO$_2$ flux anomaly \text {[PgC/yr]}}}}{17}{subfigure.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Linear trends in pCO$_{2,\text {thermal}}$ (a) and $\Delta $pCO$_{2,\text {non-thermal}}$ (b) for the case of the most negative monotonic 8-year CO$_2$ flux trend; hatched areas indicate where trends are outside the 5\% significance level\relax }}{37}{figure.caption.27}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Spatial distribution of the Southern Ocean \acf {SLP} and wind vectors overlain as arrows: (a) \acs {MPI-ESM} ensemble mean climatology from 1980 to 2004 as forced signal, (b) ensemble decadal standard deviation as decadal internal variability $\sigma _{DIV}$; (c) difference between \acs {MPI-ESM} and reanalysis data from \acs {NCEP} reanalysis climatology \citep {Kalnay1996}, (d) decadal internal variability $\sigma _{DIV}$ from \acs {NCEP} reanalysis climatology.\relax }}{21}{figure.caption.27}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Linear trends in Ekman transport (a) and Ekman pumping (b) in the case of the most negative 8-years CO$_2$ flux trend; hatched areas indicate where trends are outside the 5\% significance level\relax }}{38}{figure.caption.28}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\acs {MPI-ESM LE} mean \acs {SLP} \text {[hPa/8yrs]}}}}{21}{subfigure.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Zonally averaged upper-ocean overturning circulation in the case of the most negative 8-year CO$_2$ flux trend; black arrows show mean advective carbon transport, red arrows show advective carbon transport trends enforcing the upper-ocean overturning circulation; blue arrows show advective carbon transport trends weakening the upper-ocean overturning circulation; black numbers show the trends in advective carbon transport in PgC/8yrs; white lines are isopyncals as in fig. \ref {fig:UOOC_mean}; grey line is mixed-layer depth (MLD) in the beginning and the black line MLD in the end of the period.\relax }}{39}{figure.caption.29}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\acs {MPI-ESM} \acs {SLP} $\sigma _{DIV}$ \text {[hPa/8yrs]} \text { } \text { } \text { } \text { }}}}{21}{subfigure.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Southern Ocean austral summer trends for the most negative 8-year CO$_2$ flux trend: CO$_2$ flux (a), vertically integrated primary production (b), nutrient availability factor (c), surface temperature \& limitation function (d), mixed layer depth (e); average depth of vertical diffusivity due to wind (f) and phytoplankton average depth (g); hatched areas indicate where trends are outside the 5\% significance level\relax }}{41}{figure.caption.30}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\acs {MPI-ESM}-\acs {NCEP} mean \acs {SLP} \text {[hPa/8yrs]}}}}{21}{subfigure.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\acs {NCEP} \acs {SLP} $\sigma _{DIV}$ \text {[hPa/8yrs]}}}}{21}{subfigure.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Temporal evolution of the annual \acf {SAM} index according to \citep {Gong1999}. Grey lines show the 100 ensemble members; the black line the ensemble mean; the blue shading is the decadal internal variability $\sigma _{DIV}$; the red line reprensents the SAM during positive sea-air CO$_2$ flux trend; the blue line during the negative CO$_2$ flux trend; the green line shows the station-based \acs {SAM} from \cite {Marshall2003}.\relax }}{22}{figure.caption.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\acf {SAM} index \text {[1]}}}}{22}{subfigure.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Spatial distribution of the vertically integrated primary production in the Southern Ocean: (a) climatological \acs {MPI-ESM} ensemble mean from 1980 to 2004 as forced signal and (b) ensemble decadal anomaly standard deviation as decadal internal variability $\sigma _{DIV}$.\relax }}{24}{figure.caption.30}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\acs {MPI-ESM} \acs {INTPP} ensemble mean \text { } \text { } \text {[kgC m$^{-2}$ yr$^{-1}$]}}}}{24}{subfigure.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\acs {MPI-ESM} \acs {INTPP} $\sigma _{DIV}$ \text { } \text { } \text { } \text { } \text {[kgC m$^{-2}$ yr$^{-1}$]}}}}{24}{subfigure.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Spatial distribution of surface nitrate in the Southern Ocean: (a) \acs {MPI-ESM} ensemble mean climatology, (b) \acf {WOA} climatology data \citep {WOA2013}.\relax }}{24}{figure.caption.31}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\acs {MPI-ESM} surface nitrate ensemble mean \text { } \text { } \text {[mmol N m$^{-3}$]}}}}{24}{subfigure.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\acs {WOA} surface nitrate mean \text { } \text { } \text { } \text { } \text { } \text { }\text {[mmol N m$^{-3}$]}}}}{24}{subfigure.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Temporal evolution of the \acf {INTPP} in the Southern Ocean south of 35$^\circ $S. Grey lines show the 100 ensemble members, the black line the ensemble mean, the blue shading is the decadal internal variability $\sigma _{DIV}$, the red line shows \acs {INTPP} during the positive CO$_2$ flux trend, the blue line during the negative CO$_2$ flux trend.\relax }}{25}{figure.caption.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\acf {INTPP} \text {[PgC/yr]}}}}{25}{subfigure.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Zonally averaged transect of the Southern Ocean and the upper-ocean overturning circulation; black arrows show yearly mean advective transports and decadal internal variability $\sigma _{DIV}$ of (a) water in Sv and (b) carbon in PgC/yr; white lines are isopyncals separating \ac {SAMW} at potential density $\rho _{\theta \text {}}=1026.5$ kg m$^{-3}$ from \ac {AAIW}, at $\rho _{\theta \text {}}=1027.2$ kg m$^{-3}$ from \ac {CDW}, at $\rho _{\theta \text {}}=1027.7$ kg m$^{-3}$ from \ac {AABW}; the black line is the \ac {MLD}; the colored contours show the distribution of concentration in \acs {DIC}.\relax }}{28}{figure.caption.37}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\acs {MPI-ESM} advective water transport \text {[Sv]}}}}{28}{subfigure.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\acs {MPI-ESM} advective carbon transport \text {[PgC/yr]}}}}{28}{subfigure.8.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Spatial distribution of \acf {MLD} in the Southern Ocean: (a) \acs {MPI-ESM} ensemble mean climatology, (b) \acs {NOAA} Atlas climatology \citep {Monterey1997}.\relax }}{29}{figure.caption.40}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\acs {MPI-ESM} \acs {MLD} ensemble mean \text {[m]}}}}{29}{subfigure.9.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\acs {NOAA} \acs {MLD} Atlas mean \text {[m]}}}}{29}{subfigure.9.2}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Schematic illustration of pCO$_2$ driver separation assuming a well-mixed zonal carbon box of the upper-ocean, where CO$_2$ flux (red) is separated in contributions due to thermal (orange), freshwater (light blue), biology (green) and a residual for circulation (dark blue)\relax }}{43}{figure.caption.31}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Linear trends in the \ac {SAM} as indicator of wind strength vs. sea-air CO$_2$ flux at 50-60$^\circ $S; each data point represents 8-year trends of a single realization normalized for the ensemble mean trend between 1980 and 2004; the blue dot represents the most negative monotonic CO$_2$ flux trend; the red dot the positive monotonic CO$_2$ flux trend.\relax }}{32}{figure.caption.41}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Schematic illustration of the Southern Ocean under the context of increasing westerly winds and response in the thermal effect, biology and upper-ocean circulation leading towards a positive CO$_2$ flux trend; red color-coding indicates a relative increase of the related quantity or process whereas blue indicates a relative decrease. Stronger winds enhance the upper-ocean overturning circulation. Increased upwelling increases outgassing of over-saturated carbon-rich deep waters. Increased Ekman transport advects DIC further north, cools the higher latitudes whereas it warms the lower latitudes. Deeper mixing and cooling in the higher latitudes decreases primary production whereas shallower mixing and warming increase primary production in the higher latitudes.\relax }}{47}{figure.caption.33}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Sea-air CO$_2$ vs. \acf {SAM}}}}{32}{subfigure.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Schematic illustration of the Southern Ocean under the context of decreasing westerly winds and response in the thermal effect, biology and upper-ocean circulation leading towards a negative CO$_2$ flux trend; red color-coding indicates a relative increase of the related quantity or process, whereas blue indicates a relative decrease. Stronger winds decrease the upper-ocean overturning circulation. Decreased upwelling lowers outgassing of over-saturated carbon-rich deep waters. Decreased Ekman transport advects less DIC to the north, warms the higher latitudes whereas it cools the lower latitudes. Shallower mixing and warming in the higher latitudes increases primary production, whereas deeper mixing and cooling decrease primary production in the higher latitudes.\relax }}{48}{figure.caption.34}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Linear trends during the most positive monotonic 8-year sea-air CO$_2$ flux trend: (a) sea-air CO$_2$ flux, (b) $\Delta $pCO$_2$, (c) \ac {SLP} and wind vectors overlain as arrows and (d) \acf {SST}; hatched areas indicate where trends are outside the 5\% significance level.\relax }}{34}{figure.caption.42}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {CO$_2$ flux trend \text {[kgC m$^{-2}$yr$^{-1}$ /8yrs]}}}}{34}{subfigure.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\Delta $pCO$_2$ trend \text {[ppm/8yrs]}}}}{34}{subfigure.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\ac {SLP} and wind trends \text {[hPa/8yrs]}}}}{34}{subfigure.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\ac {SST} trend \text {[$^{\circ }$C/8yrs]}}}}{34}{subfigure.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Linear trends during the most positive monotonic 8-year sea-air CO$_2$ flux trend: (a) pCO$_{2,\text {thermal}}$ and (b) $\Delta $pCO$_{2,\text {non-thermal}}$; hatched areas indicate where trends are outside the 5\% significance level.\relax }}{35}{figure.caption.43}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {pCO$_{\text {2,thermal}}$ trend \text {[ppm/8yrs]}}}}{35}{subfigure.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\Delta $pCO$_{\text {2,non-thermal}}$ trend \text {[ppm/8yrs]}}}}{35}{subfigure.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Linear trends during the most positive 8-year sea-air CO$_2$ flux trend: (a) Ekman transport and (b) Ekman pumping; hatched areas indicate where trends are outside the 5\% significance level.\relax }}{36}{figure.caption.44}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Ekman transport trend \text {[m$^2$ s$^{-1}$/8yrs]}}}}{36}{subfigure.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Ekman pumping trend \text {[m s$^{-1}$/8yrs]}}}}{36}{subfigure.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Zonally averaged upper-ocean overturning circulation during the most positive 8-year sea-air CO$_2$ flux trend; black arrows show mean advective carbon transport, red arrows show advective carbon transport trends enforcing the upper-ocean overturning circulation; blue arrows show advective carbon transport trends weakening the upper-ocean overturning circulation; black numbers quantify the trends in advective carbon transport in PgC/8yrs; white lines are isopyncals as in \autoref {fig:UOOC_mean}; grey line is \ac {MLD} in the beginning and the black line MLD in the end of the period.\relax }}{37}{figure.caption.45}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Carbon advection trends \text {[PgC/8yrs]}}}}{37}{subfigure.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Southern Ocean austral summer trends during the most positive 8-year sea-air CO$_2$ flux trend: (a) \acf {INTPP}, (b) nutrient availability factor, (c) surface temperature \& limitation function, (d) \acf {MLD}, (e) average depth of vertical diffusivity due to wind and (f) phytoplankton average depth; hatched areas indicate where trends are outside the 5\% significance level.\relax }}{40}{figure.caption.46}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {INTPP trend \text {[kgCm$^{-2}$yr$^{-1}$/8yrs]}}}}{40}{subfigure.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Nutrient availability trend \text {[\%/8yrs]}}}}{40}{subfigure.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Light- \& temp. limitation trend \text {[\%/8yrs]}}}}{40}{subfigure.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\acf {MLD} \text {[m/8yrs]}}}}{40}{subfigure.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Wind mixing depth trend \text {[m/8yrs]}}}}{40}{subfigure.6.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Phytoplankton depth trend \text {[m/8yrs]}}}}{40}{subfigure.6.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Linear trends during the most negative monotonic 8-year air-sea CO$_2$ flux trend: (a) sea-air CO$_2$ flux, (b) $\Delta $pCO$_2$, (c) \ac {SLP} and wind vectors overlain as arrows and (d) \acf {SST}; hatched areas indicate where trends are outside the 5\% significance level.\relax }}{41}{figure.caption.47}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {CO$_2$ flux trend \text {[kgC m$^{-2}$yr$^{-1}$ /8yrs]}}}}{41}{subfigure.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\Delta $pCO$_2$ trend \text {[ppm/8yrs]}}}}{41}{subfigure.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\ac {SLP} and wind trends \text {[hPa/8yrs]}}}}{41}{subfigure.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\ac {SST} trend \text {[$^{\circ }$C/8yrs]}}}}{41}{subfigure.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Linear trends during the most negative monotonic 8-year sea-air CO$_2$ flux trend: (a) pCO$_{2,\text {thermal}}$ and (b) $\Delta $pCO$_{2,\text {non-thermal}}$; hatched areas indicate where trends are outside the 5\% significance level.\relax }}{42}{figure.caption.48}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {pCO$_{\text {2,thermal}}$ trend \text {[ppm/8yrs]}}}}{42}{subfigure.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\Delta $pCO$_{\text {2,non-thermal}}$ trend \text {[ppm/8yrs]}}}}{42}{subfigure.8.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Linear trends during the most negative 8-years sea-air CO$_2$ flux trend: (a) Ekman transport and (b) Ekman pumping; hatched areas indicate where trends are outside the 5\% significance level.\relax }}{43}{figure.caption.49}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Ekman transport trend \text {[m$^2$ s$^{-1}$/8yrs]}}}}{43}{subfigure.9.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Ekman pumping trend \text {[m s$^{-1}$/8yrs]}}}}{43}{subfigure.9.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Zonally averaged upper-ocean overturning circulation during the most negative 8-year sea-air CO$_2$ flux trend; black arrows show mean advective carbon transport, red arrows show advective carbon transport trends enforcing the upper-ocean overturning circulation; blue arrows show advective carbon transport trends weakening the upper-ocean overturning circulation; black numbers show the trends in advective carbon transport in PgC/8yrs; white lines are isopyncals as in \autoref {fig:UOOC_mean}; grey line is \ac {MLD} in the beginning and the black line MLD in the end of the period.\relax }}{44}{figure.caption.50}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Carbon advection trends \text {[PgC/8yrs]}}}}{44}{subfigure.10.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Southern Ocean austral summer trends during the most negative sea-air 8-year CO$_2$ flux trend: (a) vertically integrated primary production (INTPP), (b) nutrient availability factor, (c) surface temperature \& limitation function, (d) \acf {MLD}, (e) average depth of vertical diffusivity due to wind and (f) phytoplankton average depth; hatched areas indicate where trends are outside the 5\% significance level.\relax }}{46}{figure.caption.51}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {INTPP trend \text {[kgCm$^{-2}$yr$^{-1}$/8yrs]}}}}{46}{subfigure.11.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Nutrient availability trend \text {[\%/8yrs]}}}}{46}{subfigure.11.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Light- \& temp. limitation trend \text {[\%/8yrs]}}}}{46}{subfigure.11.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\acf {MLD} \text {[m/8yrs]}}}}{46}{subfigure.11.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Wind mixing depth trend \text {[m/8yrs]}}}}{46}{subfigure.11.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Phytoplankton depth trend \text {[m/8yrs]}}}}{46}{subfigure.11.6}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Schematic illustration of pCO$_2$ driver separation assuming a well-mixed zonal box, where changes in pCO$_{\text {2,ocean}}$ are separated into contributions due to sea-air CO$_2$ flux (red), thermal effect (orange), the saline effect (yellow), freshwater (light blue), biology (green) and a residual (dark blue)\relax }}{47}{figure.caption.52}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Schematic illustration of the Southern Ocean under the context of increasing westerly winds and response in the thermal effect, biology and upper-ocean circulation lead towards a positive sea-air CO$_2$ flux trend; red color-coding indicates a relative increase of the related quantity or process, whereas blue indicates a relative decrease. The grey line represents the \acf {MLD} in the beginning of the trend period, the black line the \acs {MLD} in the end of the trend period.\relax }}{54}{figure.caption.54}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Schematic illustration of the Southern Ocean under the context of decreasing westerly winds and response in the thermal effect, biology and upper-ocean circulation leading towards a negative sea-air CO$_2$ flux trend; red color-coding indicates a relative increase of the related quantity or process, grey indicates no changes and blue indicates a relative decrease. The grey line represents the \acf {MLD} in the beginning of the trend period, the black line the \acs {MLD} in the end of the trend period.\relax }}{56}{figure.caption.55}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A1}{\ignorespaces Annual CO$_2$ internal variability flux Southern Ocean in ensemble space and temporal space between 1980-2004: field sum over 35-90$^\circ $S (a) and in a random grid cell (b)\relax }}{51}{figure.caption.35}
+\contentsline {figure}{\numberline {A1}{\ignorespaces Propability distribution function of the annual sea-air CO$_2$ flux in the Southern Ocean in ensemble space and temporal space between 1980-2004: (a) field sum over 35-90$^\circ $S and (b) in a random grid cell.\relax }}{63}{figure.caption.56}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A2}{\ignorespaces Southern Ocean carbon sink trends per trendlength; * indicate the strongest 8-year and 10-year trends in \ac {SOM-FFN}\relax }}{52}{figure.caption.36}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Southern Ocean sea-air CO$_2$ flux \text {[PgC/yr]}}}}{63}{subfigure.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A3}{\ignorespaces Southern Ocean carbon sink trends per trendlength; corrected for forced trend\relax }}{53}{figure.caption.37}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Southern Ocean sea-air CO$_2$ flux of a single grid cell \text {[kgC m$^{-2}$s$^{-1}$]}}}}{63}{subfigure.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A4}{\ignorespaces Spatial distribution of the climatology of surface DIC (a) compared with GLODAPv2 data \citep {WOA2013} (b)\relax }}{54}{figure.caption.38}
+\contentsline {figure}{\numberline {A2}{\ignorespaces Southern Ocean carbon sink trends per trend length; * indicate the strongest 8-year and 10-year trends in \ac {SOM-FFN}\relax }}{64}{figure.caption.57}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A5}{\ignorespaces Spatial distribution of the climatological ensemble mean surface phosphate from 1980 to 2004 (a) compared with World Ocean Atlas (WOA) climatological data \citep {WOA2013} (b)\relax }}{54}{figure.caption.39}
+\contentsline {figure}{\numberline {A3}{\ignorespaces Southern Ocean carbon sink trends per trend length; corrected for forced trend\relax }}{65}{figure.caption.58}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A6}{\ignorespaces Spatial distribution of the ensemble mean climatology (1980-2004) of the sea-surface temperature (SST) (a) compared with WOCE climatology (b)\relax }}{54}{figure.caption.40}
+\contentsline {figure}{\numberline {A4}{\ignorespaces Spatial distribution of the climatology of surface \acf {DIC}: (a) \acs {MPI-ESM LE} climatology, (b) \acf {GLODAP} Version 2 climatology \citep {GLODAPv2}.\relax }}{66}{figure.caption.59}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A7}{\ignorespaces Linear austral summer trends in sea-surface temperature (SST) for the case of the most positive monotonic 8-year CO$_2$ flux trend; hatched areas indicate where trends are outside the 5\% significance level\relax }}{55}{figure.caption.41}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\acs {MPI-ESM} surface \acs {DIC} ensemble \text { } \text { } mean \text {[mmol C m$^{-3}$]}}}}{66}{subfigure.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A8}{\ignorespaces Linear austral summer trends in sea-surface temperature (SST) for the case of the most negative monotonic 8-year CO$_2$ flux trend; hatched areas indicate where trends are outside the 5\% significance level\relax }}{55}{figure.caption.42}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\acs {GLODAP}v2 surface \acs {DIC} mean \text { } \text { } \text { } \text { } \text { } \text { }\text {[mmol C m$^{-3}$]}}}}{66}{subfigure.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A9}{\ignorespaces Linear summer trends for the case of the most positive monotonic 8-year CO$_2$ flux trend; $\Delta $pCO$_2$ (a) and sea-level pressure \& winds (b); pCO$_{2,\text {thermal}}$ (c) and $\Delta $pCO$_{2,\text {non-thermal}}$ (d); hatched areas indicate where trends are outside the 5\% significance level\relax }}{56}{figure.caption.43}
+\contentsline {figure}{\numberline {A5}{\ignorespaces Spatial distribution of the climatology of surface phosphate: (a) \acs {MPI-ESM LE} climatology, (b) \acf {WOA} climatologicy \citep {WOA2013}.\relax }}{66}{figure.caption.61}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A10}{\ignorespaces Linear winter trends for the case of the most positive monotonic 8-year CO$_2$ flux trend; $\Delta $pCO$_2$ (a) and sea-level pressure \& wind vectors overlain as arrows (b); pCO$_{2,\text {thermal}}$ (c) and $\Delta $pCO$_{2,\text {non-thermal}}$ (d); hatched areas indicate where trends are outside the 5\% significance level\relax }}{57}{figure.caption.44}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\acs {MPI-ESM} surface phosphate ensemble \text { } \text { } mean \text {[mmol P m$^{-3}$]}}}}{66}{subfigure.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A11}{\ignorespaces Linear summer trends for the case of the most negative monotonic 8-year CO$_2$ flux trend; $\Delta $pCO$_2$ (a) and sea-level pressure \& wind vectors overlain as arrows (b); pCO$_{2,\text {thermal}}$ (c) and $\Delta $pCO$_{2,\text {non-thermal}}$ (d); hatched areas indicate where trends are outside the 5\% significance level\relax }}{58}{figure.caption.45}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\acs {WOA} surface phosphate mean \text { } \text { } \text { } \text { } \text { } \text { }\text {[mmol P m$^{-3}$]}}}}{66}{subfigure.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A12}{\ignorespaces Linear winter trends for the case of the most negative monotonic 8-year CO$_2$ flux trend; $\Delta $pCO$_2$ (a) and sea-level pressure \& wind vectors overlain as arrows (b); pCO$_{2,\text {thermal}}$ (c) and $\Delta $pCO$_{2,\text {non-thermal}}$ (d); hatched areas indicate where trends are outside the 5\% significance level\relax }}{59}{figure.caption.46}
+\contentsline {figure}{\numberline {A6}{\ignorespaces Spatial distribution of the climatology of \acf {SST}: (a) \acs {MPI-ESM LE} climatology, (b) WOCE climatology \citep {WOCE}.\relax }}{67}{figure.caption.62}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A13}{\ignorespaces Combined light- \& temperature limitation function for the average phytoplankton growth rate in HAMOCC\relax }}{60}{figure.caption.47}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\acs {MPI-ESM} \acs {SST} ensemble mean \text {[$^\circ $C]}}}}{67}{subfigure.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\acs {WOA} \acs {SST} mean \text {[$^\circ $C]}}}}{67}{subfigure.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A7}{\ignorespaces Linear trends in austral summer during the most positive monotonic 8-year air-sea CO$_2$ flux trend: (a) sea-air CO$_2$ flux, (b) $\Delta $pCO$_2$, (c) \ac {SLP} and wind vectors overlain as arrows, (d) \acf {SST}, (e) pCO$_{2,\text {thermal}}$ and (f) $\Delta $pCO$_{2,\text {non-thermal}}$; hatched areas indicate where trends are outside the 5\% significance level.\relax }}{68}{figure.caption.63}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {CO$_2$ flux trend \text {[kgC m$^{-2}$yr$^{-1}$ /8yrs]}}}}{68}{subfigure.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\Delta $pCO$_2$ trend \text {[ppm/8yrs]}}}}{68}{subfigure.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\ac {SLP} and wind trends \text {[hPa/8yrs]}}}}{68}{subfigure.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\ac {SST} trend \text {[$^{\circ }$C/8yrs]}}}}{68}{subfigure.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {pCO$_{\text {2,thermal}}$ trend \text {[ppm/8yrs]}}}}{68}{subfigure.7.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {$\Delta $pCO$_{\text {2,non-thermal}}$ trend \text {[ppm/8yrs]}}}}{68}{subfigure.7.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A8}{\ignorespaces Linear trends in austral winter during the most positive monotonic 8-year sea-air CO$_2$ flux trend: (a) sea-air CO$_2$ flux, (b) $\Delta $pCO$_2$, (c) \ac {SLP} and wind vectors overlain as arrows, (d) \acf {SST}, (e) pCO$_{2,\text {thermal}}$ and (f) $\Delta $pCO$_{2,\text {non-thermal}}$; hatched areas indicate where trends are outside the 5\% significance level.\relax }}{69}{figure.caption.64}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {CO$_2$ flux trend \text {[kgC m$^{-2}$yr$^{-1}$ /8yrs]}}}}{69}{subfigure.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\Delta $pCO$_2$ trend \text {[ppm/8yrs]}}}}{69}{subfigure.8.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\ac {SLP} and wind trends \text {[hPa/8yrs]}}}}{69}{subfigure.8.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\ac {SST} trend \text {[$^{\circ }$C/8yrs]}}}}{69}{subfigure.8.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {pCO$_{\text {2,thermal}}$ trend \text {[ppm/8yrs]}}}}{69}{subfigure.8.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {$\Delta $pCO$_{\text {2,non-thermal}}$ trend \text {[ppm/8yrs]}}}}{69}{subfigure.8.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A9}{\ignorespaces Linear trends in austral summer during the most negative monotonic sea-air 8-year CO$_2$ flux trend: (a) sea-air CO$_2$ flux, (b) $\Delta $pCO$_2$, (c) \ac {SLP} and wind vectors overlain as arrows, (d) \acf {SST}, (e) pCO$_{2,\text {thermal}}$ and (f) $\Delta $pCO$_{2,\text {non-thermal}}$; hatched areas indicate where trends are outside the 5\% significance level.\relax }}{70}{figure.caption.65}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {CO$_2$ flux trend \text {[kgC m$^{-2}$yr$^{-1}$ /8yrs]}}}}{70}{subfigure.9.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\Delta $pCO$_2$ trend \text {[ppm/8yrs]}}}}{70}{subfigure.9.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\ac {SLP} and wind trends \text {[hPa/8yrs]}}}}{70}{subfigure.9.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\ac {SST} trend \text {[$^{\circ }$C/8yrs]}}}}{70}{subfigure.9.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {pCO$_{\text {2,thermal}}$ trend \text {[ppm/8yrs]}}}}{70}{subfigure.9.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {$\Delta $pCO$_{\text {2,non-thermal}}$ trend \text {[ppm/8yrs]}}}}{70}{subfigure.9.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A10}{\ignorespaces Linear trends in austral winter during the most negative monotonic 8-year sea-air CO$_2$ flux trend: (a) sea-air CO$_2$ flux, (b) $\Delta $pCO$_2$, (c) \ac {SLP} and wind vectors overlain as arrows, (d) \acf {SST} (e) pCO$_{2,\text {thermal}}$ and (f) $\Delta $pCO$_{2,\text {non-thermal}}$; hatched areas indicate where trends are outside the 5\% significance level.\relax }}{71}{figure.caption.66}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {CO$_2$ flux trend \text {[kgC m$^{-2}$yr$^{-1}$ /8yrs]}}}}{71}{subfigure.10.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\Delta $pCO$_2$ trend \text {[ppm/8yrs]}}}}{71}{subfigure.10.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\ac {SLP} and wind trends \text {[hPa/8yrs]}}}}{71}{subfigure.10.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\ac {SST} trend \text {[$^{\circ }$C/8yrs]}}}}{71}{subfigure.10.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {pCO$_{\text {2,thermal}}$ trend \text {[ppm/8yrs]}}}}{71}{subfigure.10.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {$\Delta $pCO$_{\text {2,non-thermal}}$ trend \text {[ppm/8yrs]}}}}{71}{subfigure.10.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A11}{\ignorespaces Combined light- \& temperature limitation function for the average phytoplankton growth rate in HAMOCC\relax }}{72}{figure.caption.67}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Average phytoplankton growth rate factor \text {[d$^{-1}$]}}}}{72}{subfigure.11.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A12}{\ignorespaces Deffeyes diagram and process contributions\relax }}{72}{figure.caption.68}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {pCO$_{\text {2,ocean}}$(Alk, DIC, SST, SSS) \text {[ppm]}}}}{72}{subfigure.12.1}

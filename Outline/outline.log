@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.11.16)  28 MAR 2017 09:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2017.5.2)  29 MAY 2017 13:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -608,37 +608,65 @@ LaTeX Info: Redefining \cite on input line 694.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2009/09/02 v1.0a change counter resetting
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pinlabel/pinlabel.sty
+\psfc@a=\count162
+\psfc@b=\count163
+\psfc@c=\count164
+\psfc@d=\count165
+\psfc@e=\count166
+\psfc@f=\count167
+\psfc@g=\count168
+\psfc@h=\count169
+\psfc@i=\count170
+\psfc@j=\count171
+\psscale@count=\count172
+\psfigtoks@=\toks24
+\psfig@dimen=\dimen165
+\ps@stream=\read2
+\lab@stream=\read3
+\@linecount=\count173
+\maxheaderlines=\count174
+\label@box=\box54
+\x@lab=\dimen166
+\y@lab=\dimen167
+\x@aux=\dimen168
+\y@aux=\dimen169
+\hair=\dimen170
 ) (./outline.aux)
 \openout1 = `outline.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-\AtBeginShipoutBox=\box54
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+\AtBeginShipoutBox=\box55
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count162
-\scratchdimen=\dimen165
-\scratchbox=\box55
-\nofMPsegments=\count163
-\nofMParguments=\count164
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count165
-\MPscratchDim=\dimen166
-\MPnumerator=\count166
-\makeMPintoPDFobject=\count167
-\everyMPtoPDFconversion=\toks25
+\scratchcounter=\count175
+\scratchdimen=\dimen171
+\scratchbox=\box56
+\nofMPsegments=\count176
+\nofMParguments=\count177
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count178
+\MPscratchDim=\dimen172
+\MPnumerator=\count179
+\makeMPintoPDFobject=\count180
+\everyMPtoPDFconversion=\toks26
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -661,7 +689,7 @@ Dictionary: translator-basic-dictionary, Language: English
 (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2014/10/01 v2.6c siunitx: Abbreviated units
 )
-Package hyperref Info: Link coloring ON on input line 71.
+Package hyperref Info: Link coloring ON on input line 74.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -669,504 +697,177 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count168
+\c@section@level=\count181
 )
-LaTeX Info: Redefining \ref on input line 71.
-LaTeX Info: Redefining \pageref on input line 71.
-LaTeX Info: Redefining \nameref on input line 71.
+LaTeX Info: Redefining \ref on input line 74.
+LaTeX Info: Redefining \pageref on input line 74.
+LaTeX Info: Redefining \nameref on input line 74.
 
 (./outline.out) (./outline.out)
 \@outlinefile=\write3
 \openout3 = `outline.out'.
 
-\c__siunitx_mathsf_int=\count169
-\c__siunitx_mathtt_int=\count170
- (./outline.toc)
+\c__siunitx_mathsf_int=\count182
+\c__siunitx_mathtt_int=\count183
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./outline.toc)
 \tf@toc=\write4
 \openout4 = `outline.toc'.
 
- [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-Overfull \hbox (3.41702pt too wide) in paragraph at lines 129--131
- []\OT1/cmr/bx/n/12 listing MPI-ESM com-po-nents[] \OT1/cmr/m/n/12 The MPI-ESM 
-ver-sion 1.1.00p2 [][][][][] with a low-resolution
- []
+ [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 108.
 
 
-</home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf, id=167, 796.9775pt x 597.23125pt
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 108.
+ [3] [4]
+</home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf, id=176, 796.9775pt x 597.23125pt
 >
 File: /home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf Graphic file (type pdf)
  <use /home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf used on i
-nput line 134.
-(pdftex.def)             Requested size: 398.48776pt x 215.10634pt.
- [4
+nput line 142.
+(pdftex.def)             Requested size: 454.28189pt x 245.22437pt.
+ [5
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
 s been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.142 
-       </home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf>] [5]
-</home/mpim/m300524/MSc_Thesis/gfx/hamocc.png, id=243, 642.90187pt x 596.78629p
-t>
-File: /home/mpim/m300524/MSc_Thesis/gfx/hamocc.png Graphic file (type png)
- <use /home/mpim/m300524/MSc_Thesis/gfx/hamocc.png>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/hamocc.png used on i
-nput line 164.
-(pdftex.def)             Requested size: 257.15619pt x 238.71028pt.
- [6pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
+l.155 
+       </home/mpim/m300524/MSc_Thesis/gfx/MPIESM.pdf>] [6]
+</home/mpim/m300524/MSc_Thesis/gfx/HAMOCC_scheme_feedback_new.pdf, id=265, page
+=2, 722.7pt x 542.025pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/HAMOCC_scheme_feedback_new.pdf Graphic 
+file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/HAMOCC_scheme_feedback_new.pdf, page 2>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/HAMOCC_scheme_feedba
+ck_new.pdf, page2 used on input line 187.
+(pdftex.def)             Requested size: 464.35129pt x 414.7718pt.
+
+Overfull \hbox (9.10721pt too wide) in paragraph at lines 187--189
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7]
+
+LaTeX Warning: Text page 8 contains only floats.
+
+
+Overfull \vbox (3.26393pt too high) has occurred while \output is active []
+
+
+[8pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.196 
+       </home/mpim/m300524/MSc_Thesis/gfx/HAMOCC_scheme_feedback_new.pdf>]
+[9] [10] [11] [12
+
+] [13] [14]
+Overfull \hbox (1.4196pt too wide) in paragraph at lines 393--395
+ []\OT1/cmr/bx/n/12 Spatial vari-abil-ity com-par-i-son to ob-ser-va-tional dat
+a[] \OT1/cmr/m/n/12 The observation-based SOM-
+ []
+
+[15
+
+]
+</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf, id
+=521, page=1, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
+f Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
+, page 1>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
+intpp_ens_t1990s.pdf, page1 used on input line 401.
+(pdftex.def)             Requested size: 409.43425pt x 140.55629pt.
+
+</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf, id
+=523, page=2, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
+f Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
+, page 2>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
+intpp_ens_t1990s.pdf, page2 used on input line 402.
+(pdftex.def)             Requested size: 409.43425pt x 140.55629pt.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 415.
+
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 415.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 415.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 415.
+
+[16pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.171 
-       </home/mpim/m300524/MSc_Thesis/gfx/hamocc.png>] [7] [8]
+l.416 
+       </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.
+pdf> </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
+f>]
 </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015_tre
-nd_8.pdf, id=311, 614.295pt x 794.97pt>
+nd_8.pdf, id=544, page=2, 614.295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_201
 5_trend_8.pdf Graphic file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015
-_trend_8.pdf>
+_trend_8.pdf, page 2>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeserie
-s_ymjm_35S_1980_2015_trend_8.pdf used on input line 221.
+s_ymjm_35S_1980_2015_trend_8.pdf, page2 used on input line 421.
 (pdftex.def)             Requested size: 212.67079pt x 437.23485pt.
- [9
-
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
-s been already used, duplicate ignored
+ [17pdfTeX warning (ext4): destination with the same identifier (name{figure.4}
+) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.237 \paragraph
-                {transition to process understanding in spatial view; afterw...
- </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015_tr
-end_8.pdf>] [10]
-</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf, id
-=340, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
-f Graphic file (type pdf)
+l.433 
+       </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2
+015_trend_8.pdf>] [18]
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
->
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
-intpp_ens_t1990s.pdf used on input line 260.
-(pdftex.def)             Requested size: 409.43425pt x 140.55629pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
-f Graphic file (type pdf)
+Package natbib Warning: Citation `Sallee2008' on page 19 undefined on input lin
+e 463.
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
->
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
-intpp_ens_t1990s.pdf used on input line 261.
-(pdftex.def)             Requested size: 409.43425pt x 160.47308pt.
 
-</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf, id=343, 614.
+</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf, id=594, 614.
 295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_
-t1990s.pdf used on input line 262.
-(pdftex.def)             Requested size: 409.43425pt x 140.55629pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-</home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, id=345, page=1, 845.1575pt x 597.2
-3125pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf Graphic file (type pdf)
- <use /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page 1>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page1 used
- on input line 271.
-(pdftex.def)             Requested size: 402.66093pt x 208.9889pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[11
-
-] [12pdfTeX warning (ext4): destination with the same identifier (name{figure.4
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.286 \clearpage
-                 </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_e
-ns_t1990s.pdf> </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pd
-f>] [13pdfTeX warning (ext4): destination with the same identifier (name{figure
-.5}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.286 \clearpage
-                 </home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf>]
-</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetze
-r_overview.pdf, id=390, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 302.
-(pdftex.def)             Requested size: 127.2409pt x 160.24629pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 303.
-(pdftex.def)             Requested size: 159.05054pt x 157.62808pt.
-
-</home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, id=397, page=5, 845.1575p
-t x 597.23125pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf Graphic file (type pd
-f)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, page 5>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, p
-age5 used on input line 313.
-(pdftex.def)             Requested size: 292.53342pt x 176.29332pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 319.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 319.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 319.
-
-
-</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overvie
-w_summer.pdf, id=405, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 330.
-(pdftex.def)             Requested size: 232.62817pt x 129.061pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 331.
-(pdftex.def)             Requested size: 232.62817pt x 113.12779pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 332.
-(pdftex.def)             Requested size: 232.62817pt x 109.14359pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 333.
-(pdftex.def)             Requested size: 232.62817pt x 113.12717pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 334.
-(pdftex.def)             Requested size: 232.62817pt x 115.1196pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 335.
-(pdftex.def)             Requested size: 232.62817pt x 111.136pt.
-
-</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpunkt_
-mixing_overview.pdf, id=412, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerp
-unkt_mixing_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpu
-nkt_mixing_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 336.
-(pdftex.def)             Requested size: 133.58542pt x 110.11195pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerp
-unkt_mixing_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpu
-nkt_mixing_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 338.
-(pdftex.def)             Requested size: 150.65698pt x 110.11195pt.
-
-Overfull \hbox (12.62335pt too wide) in paragraph at lines 330--339
-[][] []
- []
-
-
-Overfull \hbox (12.62335pt too wide) in paragraph at lines 330--339
-[] []
- []
-
-
-Overfull \hbox (12.62335pt too wide) in paragraph at lines 330--339
-[] []
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[14
-
-pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
-s been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.355 \paragraph
-                {concentration increase of intpp at 40s due to advection/ekm...
- </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetz
-er_overview.pdf>] [15pdfTeX warning (ext4): destination with the same identifie
-r (name{figure.7}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.359 \clearpage
-                 </home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf>]
-
-LaTeX Warning: Text page 16 contains only floats.
-
-
-Overfull \vbox (0.24516pt too high) has occurred while \output is active []
-
-
-[16pdfTeX warning (ext4): destination with the same identifier (name{figure.8})
- has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.359 \clearpage
-                 </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_tre
-nd_8_obgc_overview_summer.pdf> </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_199
-2_positive_trend_8_schwerpunkt_mixing_overview.pdf>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 363.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 363.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 363.
-
-
-</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_overvi
-ew.pdf, id=470, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_o
-verview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_ov
-erview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_ekman_overview.pdf used on input line 370.
-(pdftex.def)             Requested size: 165.2528pt x 110.62392pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_o
-verview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_ov
-erview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
-ive_trend_8_ekman_overview.pdf used on input line 371.
-(pdftex.def)             Requested size: 165.2528pt x 96.96686pt.
-
-</home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, id=474, page=2, 845.1575pt x 597.2
-3125pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf Graphic file (type pdf)
- <use /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page 2>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page2 used
- on input line 382.
-(pdftex.def)             Requested size: 322.12383pt x 167.18857pt.
- [17
-
-pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) ha
-s been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.400 \clearpage
-                pdfTeX warning (ext4): destination with the same identifier (na
-me{figure.10}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.400 \clearpage
-                 </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_tre
-nd_8_ekman_overview.pdf> </home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf>]
-</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetze
-r_overview.pdf, id=504, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 414.
-(pdftex.def)             Requested size: 127.2409pt x 160.24629pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
-uetzer_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
-etzer_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_Landschuetzer_overview.pdf used on input line 415.
-(pdftex.def)             Requested size: 174.95656pt x 173.39185pt.
-
-</home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, id=507, page=9, 845.1575p
-t x 597.23125pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf Graphic file (type pd
-f)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, page 9>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, p
-age9 used on input line 423.
-(pdftex.def)             Requested size: 329.10289pt x 198.33167pt.
- [18
-
-pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) h
-as been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.430 \clearpage
-                pdfTeX warning (ext4): destination with the same identifier (na
-me{figure.12}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.430 \clearpage
-                 </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_tre
-nd_8_Landschuetzer_overview.pdf> </home/mpim/m300524/MSc_Thesis/gfx/SO_schemati
-cs.pdf>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 432.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 432.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 432.
-
-
-</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overvie
-w_summer.pdf, id=535, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 444.
-(pdftex.def)             Requested size: 232.62817pt x 129.061pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 445.
-(pdftex.def)             Requested size: 232.62817pt x 113.12779pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 446.
-(pdftex.def)             Requested size: 232.62817pt x 109.14359pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 447.
-(pdftex.def)             Requested size: 232.62817pt x 113.12717pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 448.
-(pdftex.def)             Requested size: 232.62817pt x 115.1196pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
-erview_summer.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
-rview_summer.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_obgc_overview_summer.pdf used on input line 449.
-(pdftex.def)             Requested size: 232.62817pt x 111.136pt.
-
-</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerpunkt_
-mixing_overview.pdf, id=542, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerp
-unkt_mixing_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerpu
-nkt_mixing_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 450.
-(pdftex.def)             Requested size: 133.58542pt x 110.11195pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerp
-unkt_mixing_overview.pdf Graphic file (type pdf)
-
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerpu
-nkt_mixing_overview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 452.
-(pdftex.def)             Requested size: 150.65698pt x 110.11195pt.
-
-Overfull \hbox (12.62335pt too wide) in paragraph at lines 444--453
-[][] []
- []
-
-
-Overfull \hbox (12.62335pt too wide) in paragraph at lines 444--453
-[] []
- []
-
-
-Overfull \hbox (12.62335pt too wide) in paragraph at lines 444--453
-[] []
- []
+t1990s.pdf used on input line 471.
+(pdftex.def)             Requested size: 406.5888pt x 137.71129pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf Graphic 
+file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_
+t1990s.pdf used on input line 472.
+(pdftex.def)             Requested size: 406.5888pt x 137.71086pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1174,255 +875,1184 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [19
 
 ]
+</home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015_tre
+nd_8.pdf, id=624, page=4, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_201
+5_trend_8.pdf Graphic file (type pdf)
 
-LaTeX Warning: Text page 20 contains only floats.
+<use /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015
+_trend_8.pdf, page 4>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeserie
+s_ymjm_35S_1980_2015_trend_8.pdf, page4 used on input line 493.
+(pdftex.def)             Requested size: 212.67079pt x 437.23485pt.
 
 
-Overfull \vbox (0.24516pt too high) has occurred while \output is active []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[20pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.503 \clearpage
+                 </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_slp_ens_t1990s.
+pdf>] [21pdfTeX warning (ext4): destination with the same identifier (name{figu
+re.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.503 \clearpage
+                 </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_
+35S_1980_2015_trend_8.pdf>] [22
+
+]
+</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf, id
+=681, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pd
+f Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.pdf
+>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_
+intpp_ens_t1990s.pdf used on input line 525.
+(pdftex.def)             Requested size: 491.31984pt x 192.5672pt.
+
+Overfull \hbox (36.07576pt too wide) in paragraph at lines 525--526
+ [][] 
+ []
 
 
-[20pdfTeX warning (ext4): destination with the same identifier (name{figure.13}
+</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, id=683,
+ page=3, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf Gra
+phic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, pag
+e 3>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient
+_comparison.pdf, page3 used on input line 532.
+(pdftex.def)             Requested size: 459.2722pt x 196.8655pt.
+
+Overfull \hbox (4.02812pt too wide) in paragraph at lines 532--533
+ [][] 
+ []
+
+[23pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.541 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+8}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.541 
+       </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_co2flux_intpp_ens_t1990s.
+pdf> </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf>]
+</home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015_tre
+nd_8.pdf, id=722, page=3, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_201
+5_trend_8.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_35S_1980_2015
+_trend_8.pdf, page 3>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeserie
+s_ymjm_35S_1980_2015_trend_8.pdf, page3 used on input line 559.
+(pdftex.def)             Requested size: 232.00557pt x 476.98569pt.
+
+Overfull \hbox (21.74161pt too wide) in paragraph at lines 559--560
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[24] [25pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.9}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.567 \clearpage
+                 </home/mpim/m300524/MSc_Thesis/gfx/co2flux_SO_timeseries_ymjm_
+35S_1980_2015_trend_8.pdf>]
+Overfull \hbox (6.5625pt too wide) in paragraph at lines 587--587
+[]\OT1/cmr/bx/n/12 a 
+ []
+
+
+Overfull \hbox (15.50002pt too wide) in paragraph at lines 587--587
+[] 
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, id=760, page=4, 845.1575pt x 597.2
+3125pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf Graphic file (type pdf)
+ <use /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page 4>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page4 used
+ on input line 588.
+(pdftex.def)             Requested size: 402.66093pt x 208.9889pt.
+
+</home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, id=762, page=1, 845.1575pt x 597.2
+3125pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf Graphic file (type pdf)
+ <use /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page 1>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page1 used
+ on input line 591.
+(pdftex.def)             Requested size: 402.66093pt x 208.9889pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[26
+
+] [27pdfTeX warning (ext4): destination with the same identifier (name{figure.1
+0}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.612 
+       </home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf> </home/mpim/m300524/MSc_The
+sis/gfx/UOOC.pdf>]
+</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, id=831, pa
+ge=1, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf Graphi
+c file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, page 1
+>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_co
+mparison.pdf, page1 used on input line 622.
+(pdftex.def)             Requested size: 459.2722pt x 196.8655pt.
+
+Overfull \hbox (4.02812pt too wide) in paragraph at lines 622--623
+ [][] 
+ []
+
+[28pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.468 \clearpage
-                 </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_tre
-nd_8_obgc_overview_summer.pdf> </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_200
-2_positive_trend_8_schwerpunkt_mixing_overview.pdf>]
+l.634 \clearpage
+                 </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_compariso
+n.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 470.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 470.
+(hyperref)                removing `math shift' on input line 636.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 470.
+(hyperref)                removing `subscript' on input line 636.
 
 
-</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_overvi
-ew.pdf, id=574, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_o
-verview.pdf Graphic file (type pdf)
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 636.
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_ov
-erview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_ekman_overview.pdf used on input line 477.
-(pdftex.def)             Requested size: 220.33849pt x 147.49951pt.
-File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_o
-verview.pdf Graphic file (type pdf)
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_ov
-erview.pdf>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
-ive_trend_8_ekman_overview.pdf used on input line 478.
-(pdftex.def)             Requested size: 220.33849pt x 129.28996pt.
+Underfull \hbox (badness 10000) in paragraph at lines 646--647
 
-</home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, id=578, page=3, 845.1575pt x 597.2
-3125pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf Graphic file (type pdf)
- <use /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page 3>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page3 used
- on input line 490.
-(pdftex.def)             Requested size: 402.66093pt x 208.9889pt.
- [21
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/EGU_new_SAM_Scatter_trends_bands_ensanom_co2
+flux_vs_SAM_n1800_1980_1997_trend8.pdf, id=861, page=1, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/EGU_new_SAM_Scatter_trends_bands_ensano
+m_co2flux_vs_SAM_n1800_1980_1997_trend8.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/EGU_new_SAM_Scatter_trends_bands_ensanom
+_co2flux_vs_SAM_n1800_1980_1997_trend8.pdf, page 1>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/EGU_new_SAM_Scatter_
+trends_bands_ensanom_co2flux_vs_SAM_n1800_1980_1997_trend8.pdf, page1 used on i
+nput line 652.
+(pdftex.def)             Requested size: 234.59233pt x 322.08438pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[29
+
+] [30pdfTeX warning (ext4): destination with the same identifier (name{figure.1
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.668 \clearpage
+                 </home/mpim/m300524/MSc_Thesis/gfx/EGU_new_SAM_Scatter_trends_
+bands_ensanom_co2flux_vs_SAM_n1800_1980_1997_trend8.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 676--677
+
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetze
+r_overview.pdf, id=894, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
+uetzer_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
+etzer_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_Landschuetzer_overview.pdf used on input line 684.
+(pdftex.def)             Requested size: 222.84224pt x 162.52266pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
+uetzer_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
+etzer_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_Landschuetzer_overview.pdf used on input line 685.
+(pdftex.def)             Requested size: 226.75436pt x 162.52223pt.
+ [31
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.695 \clearpage
+                 </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_tre
+nd_8_Landschuetzer_overview.pdf>]
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
+uetzer_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
+etzer_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_Landschuetzer_overview.pdf used on input line 707.
+(pdftex.def)             Requested size: 472.99944pt x 170.26167pt.
+
+Overfull \hbox (17.75536pt too wide) in paragraph at lines 707--708
+ [][] 
+ []
+
+[32
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) h
 as been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.499 \clearpage
-                pdfTeX warning (ext4): destination with the same identifier (na
-me{figure.15}) has been already used, duplicate ignored
+l.714 \clearpage
+                ]
+</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_overvi
+ew.pdf, id=946, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_o
+verview.pdf Graphic file (type pdf)
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.499 \clearpage
-                 </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_tre
-nd_8_ekman_overview.pdf> </home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf>]
-</home/mpim/m300524/MSc_Thesis/gfx/Scatter_trends_bands_ensanom_co2flux_vs_SAM_
-n1800_1980_1997_trend8_50-59S.pdf, id=613, page=1, 614.295pt x 794.97pt>
-File: /home/mpim/m300524/MSc_Thesis/gfx/Scatter_trends_bands_ensanom_co2flux_vs
-_SAM_n1800_1980_1997_trend8_50-59S.pdf Graphic file (type pdf)
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_ov
+erview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_ekman_overview.pdf used on input line 726.
+(pdftex.def)             Requested size: 230.62279pt x 131.60767pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_o
+verview.pdf Graphic file (type pdf)
 
-<use /home/mpim/m300524/MSc_Thesis/gfx/Scatter_trends_bands_ensanom_co2flux_vs_
-SAM_n1800_1980_1997_trend8_50-59S.pdf, page 1>
-Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Scatter_trends_bands
-_ensanom_co2flux_vs_SAM_n1800_1980_1997_trend8_50-59S.pdf, page1 used on input 
-line 509.
-(pdftex.def)             Requested size: 358.30301pt x 450.91617pt.
- [22
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_ekman_ov
+erview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_ekman_overview.pdf used on input line 727.
+(pdftex.def)             Requested size: 220.3087pt x 117.16833pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) h
+</home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, id=949, page=2, 845.1575pt x 597.2
+3125pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf Graphic file (type pdf)
+ <use /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page 2>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page2 used
+ on input line 736.
+(pdftex.def)             Requested size: 460.14331pt x 229.88907pt.
+
+Overfull \hbox (4.89923pt too wide) in paragraph at lines 736--738
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[33
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) h
 as been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.516 \clearpage
-                 </home/mpim/m300524/MSc_Thesis/gfx/Scatter_trends_bands_ensano
-m_co2flux_vs_SAM_n1800_1980_1997_trend8_50-59S.pdf>] [23
+l.746 \clearpage
+                 </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_tre
+nd_8_ekman_overview.pdf>] [34pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.16}) has been already used, duplicate ignored
 
-]
-Overfull \hbox (16.23889pt too wide) in paragraph at lines 527--528
- []\OT1/cmr/bx/n/12 on com-par-i-son bi-ol-ogy pa-per[] \OT1/cmr/m/n/12 Iron-hy
-pothesis [[][]Mar-tin[][], [][]1990[][]] doesnt ap-ply to HAMOCC;
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.746 \clearpage
+                 </home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 755--758
+
  []
 
+[35
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 768--770
+
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overvie
+w_summer.pdf, id=1047, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 777.
+(pdftex.def)             Requested size: 227.1676pt x 131.56561pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 778.
+(pdftex.def)             Requested size: 227.1676pt x 128.15143pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 779.
+(pdftex.def)             Requested size: 227.1676pt x 128.15141pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 780.
+(pdftex.def)             Requested size: 227.1676pt x 127.01361pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 781.
+(pdftex.def)             Requested size: 227.1676pt x 130.42778pt.
+
+</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpunkt_
+mixing_overview.pdf, id=1053, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerp
+unkt_mixing_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpu
+nkt_mixing_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 782.
+(pdftex.def)             Requested size: 227.1676pt x 129.28996pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerp
+unkt_mixing_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_schwerpu
+nkt_mixing_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 783.
+(pdftex.def)             Requested size: 227.1676pt x 129.28996pt.
+
+Overfull \hbox (1.70221pt too wide) in paragraph at lines 777--784
+[][] []
+ []
+
+
+Overfull \hbox (1.70221pt too wide) in paragraph at lines 777--784
+[] []
+ []
+
+
+Overfull \hbox (1.70221pt too wide) in paragraph at lines 777--784
+[] []
+ []
+
+
+LaTeX Warning: Float too large for page by 10.4269pt on input line 787.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[36] [37pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.17}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.791 \clearpage
+                 </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_tre
+nd_8_obgc_overview_summer.pdf> </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_199
+2_positive_trend_8_schwerpunkt_mixing_overview.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 798--799
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 802--804
+
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetze
+r_overview.pdf, id=1084, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
+uetzer_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
+etzer_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_Landschuetzer_overview.pdf used on input line 812.
+(pdftex.def)             Requested size: 222.84224pt x 162.52266pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
+uetzer_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
+etzer_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_Landschuetzer_overview.pdf used on input line 813.
+(pdftex.def)             Requested size: 226.75436pt x 162.52223pt.
+ [38
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.818 \clearpage
+                 </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_tre
+nd_8_Landschuetzer_overview.pdf>]
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
+uetzer_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
+etzer_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_Landschuetzer_overview.pdf used on input line 829.
+(pdftex.def)             Requested size: 472.99944pt x 170.26167pt.
+
+Overfull \hbox (17.75536pt too wide) in paragraph at lines 829--830
+ [][] 
+ []
+
+[39
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.19}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.839 \clearpage
+                ]
+</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_overvi
+ew.pdf, id=1124, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_o
+verview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_ov
+erview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_ekman_overview.pdf used on input line 849.
+(pdftex.def)             Requested size: 230.62279pt x 131.60767pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_o
+verview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_ekman_ov
+erview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_ekman_overview.pdf used on input line 850.
+(pdftex.def)             Requested size: 220.3087pt x 117.16833pt.
+
+</home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, id=1127, page=3, 845.1575pt x 597.
+23125pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf Graphic file (type pdf)
+ <use /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page 3>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf, page3 used
+ on input line 859.
+(pdftex.def)             Requested size: 460.14331pt x 239.27861pt.
+
+Overfull \hbox (4.89923pt too wide) in paragraph at lines 859--862
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[40
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.20}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.870 \clearpage
+                 </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_tre
+nd_8_ekman_overview.pdf>] [41pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.21}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.870 \clearpage
+                 </home/mpim/m300524/MSc_Thesis/gfx/UOOC.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 881--884
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 891--895
+
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overvie
+w_summer.pdf, id=1187, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 900.
+(pdftex.def)             Requested size: 227.1676pt x 131.56561pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 901.
+(pdftex.def)             Requested size: 227.1676pt x 128.15143pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 902.
+(pdftex.def)             Requested size: 227.1676pt x 128.15141pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 903.
+(pdftex.def)             Requested size: 227.1676pt x 127.01361pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_summer.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_summer.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_summer.pdf used on input line 904.
+(pdftex.def)             Requested size: 227.1676pt x 130.42778pt.
+
+</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerpunkt_
+mixing_overview.pdf, id=1193, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerp
+unkt_mixing_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerpu
+nkt_mixing_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 905.
+(pdftex.def)             Requested size: 227.1676pt x 129.28996pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerp
+unkt_mixing_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_schwerpu
+nkt_mixing_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_schwerpunkt_mixing_overview.pdf used on input line 906.
+(pdftex.def)             Requested size: 227.1676pt x 129.28996pt.
+
+Overfull \hbox (1.70221pt too wide) in paragraph at lines 900--907
+[][] []
+ []
+
+
+Overfull \hbox (1.70221pt too wide) in paragraph at lines 900--907
+[] []
+ []
+
+
+Overfull \hbox (1.70221pt too wide) in paragraph at lines 900--907
+[] []
+ []
+
+
+LaTeX Warning: Float too large for page by 9.76021pt on input line 910.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[42
+
+] [43pdfTeX warning (ext4): destination with the same identifier (name{figure.2
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.914 \clearpage
+                 </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_tre
+nd_8_obgc_overview_summer.pdf> </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_200
+2_positive_trend_8_schwerpunkt_mixing_overview.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 915.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 915.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 915.
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/co2sep.pdf, id=1220, page=2, 845.1575pt x 59
+7.23125pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/co2sep.pdf Graphic file (type pdf)
+ <use /home/mpim/m300524/MSc_Thesis/gfx/co2sep.pdf, page 2>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/co2sep.pdf, page2 us
+ed on input line 926.
+(pdftex.def)             Requested size: 344.34033pt x 234.58383pt.
+ [44
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.23}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.932 
+       </home/mpim/m300524/MSc_Thesis/gfx/co2sep.pdf>] [45] [46] [47
+
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
+ been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1025 
+       ]
+</home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, id=1292, page=15, 845.157
+5pt x 597.23125pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf Graphic file (type pd
+f)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, page 15>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, p
+age15 used on input line 1029.
+(pdftex.def)             Requested size: 438.38145pt x 323.46646pt.
+ [48pdfTeX warning (ext4): destination with the same identifier (name{figure.24
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1039 T
+        he three distinct CO$_2$ flux responses from chapter \ref{sec:trends...
+ </home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf>]
+</home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, id=1308, page=16, 845.157
+5pt x 597.23125pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf Graphic file (type pd
+f)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, page 16>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf, p
+age16 used on input line 1045.
+(pdftex.def)             Requested size: 438.38145pt x 323.46646pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[49] [50pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.25}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1053 \clearpage
+                  </home/mpim/m300524/MSc_Thesis/gfx/SO_schematics.pdf>]
+Overfull \hbox (2.88364pt too wide) in paragraph at lines 1064--1065
+[]\OT1/cmr/m/n/12 Comparing quan-ti-ta-tively, the mod-eled in-ter-nal vari-abi
+l-ity with-out pre-scribed pCO$[]$
+ []
+
+[51
+
+] [52] (./outline.bbl
 Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
-[24
+Missing character: There is no ¶ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¶ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+ [53
 
-] [25
-
-] (./outline.bbl
+] [54]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [26
-
-] [27] [28]
-Underfull \hbox (badness 1721) in paragraph at lines 260--267
+ [55] [56]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+ [57] [58]
+Underfull \hbox (badness 1721) in paragraph at lines 455--462
 []\OT1/cmr/m/n/12 N. S. Loven-duski and N. Gru-ber.  Im-pact of the south-ern a
 n-nu-lar mode on
  []
 
+[59]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ¶ in font cmr12!
-[29]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¶ in font cmr12!
- [30]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
- [31]
+ [60] [61]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
-) [32] (./outline.lof [33
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¶ in font cmr12!
+ [62] [63]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no ï in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+ [64]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+) [65] (./outline.lof [66
 
-]
-Overfull \hbox (1.04161pt too wide) in paragraph at lines 17--17
+] [67] [68] [69]
+Overfull \hbox (1.04161pt too wide) in paragraph at lines 26--26
  [][] [][][]\OT1/cmr/m/n/12 Southern Ocean car-bon sink: yearmean field-sum 35-
 90S (left) and yearmean 
  []
 
-)
+[70])
 \tf@lof=\write5
 \openout5 = `outline.lof'.
 
- [34]
-</home/mpim/m300524/MSc_Thesis/gfx/SOCS_temporal_gaussian.png, id=885, 532.9912
-6pt x 437.34526pt>
+ [71]
+</home/mpim/m300524/MSc_Thesis/gfx/SOCS_temporal_gaussian.png, id=1753, 532.991
+26pt x 437.34526pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/SOCS_temporal_gaussian.png Graphic file
  (type png)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/SOCS_temporal_gaussian.png>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/SOCS_temporal_gaussi
-an.png used on input line 581.
+an.png used on input line 1102.
 (pdftex.def)             Requested size: 213.19272pt x 174.935pt.
 
-</home/mpim/m300524/MSc_Thesis/gfx/SOCS_spatial_gaussian.png, id=886, 533.74406
-pt x 433.62pt>
+</home/mpim/m300524/MSc_Thesis/gfx/SOCS_spatial_gaussian.png, id=1754, 533.7440
+6pt x 433.62pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/SOCS_spatial_gaussian.png Graphic file 
 (type png)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/SOCS_spatial_gaussian.png>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/SOCS_spatial_gaussia
-n.png used on input line 582.
+n.png used on input line 1103.
 (pdftex.def)             Requested size: 213.49384pt x 173.44492pt.
+ [72
 
-</home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf, id=887, 614.
-295pt x 794.97pt>
+pdfTeX warning (ext4): destination with the same identifier (name{figure.A.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1109 \clearpage
+                  </home/mpim/m300524/MSc_Thesis/gfx/SOCS_temporal_gaussian.png
+ (PNG copy)> </home/mpim/m300524/MSc_Thesis/gfx/SOCS_spatial_gaussian.png (PNG 
+copy)>]
+</home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf, id=1760, 614
+.295pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf Graphic 
 file (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-t
-rended.pdf used on input line 588.
-(pdftex.def)             Requested size: 278.4263pt x 466.89673pt.
+rended.pdf used on input line 1113.
+(pdftex.def)             Requested size: 409.50545pt x 547.14513pt.
 
-</home/mpim/m300524/MSc_Thesis/gfx/heatmap_de-ens-trended.pdf, id=889, 614.295p
-t x 794.97pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/heatmap_de-ens-trended.pdf, id=1762, 614.295
+pt x 794.97pt>
 File: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_de-ens-trended.pdf Graphic file
  (type pdf)
 
 <use /home/mpim/m300524/MSc_Thesis/gfx/heatmap_de-ens-trended.pdf>
 Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/heatmap_de-ens-trend
-ed.pdf used on input line 589.
-(pdftex.def)             Requested size: 278.42628pt x 466.89673pt.
-
-Overfull \hbox (11.65265pt too wide) in paragraph at lines 588--590
-[][]
- []
-
-
-Overfull \hbox (11.65265pt too wide) in paragraph at lines 588--590
-[]
- []
-
-
-LaTeX Warning: Float too large for page by 13.84471pt on input line 592.
+ed.pdf used on input line 1121.
+(pdftex.def)             Requested size: 409.50545pt x 547.14513pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 595.
-[35
+[73
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.17}) h
-as been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.595 \end{document}
-                     </home/mpim/m300524/MSc_Thesis/gfx/SOCS_temporal_gaussian.
-png (PNG copy)> </home/mpim/m300524/MSc_Thesis/gfx/SOCS_spatial_gaussian.png (P
-NG copy)>] [36pdfTeX warning (ext4): destination with the same identifier (name
-{figure.18}) has been already used, duplicate ignored
+] [74pdfTeX warning (ext4): destination with the same identifier (name{figure.A
+.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.595 \end{document}
-                     </home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-tren
-ded.pdf> </home/mpim/m300524/MSc_Thesis/gfx/heatmap_de-ens-trended.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 595.
+l.1128 \clearpage
+                  </home/mpim/m300524/MSc_Thesis/gfx/heatmap_not_de-ens-trended
+.pdf>] [75pdfTeX warning (ext4): destination with the same identifier (name{fig
+ure.A.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1128 \clearpage
+                  </home/mpim/m300524/MSc_Thesis/gfx/heatmap_de-ens-trended.pdf
+>]
+</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, id=1784
+, page=2, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf Gra
+phic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, pag
+e 2>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient
+_comparison.pdf, page2 used on input line 1132.
+(pdftex.def)             Requested size: 459.2722pt x 196.8655pt.
+
+Overfull \hbox (4.02812pt too wide) in paragraph at lines 1132--1133
+ [][] 
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, id=1790
+, page=1, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf Gra
+phic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.pdf, pag
+e 1>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient
+_comparison.pdf, page1 used on input line 1141.
+(pdftex.def)             Requested size: 459.2722pt x 196.8655pt.
+
+Overfull \hbox (4.02812pt too wide) in paragraph at lines 1141--1142
+ [][] 
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, id=1796, p
+age=2, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf Graphi
+c file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparison.pdf, page 2
+>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_co
+mparison.pdf, page2 used on input line 1148.
+(pdftex.def)             Requested size: 459.2722pt x 196.8655pt.
+
+Overfull \hbox (4.02812pt too wide) in paragraph at lines 1148--1149
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[76
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.A.4}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1153 \clearpage
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{figure.A.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1153 \clearpage
+                  </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_compa
+rison.pdf> </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_nutrient_comparison.p
+df>] [77pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.A.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1153 \clearpage
+                  </home/mpim/m300524/MSc_Thesis/gfx/Overview_SO_MPIOM_comparis
+on.pdf>]
+</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_overvie
+w_winter.pdf, id=1816, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ov
+erview_winter.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_obgc_ove
+rview_winter.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_obgc_overview_winter.pdf used on input line 1157.
+(pdftex.def)             Requested size: 227.1676pt x 129.28996pt.
+
+</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_overvie
+w_winter.pdf, id=1818, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ov
+erview_winter.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_obgc_ove
+rview_winter.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_obgc_overview_winter.pdf used on input line 1164.
+(pdftex.def)             Requested size: 227.1676pt x 129.28996pt.
+ [78
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.A.7}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1170 \clearpage
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{figure.A.8}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1170 \clearpage
+                  </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_tr
+end_8_obgc_overview_winter.pdf> </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_20
+02_positive_trend_8_obgc_overview_winter.pdf>]
+</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetze
+r_summer_overview.pdf, id=1831, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
+uetzer_summer_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
+etzer_summer_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_Landschuetzer_summer_overview.pdf used on input line 1175.
+(pdftex.def)             Requested size: 162.28198pt x 139.57712pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
+uetzer_summer_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
+etzer_summer_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_Landschuetzer_summer_overview.pdf used on input line 1176.
+(pdftex.def)             Requested size: 218.3098pt x 145.96834pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
+uetzer_summer_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
+etzer_summer_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_Landschuetzer_summer_overview.pdf used on input line 1177.
+(pdftex.def)             Requested size: 463.86337pt x 147.04355pt.
+
+Overfull \hbox (8.6193pt too wide) in paragraph at lines 1175--1178
+ [] 
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschuetze
+r_winter_overview.pdf, id=1835, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
+uetzer_winter_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
+etzer_winter_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_Landschuetzer_winter_overview.pdf used on input line 1184.
+(pdftex.def)             Requested size: 162.28198pt x 139.57712pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
+uetzer_winter_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
+etzer_winter_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_Landschuetzer_winter_overview.pdf used on input line 1185.
+(pdftex.def)             Requested size: 218.3098pt x 145.96834pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landsch
+uetzer_winter_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_trend_8_Landschu
+etzer_winter_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_posit
+ive_trend_8_Landschuetzer_winter_overview.pdf used on input line 1186.
+(pdftex.def)             Requested size: 463.86337pt x 147.04355pt.
+
+Overfull \hbox (8.6193pt too wide) in paragraph at lines 1184--1187
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[79
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.A.9}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1191 \clearpage
+                  </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_tr
+end_8_Landschuetzer_summer_overview.pdf>] [80pdfTeX warning (ext4): destination
+ with the same identifier (name{figure.A.10}) has been already used, duplicate 
+ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1191 \clearpage
+                  </home/mpim/m300524/MSc_Thesis/gfx/m178_1985_1992_positive_tr
+end_8_Landschuetzer_winter_overview.pdf>]
+</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetze
+r_summer_overview.pdf, id=1860, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
+uetzer_summer_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
+etzer_summer_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_Landschuetzer_summer_overview.pdf used on input line 1195.
+(pdftex.def)             Requested size: 162.28198pt x 139.57712pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
+uetzer_summer_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
+etzer_summer_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_Landschuetzer_summer_overview.pdf used on input line 1196.
+(pdftex.def)             Requested size: 218.3098pt x 145.96834pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
+uetzer_summer_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
+etzer_summer_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_Landschuetzer_summer_overview.pdf used on input line 1197.
+(pdftex.def)             Requested size: 463.86337pt x 147.04355pt.
+
+Overfull \hbox (8.6193pt too wide) in paragraph at lines 1195--1198
+ [] 
+ []
+
+
+</home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschuetze
+r_winter_overview.pdf, id=1864, 614.295pt x 794.97pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
+uetzer_winter_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
+etzer_winter_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_Landschuetzer_winter_overview.pdf used on input line 1204.
+(pdftex.def)             Requested size: 162.28198pt x 139.57712pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
+uetzer_winter_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
+etzer_winter_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_Landschuetzer_winter_overview.pdf used on input line 1205.
+(pdftex.def)             Requested size: 218.3098pt x 145.96834pt.
+File: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landsch
+uetzer_winter_overview.pdf Graphic file (type pdf)
+
+<use /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_trend_8_Landschu
+etzer_winter_overview.pdf>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_posit
+ive_trend_8_Landschuetzer_winter_overview.pdf used on input line 1206.
+(pdftex.def)             Requested size: 463.86337pt x 147.04355pt.
+
+Overfull \hbox (8.6193pt too wide) in paragraph at lines 1204--1207
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[81
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.A.11})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1211 \clearpage
+                  </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_tr
+end_8_Landschuetzer_summer_overview.pdf>] [82pdfTeX warning (ext4): destination
+ with the same identifier (name{figure.A.12}) has been already used, duplicate 
+ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1211 \clearpage
+                  </home/mpim/m300524/MSc_Thesis/gfx/m143_1995_2002_positive_tr
+end_8_Landschuetzer_winter_overview.pdf>]
+</home/mpim/m300524/MSc_Thesis/gfx/lighttemplimf.png, id=1887, 507.39563pt x 31
+9.62712pt>
+File: /home/mpim/m300524/MSc_Thesis/gfx/lighttemplimf.png Graphic file (type pn
+g)
+ <use /home/mpim/m300524/MSc_Thesis/gfx/lighttemplimf.png>
+Package pdftex.def Info: /home/mpim/m300524/MSc_Thesis/gfx/lighttemplimf.png us
+ed on input line 1215.
+(pdftex.def)             Requested size: 405.23424pt x 255.70203pt.
+
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1221.
+[83
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.A.13})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1221 \end{document}
+                      </home/mpim/m300524/MSc_Thesis/gfx/lighttemplimf.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1221.
 
 (./outline.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 595.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 595.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1221.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1221.
+
 Package rerunfilecheck Info: File `outline.out' has not changed.
-(rerunfilecheck)             Checksum: 70D2C3876CD75A5A4DFB5421ACE64F04;1411.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 595.
+(rerunfilecheck)             Checksum: 984E865B4AE5F8F6F4FA8DE201BB96AB;399.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1221.
  ) 
 Here is how much of TeX's memory you used:
- 15890 strings out of 494404
- 310823 string characters out of 6163652
- 358025 words of memory out of 5000000
- 18809 multiletter control sequences out of 15000+600000
- 13804 words of font info for 52 fonts, out of 8000000 for 9000
+ 16608 strings out of 494404
+ 326054 string characters out of 6163654
+ 386757 words of memory out of 5000000
+ 19375 multiletter control sequences out of 15000+600000
+ 15724 words of font info for 59 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
- 37i,11n,39p,10462b,911s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,13n,39p,10462b,1010s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
-2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on outline.pdf (36 pages, 16807704 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on outline.pdf (83 pages, 38786096 bytes).
 PDF statistics:
- 991 PDF objects out of 1000 (max. 8388607)
- 838 compressed objects within 9 object streams
- 188 named destinations out of 1000 (max. 500000)
- 474 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2018 PDF objects out of 2073 (max. 8388607)
+ 1705 compressed objects within 18 object streams
+ 315 named destinations out of 1000 (max. 500000)
+ 646 words of extra memory for PDF output out of 10000 (max. 10000000)
 

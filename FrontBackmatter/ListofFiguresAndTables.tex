@@ -12,8 +12,8 @@
 	\section{\listfigurename}     
     %\phantomsection 
     \refstepcounter{dummy}
-    %\addcontentsline{toc}{section}{\listfigurename}
- %   \pdfbookmark[1]{\listfigurename}{lof}
+    \addcontentsline{toc}{section}{\listfigurename}
+    \pdfbookmark[1]{\listfigurename}{lof}
     \listoffigures
 
     \vspace{8ex}
@@ -21,14 +21,14 @@
     %*******************************************************
     % List of Tables
     %*******************************************************
-%	\section{\listtablename}     
+	\section{\listtablename}     
     %\phantomsection 
- %   \refstepcounter{dummy}
-    %\addcontentsline{toc}{section}{\listtablename}
-  %  \pdfbookmark[1]{\listtablename}{lot}
-  %  \listoftables
+    \refstepcounter{dummy}
+    \addcontentsline{toc}{section}{\listtablename}
+    \pdfbookmark[1]{\listtablename}{lot}
+    \listoftables
         
- %   \vspace{8ex}
+    \vspace{8ex}
 %   \newpage
     
     %*******************************************************
@@ -36,10 +36,10 @@
     %*******************************************************      
 %	\section{\lstlistlistingname}     
       %\phantomsection 
- %   \refstepcounter{dummy}
+    %\refstepcounter{dummy}
     %\addcontentsline{toc}{section}{\lstlistlistingname}
     %\addcontentsline{toc}{chapter}{\lstlistlistingname}
- %   \pdfbookmark[1]{\lstlistlistingname}{lol}
+    %\pdfbookmark[1]{\lstlistlistingname}{lol}
     %\lstlistoflistings 
 
  %   \vspace{8ex}
@@ -48,14 +48,44 @@
     % Acronyms
     %*******************************************************
     %\phantomsection 
-%    \refstepcounter{dummy}
-    %\pdfbookmark[1]{Acronyms}{acronyms}
-    %\markboth{\spacedlowsmallcaps{Acronyms}}{\spacedlowsmallcaps{Acronyms}}
-    %\chapter*{Acronyms}
-    %\begin{acronym}[UMLX]
-    %    \acro{DRY}{Don't Repeat Yourself}
-    %    \acro{API}{Application Programming Interface}
-    %    \acro{UML}{Unified Modeling Language}
-    %\end{acronym}                     
+    \refstepcounter{dummy}
+    \pdfbookmark[1]{Acronyms}{acronyms}
+    \markboth{\spacedlowsmallcaps{Acronyms}}{\spacedlowsmallcaps{Acronyms}}
+    \chapter*{Acronyms}
+    \begin{acronym}[UMLX]
+        \acro{MPI}{Max Planck Institute for Meteorology Hamburg}
+        \acro{HAMOCC}{HAMburg Ocean Carbon Cycle Model}
+        \acro{ECHAM}{European Center for Medium Range Weather Forecasts HAMburg}
+        \acro{MPIOM}{Max Planck Institute Ocean Model}
+        \acro{ESM}{Earth System Model}
+        \acro{MPI-ESM}{Max Planck Institute-Earth System Model}
+        \acro{MPI-ESM LE}{Max Planck Institute-Earth System Model Large Ensemble}
+        \acro{CMIP5}{Coupled Model Intercomparison Project 5}
+        \acro{CESM}{Community Earth System Model}
+        \acro{LE}{Large Ensemble}
+        \acro{NCAR}{National Center for Atmospheric Research}% in Boulder, Colorado, USA}
+        \acro{NCEP}{National Centers for Environmental Prediction}
+        \acro{GFDL}{Geophysical Fluid Dynamics Laboratory}% at Princeton University, USA}
+        \acro{NOAA}{National Oceanic and Atmospheric Administration}
+        \acro{WOA}{World Ocean Atlas}
+        \acro{RCP}{Representative Concentration Pathway}
+        \acro{SAM}{Southern Annular Mode}
+        \acro{ENSO}{El Ni\~{n}o-Southern Oscillation}
+        \acro{DIC}{dissolved inorganic carbon}
+        \acro{DOC}{dissolved organic carbon}
+        \acro{INTPP}{integrated primary production}
+        \acro{SST}{sea-surface temperature}
+        \acro{MLD}{mixed-layer depth}
+        \acro{SLP}{sea-level pressure}   
+        \acro{ACC}{Antarctic Circumpolar Current}
+        \acro{SAMW}{Sub-Antarctic Mode Water}
+        \acro{AAIW}{Antarctic Intermediate Water}
+        \acro{AABW}{Antarctic Bottom Water}
+        \acro{CDW}{Circumpolar Deep Water}
+        \acro{NPZD}{NPZD models simulate the interactions of the four variables nutrients (N), phytoplankton (P), zooplankton (Z) and detritus (D).}        
+        \acro{SOCAT}{Surface Ocean Atlas}
+        \acro{GLODAP}{Global Ocean Data Analysis Project}
+        \acro{SOM-FFN}{Self-Organizing Map-Feed-Forward Network}
+    \end{acronym}                     
 \endgroup
 

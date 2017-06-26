@@ -9,18 +9,24 @@
 % of the postcards I received so far is available online at 
 % http://postcards.miede.de
 % ****************************************************************************************************
-
+%Continuous v. per-chapter/section numbering of figures, tables, and other document elements
+\usepackage{chngcntr}
+%\counterwithin{figure}{chapter}
+%\counterwithin{figure}{section}
 % ****************************************************************************************************
 % 0. Set the encoding of your files. UTF-8 is the only sensible encoding nowadays. If you can't read
 % äöüßáéçèê∂åëæƒÏ€ then change the encoding setting in your editor, not the line below. If your editor
 % does not support utf8 use another editor!
 % ****************************************************************************************************
 \PassOptionsToPackage{utf8}{inputenc}
-	\usepackage{inputenc}
+\usepackage{inputenc}
 
 %\newcommand{\member}{m105_1994_2001}
-%\newcommand{\member}{m178_1985_1992} % zweitbesten
-\newcommand{\member}{m182_1988_1995} %funktioniert am besten
+\newcommand{\memberpositive}{m178_1985_1992}
+%\newcommand{\memberpositive}{m182_1988_1995} 
+\newcommand{\membernegative}{m143_1995_2002}
+%\allowdisplaybreaks
+\usepackage{stackengine}
 
 % ****************************************************************************************************
 % 1. Configure classicthesis for your needs here, e.g., remove "drafting" below 
@@ -43,24 +49,24 @@
 % ****************************************************************************************************
 % 2. Personal data and user ad-hoc commands
 % ****************************************************************************************************
-\newcommand{\myTitle}{The impact of biology on decadal internal variability of the Southern Ocean carbon sink\xspace}
+\newcommand{\myTitle}{{Decadal variations} \\ {of the Southern Ocean carbon sink} \\{in 100 historical MPI-ESM ensemble simulations}\xspace}
 \newcommand{\myName}{Aaron Spring\xspace}
 \newcommand{\myProf}{Prof. Dr. Norbert Frank\xspace}
 \newcommand{\mySecondProf}{Dr. Tatiana Ilyina\xspace}
-\newcommand{\mySecondProfInstitution}{Max-Planck-Institute for Meteorology, Hamburg, Ocean Biogeochemistry \xspace}
+\newcommand{\mySecondProfInstitution}{Max Planck Institute for Meteorology, Hamburg, \\ {Marine Biogeochemistry} \xspace}
 \newcommand{\mySupervisor}{Dr. Tatiana Ilyina\xspace}
-\newcommand{\myFaculty}{Faculty of Physics and Astronomy\xspace}
+\newcommand{\myFaculty}{Department of Physics and Astronomy\xspace}
 \newcommand{\myFacultyGerman}{Fakultät für Physik und Astronomie\xspace}
 \newcommand{\myDepartment}{Environmental Physics\xspace}
 \newcommand{\myDepartmentGerman}{Umweltphysik\xspace}
-\newcommand{\myUni}{Ruprecht-Karls-University Heidelberg\xspace}
+\newcommand{\myUni}{University of Heidelberg\xspace}
 \newcommand{\myUniGerman}{Ruprecht-Karls-Universität Heidelberg\xspace}
 \newcommand{\myLocation}{Heidelberg\xspace}
 \newcommand{\myTime}{June 2017\xspace}
 \newcommand{\myThesisYear}{2017}
 \newcommand{\myBirthday}{14 February 1990\xspace}
 \newcommand{\myBirthdayGerman}{14. Februar 1990\xspace}
-\newcommand{\myBirthplace}{Frankfurt\xspace}
+\newcommand{\myBirthplace}{Frankfurt/Main\xspace}
 
 \newcommand{\myVersion}{version 0.1\xspace}
 
@@ -70,10 +76,10 @@
 \newcounter{dummy} % necessary for correct hyperlinks (to index, bib, etc.)
 \newlength{\abcd} % for ab..z string length calculation
 \providecommand{\mLyX}{L\kern-.1667em\lower.25em\hbox{Y}\kern-.125emX\@}
-\newcommand{\ie}{i.\,e.}
-\newcommand{\Ie}{I.\,e.}
-\newcommand{\eg}{e.\,g.}
-\newcommand{\Eg}{E.\,g.} 
+\newcommand{\ie}{i.\,e.\,}
+\newcommand{\Ie}{I.\,e.\,}
+\newcommand{\eg}{e.\,g.\,}
+\newcommand{\Eg}{E.\,g.\,} 
 % ****************************************************************************************************
 
 
@@ -89,18 +95,29 @@
 	\usepackage{babel}                  
 
 %\usepackage[square]{natbib}
+
+%\bibpunct{(}{)}{;}{authoryear}{,}{;}
+
+
+
 \usepackage{csquotes}
 \PassOptionsToPackage{%
     %backend=biber, %instead of bibtex
 	backend=bibtex8,bibencoding=ascii,%
 	language=auto,%
-	%style=numeric-comp,%
-    style=authoryear-comp, % Author 1999, 2010
-    %bibstyle=authoryear, %dashed=false, % dashed: substitute rep. author with ---
-	%citestyle=authoryear-comp,    
+	%style=authoryearbrak,%
+	maxnames=2,
+%	hyperref=true,
+	url=false,isbn=false,
+    %citestyle=authoryear,%-comp, % Author 1999, 2010
+	%citestyle=authoryear,
+	%sortcites = true,
+    bibstyle=authoryear,dashed=false, % dashed: substitute rep. author with ---
+	citestyle=authoryear,%-comp,    
+	%citestyle=chicago-authordate,
     sorting=nyt, % name, year, title
     maxbibnames=10, % default: 3, et al.
-    %backref=true,%
+    backref=true,% 
     natbib=true % natbib compatibility mode (\citep and \citet still work)
 }{biblatex}
     \usepackage{biblatex}
@@ -120,11 +137,11 @@
 \usepackage{mparhack} % get marginpar right
 \usepackage{fixltx2e} % fixes some LaTeX stuff --> since 2015 in the LaTeX kernel (see below)
 %\usepackage[latest]{latexrelease} % will be used once available in more distributions (ISSUE #107)
-%\PassOptionsToPackage{printonlyused,smaller}{acronym} 
-%    \usepackage{acronym} % nice macros for handling all acronyms in the thesis
-    %\renewcommand{\bflabel}[1]{{#1}\hfill} % fix the list of acronyms --> no longer working
-    %\renewcommand*{\acsfont}[1]{\textsc{#1}} 
-%    \renewcommand*{\aclabelfont}[1]{\acsfont{#1}}
+\PassOptionsToPackage{printonlyused,smaller}{acronym} 
+    \usepackage{acronym} % nice macros for handling all acronyms in the thesis
+%    \renewcommand{\bflabel}[1]{{#1}\hfill} % fix the list of acronyms --> no longer working
+    \renewcommand*{\acsfont}[1]{\textsc{#1}} 
+    \renewcommand*{\aclabelfont}[1]{\acsfont{#1}}
 % ****************************************************************************************************
 
 
@@ -142,7 +159,8 @@
 %\DeclareCaptionLabelFormat{smallcaps}{\bothIfFirst{#1}{~}\MakeTextLowercase{\textsc{#2}}}
 %\captionsetup{font=small,labelformat=smallcaps} % format=hang,
 \captionsetup{font=small} % format=hang,
-\usepackage{subfig}  
+\usepackage[position=top]{subfig}  %https://texblog.org/2014/01/23/sub-caption-above-subfigures-and-subtables/
+\captionsetup[subfigure]{justification=justified,singlelinecheck=false} %https://tex.stackexchange.com/questions/152692/left-align-captions-with-respect-to-subfigure#152695
 % ****************************************************************************************************
 
 
@@ -221,13 +239,14 @@
 \@ifpackageloaded{babel}%
     {%
        \addto\extrasamerican{%
-			\renewcommand*{\figureautorefname}{Figure}%
-			\renewcommand*{\tableautorefname}{Table}%
+			\renewcommand*{\figureautorefname}{fig.}%
+			\renewcommand*{\tableautorefname}{tab.}%
 			\renewcommand*{\partautorefname}{Part}%
-			\renewcommand*{\chapterautorefname}{Chapter}%
-			\renewcommand*{\sectionautorefname}{Section}%
-			\renewcommand*{\subsectionautorefname}{Section}%
-			\renewcommand*{\subsubsectionautorefname}{Section}%     
+			\renewcommand*{\chapterautorefname}{ch.}%
+			\renewcommand*{\sectionautorefname}{sec.}%
+			\renewcommand*{\subsectionautorefname}{sec.}%
+			\renewcommand*{\subsubsectionautorefname}{sec.}% 
+			\renewcommand*{\equationautorefname}{eq.}%    
                 }%
        \addto\extrasngerman{% 
 			\renewcommand*{\paragraphautorefname}{Absatz}%
@@ -270,7 +289,7 @@
 % ********************************************************************
 % Changing the text area
 % ********************************************************************
-%\linespread{1.05} % a bit more for Palatino
+\linespread{1.05} % a bit more for Palatino
 %\areaset[current]{312pt}{761pt} % 686 (factor 2.2) + 33 head + 42 head \the\footskip
 %\setlength{\marginparwidth}{7em}%
 %\setlength{\marginparsep}{2em}%

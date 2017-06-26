@@ -1,7 +1,63 @@
 %************************************************
-\chapter{Conclusion and Summary}\label{ch:summary} % $\mathbb{ZNR}$
+%\chapter{Summary and conclusions} % $\mathbb{ZNR}$
+\chapter{Summary, Conclusions and Outlook} \label{ch:conclusions}% $\mathbb{ZNR}$
 %************************************************
 
-MPI-ESM large ensemble simulations produces internal variability of the Southern Ocean carbon sink including decreasing decadal carbon sink trends over the past decades, which were seen in observations. Decreasing carbon sink trends are accompanied by intensified winds as in previous studies \citep{LeQuere2007,Lovenduski2008}. The changes in circulation induce a different response to biology as in previous studies\citep{Lovenduski2005,Hauck2013,wang2012}, which is mainly attributed to differences in nutrient availability. Our results suggest that increasing winds not only enhance upwelling of carbon-rich waters, but also decrease water column stability which inhibits primary production. An overall decrease in primary production decreases the Southern Ocean carbon sink. 
+%zusammenfassen und heftig verlinken und zitieren
+%\paragraph{Summary} %and internal variability value $\pm$X; make sure research questions are answered}
+% explicit revisiting research questions
+To assess decadal internal variability of the Southern Ocean sea-air CO$_2$ flux, I analyzed the large ensemble of 100 \acl{MPI-ESM} simulations (\acs{MPI-ESM LE}) in the historical period from 1980 to 2004, for which the observational sea-air CO$_2$ flux product \acf{SOM-FFN} is available. I summarize this thesis by revisiting the research questions posed in the introduction.\newline %and conclude
+
+\textit{What is the modeled internal variability of the Southern Ocean carbon sink?}\\
+
+I estimate the modeled decadal internal variability to $\sigma_{DIV}\sim\pm0.19$ PgC/yr/decade (\autoref{fig:evolution_southern_ocean_carbon_sink}, \ref{fig:SOCS_temporal_gaussian-a}). Compared to the 1980-2004 mean sea-air CO$_2$ flux south of 35$^\circ$S of $\sim-1.15$ PgC/yr, decadal internal variability $\sigma_{DIV}$ amounts to $\sim12\%$. In addition, internal variability dominates over the forced signal of $\sim-0.14$ PgC/yr/decade and is hence crucial in evaluating changes in the Southern Ocean carbon sink. %This magnitude suggests that internal variability might be able to oppress the anthropogenic climate change signal of two decades in the Southern Ocean, which is in-line with the emergence of the anthropogenic climate change signal in the certain areas Southern Ocean carbon sink in \acs{CESM} \acs{LE} after 20 years \citep{McKinley2016}. 
+
+The area at 50-60$^\circ$S holds the largest decadal variability (\autoref{fig:SOCS_ensmean_ensstd-b}) and dominates the overall Southern Ocean CO$_2$ flux trend (\autoref{ch:trends}). \acs{MPI-ESM LE} contains decadal trends of sea-air CO$_2$ flux of the same magnitude of $\sim+0.5$ PgC/yr/decade and $\sim-0.7$ PgC/yr/decade but less monotonic behavior as suggested by observations \citep{landschuetzer2015} (\autoref{fig:heatmap}).  
+The same monotonic behavior as observations is found in 8-year trends of $\sim+0.5$ PgC/yr/8yrs and $\sim-0.6$ PgC/yr/8yrs (\autoref{fig:evolution_southern_ocean_carbon_sink}). The underlying source and responses in the carbon sink are analogous on decadal and multi-year time-scale. \newline
+
+\textit{What are the sources of this internal variability?}\\
+
+I investigate the sources of internal variability as the origins which trigger internally varying responses of CO$_2$ flux from thermal, physical and biological processes. The major source is the variability in strength and position of westerly winds. I find two distinct wind-driven regimes in the area of at 50-60$^\circ$S with the largest internal variability of sea-air CO$_2$ flux (\autoref{fig:scatter}): 
+
+On the one hand stronger and southward-shifting westerly winds associated with a positive trend in the \acf{SAM} reduce the Southern Ocean carbon sink. On the other hand weakening and northward-shifting westerly winds lead to an increase in the Southern Ocean carbon sink.\newline
+
+\textit{What are the contributions of different processes to multi-year trends in sea-air CO$_2$ flux in the Southern Ocean?}\\
+
+%atm sst circ bio
+The increasing atmospheric pCO$_{\text{2,atm}}$ drives the sea-air CO$_2$ flux trends towards a more CO$_2$ uptake state, whereas oceanic pCO$_{\text{2,ocean}}$ is susceptible to internally varying processes:
+
+For intensifying and southward shifting westerly winds, \acf{SST} cooling drives pCO$_{\text{2,ocean}}$ decrease (\autoref{sec:trends_pos_thermal}). Cooling and deeper wind-mixing reduce primary production, which increases pCO$_{\text{2,ocean}}$ (\autoref{sec:trends_pos_biology}). These responses are dominated by a process that cannot be accounted for directly and is likely the increased upper-ocean overturning circulation, which enhances outgas-sing of deep waters and overall weakens the Southern Ocean carbon sink (summarizing \autoref{fig:schematics_pos}). %(\autoref{ch:pCO2separation}). 
+
+Vice versa, for weaker and northward-shifting westerly winds the trends in the different processes reverse. Decreasing upwelling and increased primary production result in little oceanic pCO$_{\text{2,ocean}}$ decrease, and only combined with the strong atmospheric pCO$_{\text{2,atm}}$ increase the Southern Ocean carbon sink increases (summarizing \autoref{fig:schematics_neg}).\newline %[how deep should the summary of processes go? now its shallow! should I talk about thermal, bio and circulation explicitly - I already evaluate the processes in the chapter right before!]\newline
+
+\vspace{.5cm}
+
+%\paragraph{Comparability to observations}
+\label{sec:conlcusions}
+What can be learned from this large ensemble simulation about the Southern Ocean carbon sink? 
+
+While \acs{MPI-ESM LE} aims to capture model spread due to internal variability and not reproduce CO$_2$ flux trends suggested by observations in the first place, I find that perturbed initial conditions large ensemble simulations are capable of capturing decadal internal variations similar to observations; even though other ensembles such as from \acs{GFDL} or \acs{NCAR} do not and this only applies for the most extreme decadal trends in \acs{MPI-ESM LE}.
+
+Forcing \acs{MPI-ESM} with historical CO$_2$ emissions instead of prescribed pCO$_{\text{2,atm}}$ increases internal variability of the global carbon sink by 25\% \citep{Ilyina2013}. Therefore, in an emission-driven \acs{ESM} configuration with interactive carbon cycle, the internal variability of the Southern Ocean carbon sink could be an even higher $\sigma_{DIV}$. 
+
+The strong trends discussed in this thesis originate in strong changes of the position and strength of Southern hemisphere westerly winds and effect of those on ocean circulation. However, the parametrized eddies in \acs{MPI-ESM LE} might allow deeper mixing to sustain on longer time-scales than the seasonal timescale at which the eddies would counteract those trends \citep{Thompson2011}. The impact of eddies on the carbon cycle in high-resolution simulations, especially in the Southern Ocean, is under current research \citep{Ito2010,Dufour2013,Gnanadesikan2015,Meredith2016}. Only a variable definition of isopyncal thickness diffusion could parametrize the expected eddy response from high-resolution simulations \citep{Gent2011}. \cite{Lovenduski2013} reproduce these increasing eddy fluxes and the response to the carbon cycle, but the general challenge of differing ocean circulation patterns remains and makes a comparison between a high-resolution resolved eddies and low-resolution parametrized eddies impossible \citep{Bryan2014}. %transition to outlook
+A future possible high-resolution perturbed initial conditions ensemble simulations would give a more realistic representation of internal variability.\newline
 
 
+
+%\paragraph{Outlook: observational focus on Southern Ocean}  
+% new obs, and missing model variability
+This thesis suggests that even though decadal variations are captured, decadal trends as in \cite{landschuetzer2015} are rare and raise the question whether biogeochemical processes are missing or implemented in overestimated robustness. From an observational perspective, the historically under-sampled Southern Ocean now got equipped with ARGO floats, including 200 floats with biogeochemical sensors. This permits accurate in-situ measurements for the first time during austral winter months and even under ice making it possible to build and constrain biogeochemical models to primary production in melt ponds or under thinning sea-ice. Most models lack this potentially additional variable contribution to the oceanic carbon sink \citep{Long2015,Williams2017,Horvat2017}.
+
+%on modeling physical challenges
+The Southern Ocean water-column is very susceptible to density changes. Modeling the Southern Ocean where different water masses converge, faces long-standing challenges with water-column stability. Open-ocean convection appears in models although not observed for decades \citep{deLavergne2014,Stoessel2015}. Sea-ice is underestimated in \acs{MPI-ESM} \citep{Jungclaus2013,Notz2013}. Additional freshwater input from icebergs would stratify the high-latitude Southern Ocean and thereby hinder open-ocean convection and excessive winter mixing \citep{Sallee2013,Stoessel2015}. A higher-resolution atmosphere would introduce oceanic counter gyres in the Weddell and Ross Sea, which push the sea-ice edge to more realistic and northern extent \citep{Stoessel2015}. Introducing these developments to \acs{MPI-ESM} would benefit the biogeochemical representation in \acs{HAMOCC}.\newline
+
+%, there is a need for an increasing amount of measurements to understand the Southern Ocean dynamics and biogeochemical properties. The recent ARGO data and the newly deployed biogeochemical floats currently advance the basis for understanding in the Southern Ocean. %Elevating  numbers of in-situ measurements help to overcome the current challenges in Southern Ocean modeling \citep{Sallee2013,Sallee2013a,Jungclaus2013,deLavergne2014,Haumann2014,Stoessel2015,Haumann2016}.   
+%no strong finnish :(
+\label{sec:outlook}
+%\paragraph{Outlook: large ensemble variability modeling}
+The history of large ensemble simulations with perturbed initial conditions is fairly recent. The attempt to study internal variability with \acs{MPI-ESM LE} gives first insights into internal variability from many realizations of simulations. A further interesting project would be the comparison of different perturbed initial conditions large ensembles based on different models, \ie comparing \acs{CESM} \acs{LE}, \acs{GFDL} \acs{LE} and \acs{MPI-ESM LE}. 
+
+All in all it becomes increasingly important to understand internal varying processes in our climate system in the case of global CO$_2$ emission reductions, when CO$_2$ reduction efforts are tracked by measurements and evaluated by scientists and politicians \citep{Hawkins2009,McKinley2016,Lovenduski2016,Marotzke2017}.\newline
+
+%geiler schlusssatz
